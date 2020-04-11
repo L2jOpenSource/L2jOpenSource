@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+
+
+<list maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Periel Sword -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15829" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Periel Sword -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15830" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Periel Sword -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15831" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Skull Edge -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15832" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Skull Edge -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15833" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Skull Edge -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15834" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Vigwik Axe -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15835" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Vigwik Axe -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15836" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Vigwik Axe -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15837" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Devilish Maul -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15838" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Devilish Maul -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15839" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Devilish Maul -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15840" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Feather Eye Blade -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15841" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Feather Eye Blade -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15842" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Feather Eye Blade -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15843" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Octo Claw -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15844" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Octo Claw -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15845" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Octo Claw -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15846" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Doubletop Spear -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15847" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Doubletop Spear -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15848" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Doubletop Spear -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15849" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Rising Star -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15850" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Rising Star -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15851" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Rising Star -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15852" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Black Visage -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15853" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Black Visage -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15854" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Black Visage -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15855" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Veniplant Sword -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15856" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Veniplant Sword -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15857" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Veniplant Sword -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15858" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Skull Carnium Bow -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15859" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Skull Carnium Bow -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15860" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Skull Carnium Bow -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15861" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Gemtail Rapier -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15862" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Gemtail Rapier -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15863" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Gemtail Rapier -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15864" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Finale Blade -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15865" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Finale Blade -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15866" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Finale Blade -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15867" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Dominion Crossbow -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15868" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Dominion Crossbow -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15869" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Dominion Crossbow -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="15870" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Periel Dual Sword -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="16154" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Skull Edge Dual Daggers -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="16152" count="1" enchantmentLevel="25" />
+	</item>
+
+
+</list>

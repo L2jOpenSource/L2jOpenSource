@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="config" maxOccurs="unbounded"
+					minOccurs="0">
+					<xs:complexType>
+						<xs:simpleContent>
+							<xs:extension base="xs:string">
+								<xs:attribute type="xs:boolean" name="ENABLED" use="optional" />
+								<xs:attribute type="xs:boolean" name="DAILY" use="optional" />
+								<xs:attribute type="xs:byte" name="DURATION" use="optional" />
+								<xs:attribute type="xs:byte" name="NOTIFY_DELAY" use="optional" />
+								<xs:attribute type="xs:byte" name="DAY" use="optional" />
+								<xs:attribute type="xs:byte" name="HOUR" use="optional" />
+								<xs:attribute type="xs:byte" name="MINUTE" use="optional" />
+								<xs:attribute type="xs:integer" name="RANDOM_MINUTE" use="optional" />
+							</xs:extension>
+						</xs:simpleContent>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

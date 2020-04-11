@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- Fantasy Isle -->
+	<spawn zone="fantasy_isle">
+		<npc id="4317" x="-57388" y="-54785" z="-2008" heading="55472" respawnDelay="60" />	<!-- Photo Snow -->
+		<npc id="4318" x="-58015" y="-53375" z="-2008" heading="43828" respawnDelay="60" />	<!-- Photo Snow -->
+		<npc id="4319" x="-55347" y="-56519" z="-2008" heading="39053" respawnDelay="60" />	<!-- Photo Snow -->
+		<npc id="4320" x="-55560" y="-58525" z="-2008" heading="16384" respawnDelay="60" />	<!-- Photo Snow -->
+		<npc id="4321" x="-59110" y="-59139" z="-2024" heading="16384" respawnDelay="60" />	<!-- Photo Snow -->
+		<npc id="4322" x="-61822" y="-59510" z="-2016" heading="0" respawnDelay="60" />	<!-- Photo Snow -->
+		<npc id="4323" x="-61155" y="-57755" z="-2008" heading="0" respawnDelay="60" />	<!-- Photo Snow -->
+		<npc id="32378" x="-59234" y="-56897" z="-2032" heading="0" respawnDelay="60" />	<!-- Fantasy Isle Paddies -->
+		<npc id="4315" x="-59234" y="-56825" z="-2039" heading="65275" respawnDelay="60" />	<!-- Fantasy Isle Warehouse -->
+		<npc id="32521" x="-59768" y="-57401" z="-2039" heading="55828" respawnDelay="60" />	<!-- Entrance Manager -->
+		<npc id="32522" x="-59684" y="-57402" z="-2039" heading="55828" respawnDelay="60" />	<!-- Entrance Manager -->
+		<npc id="32521" x="-57712" y="-61490" z="-2376" heading="16384" respawnDelay="60" />	<!-- Entrance Manager -->
+		<npc id="32522" x="-57557" y="-61488" z="-2376" heading="16384" respawnDelay="60" />	<!-- Entrance Manager -->
+		<npc id="32523" x="-57395" y="-61488" z="-2376" heading="16384" respawnDelay="60" />	<!-- Entrance Manager -->
+		<npc id="32524" x="-57240" y="-61493" z="-2376" heading="16384" respawnDelay="60" />	<!-- Entrance Manager -->
+		<npc id="32613" x="-57470" y="-60765" z="-2360" heading="16384" respawnDelay="60" />	<!-- Handy -->
+	</spawn>
+</list>

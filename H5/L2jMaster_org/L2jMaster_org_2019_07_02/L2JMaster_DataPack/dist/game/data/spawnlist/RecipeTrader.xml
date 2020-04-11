@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- recipe_trader_001 -->
+	<spawn zone="recipe_trader_001_01">
+		<npc id="32874" x="-82904" y="155352" z="-3201" heading="32000" respawnDelay="60" /> <!-- Lyann -->
+	</spawn>
+	<!-- recipe_trader_002 -->
+	<spawn zone="recipe_trader_002_01">
+		<npc id="32875" x="-15160" y="124616" z="-3140" heading="36285" respawnDelay="60" /> <!-- Tahoo -->
+	</spawn>
+	<!-- recipe_trader_003 -->
+	<spawn zone="recipe_trader_003_01">
+		<npc id="32876" x="19640" y="143096" z="-3053" heading="13000" respawnDelay="60" /> <!-- Desian -->
+	</spawn>
+	<!-- recipe_trader_004 -->
+	<spawn zone="recipe_trader_004_01">
+		<npc id="32877" x="77464" y="148264" z="-3621" heading="58000" respawnDelay="60" /> <!-- Plani -->
+	</spawn>
+	<!-- recipe_trader_005 -->
+	<spawn zone="recipe_trader_005_01">
+		<npc id="32878" x="107848" y="218984" z="-3684" heading="43208" respawnDelay="60" /> <!-- Sparky -->
+	</spawn>
+	<!-- recipe_trader_006 -->
+	<spawn zone="recipe_trader_006_01">
+		<npc id="32879" x="83752" y="55544" z="-1537" heading="45056" respawnDelay="60" /> <!-- Drawin -->
+	</spawn>
+	<!-- recipe_trader_007 -->
+	<spawn zone="recipe_trader_007_01">
+		<npc id="32880" x="150904" y="28328" z="-2273" heading="15242" respawnDelay="60" /> <!-- Dolphren -->
+	</spawn>
+	<!-- recipe_trader_008 -->
+	<spawn zone="recipe_trader_008_01">
+		<npc id="32881" x="146744" y="-58936" z="-2999" heading="12000" respawnDelay="60" /> <!-- Denver -->
+	</spawn>
+	<!-- recipe_trader_009 -->
+	<spawn zone="recipe_trader_009_01">
+		<npc id="32882" x="88248" y="-139608" z="-1559" heading="45000" respawnDelay="60" /> <!-- Prouse -->
+	</spawn>
+	<!-- recipe_trader_010 -->
+	<spawn zone="recipe_trader_010_01">
+		<npc id="32883" x="45560" y="-48472" z="-882" heading="22000" respawnDelay="60" /> <!-- Hedinger -->
+	</spawn>
+	<!-- recipe_trader_011 -->
+	<spawn zone="recipe_trader_011_01">
+		<npc id="32887" x="117176" y="75208" z="-2675" heading="10000" respawnDelay="60" /> <!-- Metar -->
+	</spawn>
+</list>

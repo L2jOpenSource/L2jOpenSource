@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- epic jwls -->
+
+
+<list maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<!-- tezza -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50037" count="1" />
+	</item>
+	<!-- valakas -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50031" count="1" />
+	</item>
+	<!-- bless freya -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50041" count="1" />
+	</item>
+	<!-- freya -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50040" count="1" />
+	</item>
+	<!-- zaken -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50033" count="1" />
+	</item>
+	<!-- bless zaken -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50039" count="1" />
+	</item>
+	<!-- antharas -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50030" count="1" />
+	</item>
+	<!-- orfen -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50035" count="1" />
+	</item>
+	<!-- QA -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50034" count="1" />
+	</item>
+	<!-- baium -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50032" count="1" />
+	</item>
+	<!-- beleth -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50038" count="1" />
+	</item>
+	<!-- core -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="50036" count="1" />
+	</item>
+	<!-- tezza -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50037" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- valakas -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50031" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- bless freya -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50041" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- freya -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50040" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- zaken -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50033" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- bless zaken -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50039" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- antharas -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50030" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- orfen -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50035" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- QA -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50034" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- baium -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50032" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- beleth -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50038" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- core -->
+	<item>
+		<ingredient id="40000" count="16" />
+		<production id="50036" count="1" enchantmentLevel="16" />
+	</item>
+	<!-- tezza -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50037" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- valakas -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50031" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- bless freya -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50041" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- freya -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50040" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- zaken -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50033" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- bless zaken -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50039" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- antharas -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50030" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- orfen -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50035" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- QA -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50034" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- baium -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50032" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- beleth -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50038" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- core -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="50036" count="1" enchantmentLevel="25" />
+	</item>
+
+</list>

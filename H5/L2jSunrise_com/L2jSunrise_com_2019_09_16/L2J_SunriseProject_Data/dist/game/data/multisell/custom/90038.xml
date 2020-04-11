@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="14163" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="14164" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="14165" count="1" />
+	</item>
+
+	<!-- Vorpal Necklace -->
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="15722" count="1" />
+	</item>
+
+	<!-- Vorpal Earring -->
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="15721" count="1" />
+	</item>
+
+	<!-- Vorpal Ring -->
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="15720" count="1" />
+	</item>
+	<!-- Elegia Necklace -->
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="15719" count="1" />
+	</item>
+
+	<!-- Elegia Earring -->
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="15718" count="1" />
+	</item>
+
+	<!-- Elegia Ring -->
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="15717" count="1" />
+	</item>
+</list>

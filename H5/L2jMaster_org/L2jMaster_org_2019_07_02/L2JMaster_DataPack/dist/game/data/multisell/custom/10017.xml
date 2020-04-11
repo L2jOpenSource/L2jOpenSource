@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37616</npc> <!-- Medal Shop -->
+	</npcs>
+
+	<!-- Potions -->
+	
+	<!-- Mana Potion -->
+	<item>
+		<ingredient id="6392" count="50"/>
+		<production id="728" count="10"/>
+	</item>
+	<!-- Greater Healing Potion -->
+	<item>
+		<ingredient id="6392" count="50"/>
+		<production id="1539" count="10"/>
+	</item>
+	<!-- Greater Magic Haste Potion -->
+	<item>
+		<ingredient id="6392" count="50"/>
+	<production id="6036" count="1"/>
+	</item>
+	<!-- Vitality Replenishing Potion -->
+	<item>
+		<ingredient id="6392" count="50"/>
+	<production id="15438" count="1"/>
+	</item>
+</list>

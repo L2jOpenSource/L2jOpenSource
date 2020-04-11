@@ -1,0 +1,46 @@
+<html><title>Items</title><body>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=21 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td width=180><center>Item Creation Menu</center></td>
+<td width=45><button value="Back" action="bypass -h admin_admin" width=45 height=21 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table><img src="L2UI.SquareGray" width=250 height=1><br><br>
+<center>
+<table width=280><tr><td>Fill the ID number in item-id to create the item that you want, fill also the enchant value that you wish to add. Select attribute type and value in case you want to add attribute.</td></tr></table>
+<br>
+<table width=270>
+<tr>
+<td align=center>Item-ID:</td>
+<td align=center>Enchant Value:</td>
+<td></td>
+</tr>
+<tr>
+<td align=center><edit var="itemid" width=100></td>
+<td align=center><edit var="enchantnum" width=100 type=number></td>
+</tr>
+</table>
+<br><br>
+<table width=270>
+<tr>
+<td align=center>Element Type:</td>
+<td align=center>Elemental Value:</td>
+<td></td>
+</tr>
+<tr>
+<td align=center><combobox width=105 var=etype list=NoElement;Fire;Water;Wind;Earth;Dark;Holy></td>
+<td align=center><combobox width=105 var=evalue list=0;300;450></td>
+</tr>
+</table>
+<br><br><br>
+<table>
+<tr>
+<td><button value="Create Item" action="bypass -h admin_custom_create_item $itemid $enchantnum $etype $evalue" width=130 height=21 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Give Item to Target" action="bypass -h admin_give_custom_item_target $itemid $enchantnum $etype $evalue" width=130 height=21 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table><br><br>
+<img src="L2UI.SquareGray" width=250 height=1>
+<br>
+<font color="LEVEL">Created and designed for L2JSunrise</font>
+</center>
+</body></html>

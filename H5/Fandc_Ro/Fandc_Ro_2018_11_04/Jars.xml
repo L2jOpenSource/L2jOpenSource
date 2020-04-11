@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="FandC Jars" default="jar" basedir=".">
+	<description>
+		This script will build all the server jars 
+	</description>
+	
+	<taskdef resource="proguard/ant/task.properties" classpath="dist/libs/proguard.jar" />
+
+	<property name="server.prefix" value="l2f" />
+	<property name="build" location="builds/" />
+	<property name="build.bin" location="${build}/bin" />
+	<property name="build.bin.scripts" location="${build}/bin/scripts" />
+	<property name="build.dist" location="${build}/dist" />
+	<property name="build.dist.direct" location="dist" />
+	<property name="libs" location="dist/libs" />
+	<property name="src" location="java" />
+	<property name="src.scripts" location="dist/gameserver/data" />	
+
+	<path id="classpath">
+		<fileset dir="${libs}">
+			<include name="*.jar" />
+			<exclude name="${server.prefix}-commons.jar" />
+			<exclude name="${server.prefix}-loginserver.jar" />
+			<exclude name="${server.prefix}-gameserver.jar" />			
+			<exclude name="${server.prefix}-scripts.jar" />
+		</fileset>
+	</path>
+	
+	<target name="clean" description="Remove the output directories.">
+		<delete dir="${build.bin}" />
+	</target>	
+	
+	<target name="init" depends="clean" description="Create the output directories.">
+		<mkdir dir="${build.bin}" />
+		<mkdir dir="${build.bin.scripts}" />
+		<mkdir dir="${build.dist}/libs" />
+	</target>
+	
+	<target name="compile" depends="init" description="Compile the source.">
+		<javac destdir="${build.bin}" encoding="UTF-8" compiler="javac1.8" debug="true" debuglevel="lines,vars,source" includeantruntime="false" source="1.8" target="1.8">
+			<src path="${src}" />
+			<classpath refid="classpath" />
+		</javac>
+		<javac destdir="${build.bin.scripts}" encoding="UTF-8" compiler="javac1.8" debug="true" debuglevel="lines,vars,source" includeantruntime="false" source="1.8" target="1.8">			
+			<src path="${src.scripts}" />
+			<classpath path="${build.bin}" />
+			<classpath refid="classpath" />
+		</javac>
+	</target>
+
+	<target name="jar" depends="compile" description="Create the jar files.">
+		<jar destfile="${build.dist}/libs/${server.prefix}-loginserver.jar" level="9">
+			<fileset dir="${build.bin}">
+				<exclude name="**/Elemental/**" />				
+				<exclude name="**/commons/**" />
+				<exclude name="**/gameserver/**" />
+				<exclude name="scripts/**" />
+			</fileset>
+			<manifest>
+				<attribute name="Build-By" value="${user.name}" />
+				<attribute name="Build-Date" value="${build.tstamp}" />
+			</manifest>
+		</jar>
+		<jar destfile="${build.dist}/libs/${server.prefix}-gameserver.jar" level="9">
+			<fileset dir="${build.bin}">
+				<exclude name="**/loginserver/**" />
+				<exclude name="**/commons/**" />
+				<exclude name="scripts/**" />
+			</fileset>
+			<manifest>
+				<attribute name="Build-By" value="${user.name}" />
+				<attribute name="Build-Date" value="${build.tstamp}" />
+			</manifest>
+		</jar>
+		<jar destfile="${build.dist}/libs/${server.prefix}-commons.jar" level="9">
+			<fileset dir="${build.bin}">
+				<exclude name="**/Elemental/**" />
+				<exclude name="**/loginserver/**" />
+				<exclude name="**/gameserver/**" />
+				<exclude name="scripts/**" />
+			</fileset>
+			<manifest>
+				<attribute name="Build-By" value="${user.name}" />
+				<attribute name="Build-Date" value="${build.tstamp}" />
+			</manifest>
+		</jar>
+		<jar destfile="${build.dist}/libs/${server.prefix}-scripts.jar" level="9">
+			<fileset dir="${build.bin.scripts}" />
+        </jar>
+		
+		<!-- Copy the built jars over the workspace libs to update it directly -->
+		<copy file="${build.dist}/libs/${server.prefix}-loginserver.jar" todir="${build.dist.direct}/libs" />
+		<copy file="${build.dist}/libs/${server.prefix}-gameserver.jar" todir="${build.dist.direct}/libs" />
+		<copy file="${build.dist}/libs/${server.prefix}-commons.jar" todir="${build.dist.direct}/libs" />
+		<copy file="${build.dist}/libs/${server.prefix}-scripts.jar" todir="${build.dist.direct}/libs" />
+	</target>
+	
+	<target name="proguard" depends="jar" description="Obfuscates all the jars">
+		
+		<!-- Create the folder where we will save the proguard mappings -->
+		<mkdir dir="${build}/proguard" />
+		
+		<!-- Rename all the jars before obfuscating, as proguard cannot save the jars with the same name, also allows us to compile normal jars and obfuscated jars separately -->
+		<move file="${build.dist}/libs/${server.prefix}-loginserver.jar" tofile="${build.dist}/libs/${server.prefix}-loginserver-original.jar" />
+		<move file="${build.dist}/libs/${server.prefix}-gameserver.jar" tofile="${build.dist}/libs/${server.prefix}-gameserver-original.jar" />
+		<move file="${build.dist}/libs/${server.prefix}-commons.jar" tofile="${build.dist}/libs/${server.prefix}-commons-original.jar" />
+		<move file="${build.dist}/libs/${server.prefix}-scripts.jar" tofile="${build.dist}/libs/${server.prefix}-scripts-original.jar" />
+				
+		<!-- Proguard obfuscation for the commons jar -->
+		<proguard configuration="ProGuardCommonsConfig.pro">
+			<libraryjar refid="classpath" />
+		</proguard>
+		<!-- Proguard obfuscation for the login server jar -->
+		<proguard configuration="ProGuardLoginConfig.pro">
+			<libraryjar refid="classpath" />
+		</proguard>
+		<!-- Proguard obfuscation for the game server jar -->
+		<proguard configuration="ProGuardGameConfig.pro">
+			<libraryjar refid="classpath" />
+		</proguard>	
+		
+		<!-- Before doing the scripts jar we must concatenate the mappings of the game server and commons, as it only allows 1 map file -->
+		<concat destfile="${build}/proguard/game-commons-mapping.map">
+			<filelist dir="${build}/proguard" files="common-mapping.map"/>
+			<filelist dir="${build}/proguard" files="game-mapping.map"/>
+		</concat>
+		
+		<!-- Proguard obfuscation for the scripts jar -->
+		<proguard configuration="ProGuardScriptsConfig.pro">
+			<libraryjar refid="classpath" />
+		</proguard>
+		
+		<!-- After the obfuscation, delete the original jars so we only keep the obfuscated ones -->
+		<delete file="${build.dist}/libs/${server.prefix}-loginserver-original.jar" />
+		<delete file="${build.dist}/libs/${server.prefix}-gameserver-original.jar" />
+		<delete file="${build.dist}/libs/${server.prefix}-commons-original.jar" />
+		<delete file="${build.dist}/libs/${server.prefix}-scripts-original.jar" />
+		
+		<!-- Copy the built jars over the workspace libs to update it directly -->
+		<copy file="${build.dist}/libs/${server.prefix}-loginserver.jar" todir="${build.dist.direct}/libs" />
+		<copy file="${build.dist}/libs/${server.prefix}-gameserver.jar" todir="${build.dist.direct}/libs" />
+		<copy file="${build.dist}/libs/${server.prefix}-commons.jar" todir="${build.dist.direct}/libs" />
+		<copy file="${build.dist}/libs/${server.prefix}-scripts.jar" todir="${build.dist.direct}/libs" />
+	</target>
+
+</project>

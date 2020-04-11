@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- schuttgart20_npc2213_01 -->
+	<spawn zone="schuttgart20_npc2213_01m1">
+		<npc id="31673" x="82716" y="-139748" z="-2278" heading="25000" respawnDelay="60" /> <!-- Patrol -->
+		<npc id="31673" x="82920" y="-139464" z="-2278" heading="25000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- schuttgart20_npc2213_02 -->
+	<spawn zone="schuttgart20_npc2213_02m1">
+		<npc id="31673" x="87168" y="-137328" z="-2278" heading="16500" respawnDelay="60" /> <!-- Patrol -->
+		<npc id="31673" x="87540" y="-137324" z="-2278" heading="16500" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- schuttgart20_npc2213_03 -->
+	<spawn zone="schuttgart20_npc2213_03m1">
+		<npc id="31673" x="91856" y="-139408" z="-2312" heading="5000" respawnDelay="60" /> <!-- Patrol -->
+		<npc id="31673" x="92080" y="-139696" z="-2312" heading="5000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- schuttgart20_npc2213_04 -->
+	<spawn zone="schuttgart20_npc2213_04m1">
+		<npc id="31993" x="84512" y="-141188" z="-1542" heading="57000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- schuttgart20_npc2213_06 -->
+	<spawn zone="schuttgart20_npc2213_06m1">
+		<npc id="31674" x="85112" y="-141932" z="-1542" heading="26000" respawnDelay="60" /> <!-- Patrol -->
+		<npc id="31674" x="85252" y="-141732" z="-1542" heading="26000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- schuttgart20_npc2213_07 -->
+	<spawn zone="schuttgart20_npc2213_07m1">
+		<npc id="31949" x="85664" y="-141136" z="-1526" heading="0" respawnDelay="60" /> <!-- Rouge -->
+	</spawn>
+	<!-- schuttgart20_npc2213_08 -->
+	<spawn zone="schuttgart20_npc2213_08m1">
+		<npc id="31952" x="85744" y="-141360" z="-1526" heading="6000" respawnDelay="60" /> <!-- Pele -->
+	</spawn>
+	<!-- schuttgart20_npc2213_09 -->
+	<spawn zone="schuttgart20_npc2213_09m1">
+		<npc id="31950" x="85792" y="-141080" z="-1526" heading="55000" respawnDelay="60" /> <!-- Mailland -->
+		<npc id="31989" x="85824" y="-141056" z="-1526" heading="55000" respawnDelay="60" /> <!-- Batidae -->
+	</spawn>
+	<!-- schuttgart20_npc2213_10 -->
+	<spawn zone="schuttgart20_npc2213_10m1">
+		<npc id="31954" x="86368" y="-140144" z="-1542" heading="53000" respawnDelay="60" /> <!-- Saroyan -->
+		<npc id="31955" x="86368" y="-140144" z="-1542" heading="53000" respawnDelay="60" /> <!-- Ruby -->
+	</spawn>
+	<!-- schuttgart20_npc2213_11 -->
+	<spawn zone="schuttgart20_npc2213_11m1">
+		<npc id="31946" x="86304" y="-139656" z="-1525" heading="55000" respawnDelay="60" /> <!-- Hombre -->
+		<npc id="31947" x="86276" y="-139672" z="-1525" heading="55000" respawnDelay="60" /> <!-- Owaki -->
+	</spawn>
+	<!-- schuttgart20_npc2213_12 -->
+	<spawn zone="schuttgart20_npc2213_12m1">
+		<npc id="31945" x="86448" y="-139600" z="-1525" heading="55000" respawnDelay="60" /> <!-- Auzendorff -->
+	</spawn>
+	<!-- schuttgart20_npc2213_13 -->
+	<spawn zone="schuttgart20_npc2213_13m1">
+		<npc id="31948" x="86124" y="-139784" z="-1525" heading="0" respawnDelay="60" /> <!-- Adrian -->
+	</spawn>
+	<!-- schuttgart20_npc2213_15 -->
+	<spawn zone="schuttgart20_npc2213_15m1">
+		<npc id="31674" x="87244" y="-140704" z="-1542" heading="16500" respawnDelay="60" /> <!-- Patrol -->
+		<npc id="31674" x="87480" y="-140704" z="-1542" heading="16500" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- schuttgart20_npc2213_16 -->
+	<spawn zone="schuttgart20_npc2213_16m1">
+		<npc id="31991" x="87088" y="-140784" z="-1542" heading="16500" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- schuttgart20_npc2213_17 -->
+	<spawn zone="schuttgart20_npc2213_17m1">
+		<npc id="31956" x="88616" y="-141220" z="-1525" heading="11000" respawnDelay="60" /> <!-- Rydel -->
+		<npc id="31957" x="88656" y="-141240" z="-1525" heading="11000" respawnDelay="60" /> <!-- Cherbal -->
+	</spawn>
+	<!-- schuttgart20_npc2213_18 -->
+	<spawn zone="schuttgart20_npc2213_18m1">
+		<npc id="31959" x="88904" y="-141332" z="-1525" heading="20000" respawnDelay="60" /> <!-- Axel -->
+	</spawn>
+	<!-- schuttgart20_npc2213_19 -->
+	<spawn zone="schuttgart20_npc2213_19m1">
+		<npc id="31958" x="88544" y="-140768" z="-1525" heading="52000" respawnDelay="60" /> <!-- Yasheni -->
+		<npc id="32092" x="88517" y="-140809" z="-1525" heading="61908" respawnDelay="60" /> <!-- Alder -->
+	</spawn>
+	<!-- schuttgart20_npc2213_21 -->
+	<spawn zone="schuttgart20_npc2213_21m1">
+		<npc id="31995" x="90348" y="-141336" z="-1542" heading="32000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- schuttgart20_npc2213_22 -->
+	<spawn zone="schuttgart20_npc2213_22m1">
+		<npc id="31674" x="89472" y="-141744" z="-1542" heading="6000" respawnDelay="60" /> <!-- Patrol -->
+		<npc id="31674" x="89616" y="-141932" z="-1542" heading="6000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- schuttgart20_npc2213_23 -->
+	<spawn zone="schuttgart20_npc2213_23m1">
+		<npc id="31978" x="90004" y="-143288" z="-1525" heading="7000" respawnDelay="60" /> <!-- Tazeer -->
+		<npc id="31977" x="89950" y="-143262" z="-1525" heading="72568" respawnDelay="60" /> <!-- Shaka -->
+		<npc id="32097" x="89943" y="-143213" z="-1525" heading="62136" respawnDelay="60" /> <!-- Finker -->
+		<npc id="31979" x="89988" y="-143176" z="-1519" heading="59000" respawnDelay="60" /> <!-- Moira -->
+	</spawn>
+	<!-- schuttgart20_npc2213_25 -->
+	<spawn zone="schuttgart20_npc2213_25m1">
+		<npc id="31092" x="89856" y="-143760" z="-1542" heading="0" respawnDelay="60" /> <!-- Black Marketeer of Mammon -->
+	</spawn>
+	<!-- schuttgart20_npc2213_26 -->
+	<spawn zone="schuttgart20_npc2213_26m1">
+		<npc id="31975" x="90312" y="-141804" z="-1525" heading="50000" respawnDelay="60" /> <!-- Aerina -->
+	</spawn>
+	<!-- schuttgart20_npc2213_27 -->
+	<spawn zone="schuttgart20_npc2213_27m1">
+		<npc id="31974" x="90568" y="-141916" z="-1525" heading="34000" respawnDelay="60" /> <!-- Drizzit -->
+		<npc id="32096" x="90585" y="-141988" z="-1525" heading="34000" respawnDelay="60" /> <!-- Helminter -->
+	</spawn>
+	<!-- schuttgart20_npc2213_28 -->
+	<spawn zone="schuttgart20_npc2213_28m1">
+		<npc id="31976" x="90392" y="-142184" z="-1525" heading="16000" respawnDelay="60" /> <!-- Talia -->
+	</spawn>
+	<!-- schuttgart20_npc2213_29 -->
+	<spawn zone="schuttgart20_npc2213_29m1">
+		<npc id="35587" x="88576" y="-143280" z="-1343" heading="34000" respawnDelay="60" /> <!-- Neria -->
+		<npc id="35586" x="88672" y="-143140" z="-1325" heading="0" respawnDelay="60" /> <!-- Serena -->
+	</spawn>
+	<!-- schuttgart20_npc2213_30 -->
+	<spawn zone="schuttgart20_npc2213_30m1">
+		<npc id="35585" x="88000" y="-142288" z="-1342" heading="44000" respawnDelay="60" /> <!-- Alice -->
+		<npc id="35584" x="87936" y="-142144" z="-1325" heading="11000" respawnDelay="60" /> <!-- Billy -->
+	</spawn>
+	<!-- schuttgart20_npc2213_31 -->
+	<spawn zone="schuttgart20_npc2213_31m1">
+		<npc id="35583" x="86736" y="-142288" z="-1343" heading="55000" respawnDelay="60" /> <!-- Walter -->
+		<npc id="35582" x="86800" y="-142128" z="-1325" heading="23000" respawnDelay="60" /> <!-- Stanley -->
+	</spawn>
+	<!-- schuttgart20_npc2213_32 -->
+	<spawn zone="schuttgart20_npc2213_32m1">
+		<npc id="35581" x="86144" y="-143264" z="-1344" heading="0" respawnDelay="60" /> <!-- Osho -->
+		<npc id="35580" x="86064" y="-143120" z="-1325" heading="33000" respawnDelay="60" /> <!-- Carol -->
+	</spawn>
+	<!-- schuttgart20_npc2213_33 -->
+	<spawn zone="schuttgart20_npc2213_33m1">
+		<npc id="31994" x="86516" y="-142336" z="-1343" heading="60000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- schuttgart20_npc2213_34 -->
+	<spawn zone="schuttgart20_npc2213_34m1">
+		<npc id="31992" x="88208" y="-142336" z="-1343" heading="38000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- schuttgart20_npc2213_36 -->
+	<spawn zone="schuttgart20_npc2213_36m1">
+		<npc id="31997" x="86816" y="-143200" z="-1341" heading="28000" respawnDelay="60" /> <!-- Priest of Dawn -->
+	</spawn>
+	<!-- schuttgart20_npc2213_37 -->
+	<spawn zone="schuttgart20_npc2213_37m1">
+		<npc id="31964" x="87056" y="-143472" z="-1296" heading="16000" respawnDelay="60" /> <!-- Bilia -->
+	</spawn>
+	<!-- schuttgart20_npc2213_39 -->
+	<spawn zone="schuttgart20_npc2213_39m1">
+		<npc id="31968" x="87426" y="-146015" z="-1291" heading="19508" respawnDelay="60" /> <!-- Baryl -->
+		<npc id="32095" x="87307" y="-146016" z="-1291" heading="12524" respawnDelay="60" /> <!-- Marie -->
+		<npc id="31969" x="87696" y="-146272" z="-1296" heading="16500" respawnDelay="60" /> <!-- Evelyn -->
+		<npc id="31970" x="86992" y="-146272" z="-1296" heading="16500" respawnDelay="60" /> <!-- Sinis -->
+	</spawn>
+	<!-- schuttgart20_npc2213_41 -->
+	<spawn zone="schuttgart20_npc2213_41m1">
+		<npc id="31996" x="88486" y="-145063" z="-1288" heading="49152" respawnDelay="60" /> <!-- Javier -->
+		<npc id="32098" x="88560" y="-145062" z="-1288" heading="49152" respawnDelay="60" /> <!-- Celes -->
+		<npc id="31971" x="88384" y="-145028" z="-1296" heading="49000" respawnDelay="60" /> <!-- Otillo -->
+		<npc id="31972" x="88664" y="-145028" z="-1296" heading="49000" respawnDelay="60" /> <!-- Atraxia -->
+	</spawn>
+	<!-- schuttgart20_npc2213_42 -->
+	<spawn zone="schuttgart20_npc2213_42m1">
+		<npc id="31967" x="86336" y="-145024" z="-1296" heading="49000" respawnDelay="60" /> <!-- Euline -->
+		<npc id="31966" x="86056" y="-145029" z="-1296" heading="49000" respawnDelay="60" /> <!-- Karamon -->
+		<npc id="31965" x="86238" y="-145056" z="-1296" heading="49000" respawnDelay="60" /> <!-- Hector -->
+		<npc id="32094" x="86169" y="-145056" z="-1296" heading="49000" respawnDelay="60" /> <!-- Schule -->
+	</spawn>
+	<!-- schuttgart20_npc2213_43 -->
+	<spawn zone="schuttgart20_npc2213_43m1">
+		<npc id="31691" x="86128" y="-145216" z="-1296" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+		<npc id="31691" x="86316" y="-145216" z="-1296" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+		<npc id="31691" x="86128" y="-145344" z="-1296" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+		<npc id="31691" x="86316" y="-145344" z="-1296" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+		<npc id="31691" x="86128" y="-145472" z="-1296" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+		<npc id="31691" x="86312" y="-145472" z="-1296" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+		<npc id="31691" x="86124" y="-145600" z="-1296" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+		<npc id="31691" x="86316" y="-145600" z="-1296" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+		<npc id="31691" x="86120" y="-145728" z="-1296" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+		<npc id="31691" x="86312" y="-145728" z="-1296" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+	</spawn>
+	<!-- schuttgart20_npc2213_44 -->
+	<spawn zone="schuttgart20_npc2213_44m1">
+		<npc id="31688" x="87600" y="-143472" z="-1296" heading="16500" respawnDelay="60" /> <!-- Grand Olympiad Manager -->
+		<npc id="31690" x="87664" y="-143472" z="-1296" heading="16500" respawnDelay="60" /> <!-- Monument of Heroes -->
+	</spawn>
+	<!-- schuttgart20_npc2213_47 -->
+	<spawn zone="schuttgart20_npc2213_47m1">
+		<npc id="31983" x="84344" y="-140876" z="-1538" heading="27000" respawnDelay="60" /> <!-- Friggar -->
+		<npc id="31984" x="84472" y="-140696" z="-1539" heading="27000" respawnDelay="60" /> <!-- Sherring -->
+	</spawn>
+	<!-- schuttgart20_npc2213_48 -->
+	<spawn zone="schuttgart20_npc2213_48m1">
+		<npc id="31985" x="87248" y="-139296" z="-1538" heading="16500" respawnDelay="60" /> <!-- Kosmos -->
+		<npc id="31986" x="87460" y="-139292" z="-1539" heading="16500" respawnDelay="60" /> <!-- Erstack -->
+	</spawn>
+	<!-- schuttgart20_npc2213_49 -->
+	<spawn zone="schuttgart20_npc2213_49m1">
+		<npc id="31987" x="90244" y="-140700" z="-1538" heading="7000" respawnDelay="60" /> <!-- Gotter -->
+		<npc id="31988" x="90376" y="-140872" z="-1539" heading="7000" respawnDelay="60" /> <!-- Singa -->
+	</spawn>
+	<!-- schuttgart20_npc2213_50 -->
+	<spawn zone="schuttgart20_npc2213_50m1">
+		<npc id="31981" x="85868" y="-142164" z="-1342" heading="60000" respawnDelay="60" /> <!-- Vishotsky -->
+		<npc id="31982" x="85728" y="-142380" z="-1328" heading="60000" respawnDelay="60" /> <!-- Glen -->
+		<npc id="32484" x="85894" y="-142108" z="-1342" heading="-6252" respawnDelay="60" /> <!-- Pathfinder Worker -->
+	</spawn>
+	<!-- schuttgart20_npc2213_51 -->
+	<spawn zone="schuttgart20_npc2213_51m1">
+		<npc id="31998" x="85152" y="-142112" z="-1542" heading="26000" respawnDelay="60" /> <!-- Dusk Priestess -->
+	</spawn>
+	<!-- schuttgart20_npc2213_52 -->
+	<spawn zone="schuttgart20_npc2213_52m1">
+		<npc id="31953" x="86044" y="-141040" z="-1526" heading="38000" respawnDelay="60" /> <!-- Rankar -->
+	</spawn>
+	<!-- schuttgart20_npc2213_54 -->
+	<spawn zone="schuttgart20_npc2213_54m1">
+		<npc id="31963" x="88192" y="-139568" z="-1532" heading="45000" respawnDelay="60" /> <!-- Hitchi -->
+	</spawn>
+	<!-- schuttgart20_npc2213_55 -->
+	<spawn zone="schuttgart20_npc2213_55m1">
+		<npc id="31960" x="88460" y="-139852" z="-1536" heading="0" respawnDelay="60" /> <!-- Buryun -->
+		<npc id="31961" x="88416" y="-139776" z="-1536" heading="28000" respawnDelay="60" /> <!-- Newyear -->
+		<npc id="32093" x="88419" y="-139839" z="-1528" heading="40000" respawnDelay="60" /> <!-- Bolin -->
+		<npc id="31990" x="88444" y="-139680" z="-1536" heading="57000" respawnDelay="60" /> <!-- Siger -->
+	</spawn>
+	<!-- schuttgart20_npc2213_56 -->
+	<spawn zone="schuttgart20_npc2213_56m1">
+		<npc id="32070" x="84460" y="-144052" z="-1530" heading="0" respawnDelay="60" /> <!-- Adolph -->
+		<npc id="32072" x="84460" y="-144052" z="-1530" heading="0" respawnDelay="60" /> <!-- Edwin -->
+	</spawn>
+	<!-- schuttgart20_npc2213_57 -->
+	<spawn zone="schuttgart20_npc2213_57m1">
+		<npc id="32057" x="90087" y="-143200" z="-1525" heading="0" respawnDelay="60" /> <!-- Totem Spirit of Gandi -->
+	</spawn>
+	<!-- schuttgart19_npc2213_01 -->
+	<spawn zone="schuttgart19_npc2213_01m1">
+		<npc id="35548" x="77360" y="-149696" z="-351" heading="49000" respawnDelay="60" /> <!-- Outer Doorman -->
+	</spawn>
+	<!-- schuttgart19_npc2213_02 -->
+	<spawn zone="schuttgart19_npc2213_02m1">
+		<npc id="35549" x="75728" y="-152160" z="-656" heading="33000" respawnDelay="60" /> <!-- Inner Doorman -->
+		<npc id="35549" x="76000" y="-152160" z="-656" heading="0" respawnDelay="60" /> <!-- Inner Doorman -->
+	</spawn>
+	<!-- schuttgart19_npc2213_03 -->
+	<spawn zone="schuttgart19_npc2213_03m1">
+		<npc id="35550" x="79392" y="-152160" z="-656" heading="0" respawnDelay="60" /> <!-- Inner Doorman -->
+		<npc id="35550" x="79104" y="-152144" z="-656" heading="33000" respawnDelay="60" /> <!-- Inner Doorman -->
+	</spawn>
+	<!-- schuttgart19_npc2213_04 -->
+	<spawn zone="schuttgart19_npc2213_04m1">
+		<npc id="35553" x="77056" y="-152960" z="-912" heading="16500" respawnDelay="60" /> <!-- Blacksmith -->
+	</spawn>
+	<!-- schuttgart19_npc2213_05 -->
+	<spawn zone="schuttgart19_npc2213_05m1">
+		<npc id="35554" x="78080" y="-152976" z="-912" heading="16500" respawnDelay="60" /> <!-- Warehouse Keeper -->
+	</spawn>
+	<!-- schuttgart19_npc2213_06 -->
+	<spawn zone="schuttgart19_npc2213_06m1">
+		<npc id="35555" x="77488" y="-153360" z="-390" heading="16500" respawnDelay="60" /> <!-- August -->
+		<npc id="35557" x="77792" y="-153360" z="-514" heading="16500" respawnDelay="60" /> <!-- Kendrew -->
+	</spawn>
+	<!-- schuttgart19_npc2213_07 -->
+	<spawn zone="schuttgart19_npc2213_07m1">
+		<npc id="35556" x="77568" y="-153296" z="1229" heading="16500" respawnDelay="60" /> <!-- Gallic -->
+	</spawn>
+	<!-- schuttgart19_npc2213_08 -->
+	<spawn zone="schuttgart19_npc2213_08m1">
+		<npc id="35547" x="77568" y="-150560" z="771" heading="49000" respawnDelay="60" /> <!-- Mass Gatekeeper -->
+	</spawn>
+	<!-- schuttgart19_npc2213_09 -->
+	<spawn zone="schuttgart19_npc2213_09m1">
+		<npc id="35551" x="76400" y="-153052" z="1043" heading="16500" respawnDelay="60" /> <!-- Doorman -->
+		<npc id="35551" x="76352" y="-153216" z="1051" heading="49000" respawnDelay="60" /> <!-- Doorman -->
+	</spawn>
+	<!-- schuttgart19_npc2213_10 -->
+	<spawn zone="schuttgart19_npc2213_10m1">
+		<npc id="35552" x="78712" y="-153056" z="1043" heading="16500" respawnDelay="60" /> <!-- Doorman -->
+		<npc id="35552" x="78764" y="-153216" z="1051" heading="49000" respawnDelay="60" /> <!-- Doorman -->
+	</spawn>
+	<!-- schuttgart19_npc2213_11 -->
+	<spawn zone="schuttgart19_npc2213_11m1">
+		<npc id="35548" x="77872" y="-149376" z="-351" heading="16500" respawnDelay="60" /> <!-- Outer Doorman -->
+	</spawn>
+	<!-- schuttgart19_npc2213_12 -->
+	<spawn zone="schuttgart19_npc2213_12m1">
+		<npc id="35558" x="89340" y="-141591" z="-1536" heading="3000" respawnDelay="60" /> <!-- Manor Manager -->
+	</spawn>
+	<!-- schuttgart19_npc2213_13 -->
+	<spawn zone="schuttgart19_npc2213_13m1">
+		<npc id="30767" x="85804" y="-142816" z="-1344" heading="15000" respawnDelay="60" /> <!-- Auctioneer -->
+	</spawn>
+	<!-- schuttgart19_npc2213_14 -->
+	<spawn zone="schuttgart19_npc2213_14m1">
+		<npc id="35559" x="75712" y="-144912" z="-1312" heading="16500" respawnDelay="60" /> <!-- Daguerre -->
+	</spawn>
+	<!-- schuttgart19_npc2213_15 -->
+	<spawn zone="schuttgart19_npc2213_15m1">
+		<npc id="35656" x="77320" y="-153372" z="-514" heading="16384" respawnDelay="60" /> <!-- Court Magician -->
+	</spawn>
+	<!-- schuttgart19_npc2213_16 -->
+	<spawn zone="schuttgart19_npc2213_16m1">
+		<npc id="36411" x="77554" y="-152972" z="-904" heading="16384" respawnDelay="60" /> <!-- Warden -->
+	</spawn>
+	<!-- schuttgart20_npc2213_102 -->
+	<spawn zone="schuttgart20_npc2213_102m1">
+		<npc id="32327" x="87152" y="-141328" z="-1328" heading="-16240" respawnDelay="60" /> <!-- Adventurers' Guide -->
+	</spawn>
+	<!-- schuttgart20_npc2213_km1 -->
+	<spawn zone="schuttgart20_npc2213_km1m1">
+		<npc id="32202" x="90449" y="-144316" z="-1528" heading="29964" respawnDelay="60" /> <!-- Khadava -->
+		<npc id="32233" x="90415" y="-144342" z="-1528" heading="26716" respawnDelay="60" /> <!-- Zoldart -->
+		<npc id="32234" x="90438" y="-144275" z="-1528" heading="-31956" respawnDelay="60" /> <!-- Nizer -->
+		<npc id="32203" x="90380" y="-144353" z="-1528" heading="16376" respawnDelay="60" /> <!-- Ramen -->
+		<npc id="32204" x="90408" y="-144246" z="-1528" heading="-22876" respawnDelay="60" /> <!-- Fiske -->
+	</spawn>
+	<!-- schuttgart20_npc2213_9876 -->
+	<spawn zone="schuttgart20_npc2213_9876m1">
+		<npc id="32632" x="87205" y="-143485" z="-1288" heading="16384" respawnDelay="60" /> <!-- Gracian Survivor -->
+	</spawn>
+	<!-- schuttgart20_npc2213_premium01 -->
+	<spawn zone="schuttgart20_npc2213_premium01m1">
+		<npc id="32478" x="88940" y="-140816" z="-1540" heading="11000" respawnDelay="60" /> <!-- Dimensional Merchant -->
+	</spawn>
+	<!-- schuttgart20_npc2213_tk01 -->
+	<spawn zone="schuttgart20_tk01m1">
+		<npc id="30994" x="87096" y="-143472" z="-1296" heading="16500" respawnDelay="60" /> <!-- Lottery Ticket Seller -->
+	</spawn>
+	<!-- Unknown -->
+	<spawn zone="unknown">
+		<npc id="32071" x="84470" y="-144042" z="-1530" heading="0" respawnDelay="60" /> <!-- Linda -->
+		<npc id="31031" x="88034" y="-140676" z="-1542" heading="0" respawnDelay="5" /> <!-- Broadcasting Tower -->
+		<npc id="35514" x="78442" y="-154520" z="224" heading="0" respawnDelay="60" /> <!-- Altar of Wind -->
+		<npc id="35515" x="76674" y="-154520" z="224" heading="0" respawnDelay="60" /> <!-- Altar of Earth -->
+	</spawn>
+	<!-- schuttgart01_qm2213_01 -->
+	<spawn zone="schuttgart01_qm2213_01m1">
+		<npc id="27322" count="4" respawnDelay="15" /> <!-- Picot Araneid -->
+	</spawn>
+	<!-- schuttgart01_qm2213_02 -->
+	<spawn zone="schuttgart01_qm2213_02m1">
+		<npc id="27322" count="4" respawnDelay="15" /> <!-- Picot Araneid -->
+	</spawn>
+	<!-- schuttgart01_qm2213_03 -->
+	<spawn zone="schuttgart01_qm2213_03m1">
+		<npc id="27321" count="10" respawnDelay="15" /> <!-- Bruin Lizardman -->
+	</spawn>
+</list>

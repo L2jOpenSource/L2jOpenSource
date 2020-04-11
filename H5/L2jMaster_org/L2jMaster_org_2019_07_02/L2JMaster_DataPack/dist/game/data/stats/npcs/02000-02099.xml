@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="2081" level="82" type="L2Monster" name="Plague Kanabion">
+		<!-- Confirmed H5 -->
+		<parameters>
+			<param name="MoveAroundSocial" value="100" />
+			<param name="MoveAroundSocial1" value="100" />
+			<param name="MoveAroundSocial2" value="100" />
+			<param name="Skill01_Probablity" value="2000" />
+			<param name="Type" value="0" />
+			<param name="PrivatesNorm" value="2081" /> <!-- Plague Kanabion -->
+			<param name="PrivatesSpA" value="2082" /> <!-- Plague Kanabion -->
+			<param name="PrivatesSpB" value="2083" /> <!-- Plague Kanabion -->
+			<param name="MyMakerName" value="inzone03_2111_80m1" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Skill01_ID" id="4032" level="8" /> <!-- NPC Strike -->
+			<skill name="Debuff" id="5719" level="1" /> <!-- Kamabion Susceptibility -->
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire expRate="1.26075" sp="927" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3643.38976668326" hpRegen="8.5" mp="1743" mpRegen="3" />
+			<attack physical="1055.28566004965" magical="720.623302603812" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" default="0" />
+			</attribute>
+			<speed>
+				<walk ground="8" />
+				<run ground="120" />
+			</speed>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="6" /> <!-- Humanoid -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>5</sNpcPropHpRate>
+		<ai aggroRange="300" clanHelpRange="200">
+			<clanList>
+				<clan>RIM</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<death>
+				<item id="960" min="1" max="1" chance="0.108279936" /> <!-- Scroll: Enchant Armor (S-Grade) -->
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="10" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="36" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Alacrity -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</death>
+		</dropLists>
+		<collision>
+			<radius normal="9" />
+			<height normal="29" />
+		</collision>
+	</npc>
+	<npc id="2082" level="82" type="L2Monster" name="Plague Kanabion" title="Doppler">
+		<!-- Confirmed H5 -->
+		<parameters>
+			<param name="MoveAroundSocial" value="160" />
+			<param name="MoveAroundSocial1" value="160" />
+			<param name="MoveAroundSocial2" value="160" />
+			<param name="IsAggressive" value="1" />
+			<param name="Aggressive_Time" value="1" />
+			<param name="Skill01_Probablity" value="3500" />
+			<param name="Type" value="0" />
+			<param name="PrivatesNorm" value="2081" /> <!-- Plague Kanabion -->
+			<param name="PrivatesSpA" value="2082" /> <!-- Plague Kanabion -->
+			<param name="PrivatesSpB" value="2083" /> <!-- Plague Kanabion -->
+			<param name="MyMakerName" value="inzone03_2111_80m1" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Skill01_ID" id="4032" level="8" /> <!-- NPC Strike -->
+			<skill name="Debuff" id="5719" level="1" /> <!-- Kamabion Susceptibility -->
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<acquire expRate="1.26075" sp="927" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3643.38976668326" hpRegen="8.5" mp="1743" mpRegen="3" />
+			<attack physical="1055.28566004965" magical="720.623302603812" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" default="0" />
+			</attribute>
+			<speed>
+				<walk ground="10" />
+				<run ground="120" />
+			</speed>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="14" /> <!-- Humanoid -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>5</sNpcPropHpRate>
+		<ai aggroRange="300" clanHelpRange="200">
+			<clanList>
+				<clan>RIM</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<death>
+				<item id="960" min="1" max="1" chance="0.108279936" /> <!-- Scroll: Enchant Armor (S-Grade) -->
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="10" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="36" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Alacrity -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</death>
+		</dropLists>
+		<collision>
+			<radius normal="9" />
+			<height normal="31.5" />
+		</collision>
+	</npc>
+	<npc id="2083" level="83" type="L2Monster" name="Plague Kanabion" title="Void">
+		<!-- Confirmed H5 -->
+		<parameters>
+			<param name="MoveAroundSocial" value="160" />
+			<param name="MoveAroundSocial1" value="160" />
+			<param name="MoveAroundSocial2" value="160" />
+			<param name="IsAggressive" value="1" />
+			<param name="Aggressive_Time" value="1" />
+			<param name="Skill01_Probablity" value="4500" />
+			<param name="Type" value="0" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="PrivatesNorm" value="2081" /> <!-- Plague Kanabion -->
+			<param name="PrivatesSpA" value="2082" /> <!-- Plague Kanabion -->
+			<param name="PrivatesSpB" value="2083" /> <!-- Plague Kanabion -->
+			<param name="MyMakerName" value="inzone03_2111_80m1" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Skill01_ID" id="4032" level="8" /> <!-- NPC Strike -->
+			<skill name="Debuff" id="5719" level="1" /> <!-- Kamabion Susceptibility -->
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire expRate="1.2916875" sp="961" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3835.59060587002" hpRegen="8.5" mp="1777.4" mpRegen="3" />
+			<attack physical="1099.42361669366" magical="750.763809564873" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="353.86144" magical="258.94045" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" default="0" />
+			</attribute>
+			<speed>
+				<walk ground="15" />
+				<run ground="120" />
+			</speed>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="6" /> <!-- Humanoid -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>5</sNpcPropHpRate>
+		<ai aggroRange="300" clanHelpRange="300">
+			<clanList>
+				<clan>RIM</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<death>
+				<item id="960" min="1" max="1" chance="0.123427072" /> <!-- Scroll: Enchant Armor (S-Grade) -->
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="10" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="36" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Alacrity -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</death>
+		</dropLists>
+		<collision>
+			<radius normal="10" />
+			<height normal="35" />
+		</collision>
+	</npc>
+</list>

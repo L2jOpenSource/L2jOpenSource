@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Dynasty Leather Helmet -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9429" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Gloves -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9430" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Boots -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9431" count="1" />
+	</item>
+	<!-- Dynasty Leather Leggings -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9428" count="1" />
+	</item>
+	<!-- Dynasty Leather Armor -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="10824" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor - Bow Master -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="10826" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor - Dagger Master -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="10825" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor - Weapon Master -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="10833" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor - Force Master -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="10832" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor - Enchanter -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="10834" count="1" />
+	</item>
+
+
+
+	<!-- Dynasty Leather Armor - Summoner -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="10835" count="1" />
+	</item>
+
+
+</list>

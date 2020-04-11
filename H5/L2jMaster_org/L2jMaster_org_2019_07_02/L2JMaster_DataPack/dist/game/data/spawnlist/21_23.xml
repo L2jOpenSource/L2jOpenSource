@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- giran09_npc2123_001 -->
+	<spawn zone="giran09_npc2123_00101">
+		<npc id="30958" x="44721" y="190698" z="-3626" heading="28672" respawnDelay="60" /> <!-- Galion -->
+	</spawn>
+	<!-- giran09_npc2123_02 -->
+	<spawn zone="giran09_npc2123_0201">
+		<npc id="30879" x="48564" y="186548" z="-3445" heading="42000" respawnDelay="60" /> <!-- Felton -->
+	</spawn>
+	<!-- giran09_npc2123_03 -->
+	<spawn zone="giran09_npc2123_0301">
+		<npc id="30878" x="47984" y="186832" z="-3445" heading="42000" respawnDelay="60" /> <!-- Angelina -->
+	</spawn>
+	<!-- giran09_npc2123_04 -->
+	<spawn zone="giran09_npc2123_0401">
+		<npc id="31573" x="48816" y="186240" z="-3484" heading="40000" respawnDelay="60" /> <!-- Monakan -->
+	</spawn>
+	<!-- ssq05_npc2123_01 -->
+	<spawn zone="ssq05_npc2123_0101">
+		<npc id="31121" x="46576" y="170304" z="-4977" heading="0" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq05_npc2123_02 -->
+	<spawn zone="ssq05_npc2123_0201">
+		<npc id="31115" x="45808" y="170304" z="-4979" heading="32500" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq05_npc2123_03 -->
+	<spawn zone="ssq05_npc2123_0301">
+		<npc id="31497" x="46327" y="170013" z="-4979" heading="16000" respawnDelay="60" /> <!-- Dimensional Gate Keeper -->
+	</spawn>
+	<!-- dion13_npc2123_001 -->
+	<spawn zone="dion13_npc2123_001m1">
+		<npc id="32243" x="36180" y="192030" z="-3752" heading="22276" respawnDelay="60" /> <!-- Cargo Box -->
+	</spawn>
+	<!-- t21_23_move_001 -->
+	<spawn zone="t21_23_move_001m1">
+		<npc id="32712" x="48158" y="186843" z="-3491" heading="45055" respawnDelay="60" /> <!-- Somulitan -->
+	</spawn>
+	<!-- dion14_2123_01 -->
+	<spawn zone="dion14_2123_01">
+		<npc id="20934" count="5" respawnDelay="32" /> <!-- Wasp Worker -->
+		<npc id="20935" count="6" respawnDelay="32" /> <!-- Wasp Leader -->
+		<npc id="20931" count="6" respawnDelay="32" /> <!-- Hatu Onyx Beast -->
+		<npc id="20932" count="6" respawnDelay="32" /> <!-- Hatu Crimson Bear -->
+		<npc id="20933" count="6" respawnDelay="32" /> <!-- Hatu Windsus -->
+	</spawn>
+	<!-- dion14_2123_02 -->
+	<spawn zone="dion14_2123_02">
+		<npc id="20935" count="3" respawnDelay="32" /> <!-- Wasp Leader -->
+		<npc id="20931" count="2" respawnDelay="32" /> <!-- Hatu Onyx Beast -->
+		<npc id="20932" count="2" respawnDelay="32" /> <!-- Hatu Crimson Bear -->
+		<npc id="20933" count="2" respawnDelay="32" /> <!-- Hatu Windsus -->
+	</spawn>
+	<!-- dion13_2123_01 -->
+	<spawn zone="dion13_2123_01">
+		<npc id="20939" count="7" respawnDelay="45" /> <!-- Tanor Silenos Warrior -->
+	</spawn>
+	<!-- dion13_2123_02 -->
+	<spawn zone="dion13_2123_02">
+		<npc id="20939" count="5" respawnDelay="45" /> <!-- Tanor Silenos Warrior -->
+		<npc id="20944" count="5" respawnDelay="45" /> <!-- Nightmare Lord -->
+	</spawn>
+	<!-- dion13_2123_03 -->
+	<spawn zone="dion13_2123_03">
+		<npc id="20944" count="4" respawnDelay="45" /> <!-- Nightmare Lord -->
+	</spawn>
+	<!-- ssq05_2123_ssq02 -->
+	<spawn zone="ssq05_2123_ssq02m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21240" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Overlord -->
+		<npc id="21241" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Priest -->
+		<npc id="21173" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lith Shaman -->
+		<npc id="21194" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Confessor -->
+	</spawn>
+	<!-- ssq05_2123_ssq03 -->
+	<spawn zone="ssq05_2123_ssq03m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21240" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Overlord -->
+		<npc id="21241" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Priest -->
+		<npc id="21173" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lith Shaman -->
+		<npc id="21194" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Confessor -->
+	</spawn>
+	<!-- ssq05_2123_ssq04 -->
+	<spawn zone="ssq05_2123_ssq04m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21240" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Overlord -->
+		<npc id="21241" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Priest -->
+		<npc id="21173" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lith Shaman -->
+		<npc id="21194" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Confessor -->
+	</spawn>
+	<!-- ssq05_2123_ssq05 -->
+	<spawn zone="ssq05_2123_ssq05m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21240" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Overlord -->
+		<npc id="21241" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Priest -->
+		<npc id="21173" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lith Shaman -->
+		<npc id="21194" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Confessor -->
+	</spawn>
+	<!-- ssq05_2123_ssq06 -->
+	<spawn zone="ssq05_2123_ssq06m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21240" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Overlord -->
+		<npc id="21241" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Priest -->
+		<npc id="21173" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lith Shaman -->
+		<npc id="21194" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Confessor -->
+	</spawn>
+	<!-- ssq05_2123_ssq07 -->
+	<spawn zone="ssq05_2123_ssq07m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21240" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Overlord -->
+		<npc id="21241" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Priest -->
+		<npc id="21173" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lith Shaman -->
+		<npc id="21194" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Confessor -->
+	</spawn>
+	<!-- ssq05_2123_ssq08 -->
+	<spawn zone="ssq05_2123_ssq08m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21240" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Overlord -->
+		<npc id="21241" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Priest -->
+		<npc id="21173" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lith Shaman -->
+		<npc id="21194" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Confessor -->
+	</spawn>
+	<!-- ssq05_2123_ssq09 -->
+	<spawn zone="ssq05_2123_ssq09m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21240" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Overlord -->
+		<npc id="21241" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Priest -->
+		<npc id="21173" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lith Shaman -->
+		<npc id="21194" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Confessor -->
+	</spawn>
+	<!-- ssq05_2123_ssq10 -->
+	<spawn zone="ssq05_2123_ssq10m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21240" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Overlord -->
+		<npc id="21241" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Priest -->
+		<npc id="21173" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lith Shaman -->
+		<npc id="21194" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Confessor -->
+	</spawn>
+	<!-- ssq05_2123_ssq11 -->
+	<spawn zone="ssq05_2123_ssq11m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21240" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Overlord -->
+		<npc id="21241" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Barrow Priest -->
+		<npc id="21173" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lith Shaman -->
+		<npc id="21194" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Confessor -->
+	</spawn>
+	<!-- ssq05_2123_ssq12 -->
+	<spawn zone="ssq05_2123_ssq12m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21242" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Grave Overlord -->
+		<npc id="21243" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Grave Priest -->
+		<npc id="21174" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lith Commander -->
+		<npc id="21195" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Commander -->
+	</spawn>
+	<!-- ssq05_2123_ssq13 -->
+	<spawn zone="ssq05_2123_ssq13m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21242" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Grave Overlord -->
+		<npc id="21243" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Grave Priest -->
+		<npc id="21174" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lith Commander -->
+		<npc id="21195" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Commander -->
+	</spawn>
+	<!-- ssq05_2123_ssq14 -->
+	<spawn zone="ssq05_2123_ssq14m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21242" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Grave Overlord -->
+		<npc id="21243" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Grave Priest -->
+		<npc id="21174" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lith Commander -->
+		<npc id="21195" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Commander -->
+	</spawn>
+	<!-- ssq05_2123_ssq15 -->
+	<spawn zone="ssq05_2123_ssq15m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21242" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Grave Overlord -->
+		<npc id="21243" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Grave Priest -->
+		<npc id="21174" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lith Commander -->
+		<npc id="21195" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Commander -->
+	</spawn>
+	<!-- ssq05_2123_ssq16 -->
+	<spawn zone="ssq05_2123_ssq16m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21242" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Grave Overlord -->
+		<npc id="21243" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Grave Priest -->
+		<npc id="21174" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lith Commander -->
+		<npc id="21195" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Commander -->
+	</spawn>
+	<!-- ssq05_2123_ssq17 -->
+	<spawn zone="ssq05_2123_ssq17m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21242" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Grave Overlord -->
+		<npc id="21243" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Grave Priest -->
+		<npc id="21174" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lith Commander -->
+		<npc id="21195" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Commander -->
+	</spawn>
+	<!-- ssq05_2123_ssq18 -->
+	<spawn zone="ssq05_2123_ssq18m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21242" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Grave Overlord -->
+		<npc id="21243" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Grave Priest -->
+		<npc id="21174" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lith Commander -->
+		<npc id="21195" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Commander -->
+	</spawn>
+	<!-- ssq05_2123_ssq19 -->
+	<spawn zone="ssq05_2123_ssq19m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21242" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Grave Overlord -->
+		<npc id="21243" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Grave Priest -->
+		<npc id="21174" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lith Commander -->
+		<npc id="21195" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Commander -->
+	</spawn>
+	<!-- ssq05_2123_ssq20 -->
+	<spawn zone="ssq05_2123_ssq20m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21242" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Grave Overlord -->
+		<npc id="21243" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Grave Priest -->
+		<npc id="21174" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lith Commander -->
+		<npc id="21195" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Gigant Commander -->
+	</spawn>
+	<!-- ssq05_2123_ssq21 -->
+	<spawn zone="ssq05_2123_ssq21m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21150" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Soldier -->
+		<npc id="21151" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Knight -->
+		<npc id="21176" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq05_2123_ssq23 -->
+	<spawn zone="ssq05_2123_ssq23m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21150" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Soldier -->
+		<npc id="21151" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Knight -->
+		<npc id="21176" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq05_2123_ssq24 -->
+	<spawn zone="ssq05_2123_ssq24m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21150" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Soldier -->
+		<npc id="21151" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Knight -->
+		<npc id="21176" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq05_2123_ssq25 -->
+	<spawn zone="ssq05_2123_ssq25m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21150" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Soldier -->
+		<npc id="21151" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Knight -->
+		<npc id="21176" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq05_2123_ssq26 -->
+	<spawn zone="ssq05_2123_ssq26m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21150" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Soldier -->
+		<npc id="21151" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Knight -->
+		<npc id="21176" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq05_2123_ssq27 -->
+	<spawn zone="ssq05_2123_ssq27m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21150" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Soldier -->
+		<npc id="21151" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Knight -->
+		<npc id="21176" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq05_2123_ssq28 -->
+	<spawn zone="ssq05_2123_ssq28m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21150" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Soldier -->
+		<npc id="21151" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Knight -->
+		<npc id="21176" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq05_2123_ssq29 -->
+	<spawn zone="ssq05_2123_ssq29m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21150" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Soldier -->
+		<npc id="21151" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Knight -->
+		<npc id="21176" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq05_2123_ssq30 -->
+	<spawn zone="ssq05_2123_ssq30m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21150" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Soldier -->
+		<npc id="21151" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Knight -->
+		<npc id="21176" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq05_2123_ssq31 -->
+	<spawn zone="ssq05_2123_ssq31m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21150" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Soldier -->
+		<npc id="21151" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Knight -->
+		<npc id="21176" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq05_2123_ssq32 -->
+	<spawn zone="ssq05_2123_ssq32m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21147" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Catacomb Gargoyle -->
+		<npc id="21149" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Pikeman -->
+		<npc id="21175" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Butcher -->
+		<npc id="21196" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Sentinel -->
+	</spawn>
+	<!-- ssq05_2123_ssq33 -->
+	<spawn zone="ssq05_2123_ssq33m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21147" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Catacomb Gargoyle -->
+		<npc id="21149" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Pikeman -->
+		<npc id="21175" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Butcher -->
+		<npc id="21196" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Sentinel -->
+	</spawn>
+	<!-- ssq05_2123_ssq34 -->
+	<spawn zone="ssq05_2123_ssq34m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21147" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Catacomb Gargoyle -->
+		<npc id="21149" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Pikeman -->
+		<npc id="21175" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Butcher -->
+		<npc id="21196" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Sentinel -->
+	</spawn>
+	<!-- ssq05_2123_ssq35 -->
+	<spawn zone="ssq05_2123_ssq35m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21147" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Catacomb Gargoyle -->
+		<npc id="21149" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Pikeman -->
+		<npc id="21175" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Butcher -->
+		<npc id="21196" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Sentinel -->
+	</spawn>
+	<!-- ssq05_2123_ssq36 -->
+	<spawn zone="ssq05_2123_ssq36m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21147" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Catacomb Gargoyle -->
+		<npc id="21149" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Pikeman -->
+		<npc id="21175" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Butcher -->
+		<npc id="21196" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Sentinel -->
+	</spawn>
+	<!-- ssq05_2123_ssq37 -->
+	<spawn zone="ssq05_2123_ssq37m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21147" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Catacomb Gargoyle -->
+		<npc id="21149" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Pikeman -->
+		<npc id="21175" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Butcher -->
+		<npc id="21196" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Sentinel -->
+	</spawn>
+	<!-- ssq05_2123_ssq38 -->
+	<spawn zone="ssq05_2123_ssq38m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21147" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Catacomb Gargoyle -->
+		<npc id="21149" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Pikeman -->
+		<npc id="21175" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Butcher -->
+		<npc id="21196" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Sentinel -->
+	</spawn>
+	<!-- ssq05_2123_ssq39 -->
+	<spawn zone="ssq05_2123_ssq39m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21147" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Catacomb Gargoyle -->
+		<npc id="21149" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Pikeman -->
+		<npc id="21175" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Butcher -->
+		<npc id="21196" count="1" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Sentinel -->
+	</spawn>
+	<!-- ssq05_2123_ssq40 -->
+	<spawn zone="ssq05_2123_ssq40m1">
+		<AIData>
+			<SSQTelPosX>42747</SSQTelPosX>
+			<SSQTelPosY>170767</SSQTelPosY>
+			<SSQTelPosZ>-3248</SSQTelPosZ>
+		</AIData>
+		<npc id="21147" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Catacomb Gargoyle -->
+		<npc id="21149" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Decayed Ancient Pikeman -->
+		<npc id="21175" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Lilim Butcher -->
+		<npc id="21196" count="2" respawnDelay="140" respawnRandom="40" /> <!-- Nephilim Sentinel -->
+	</spawn>
+</list>

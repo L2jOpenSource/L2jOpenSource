@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- giran03_npc2421_02 -->
+	<spawn zone="giran03_npc2421_0201">
+		<npc id="30755" x="131176" y="114676" z="-3718" heading="40960" respawnDelay="60" /> <!-- Theodric -->
+	</spawn>
+	<!-- giran04_npc2421_03 -->
+	<spawn zone="giran04_npc2421_0301">
+		<npc id="13001" x="154695" y="121097" z="-3757" heading="0" respawnDelay="60" /> <!-- Heart of Warding -->
+	</spawn>
+	<!-- giran04_npc2421_04 -->
+	<spawn zone="giran04_npc2421_0401">
+		<npc id="32864" x="117168" y="76834" z="-2688" heading="35672" respawnDelay="60" /> <!-- Separated Soul -->
+	</spawn>
+	<!-- giran04_npc2421_05 -->
+	<spawn zone="giran04_npc2421_0501">
+		<npc id="32870" x="73306" y="118423" z="-3704" heading="54054" respawnDelay="60" /> <!-- Separated Soul -->
+	</spawn>
+	<!-- giran04_npc2421_06 -->
+	<spawn zone="giran04_npc2421_0601">
+		<npc id="32865" x="99111" y="110361" z="-3688" heading="9540" respawnDelay="60" /> <!-- Separated Soul -->
+	</spawn>
+	<!-- giran04_npc2421_07 -->
+	<spawn zone="giran04_npc2421_0701">
+		<npc id="32866" x="116946" y="113555" z="-3056" heading="2002" respawnDelay="60" /> <!-- Separated Soul -->
+	</spawn>
+	<!-- giran04_npc2421_08 -->
+	<spawn zone="giran04_npc2421_0801">
+		<npc id="32867" x="113071" y="121043" z="-3712" heading="2002" respawnDelay="60" /> <!-- Separated Soul -->
+	</spawn>
+	<!-- giran04_npc2421_09 -->
+	<spawn zone="giran04_npc2421_0901">
+		<npc id="32891" x="131145" y="114182" z="-3704" heading="40960" respawnDelay="60" /> <!-- Separated Soul -->
+	</spawn>
+	<!-- giran04_npc2421_10 -->
+	<spawn zone="giran04_npc2421_1001">
+		<npc id="32869" x="146014" y="111226" z="-3560" heading="2366" respawnDelay="60" /> <!-- Separated Soul -->
+	</spawn>
+	<!-- giran04_npc2421_11 -->
+	<spawn zone="giran04_npc2421_1101">
+		<npc id="32868" x="148558" y="110541" z="-3944" heading="28938" respawnDelay="60" /> <!-- Separated Soul -->
+	</spawn>
+	<!-- giran05_2421_01 -->
+	<spawn zone="giran05_2421_01m1">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_02 -->
+	<spawn zone="giran05_2421_02m2">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_04 -->
+	<spawn zone="giran05_2421_04m3">
+		<npc id="22839" count="3" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22844" count="1" respawnDelay="600" /> <!-- Dragon Knight -->
+		<npc id="22840" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_11 -->
+	<spawn zone="giran05_2421_11m4">
+		<npc id="22839" count="3" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22840" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_12 -->
+	<spawn zone="giran05_2421_12m1">
+		<npc id="22839" count="3" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22840" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_13 -->
+	<spawn zone="giran05_2421_13m5">
+		<npc id="22839" count="4" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22838" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22844" count="1" respawnDelay="600" /> <!-- Dragon Knight -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_14 -->
+	<spawn zone="giran05_2421_14m7">
+		<npc id="22842" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Banshee -->
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22843" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_15 -->
+	<spawn zone="giran05_2421_15m8">
+		<npc id="22842" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Banshee -->
+		<npc id="22839" count="11" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22844" count="2" respawnDelay="600" /> <!-- Dragon Knight -->
+		<npc id="22843" count="4" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="5" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_16 -->
+	<spawn zone="giran05_2421_16m9">
+		<npc id="22842" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Banshee -->
+		<npc id="22839" count="4" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22843" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_17 -->
+	<spawn zone="giran05_2421_17m10">
+		<npc id="22844" count="2" respawnDelay="600" /> <!-- Dragon Knight -->
+		<npc id="22839" count="9" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="4" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="5" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_18 -->
+	<spawn zone="giran05_2421_18m11">
+		<npc id="22842" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Banshee -->
+		<npc id="22839" count="5" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22844" count="1" respawnDelay="600" /> <!-- Dragon Knight -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_20 -->
+	<spawn zone="giran05_2421_20m12">
+		<npc id="22842" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Banshee -->
+		<npc id="22839" count="9" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22844" count="1" respawnDelay="600" /> <!-- Dragon Knight -->
+		<npc id="22843" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="4" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_21 -->
+	<spawn zone="giran05_2421_21m13">
+		<npc id="22839" count="7" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22838" count="4" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22844" count="2" respawnDelay="600" /> <!-- Dragon Knight -->
+		<npc id="22840" count="4" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_22 -->
+	<spawn zone="giran05_2421_22m14">
+		<npc id="22839" count="4" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_23 -->
+	<spawn zone="giran05_2421_23m15">
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+	</spawn>
+	<!-- giran05_2421_24 -->
+	<spawn zone="giran05_2421_24m16">
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+	</spawn>
+	<!-- giran05_2421_25 -->
+	<spawn zone="giran05_2421_25m17">
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+	</spawn>
+	<!-- giran05_2421_26 -->
+	<spawn zone="giran05_2421_26m18">
+		<npc id="22844" count="2" respawnDelay="600" /> <!-- Dragon Knight -->
+		<npc id="22839" count="8" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="4" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="4" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_27 -->
+	<spawn zone="giran05_2421_27m19">
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+	</spawn>
+	<!-- giran05_2421_31 -->
+	<spawn zone="giran05_2421_31m20">
+		<npc id="22842" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Banshee -->
+		<npc id="22839" count="4" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_32 -->
+	<spawn zone="giran05_2421_32m21">
+		<npc id="22842" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Banshee -->
+		<npc id="22839" count="4" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_38 -->
+	<spawn zone="giran05_2421_38m22">
+		<npc id="22854" count="15" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karik -->
+		<npc id="22848" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22856" count="8" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karinness -->
+		<npc id="22855" count="8" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Berserker -->
+	</spawn>
+	<!-- giran05_2421_45 -->
+	<spawn zone="giran05_2421_45m23">
+		<npc id="22854" count="4" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karik -->
+		<npc id="22856" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karinness -->
+		<npc id="22855" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Berserker -->
+	</spawn>
+	<!-- giran05_2421_46 -->
+	<spawn zone="giran05_2421_46m24">
+		<npc id="22854" count="4" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karik -->
+		<npc id="22856" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karinness -->
+		<npc id="22855" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Berserker -->
+	</spawn>
+	<!-- giran05_2421_47 -->
+	<spawn zone="giran05_2421_47m25">
+		<npc id="22854" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karik -->
+		<npc id="22856" count="4" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karinness -->
+		<npc id="22855" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Berserker -->
+	</spawn>
+	<!-- giran05_2421_48 -->
+	<spawn zone="giran05_2421_48m26">
+		<npc id="22854" count="4" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karik -->
+		<npc id="22856" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karinness -->
+		<npc id="22855" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Berserker -->
+	</spawn>
+	<!-- giran05_2421_50 -->
+	<spawn zone="giran05_2421_50m27">
+		<npc id="22854" count="12" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karik -->
+		<npc id="22848" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22856" count="7" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karinness -->
+		<npc id="22855" count="6" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Berserker -->
+	</spawn>
+	<!-- giran05_2421_51 -->
+	<spawn zone="giran05_2421_51m28">
+		<npc id="22854" count="4" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karik -->
+		<npc id="22856" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Karinness -->
+		<npc id="22855" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Bloody Berserker -->
+	</spawn>
+	<!-- giran05_2421_53 -->
+	<spawn zone="giran05_2421_53m29">
+		<npc id="22842" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Banshee -->
+		<npc id="22839" count="7" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22844" count="1" respawnDelay="600" /> <!-- Dragon Knight -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="4" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_56 -->
+	<spawn zone="giran05_2421_56m30">
+		<npc id="22839" count="8" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22838" count="4" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22844" count="1" respawnDelay="600" /> <!-- Dragon Knight -->
+		<npc id="22840" count="4" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_58 -->
+	<spawn zone="giran05_2421_58m31">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22838" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22840" count="1" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_59 -->
+	<spawn zone="giran05_2421_59m32">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22838" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22840" count="1" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_61 -->
+	<spawn zone="giran05_2421_61m33">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="1" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_62 -->
+	<spawn zone="giran05_2421_62m34">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="1" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_63 -->
+	<spawn zone="giran05_2421_63m35">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="1" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_64 -->
+	<spawn zone="giran05_2421_64m36">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="1" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_65 -->
+	<spawn zone="giran05_2421_65m37">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="1" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_66 -->
+	<spawn zone="giran05_2421_66m38">
+		<npc id="22844" count="1" respawnDelay="600" /> <!-- Dragon Knight -->
+		<npc id="22839" count="5" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_68 -->
+	<spawn zone="giran05_2421_68m39">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+	</spawn>
+	<!-- giran05_2421_69 -->
+	<spawn zone="giran05_2421_69m40">
+		<npc id="22838" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+	</spawn>
+	<!-- giran05_2421_70 -->
+	<spawn zone="giran05_2421_70m41">
+		<npc id="22838" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_72 -->
+	<spawn zone="giran05_2421_72m42">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+	</spawn>
+	<!-- giran05_2421_73 -->
+	<spawn zone="giran05_2421_73m43">
+		<npc id="22838" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+	</spawn>
+	<!-- giran05_2421_80 -->
+	<spawn zone="giran05_2421_80m45">
+		<npc id="22839" count="3" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_81 -->
+	<spawn zone="giran05_2421_81m46">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="1" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_82 -->
+	<spawn zone="giran05_2421_82m47">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="1" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_83 -->
+	<spawn zone="giran05_2421_83m48">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22843" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Sniper -->
+		<npc id="22840" count="1" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_84 -->
+	<spawn zone="giran05_2421_84m49">
+		<npc id="22839" count="5" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22838" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22840" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_85 -->
+	<spawn zone="giran05_2421_85m50">
+		<npc id="22839" count="6" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22838" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22840" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_86 -->
+	<spawn zone="giran05_2421_86m51">
+		<npc id="22839" count="2" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22838" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_87 -->
+	<spawn zone="giran05_2421_87m52">
+		<npc id="22839" count="3" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22838" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_p87 -->
+	<spawn zone="giran05_2421_p87m53">
+		<npc id="22839" count="3" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22838" count="2" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22840" count="2" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_2421_p88 -->
+	<spawn zone="giran05_2421_p88m54">
+		<npc id="22839" count="4" respawnDelay="500" respawnRandom="300" /> <!-- Maluk Warlord -->
+		<npc id="22841" count="1" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Princess -->
+		<npc id="22838" count="3" respawnDelay="300" respawnRandom="200" /> <!-- Maluk Leader -->
+		<npc id="22840" count="3" respawnDelay="250" respawnRandom="175" /> <!-- Maluk Hunter -->
+	</spawn>
+	<!-- giran05_round1 -->
+	<!-- Unconfirmed Locations -->
+	<spawn zone="giran05_round1m1">
+		<npc id="22848" x="146738" y="113015" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="146616" y="112973" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="146301" y="112849" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="146726" y="112511" z="-3727" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="146773" y="112827" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="145953" y="112750" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="146538" y="112709" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="145983" y="112794" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="146247" y="112541" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="146438" y="112525" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="146101" y="112812" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="148611" y="121436" z="-4864" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="147008" y="112896" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="147259" y="112937" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="147107" y="112966" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="146801" y="112863" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="149261" y="119685" z="-4864" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="151768" y="115130" z="-5472" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="152029" y="120592" z="-3808" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="152264" y="119512" z="-3784" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22848" x="152698" y="119086" z="-3792" respawnDelay="300" respawnRandom="200" /> <!-- Drake Leader -->
+		<npc id="22849" x="145690" y="112729" z="-3727" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="145817" y="112579" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146231" y="112710" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146616" y="112973" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="147157" y="112590" z="-3715" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="145788" y="112866" z="-3727" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146144" y="112734" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146765" y="112305" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146797" y="112474" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146992" y="113055" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="145833" y="112769" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146402" y="112499" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146070" y="112691" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="147164" y="112855" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="145786" y="112924" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="147103" y="112724" z="-3705" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="145781" y="112722" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146131" y="112819" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146834" y="112460" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146430" y="112775" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146160" y="112600" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146836" y="112395" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146333" y="112682" z="-3727" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="145852" y="112757" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146092" y="112508" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146723" y="112599" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146834" y="112608" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146466" y="112825" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146796" y="112342" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146887" y="112458" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146519" y="112867" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146743" y="112884" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146333" y="112829" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="147142" y="112831" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146824" y="112976" z="-3727" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146342" y="112656" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="147039" y="112903" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="146205" y="112494" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="149287" y="119761" z="-4864" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="149331" y="119655" z="-4864" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="151692" y="115165" z="-5472" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="151918" y="115130" z="-5464" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="151959" y="120555" z="-3808" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="151980" y="120515" z="-3808" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="152024" y="120560" z="-3808" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="152264" y="119512" z="-3784" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="152698" y="119235" z="-3784" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22849" x="152760" y="119216" z="-3784" respawnDelay="300" respawnRandom="200" /> <!-- Drake Warrior -->
+		<npc id="22850" x="146886" y="112468" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="145999" y="112712" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="146335" y="112659" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="146806" y="112947" z="-3727" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="147082" y="112609" z="-3701" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="146706" y="112835" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="146322" y="112765" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="146062" y="112882" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="146885" y="112672" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="146741" y="112446" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="148504" y="121330" z="-4848" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="148553" y="121424" z="-4864" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="148659" y="121381" z="-4864" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="146660" y="112757" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="152264" y="119512" z="-3784" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="152605" y="119152" z="-3792" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22850" x="152648" y="119046" z="-3800" respawnDelay="300" respawnRandom="200" /> <!-- Drake Scout -->
+		<npc id="22851" x="146151" y="112645" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="146883" y="112753" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="146603" y="112946" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="145959" y="112794" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="146859" y="112482" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="146838" y="112955" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="146439" y="112836" z="-3725" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="149111" y="119685" z="-4864" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="149155" y="119791" z="-4864" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="151768" y="115279" z="-5472" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="151869" y="115209" z="-5472" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="152016" y="120566" z="-3808" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+		<npc id="22851" x="152264" y="119512" z="-3784" respawnDelay="300" respawnRandom="200" /> <!-- Drake Mage -->
+	</spawn>
+	<!-- giran05_dragon01 -->
+	<spawn zone="giran05_dragon01m61">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22852" x="147039" y="118789" z="-4000" heading="48300" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="146839" y="118859" z="-4000" heading="48300" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="146939" y="118819" z="-4000" heading="48300" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="147141" y="118737" z="-4000" heading="48300" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22853" x="146886" y="118959" z="-4152" heading="48300" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="147188" y="118837" z="-4144" heading="48300" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="146986" y="118919" z="-4152" heading="48300" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="147086" y="118889" z="-4152" heading="48300" respawnDelay="600" /> <!-- Dragon Mage -->
+	</spawn>
+	<!-- giran05_dragon02 -->
+	<spawn zone="giran05_dragon01m62">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22852" x="147393" y="120798" z="-4720" heading="47052" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="147122" y="120903" z="-4680" heading="47052" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="147212" y="120868" z="-4688" heading="47052" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="147302" y="120833" z="-4696" heading="47052" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22853" x="147150" y="120996" z="-4704" heading="47052" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="147240" y="120961" z="-4704" heading="47052" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="147330" y="120926" z="-4712" heading="47052" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="147421" y="120891" z="-4728" heading="47052" respawnDelay="600" /> <!-- Dragon Mage -->
+	</spawn>
+	<!-- giran05_dragon03 -->
+	<spawn zone="giran05_dragon01m63">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22852" x="151122" y="117942" z="-5112" heading="25136" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="151059" y="117870" z="-5112" heading="25136" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="150991" y="117931" z="-5088" heading="25136" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="151054" y="118003" z="-5088" heading="25136" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22853" x="151191" y="117880" z="-5136" heading="25136" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="151128" y="117808" z="-5128" heading="25136" respawnDelay="600" /> <!-- Dragon Mage -->
+	</spawn>
+	<!-- giran05_dragon04 -->
+	<spawn zone="giran05_dragon01m64">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22852" x="151884" y="117372" z="-5240" heading="25136" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="151770" y="117216" z="-5240" heading="25136" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="151827" y="117294" z="-5240" heading="25136" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="151941" y="117450" z="-5240" heading="25136" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="151997" y="117526" z="-5240" heading="25136" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22853" x="151966" y="117310" z="-5240" heading="25136" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="151909" y="117232" z="-5240" heading="25136" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="151852" y="117154" z="-5240" heading="25136" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="152023" y="117388" z="-5240" heading="25136" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="152079" y="117464" z="-5240" heading="25136" respawnDelay="600" /> <!-- Dragon Mage -->
+	</spawn>
+	<!-- giran05_dragon05 -->
+	<spawn zone="giran05_dragon01m65">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22852" x="152267" y="113779" z="-5520" heading="19142" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="152025" y="113651" z="-5512" heading="19142" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="151783" y="113523" z="-5520" heading="19142" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="152388" y="113845" z="-5520" heading="19142" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="151904" y="113587" z="-5512" heading="19142" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22852" x="152146" y="113715" z="-5512" heading="19142" respawnDelay="600" /> <!-- Dragon Guard -->
+		<npc id="22853" x="152216" y="113868" z="-5520" heading="19142" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="152337" y="113934" z="-5520" heading="19142" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="152095" y="113804" z="-5520" heading="19142" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="151974" y="113740" z="-5520" heading="19142" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="151853" y="113676" z="-5520" heading="19142" respawnDelay="600" /> <!-- Dragon Mage -->
+		<npc id="22853" x="151732" y="113612" z="-5520" heading="19142" respawnDelay="600" /> <!-- Dragon Mage -->
+	</spawn>
+	<!-- giran05_2421_p88 -->
+	<spawn zone="giran05_2421_p88m1">
+		<npc id="22857" x="140633" y="114472" z="-3725" heading="44315" respawnDelay="3000" respawnRandom="600" /> <!-- Knoriks -->
+	</spawn>
+	<!-- giran05_2421_p89 -->
+	<spawn zone="giran05_2421_p89m1">
+		<npc id="22857" x="147896" y="110033" z="-3941" heading="50191" respawnDelay="3000" respawnRandom="600" /> <!-- Knoriks -->
+	</spawn>
+	<!-- giran05_2421_p90 -->
+	<spawn zone="giran05_2421_p90m1">
+		<npc id="22857" x="142480" y="119635" z="-3916" heading="29350" respawnDelay="3000" respawnRandom="600" /> <!-- Knoriks -->
+	</spawn>
+	<!-- giran05_2421_p91 -->
+	<spawn zone="giran05_2421_p91m1">
+		<npc id="22857" x="143007" y="108951" z="-3948" heading="26923" respawnDelay="3000" respawnRandom="600" /> <!-- Knoriks -->
+	</spawn>
+	<!-- giran05_2421_p92 -->
+	<spawn zone="giran05_2421_p92m1">
+		<npc id="22857" x="152585" y="110480" z="-5524" heading="17587" respawnDelay="3000" respawnRandom="600" /> <!-- Knoriks -->
+	</spawn>
+	<!-- giran05_2421_p93 -->
+	<spawn zone="giran05_2421_p93m1">
+		<npc id="22857" x="146113" y="112674" z="-3720" heading="63739" respawnDelay="3000" respawnRandom="600" /> <!-- Knoriks -->
+	</spawn>
+	<!-- giran05_2421_p94 -->
+	<spawn zone="giran05_2421_p94m1">
+		<npc id="22857" x="146901" y="116472" z="-3698" heading="16515" respawnDelay="3000" respawnRandom="600" /> <!-- Knoriks -->
+	</spawn>
+	<!-- giran05_tb2421_01 -->
+	<spawn zone="giran05_tb2421_01m1">
+		<npc id="18286" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

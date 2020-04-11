@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<npcs>
+		<npc>31729</npc>
+		<npc>31730</npc>
+		<npc>31731</npc>
+		<npc>31732</npc>
+		<npc>31733</npc>
+		<npc>31734</npc>
+		<npc>31735</npc>
+		<npc>31736</npc>
+		<npc>31737</npc>
+		<npc>31738</npc>
+		<npc>31775</npc>
+		<npc>31776</npc>
+		<npc>31777</npc>
+		<npc>31778</npc>
+		<npc>31779</npc>
+		<npc>31780</npc>
+		<npc>31781</npc>
+		<npc>31782</npc>
+		<npc>31783</npc>
+		<npc>31784</npc>
+		<npc>31785</npc>
+		<npc>31786</npc>
+		<npc>31787</npc>
+		<npc>31788</npc>
+		<npc>31789</npc>
+		<npc>31790</npc>
+		<npc>31791</npc>
+		<npc>31792</npc>
+		<npc>31793</npc>
+		<npc>31794</npc>
+		<npc>31795</npc>
+		<npc>31796</npc>
+		<npc>31797</npc>
+		<npc>31798</npc>
+		<npc>31799</npc>
+		<npc>31800</npc>
+		<npc>31801</npc>
+		<npc>31802</npc>
+		<npc>31803</npc>
+		<npc>31804</npc>
+		<npc>31805</npc>
+		<npc>31806</npc>
+		<npc>31807</npc>
+		<npc>31808</npc>
+		<npc>31809</npc>
+		<npc>31810</npc>
+		<npc>31811</npc>
+		<npc>31812</npc>
+		<npc>31813</npc>
+		<npc>31814</npc>
+		<npc>31815</npc>
+		<npc>31816</npc>
+		<npc>31817</npc>
+		<npc>31818</npc>
+		<npc>31819</npc>
+		<npc>31820</npc>
+		<npc>31821</npc>
+		<npc>31822</npc>
+		<npc>31823</npc>
+		<npc>31824</npc>
+		<npc>31825</npc>
+		<npc>31826</npc>
+		<npc>31827</npc>
+		<npc>31828</npc>
+		<npc>31829</npc>
+		<npc>31830</npc>
+		<npc>31831</npc>
+		<npc>31832</npc>
+		<npc>31833</npc>
+		<npc>31834</npc>
+		<npc>31835</npc>
+		<npc>31836</npc>
+		<npc>31837</npc>
+		<npc>31838</npc>
+		<npc>31839</npc>
+		<npc>31840</npc>
+		<npc>31841</npc>
+		<npc>31991</npc>
+		<npc>31992</npc>
+		<npc>31993</npc>
+		<npc>31994</npc>
+		<npc>31995</npc>
+		<npc>32337</npc>
+		<npc>32338</npc>
+		<npc>32339</npc>
+		<npc>32340</npc>
+	</npcs>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="600" id="-100" />
+		<!-- Firework -->
+		<production count="1" id="6406" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="1200" id="-100" />
+		<!--  -->
+		<production count="1" id="6407" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="96000" id="-100" />
+		<!--  -->
+		<production count="1" id="7842" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="96000" id="-100" />
+		<!--  -->
+		<production count="1" id="7844" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="144000" id="-100" />
+		<!--  -->
+		<production count="1" id="8557" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="144000" id="-100" />
+		<!--  -->
+		<production count="1" id="8910" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9184" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9185" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9187" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9188" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9190" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9191" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9192" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9194" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9195" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9197" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9198" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9199" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9201" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9202" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="12000" id="-100" />
+		<!--  -->
+		<production count="1" id="9204" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="192000" id="-100" />
+		<!--  -->
+		<production count="1" id="12779" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="192000" id="-100" />
+		<!--  -->
+		<production count="1" id="12780" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="3500" id="-100" />
+		<!--  -->
+		<production count="1" id="15356" />
+	</item>
+	<item>
+		<!-- Pc Bang Point -->
+		<ingredient count="3000" id="-100" />
+		<!--  -->
+		<production count="1" id="15357" />
+	</item>
+</list>

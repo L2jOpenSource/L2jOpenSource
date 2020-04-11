@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- godard28_npc2316_02 -->
+	<zone name="godard28_npc2316_0201" type="NpcSpawnTerritory" shape="NPoly" minZ="-2380" maxZ="-2180">
+		<node X="106156" Y="-53892" />
+		<node X="106356" Y="-53892" />
+		<node X="106356" Y="-53692" />
+		<node X="106156" Y="-53692" />
+	</zone>
+	<!-- godard28_npc2316_03 -->
+	<zone name="godard28_npc2316_0301" type="NpcSpawnTerritory" shape="NPoly" minZ="-3816" maxZ="-3616">
+		<node X="125336" Y="-41064" />
+		<node X="125536" Y="-41064" />
+		<node X="125536" Y="-40864" />
+		<node X="125336" Y="-40864" />
+	</zone>
+	<!-- godard28_npc2316_04 -->
+	<zone name="godard28_npc2316_0401" type="NpcSpawnTerritory" shape="NPoly" minZ="-2476" maxZ="-2276">
+		<node X="106796" Y="-53876" />
+		<node X="106996" Y="-53876" />
+		<node X="106996" Y="-53676" />
+		<node X="106796" Y="-53676" />
+	</zone>
+	<!-- godard28_npc2316_05 -->
+	<zone name="godard28_npc2316_0501" type="NpcSpawnTerritory" shape="NPoly" minZ="-2488" maxZ="-2288">
+		<node X="107224" Y="-54692" />
+		<node X="107424" Y="-54692" />
+		<node X="107424" Y="-54492" />
+		<node X="107224" Y="-54492" />
+	</zone>
+	<!-- godard28_npc2316_06 -->
+	<zone name="godard28_npc2316_0601" type="NpcSpawnTerritory" shape="NPoly" minZ="-2432" maxZ="-2232">
+		<node X="107308" Y="-55508" />
+		<node X="107508" Y="-55508" />
+		<node X="107508" Y="-55308" />
+		<node X="107308" Y="-55308" />
+	</zone>
+	<!-- godard28_npc2316_07 -->
+	<zone name="godard28_npc2316_0701" type="NpcSpawnTerritory" shape="NPoly" minZ="-2448" maxZ="-2248">
+		<node X="107116" Y="-52868" />
+		<node X="107316" Y="-52868" />
+		<node X="107316" Y="-52668" />
+		<node X="107116" Y="-52668" />
+	</zone>
+	<!-- godard28_npc2316_08 -->
+	<zone name="godard28_npc2316_0801" type="NpcSpawnTerritory" shape="NPoly" minZ="-2444" maxZ="-2244">
+		<node X="107596" Y="-52196" />
+		<node X="107796" Y="-52196" />
+		<node X="107796" Y="-51996" />
+		<node X="107596" Y="-51996" />
+	</zone>
+	<!-- godard28_npc2316_09 -->
+	<zone name="godard28_npc2316_0901" type="NpcSpawnTerritory" shape="NPoly" minZ="-2732" maxZ="-2532">
+		<node X="109044" Y="-53504" />
+		<node X="109244" Y="-53504" />
+		<node X="109244" Y="-53304" />
+		<node X="109044" Y="-53304" />
+	</zone>
+	<!-- godard28_2316_01 -->
+	<zone name="godard28_2316_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4104" maxZ="-3604">
+		<node X="119096" Y="-40316" />
+		<node X="123696" Y="-39256" />
+		<node X="123536" Y="-36576" />
+		<node X="119224" Y="-38608" />
+	</zone>
+	<!-- godard28_2316_02 -->
+	<zone name="godard28_2316_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3744" maxZ="-2744">
+		<node X="118936" Y="-38012" />
+		<node X="121688" Y="-37072" />
+		<node X="121188" Y="-35024" />
+		<node X="117708" Y="-35732" />
+	</zone>
+	<!-- godard28_2316_03 -->
+	<zone name="godard28_2316_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3992" maxZ="-3492">
+		<node X="124916" Y="-38824" />
+		<node X="126036" Y="-39976" />
+		<node X="126892" Y="-37640" />
+		<node X="126444" Y="-36920" />
+		<node X="125380" Y="-36516" />
+		<node X="124660" Y="-37804" />
+	</zone>
+	<!-- godard28_2316_04 -->
+	<zone name="godard28_2316_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3756" maxZ="-3256">
+		<node X="126128" Y="-39936" />
+		<node X="127260" Y="-42892" />
+		<node X="129452" Y="-40184" />
+		<node X="128560" Y="-37904" />
+		<node X="126932" Y="-37804" />
+	</zone>
+	<!-- godard28_2316_05 -->
+	<zone name="godard28_2316_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3548" maxZ="-3048">
+		<node X="129676" Y="-47220" />
+		<node X="130668" Y="-45272" />
+		<node X="130564" Y="-43624" />
+		<node X="128764" Y="-43748" />
+		<node X="127848" Y="-45932" />
+	</zone>
+	<!-- godard28_2316_06 -->
+	<zone name="godard28_2316_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3548" maxZ="-3048">
+		<node X="128304" Y="-41748" />
+		<node X="130748" Y="-43528" />
+		<node X="130656" Y="-39664" />
+		<node X="129500" Y="-40288" />
+	</zone>
+	<!-- godard28_2316_07 -->
+	<zone name="godard28_2316_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3800" maxZ="-3300">
+		<node X="127724" Y="-59140" />
+		<node X="129360" Y="-59080" />
+		<node X="128600" Y="-54288" />
+		<node X="126556" Y="-56112" />
+		<node X="125508" Y="-57568" />
+		<node X="125800" Y="-58456" />
+	</zone>
+	<!-- godard28_2316_08 -->
+	<zone name="godard28_2316_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3664" maxZ="-3164">
+		<node X="122004" Y="-62016" />
+		<node X="123988" Y="-62268" />
+		<node X="125264" Y="-61420" />
+		<node X="126384" Y="-60096" />
+		<node X="125320" Y="-59544" />
+		<node X="123640" Y="-60244" />
+	</zone>
+	<!-- godard28_2316_09 -->
+	<zone name="godard28_2316_09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3288" maxZ="-2788">
+		<node X="117804" Y="-43304" />
+		<node X="118784" Y="-43980" />
+		<node X="119572" Y="-43060" />
+		<node X="119308" Y="-42008" />
+		<node X="117912" Y="-42408" />
+		<node X="119524" Y="-42868" />
+		<node X="121108" Y="-43564" />
+		<node X="121632" Y="-42596" />
+		<node X="121100" Y="-41548" />
+		<node X="119316" Y="-41708" />
+	</zone>
+	<!-- godard28_2316_11 -->
+	<zone name="godard28_2316_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3568" maxZ="-2876">
+		<node X="121020" Y="-43672" />
+		<node X="122928" Y="-43988" />
+		<node X="123704" Y="-42876" />
+		<node X="122144" Y="-42664" />
+		<node X="121568" Y="-42676" />
+		<node X="122168" Y="-42628" />
+		<node X="123736" Y="-42864" />
+		<node X="124948" Y="-42028" />
+		<node X="124084" Y="-41380" />
+		<node X="122636" Y="-41140" />
+		<node X="121100" Y="-41564" />
+		<node X="122884" Y="-44060" />
+		<node X="124656" Y="-44584" />
+		<node X="125040" Y="-43924" />
+		<node X="124752" Y="-43580" />
+		<node X="124780" Y="-42768" />
+		<node X="124132" Y="-42400" />
+	</zone>
+	<!-- godard28_2316_14 -->
+	<zone name="godard28_2316_14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3028" maxZ="-2720">
+		<node X="122560" Y="-45296" />
+		<node X="123236" Y="-45048" />
+		<node X="123552" Y="-44272" />
+		<node X="122892" Y="-44056" />
+		<node X="122492" Y="-44936" />
+		<node X="122492" Y="-44936" />
+		<node X="122108" Y="-46064" />
+		<node X="123012" Y="-46848" />
+		<node X="123472" Y="-45692" />
+		<node X="123252" Y="-45088" />
+		<node X="122168" Y="-45524" />
+		<node X="124104" Y="-47884" />
+		<node X="124712" Y="-47920" />
+		<node X="124532" Y="-46772" />
+		<node X="123460" Y="-46004" />
+		<node X="123136" Y="-46676" />
+	</zone>
+	<!-- godard28_2316_16 -->
+	<zone name="godard28_2316_16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2924" maxZ="-2424">
+		<node X="120748" Y="-47848" />
+		<node X="121876" Y="-47012" />
+		<node X="121728" Y="-46388" />
+		<node X="122100" Y="-46088" />
+		<node X="121788" Y="-44864" />
+		<node X="120156" Y="-45104" />
+		<node X="118564" Y="-46792" />
+		<node X="120352" Y="-46104" />
+		<node X="120184" Y="-45376" />
+		<node X="119708" Y="-45716" />
+		<node X="118980" Y="-45524" />
+		<node X="118488" Y="-46192" />
+		<node X="119120" Y="-47492" />
+		<node X="120720" Y="-47840" />
+		<node X="120508" Y="-46604" />
+		<node X="119892" Y="-46924" />
+		<node X="119408" Y="-46460" />
+		<node X="118776" Y="-46712" />
+	</zone>
+	<!-- godard28_2316_19 -->
+	<zone name="godard28_2316_19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3800" maxZ="-3500">
+		<node X="116957" Y="-41279" />
+		<node X="117041" Y="-41945" />
+		<node X="118317" Y="-40974" />
+		<node X="117890" Y="-40538" />
+	</zone>
+	<!-- godard28_2316_20 -->
+	<zone name="godard28_2316_20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3752" maxZ="-3452">
+		<node X="115776" Y="-43896" />
+		<node X="116996" Y="-44364" />
+		<node X="116604" Y="-42840" />
+		<node X="116260" Y="-42856" />
+		<node X="117076" Y="-46868" />
+		<node X="117508" Y="-46788" />
+		<node X="117544" Y="-45224" />
+		<node X="116892" Y="-44452" />
+		<node X="117172" Y="-48520" />
+		<node X="118148" Y="-48260" />
+		<node X="117540" Y="-46968" />
+		<node X="117212" Y="-46896" />
+	</zone>
+	<!-- godard28_2316_23 -->
+	<zone name="godard28_2316_23m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3520" maxZ="-3220">
+		<node X="117256" Y="-50060" />
+		<node X="118332" Y="-50652" />
+		<node X="119112" Y="-49484" />
+		<node X="118784" Y="-48884" />
+		<node X="118124" Y="-48328" />
+		<node X="117180" Y="-48568" />
+		<node X="118352" Y="-50656" />
+		<node X="120704" Y="-50660" />
+		<node X="121204" Y="-49084" />
+		<node X="120116" Y="-49132" />
+		<node X="119660" Y="-49564" />
+		<node X="119084" Y="-49572" />
+		<node X="120704" Y="-50700" />
+		<node X="121316" Y="-51004" />
+		<node X="122004" Y="-49892" />
+		<node X="121776" Y="-49548" />
+		<node X="122560" Y="-48788" />
+		<node X="122048" Y="-48668" />
+		<node X="121252" Y="-48992" />
+	</zone>
+	<!-- godard28_2316_27 -->
+	<zone name="godard28_2316_27m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2652" maxZ="-2352">
+		<node X="122972" Y="-50708" />
+		<node X="125716" Y="-51940" />
+		<node X="126492" Y="-50964" />
+		<node X="125936" Y="-50216" />
+		<node X="124528" Y="-49168" />
+	</zone>
+	<!-- godard28_2316_28 -->
+	<zone name="godard28_2316_28m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2552" maxZ="-2252">
+		<node X="123552" Y="-53628" />
+		<node X="124492" Y="-53504" />
+		<node X="125296" Y="-52960" />
+		<node X="125616" Y="-51960" />
+		<node X="123216" Y="-50932" />
+		<node X="122408" Y="-51396" />
+		<node X="121880" Y="-52816" />
+	</zone>
+	<!-- godard28_2316_29 -->
+	<zone name="godard28_2316_29m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2544" maxZ="-2244">
+		<node X="120516" Y="-53316" />
+		<node X="121928" Y="-55124" />
+		<node X="123536" Y="-53636" />
+		<node X="121912" Y="-52904" />
+	</zone>
+	<!-- godard28_2316_30 -->
+	<zone name="godard28_2316_30m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2372" maxZ="-1872">
+		<node X="120772" Y="-59060" />
+		<node X="122100" Y="-58444" />
+		<node X="122256" Y="-56892" />
+		<node X="121844" Y="-55200" />
+		<node X="119080" Y="-57752" />
+		<node X="119548" Y="-58736" />
+	</zone>
+	<!-- godard28_2316_31 -->
+	<zone name="godard28_2316_31m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2568" maxZ="-2068">
+		<node X="117996" Y="-57524" />
+		<node X="119056" Y="-57688" />
+		<node X="121848" Y="-55132" />
+		<node X="120392" Y="-53292" />
+		<node X="119164" Y="-52536" />
+		<node X="118088" Y="-53480" />
+		<node X="117560" Y="-55232" />
+		<node X="116124" Y="-51164" />
+		<node X="118248" Y="-53360" />
+		<node X="119052" Y="-52624" />
+		<node X="117012" Y="-51372" />
+	</zone>
+	<!-- godard28_2316_33 -->
+	<zone name="godard28_2316_33m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2684" maxZ="-2384">
+		<node X="114060" Y="-50088" />
+		<node X="115856" Y="-49972" />
+		<node X="115568" Y="-46660" />
+		<node X="113788" Y="-46812" />
+		<node X="112640" Y="-48192" />
+		<node X="112824" Y="-49300" />
+	</zone>
+	<!-- godard28_2316_34 -->
+	<zone name="godard28_2316_34m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2856" maxZ="-2556">
+		<node X="114136" Y="-46652" />
+		<node X="115524" Y="-46552" />
+		<node X="114984" Y="-44768" />
+		<node X="114356" Y="-43620" />
+		<node X="113332" Y="-43404" />
+		<node X="112972" Y="-44508" />
+	</zone>
+	<!-- godard28_2316_35 -->
+	<zone name="godard28_2316_35m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2832" maxZ="-2532">
+		<node X="113344" Y="-43440" />
+		<node X="114316" Y="-43544" />
+		<node X="115416" Y="-41764" />
+		<node X="113772" Y="-40800" />
+	</zone>
+	<!-- godard28_2316_37 -->
+	<zone name="godard28_2316_37m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2616" maxZ="-2296">
+		<node X="111408" Y="-44200" />
+		<node X="113000" Y="-44384" />
+		<node X="113252" Y="-43612" />
+		<node X="111312" Y="-43596" />
+		<node X="110464" Y="-43380" />
+		<node X="110736" Y="-43268" />
+		<node X="110184" Y="-41564" />
+		<node X="110004" Y="-42096" />
+		<node X="110468" Y="-44320" />
+		<node X="110932" Y="-44776" />
+		<node X="111388" Y="-44196" />
+		<node X="111244" Y="-43508" />
+		<node X="110584" Y="-43320" />
+	</zone>
+	<!-- godard28_2316_44 -->
+	<zone name="godard28_2316_44m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2744" maxZ="-2244">
+		<node X="114616" Y="-56004" />
+		<node X="117044" Y="-56132" />
+		<node X="117016" Y="-55648" />
+		<node X="114732" Y="-55580" />
+	</zone>
+	<!-- godard28_2316_45 -->
+	<!-- godard28_2316_46 -->
+	<zone name="godard28_2316_45m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2884" maxZ="-2396">
+		<node X="112288" Y="-57184" />
+		<node X="114172" Y="-55928" />
+		<node X="113928" Y="-54600" />
+		<node X="112492" Y="-53628" />
+		<node X="112288" Y="-57184" />
+		<node X="114172" Y="-55928" />
+		<node X="113928" Y="-54600" />
+		<node X="112492" Y="-53628" />
+		<node X="109892" Y="-56348" />
+		<node X="111880" Y="-58016" />
+		<node X="112276" Y="-57280" />
+		<node X="112380" Y="-54016" />
+		<node X="110816" Y="-52704" />
+		<node X="109856" Y="-53576" />
+		<node X="109892" Y="-56348" />
+		<node X="111880" Y="-58016" />
+		<node X="112276" Y="-57280" />
+		<node X="112380" Y="-54016" />
+		<node X="110816" Y="-52704" />
+		<node X="109856" Y="-53576" />
+	</zone>
+	<!-- godard28_2316_47 -->
+	<zone name="godard28_2316_47m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2300" maxZ="-1800">
+		<node X="107008" Y="-49228" />
+		<node X="107888" Y="-49692" />
+		<node X="108652" Y="-49516" />
+		<node X="109368" Y="-47032" />
+		<node X="108052" Y="-45708" />
+		<node X="106732" Y="-46076" />
+		<node X="106596" Y="-48252" />
+		<node X="108932" Y="-45768" />
+		<node X="109284" Y="-46396" />
+		<node X="110560" Y="-44864" />
+		<node X="110460" Y="-44776" />
+	</zone>
+	<!-- godard28_2316_55 -->
+	<zone name="godard28_2316_55m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3348" maxZ="-2948">
+		<node X="114284" Y="-36128" />
+		<node X="116924" Y="-35608" />
+		<node X="116664" Y="-35160" />
+		<node X="114484" Y="-35584" />
+	</zone>
+	<!-- godard28_2316_56 -->
+	<zone name="godard28_2316_56m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3408" maxZ="-3008">
+		<node X="113184" Y="-37460" />
+		<node X="113400" Y="-37316" />
+		<node X="113520" Y="-36912" />
+		<node X="112408" Y="-36592" />
+	</zone>
+	<!-- godard28_2316_57 -->
+	<zone name="godard28_2316_57m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3464" maxZ="-3164">
+		<node X="111528" Y="-39584" />
+		<node X="111948" Y="-40192" />
+		<node X="112340" Y="-38348" />
+		<node X="111612" Y="-39068" />
+	</zone>
+	<!-- godard28_2316_58 -->
+	<zone name="godard28_2316_58m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3492" maxZ="-3192">
+		<node X="111544" Y="-42400" />
+		<node X="112324" Y="-42568" />
+		<node X="112260" Y="-40700" />
+		<node X="111792" Y="-40592" />
+	</zone>
+	<!-- godard31_2316_01 -->
+	<zone name="godard31_2316_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2991" maxZ="-2091">
+		<node X="102600" Y="-60384" />
+		<node X="106197" Y="-62454" />
+		<node X="106800" Y="-61399" />
+		<node X="102685" Y="-59341" />
+	</zone>
+	<!-- godard31_2316_02 -->
+	<zone name="godard31_2316_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2991" maxZ="-2091">
+		<node X="99675" Y="-61142" />
+		<node X="102570" Y="-60389" />
+		<node X="102746" Y="-59461" />
+		<node X="99044" Y="-59691" />
+	</zone>
+	<!-- godard28_tb2316_01 -->
+	<zone name="godard28_tb01_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3548" maxZ="-3048">
+		<node X="119096" Y="-40316" />
+		<node X="123696" Y="-39256" />
+		<node X="123536" Y="-36576" />
+		<node X="119224" Y="-38608" />
+		<node X="124916" Y="-38824" />
+		<node X="126036" Y="-39976" />
+		<node X="126892" Y="-37640" />
+		<node X="126444" Y="-36920" />
+		<node X="125380" Y="-36516" />
+		<node X="124660" Y="-37804" />
+		<node X="129676" Y="-47220" />
+		<node X="130668" Y="-45272" />
+		<node X="130564" Y="-43624" />
+		<node X="128764" Y="-43748" />
+		<node X="127848" Y="-45932" />
+		<node X="128304" Y="-41748" />
+		<node X="130748" Y="-43528" />
+		<node X="130656" Y="-39664" />
+		<node X="129500" Y="-40288" />
+		<node X="127724" Y="-59140" />
+		<node X="129360" Y="-59080" />
+		<node X="128600" Y="-54288" />
+		<node X="126556" Y="-56112" />
+		<node X="125508" Y="-57568" />
+		<node X="125800" Y="-58456" />
+	</zone>
+	<!-- godard28_tb2316_12 -->
+	<zone name="godard28_tb08_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2372" maxZ="-1872">
+		<node X="122168" Y="-42628" />
+		<node X="123736" Y="-42864" />
+		<node X="124948" Y="-42028" />
+		<node X="124084" Y="-41380" />
+		<node X="122636" Y="-41140" />
+		<node X="121100" Y="-41564" />
+		<node X="120748" Y="-47848" />
+		<node X="121876" Y="-47012" />
+		<node X="121728" Y="-46388" />
+		<node X="122100" Y="-46088" />
+		<node X="121788" Y="-44864" />
+		<node X="120156" Y="-45104" />
+		<node X="117256" Y="-50060" />
+		<node X="118332" Y="-50652" />
+		<node X="119112" Y="-49484" />
+		<node X="118784" Y="-48884" />
+		<node X="118124" Y="-48328" />
+		<node X="117180" Y="-48568" />
+		<node X="122972" Y="-50708" />
+		<node X="125716" Y="-51940" />
+		<node X="126492" Y="-50964" />
+		<node X="125936" Y="-50216" />
+		<node X="124528" Y="-49168" />
+		<node X="120772" Y="-59060" />
+		<node X="122100" Y="-58444" />
+		<node X="122256" Y="-56892" />
+		<node X="121844" Y="-55200" />
+		<node X="119080" Y="-57752" />
+		<node X="119548" Y="-58736" />
+	</zone>
+</list>

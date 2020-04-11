@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+<question id = "1" ask = "Which planet is closest to the sun?" answer1 = "Venus" answer2 = "Earth" answer3 = "Mercury" correct = "3" />
+<question id = "2" ask = "How is the number 9 written in Roman numerals? " answer1 = "X" answer2 = "IX" answer3 = "VII" correct = "2" />
+<question id = "3" ask = " What creatures body does the Sphinx have? " answer1 = "Eagle" answer2 = "Fox" answer3 = "Lion" correct = "3" />
+<question id = "4" ask = "In what country is the Taj Mahal" answer1 = "India" answer2 = "China" answer3 = "Mongolia" correct = "1" />
+<question id = "5" ask = "What are the three primary colours in white light? " answer1 = "Red, Blue, Yellow" answer2 = "Blue, Yellow, Red" answer3 = "Red, Green, Blue" correct = "3" />
+<question id = "6" ask = "What would a cartographer make?" answer1 = "Carbon" answer2 = "Maps" answer3 = "Engines" correct = "2" />
+<question id = "7" ask = "What is the wife of a Sultan called" answer1 = "Sultaness" answer2 = "Soultana" answer3 = "Sultana" correct = "3" />
+<question id = "8" ask = "Where is Madison square garden" answer1 = "New York" answer2 = "Los Angeles" answer3 = "London" correct = "1" />
+<question id = "9" ask = "In golf, how long may you look for a ball before it is declared lost?" answer1 = "5 minutes" answer2 = "2 minutes" answer3 = "There is no such thing" correct = "1" />
+<question id = "10" ask = "What is the only bird from which leather can be obtained?" answer1 = "Platypus" answer2 = "Ostrich" answer3 = "Canary" correct = "1" />
+<question id = "11" ask = "TWhich country is the largest producer of cheese?" answer1 = "France" answer2 = "USA" answer3 = "Australia" correct = "2" />
+<question id = "12" ask = "What was Mark Twains real name?" answer1 = "Mark Samuel Twain" answer2 = "Samuel Twain" answer3 = "Samuel Clemens" correct = "3" />
+<question id = "13" ask = " In Morse Code, which letter is represented by a single dot?" answer1 = "E" answer2 = "B" answer3 = "I" correct = "1" />
+<question id = "14" ask = "What is the tallest existing mammal?" answer1 = "Elephant" answer2 = "Dolphin" answer3 = "Giraffe" correct = "3" />
+<question id = "15" ask = "What is the highest mountain in Africa?" answer1 = "Everest" answer2 = "Cape Cod" answer3 = "Kilimanjaro" correct = "3" />
+<question id = "16" ask = " What is the currency of China?" answer1 = "Yen" answer2 = "Rupee" answer3 = "Renminbi" correct = "3" />
+<question id = "17" ask = "Which manufacturer produced the first production line car?" answer1 = "Aston Martin" answer2 = "Ford" answer3 = "Opel" correct = "2" />
+<question id = "18" ask = "What's inside corn that makes it pop?" answer1 = "Pressurised air" answer2 = "Maize" answer3 = "Water" correct = "3" />
+<question id = "19" ask = "What is a Monkey Puzzle?" answer1 = "A plant" answer2 = "A food type" answer3 = "A tree" correct = "3" />
+<question id = "20" ask = " In which sport do competitors use a mallet?" answer1 = "Cricket" answer2 = "Croquet" answer3 = "Bowling" correct = "2" />
+<question id = "21" ask = "Who was the first president of United States of America" answer1 = "George Washington" answer2 = "George W Bush" answer3 = "John F Kenedy" correct = "1" />
+<question id = "22" ask = "Sardines and pilchards belong to which family of fish?" answer1 = "mussels" answer2 = "heering" answer3 = "anchovy" correct = "2" />
+<question id = "23" ask = "Which European country is the worlds most visited country?" answer1 = "Spain" answer2 = "Holland" answer3 = "France" correct = "3" />
+<question id = "24" ask = "What do Sumo wrestlers throw into the ring prior to a match?" answer1 = "Salt" answer2 = "Rice" answer3 = "Sweat" correct = "1" />
+<question id = "25" ask = "What is the only fruit that grows its seeds on the outside?" answer1 = "blackberry" answer2 = "strawberry" answer3 = "berry" correct = "2" />
+<question id = "26" ask = "What is a baby rabbit called?" answer1 = "Kitten" answer2 = "Mitten" answer3 = "Calf" correct = "1" />
+<question id = "27" ask = "Which drug is named after the Greek god of dreams?" answer1 = "morphine" answer2 = "anphetamine" answer3 = "metadone" correct = "1" />
+<question id = "28" ask = "What is the name given to the back of a ship? " answer1 = "The ster" answer2 = "The stern" answer3 = "The lung" correct = "2" />
+<question id = "29" ask = "What is the staple food of one third of the worlds population?" answer1 = "Potato" answer2 = "Rice" answer3 = "Fish" correct = "2" />
+<question id = "30" ask = "What was Al Capone arrested for?" answer1 = "Crime" answer2 = "Tax evasion" answer3 = "Money launder" correct = "2" />
+<question id = "31" ask = "What is television’s equivalent of the Oscar?" answer1 = "Grammy" answer2 = "Emmy" answer3 = "Pulitzer" correct = "2" />
+<question id = "32" ask = "Name the largest fresh water lake in the world?" answer1 = "Lake Superior" answer2 = "Lake Vostok" answer3 = "Baikal" correct = "1" />
+<question id = "33" ask = "Which is the largest country in South America?" answer1 = "Brazil" answer2 = "Chile" answer3 = "Argentina" correct = "1" />
+<question id = "34" ask = "What is kaolin also known as?" answer1 = "Soup day" answer2 = "Labour day" answer3 = "China Day" correct = "3" />
+<question id = "35" ask = "The longest highway in the world has a length of" answer1 = "800km" answer2 = "5400km" answer3 = "8000km" correct = "3" />
+<question id = "36" ask = "What is the common name for ascorbic acid?" answer1 = "Petrol" answer2 = "Salt" answer3 = "Vitamin C" correct = "3" />
+<question id = "37" ask = "Who topped Forbes list of 'Billionaire Universities'?" answer1 = "Oxford" answer2 = "Harvard" answer3 = "Cambridge" correct = "2" />
+<question id = "38" ask = "How many points do you get for a touchdown in American football?" answer1 = "5" answer2 = "6" answer3 = "3" correct = "2" />
+<question id = "39" ask = "In which sport is the winner the person with the lowest score?" answer1 = "Bowling" answer2 = "Dartz" answer3 = "Golf" correct = "3" />
+<question id = "40" ask = "What was a ruler called in ancient Egypt?" answer1 = "A sultan" answer2 = "A maharaja" answer3 = "A pharaoh" correct = "3" />
+<question id = "41" ask = "What famous woman was nicknamed 'The Iron Lady'?" answer1 = "Angela Merkel" answer2 = "Margaret Thatcher" answer3 = "Hillary Clinton" correct = "2" />
+<question id = "42" ask = "Which of the five senses develops first?" answer1 = "Smell" answer2 = "Sight" answer3 = "Touch" correct = "1" />
+<question id = "43" ask = "What do the rings on the Olympic Games symbol represent?" answer1 = "All human races" answer2 = "Hoola-Hoops" answer3 = "The continents" correct = "3" /> 
+<question id = "44" ask = "Which sport is known as the Sport of Kings?" answer1 = "Golf" answer2 = "Pool" answer3 = "Equitation" correct = "3" />
+<question id = "45" ask = " Which country has the most football clubs?" answer1 = "England" answer2 = "Spain" answer3 = "South Africa" correct = "3" />
+<question id = "46" ask = "Which county is Santiago the capital of?" answer1 = "Chile" answer2 = "Venezuela" answer3 = "Peru" correct = "1" />
+<question id = "47" ask = "Which sea separates Egypt from Saudi Arabia?" answer1 = "Dead Sea" answer2 = "Black Sea" answer3 = "Red Sea" correct = "3" />
+<question id = "48" ask = "Who is considered the father of geometry?" answer1 = "Socrates" answer2 = "Euclid" answer3 = "Phytagoras" correct = "2" />
+<question id = "49" ask = "Who is the author of Pride and Prejudice?" answer1 = "Agatha Christie" answer2 = "William Shakespeare" answer3 = "Jane Austen" correct = "3" />
+<question id = "50" ask = "In which city did the Russian Revolution start?" answer1 = "Volgograd" answer2 = "Moscow" answer3 = "St.Petersburg" correct = "3" />
+<question id = "51" ask = "Who wrote the plays Hamlet and Macbeth?" answer1 = "William Shakespeare" answer2 = "William Blake" answer3 = "Edgar Alan Poe" correct = "1" />
+<question id = "52" ask = "What is the highest mountain in the Alps?" answer1 = "Mont Blank" answer2 = "Mont Blanc" answer3 = "Mont Blanck" correct = "2" />
+<question id = "53" ask = "How many counties are there in Ulster?" answer1 = "7" answer2 = "9" answer3 = "4" correct = "2" />
+<question id = "54" ask = "What is the centre of a hurricane called?" answer1 = "Eye" answer2 = "Vortex" answer3 = "Centre" correct = "1" />
+<question id = "55" ask = "What were the trains called by the American Indians?" answer1 = "The Iron Machine" answer2 = "The Iron Horse" answer3 = "The Iron Transport" correct = "2" />
+<question id = "56" ask = "NaCl is the chemical name for sodium chloride By what name is it better known?" answer1 = "Sodium chloride" answer2 = "Salt" answer3 = "Chloride of sodium" correct = "2" />
+<question id = "57" ask = "Which famous statesman founded Fianna Fail?" answer1 = "Eamon de Valera" answer2 = "It was never found" answer3 = "Emon de Valera" correct = "1" />
+<question id = "58" ask = "What kind of pet pig is actually a rodent?" answer1 = "There is no such pig" answer2 = "A boar" answer3 = "A Guinea pig" correct = "3" />
+<question id = "59" ask = "He discovered  Penicillin in 1928 and was awarded the Nobel prize for medicine in 1945 Who was he?" answer1 = "Sir Alexander Fleming" answer2 = "Louis Pasteur" answer3 = "Pierre Curie" correct = "1" />
+<question id = "60" ask = "What do you call a trench dug around a castle for protection?" answer1 = "A dug" answer2 = "A moat" answer3 = "A dam" correct = "2" />
+<question id = "61" ask = "What does a barometer measure?" answer1 = "Air pressure" answer2 = "Water pressure" answer3 = "Gas pressure" correct = "1" />
+<question id = "62" ask = "What do you call a small river that joins a large river?" answer1 = "A chain" answer2 = "A joint" answer3 = "A tributary" correct = "3" />
+<question id = "63" ask = "What does PROCRASTINATE mean" answer1 = "It means to delay or put off" answer2 = "It means to book for a flight" answer3 = "It means to book for a hotel room" correct = "1" />
+<question id = "64" ask = "What is Gold Spear a variety of" answer1 = "Charley" answer2 = "Barley" answer3 = "Darley" correct = "2" />
+<question id = "65" ask = "What is Kerr Pinks a variety of" answer1 = "Potatoes" answer2 = "Tomatoes" answer3 = "Carrots" correct = "1" />
+<question id = "66" ask = "Who wrote the song Auld Lang  Syre" answer1 = "Robert James" answer2 = "Richard Burns" answer3 = "Robert Burns" correct = "3" />
+<question id = "67" ask = "What is a Copperhead" answer1 = "A venomous North American bee" answer2 = "A venomous North American spider" answer3 = "A venomous North American snake" correct = "3" />
+<question id = "68" ask = "In Spain who or what is a Hidalgo" answer1 = "A Spanish Count" answer2 = "A Spanish Nobleman" answer3 = "A Spanish child" correct = "2" />
+<question id = "69" ask = "What is the capital of Albania" answer1 = "Tirana" answer2 = "Skopje" answer3 = "Paris" correct = "1" />
+<question id = "70" ask = "What is the capital of Equador" answer1 = "Pretoria" answer2 = "Liberia" answer3 = "Quito" correct = "3" />
+<question id = "71" ask = "The first Governor General of the Irish Free state was from Bantry" answer1 = "Tim Burton" answer2 = "Edgar Mitchell" answer3 = "Tim Healy" correct = "3" />
+<question id = "72" ask = "In what year did the attack take place on Pearl Harbour" answer1 = "1941 Dec 7" answer2 = "1941 Feb 12" answer3 = "1942 Ian 3" correct = "1" />
+<question id = "73" ask = "What is the most southern tip of Ireland" answer1 = "Barleycove" answer2 = "Mizen Head" answer3 = "Ojos del Salado" correct = "2" />
+<question id = "74" ask = "Where are the Kilamanjaro Mountains" answer1 = "Brazil" answer2 = "Africa" answer3 = "Venesuela" correct = "2" />
+<question id = "75" ask = "Verdi the well known composer was a native of which country" answer1 = "Portugal" answer2 = "Spanish" answer3 = "Italy" correct = "3" />
+<question id = "76" ask = "Near what city is Bondi Beach" answer1 = "Melborne" answer2 = "Syndey" answer3 = "Camberra" correct = "2" />
+<question id = "77" ask = "What ocean borders Uruguay" answer1 = "The Indian" answer2 = "The Pacific" answer3 = "The Atlantic" correct = "3" />
+<question id = "78" ask = "Which county is known as the Faithful country" answer1 = "Offaly" answer2 = "Cork" answer3 = "Kilkenny" correct = "1" />
+<question id = "79" ask = "What is a blunderbuss" answer1 = "PP7" answer2 = "TT" answer3 = "An old gun" correct = "3" />
+<question id = "80" ask = "To what country do the Azores or Western Isles belong to" answer1 = "Portugal" answer2 = "Brazil" answer3 = "India" correct = "1" />
+<question id = "81" ask = "What is the currency of Israel" answer1 = "The shekel" answer2 = "Ruble" answer3 = "The sheckel" correct = "1" />
+<question id = "82" ask = "What is the hardest known natural material in the world" answer1 = "Diamond" answer2 = "Steel" answer3 = "Mercury" correct = "1" />
+<question id = "83" ask = "To which country do the Magyars belong" answer1 = "Bulgaria" answer2 = "Poland" answer3 = "Hungary" correct = "3" />
+<question id = "84" ask = "What is the name given to the fat of a whale" answer1 = "Flubber" answer2 = "Plubber" answer3 = "Blubber" correct= "3" />
+<question id = "85" ask = "What is the capital city of Finland" answer1 = "Heinola" answer2 = "Hanko" answer3 = "Helsinki" correct = "3" />
+<question id = "86" ask = "Which is the oldest University in Britain" answer1 = "Oxford" answer2 = "Hogwarts" answer3 = "Cambridge" correct = "1" />
+<question id = "87" ask = "In which country is Aeroflot the national airline" answer1 = "England" answer2 = "Australia" answer3 = "Russia" correct = "3" />
+<question id = "88" ask = "In what year did Elvis Presley die" answer1 = "1975" answer2 = "1979" answer3 = "1977" correct = "3" />
+<question id = "89" ask = "What is the capital of Norway" answer1 = "Bergen" answer2 = "Oslo" answer3 = "Harstad" correct = "2" />
+<question id = "90" ask = "What is an Almoner" answer1 = "1 who gives out gifts" answer2 = "1 who gives out flowers" answer3 = "1 who gives out bushes" correct = "1" />
+<question id = "91" ask = "Why i love L2Mythras?" answer1 = "Because no Lag?" answer2 = "Because we Love it!" answer3 = "Because GM respect us all!!!" correct = "3" />
+<question id = "92" ask = "What we should do when we find a BUG on L2Mythras?" answer1 = "We exploit it and fook the server..." answer2 = "We start to shout: OMG!OMFG! BUG GM! OMFG!" answer3 = "We nicely REPORT to GM!" correct = "3" />
+<question id = "93" ask = "How i vote for L2Mythras?" answer1 = "Vote a random link from site and shout ingame: GM I DID NOT GET REWARD!!!" answer2 = "Vote just 2 random banners and type .getreward and shout: WHY CANNOT GET REWARD??" answer3 = "Vote all BANNERS and type: .getreward" correct = "3" />
+</list>

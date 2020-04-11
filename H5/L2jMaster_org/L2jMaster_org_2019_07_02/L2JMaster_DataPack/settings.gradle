@@ -1,0 +1,2 @@
+include ':L2JMaster_Server'
+project(':L2JMaster_Server').projectDir = new File(settingsDir, '../L2JMaster_Server')

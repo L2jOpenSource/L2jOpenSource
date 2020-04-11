@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio12_npc2026_01 -->
+	<spawn zone="gludio12_npc2026_01m1">
+		<npc id="32302" x="13276" y="282020" z="-7551" heading="-27808" respawnDelay="60" /> <!-- Jerian -->
+	</spawn>
+	<!-- gludio12_npc2026_03 -->
+	<spawn zone="gludio12_npc2026_03m1">
+		<npc id="32373" x="17934" y="283189" z="-9701" heading="24576" respawnDelay="60" /> <!-- Dorian -->
+	</spawn>
+	<!-- gludio12_2026_01 -->
+	<spawn zone="gludio12_2026_01m1">
+		<npc id="22363" count="2" respawnDelay="180" /> <!-- Body Destroyer -->
+	</spawn>
+	<!-- gludio12_2026_03 -->
+	<spawn zone="gludio12_2026_03m1">
+		<npc id="22365" x="14656" y="282512" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+		<npc id="22366" x="15168" y="282528" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" x="14947" y="283709" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Mystic -->
+		<npc id="22365" x="14672" y="283408" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+		<npc id="22366" x="15185" y="283476" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" x="15427" y="283907" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Mystic -->
+	</spawn>
+	<!-- gludio12_2026_04 -->
+	<spawn zone="gludio12_2026_04m1">
+		<npc id="22365" x="13813" y="282513" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" x="14171" y="283382" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Mystic -->
+		<npc id="22365" x="13936" y="283904" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" x="14154" y="282559" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Mystic -->
+		<npc id="22367" x="13701" y="283577" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Mystic -->
+		<npc id="22366" x="14288" y="283944" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+	</spawn>
+	<!-- gludio12_2026_05 -->
+	<spawn zone="gludio12_2026_05m1">
+		<npc id="22365" x="13465" y="283081" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" x="13239" y="283898" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Mystic -->
+		<npc id="22365" x="13026" y="282968" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+		<npc id="22366" x="13012" y="283536" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" x="12769" y="283825" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Mystic -->
+		<npc id="22366" x="12770" y="283059" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+	</spawn>
+	<!-- gludio12_2026_06 -->
+	<spawn zone="gludio12_2026_06m1">
+		<npc id="22365" x="14693" y="280312" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" x="14971" y="280827" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Mystic -->
+		<npc id="22365" x="15197" y="280583" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" x="15413" y="281518" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Mystic -->
+		<npc id="22367" x="14731" y="281428" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Mystic -->
+		<npc id="22366" x="15195" y="281119" z="-9696" heading="0" respawnDelay="180" /> <!-- Labyrinth Watchman -->
+	</spawn>
+	<!-- gludio12_2026_07 -->
+	<spawn zone="gludio12_2026_07m1">
+		<npc id="22368" x="12985" y="281482" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Captain -->
+		<npc id="22365" x="14075" y="281482" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" x="14159" y="281717" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Mystic -->
+		<npc id="22369" x="14352" y="281256" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Priest -->
+		<npc id="22368" x="14217" y="281021" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Captain -->
+		<npc id="22367" x="13594" y="280520" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Mystic -->
+		<npc id="22365" x="13142" y="280530" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Watchman -->
+		<npc id="22369" x="12727" y="281053" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Priest -->
+	</spawn>
+	<!-- gludio12_2026_08 -->
+	<spawn zone="gludio12_2026_08m1">
+		<npc id="22369" x="13728" y="279047" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Priest -->
+		<npc id="22365" x="12740" y="279054" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" x="12716" y="279054" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Mystic -->
+		<npc id="22368" x="13115" y="279770" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Captain -->
+		<npc id="22365" x="13518" y="279776" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Watchman -->
+		<npc id="22369" x="14293" y="280007" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Priest -->
+		<npc id="22368" x="14092" y="279534" z="-9696" heading="0" respawnDelay="300" /> <!-- Labyrinth Captain -->
+	</spawn>
+	<!-- gludio12_2026_09 -->
+	<spawn zone="gludio12_2026_09m1">
+		<npc id="22365" count="2" respawnDelay="120" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" count="2" respawnDelay="120" /> <!-- Labyrinth Mystic -->
+		<npc id="22368" count="2" respawnDelay="120" /> <!-- Labyrinth Captain -->
+		<npc id="22369" count="2" respawnDelay="120" /> <!-- Labyrinth Priest -->
+	</spawn>
+	<!-- gludio12_2026_10 -->
+	<spawn zone="gludio12_2026_10m1">
+		<npc id="22365" count="2" respawnDelay="120" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" count="2" respawnDelay="120" /> <!-- Labyrinth Mystic -->
+		<npc id="22368" count="2" respawnDelay="120" /> <!-- Labyrinth Captain -->
+		<npc id="22369" count="2" respawnDelay="120" /> <!-- Labyrinth Priest -->
+	</spawn>
+	<!-- gludio12_2026_11 -->
+	<spawn zone="gludio12_2026_11m1">
+		<npc id="22362" count="1" respawnDelay="10800" /> <!-- Guzen -->
+	</spawn>
+	<!-- gludio12_2026_12 -->
+	<spawn zone="gludio12_2026_12m1">
+		<npc id="22365" count="2" respawnDelay="120" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" count="2" respawnDelay="120" /> <!-- Labyrinth Mystic -->
+		<npc id="22368" count="2" respawnDelay="120" /> <!-- Labyrinth Captain -->
+		<npc id="22369" count="2" respawnDelay="120" /> <!-- Labyrinth Priest -->
+	</spawn>
+	<!-- gludio12_2026_13 -->
+	<spawn zone="gludio12_2026_13m1">
+		<npc id="22365" count="2" respawnDelay="120" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" count="2" respawnDelay="120" /> <!-- Labyrinth Mystic -->
+		<npc id="22368" count="2" respawnDelay="120" /> <!-- Labyrinth Captain -->
+		<npc id="22369" count="2" respawnDelay="120" /> <!-- Labyrinth Priest -->
+	</spawn>
+	<!-- gludio12_2026_14 -->
+	<spawn zone="gludio12_2026_14m1">
+		<npc id="22365" count="2" respawnDelay="120" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" count="2" respawnDelay="120" /> <!-- Labyrinth Mystic -->
+		<npc id="22368" count="2" respawnDelay="120" /> <!-- Labyrinth Captain -->
+		<npc id="22369" count="2" respawnDelay="120" /> <!-- Labyrinth Priest -->
+	</spawn>
+	<!-- gludio12_2026_15 -->
+	<spawn zone="gludio12_2026_15m1">
+		<npc id="22365" count="2" respawnDelay="120" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" count="2" respawnDelay="120" /> <!-- Labyrinth Mystic -->
+		<npc id="22368" count="2" respawnDelay="120" /> <!-- Labyrinth Captain -->
+		<npc id="22369" count="2" respawnDelay="120" /> <!-- Labyrinth Priest -->
+	</spawn>
+	<!-- gludio12_2026_16 -->
+	<spawn zone="gludio12_2026_16m1">
+		<npc id="22365" count="2" respawnDelay="120" /> <!-- Labyrinth Watchman -->
+		<npc id="22367" count="2" respawnDelay="120" /> <!-- Labyrinth Mystic -->
+		<npc id="22368" count="2" respawnDelay="120" /> <!-- Labyrinth Captain -->
+		<npc id="22369" count="2" respawnDelay="120" /> <!-- Labyrinth Priest -->
+	</spawn>
+	<!-- gludio12_2026_50 -->
+	<spawn zone="gludio12_2026_50m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22370" x="19757" y="276682" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="19760" y="277744" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="19760" y="278835" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="19735" y="279881" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+	</spawn>
+	<!-- gludio12_2026_51 -->
+	<spawn zone="gludio12_2026_51m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22370" x="19240" y="276684" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="19206" y="277762" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="19321" y="278822" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="19340" y="279831" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+	</spawn>
+	<!-- gludio12_2026_52 -->
+	<spawn zone="gludio12_2026_52m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22370" x="18752" y="276700" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="18730" y="277761" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="18784" y="278816" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="18736" y="279872" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+	</spawn>
+	<!-- gludio12_2026_53 -->
+	<spawn zone="gludio12_2026_53m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22370" x="18409" y="279884" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="18393" y="278814" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="18416" y="277760" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="18396" y="276690" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+	</spawn>
+	<!-- gludio12_2026_54 -->
+	<spawn zone="gludio12_2026_54m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22370" count="3" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22372" count="3" respawnDelay="180" /> <!-- Passageway Mystic -->
+	</spawn>
+	<!-- gludio12_2026_55 -->
+	<spawn zone="gludio12_2026_55m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22370" count="1" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22372" count="2" respawnDelay="180" /> <!-- Passageway Mystic -->
+	</spawn>
+	<!-- gludio12_2026_56 -->
+	<spawn zone="gludio12_2026_56m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22370" x="14545" y="276586" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22370" x="13288" y="276595" z="-7552" heading="0" respawnDelay="180" /> <!-- Passageway Captain -->
+	</spawn>
+	<!-- gludio12_2026_57 -->
+	<spawn zone="gludio12_2026_57m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22370" count="2" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22372" count="2" respawnDelay="180" /> <!-- Passageway Mystic -->
+	</spawn>
+	<!-- gludio12_2026_58 -->
+	<spawn zone="gludio12_2026_58m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22370" count="2" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22372" count="2" respawnDelay="180" /> <!-- Passageway Mystic -->
+	</spawn>
+	<!-- gludio12_2026_59 -->
+	<spawn zone="gludio12_2026_59m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22370" count="2" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22372" count="2" respawnDelay="180" /> <!-- Passageway Mystic -->
+	</spawn>
+	<!-- gludio12_2026_104 -->
+	<spawn zone="gludio12_2026_104m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22370" count="1" respawnDelay="180" /> <!-- Passageway Captain -->
+		<npc id="22372" count="2" respawnDelay="180" /> <!-- Passageway Mystic -->
+	</spawn>
+</list>

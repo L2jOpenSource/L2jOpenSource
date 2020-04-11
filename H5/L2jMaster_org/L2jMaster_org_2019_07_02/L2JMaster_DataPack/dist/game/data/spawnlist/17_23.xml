@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio34_1723_01 -->
+	<spawn zone="gludio34_1723_01m1">
+		<npc id="20030" count="6" respawnDelay="21" /> <!-- Langk Lizardman -->
+		<npc id="20017" count="7" respawnDelay="21" /> <!-- Vuku Orc Fighter -->
+		<npc id="20038" count="5" respawnDelay="21" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- gludio34_1723_02 -->
+	<spawn zone="gludio34_1723_02m1">
+		<npc id="20017" count="6" respawnDelay="21" /> <!-- Vuku Orc Fighter -->
+		<npc id="20038" count="4" respawnDelay="21" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- gludio34_1723_03 -->
+	<spawn zone="gludio34_1723_03m1">
+		<npc id="20017" count="8" respawnDelay="21" /> <!-- Vuku Orc Fighter -->
+		<npc id="20038" count="5" respawnDelay="21" /> <!-- Venomous Spider -->
+		<npc id="20043" count="5" respawnDelay="21" /> <!-- Arachnid Tracker -->
+	</spawn>
+	<!-- gludio34_1723_04 -->
+	<spawn zone="gludio34_1723_04m1">
+		<npc id="20043" count="5" respawnDelay="21" /> <!-- Arachnid Tracker -->
+		<npc id="20050" count="3" respawnDelay="21" /> <!-- Arachnid Predator -->
+	</spawn>
+	<!-- gludio34_1723_05s -->
+	<spawn zone="gludio34_1723_05sm1">
+		<npc id="20030" count="2" respawnDelay="21" /> <!-- Langk Lizardman -->
+		<npc id="20017" count="2" respawnDelay="21" /> <!-- Vuku Orc Fighter -->
+	</spawn>
+	<!-- gludio34_1723_06s -->
+	<spawn zone="gludio34_1723_06sm1">
+		<npc id="20030" count="2" respawnDelay="21" /> <!-- Langk Lizardman -->
+		<npc id="20017" count="2" respawnDelay="21" /> <!-- Vuku Orc Fighter -->
+	</spawn>
+	<!-- gludio34_1723_07s -->
+	<spawn zone="gludio34_1723_07sm1">
+		<npc id="20017" count="2" respawnDelay="21" /> <!-- Vuku Orc Fighter -->
+		<npc id="20038" count="2" respawnDelay="21" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- gludio34_1723_08s -->
+	<spawn zone="gludio34_1723_08sm1">
+		<npc id="20017" count="2" respawnDelay="21" /> <!-- Vuku Orc Fighter -->
+		<npc id="20043" count="2" respawnDelay="21" /> <!-- Arachnid Tracker -->
+	</spawn>
+</list>

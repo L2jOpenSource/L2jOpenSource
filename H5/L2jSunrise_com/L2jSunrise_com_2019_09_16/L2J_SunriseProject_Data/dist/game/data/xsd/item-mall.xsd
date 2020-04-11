@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence minOccurs="1" maxOccurs="1">
+				<xs:element name="product" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence minOccurs="1" maxOccurs="1">
+							<xs:element name="component" minOccurs="1" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="count" type="xs:positiveInteger" use="required" />
+									<xs:attribute name="item_id" type="xs:positiveInteger" use="required" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:nonNegativeInteger" use="required" />
+						<xs:attribute name="name" type="xs:normalizedString" use="required" />
+						<xs:attribute name="count" type="xs:string" />
+						<xs:attribute name="category" type="xs:nonNegativeInteger" />
+						<xs:attribute name="price" type="xs:nonNegativeInteger" use="required" />
+						<xs:attribute name="is_event" type="xs:boolean" />
+						<xs:attribute name="is_best" type="xs:boolean" />
+						<xs:attribute name="is_new" type="xs:boolean" />
+						<xs:attribute name="sale_start_date" type="xs:normalizedString" />
+						<xs:attribute name="sale_end_date" type="xs:normalizedString" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

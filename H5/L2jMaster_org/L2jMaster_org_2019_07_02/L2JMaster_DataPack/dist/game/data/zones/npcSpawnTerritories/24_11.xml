@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- schuttgart06_npc2411_001 -->
+	<zone name="schuttgart06_npc2411_001" type="NpcSpawnTerritory" shape="NPoly" minZ="-3484" maxZ="-3284">
+		<node X="154060" Y="-220180" />
+		<node X="154260" Y="-220180" />
+		<node X="154260" Y="-219980" />
+		<node X="154060" Y="-219980" />
+	</zone>
+	<!-- schttgart08_2411_01 -->
+	<zone name="schttgart08_2411_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3712" maxZ="-3112">
+		<node X="131244" Y="-199788" />
+		<node X="132364" Y="-200060" />
+		<node X="133772" Y="-199960" />
+		<node X="134412" Y="-196972" />
+		<node X="131312" Y="-196984" />
+	</zone>
+	<!-- schttgart08_2411_02 -->
+	<zone name="schttgart08_2411_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3748" maxZ="-3148">
+		<node X="131244" Y="-207064" />
+		<node X="133204" Y="-206512" />
+		<node X="134956" Y="-204996" />
+		<node X="135220" Y="-203776" />
+		<node X="133360" Y="-201068" />
+		<node X="131204" Y="-201136" />
+	</zone>
+	<!-- schttgart08_2411_03 -->
+	<zone name="schttgart08_2411_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3784" maxZ="-3384">
+		<node X="131208" Y="-210156" />
+		<node X="132644" Y="-208900" />
+		<node X="132968" Y="-207492" />
+		<node X="131248" Y="-207992" />
+	</zone>
+	<!-- schttgart08_2411_04 -->
+	<zone name="schttgart08_2411_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3760" maxZ="-3360">
+		<node X="135168" Y="-199972" />
+		<node X="138956" Y="-201436" />
+		<node X="139132" Y="-196896" />
+		<node X="135988" Y="-196872" />
+	</zone>
+	<!-- schttgart08_2411_05 -->
+	<zone name="schttgart08_2411_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3788" maxZ="-3388">
+		<node X="136828" Y="-200604" />
+		<node X="138180" Y="-203568" />
+		<node X="138832" Y="-202756" />
+		<node X="138908" Y="-201452" />
+	</zone>
+	<!-- schttgart08_2411_06 -->
+	<zone name="schttgart08_2411_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3796" maxZ="-3396">
+		<node X="137360" Y="-204504" />
+		<node X="137592" Y="-203964" />
+		<node X="136940" Y="-201716" />
+		<node X="135848" Y="-201664" />
+	</zone>
+	<!-- schttgart08_2411_07 -->
+	<zone name="schttgart08_2411_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3700" maxZ="-2700">
+		<node X="140296" Y="-202552" />
+		<node X="142732" Y="-204104" />
+		<node X="144784" Y="-200932" />
+		<node X="142976" Y="-199312" />
+		<node X="140624" Y="-199800" />
+	</zone>
+	<!-- schttgart08_2411_08 -->
+	<zone name="schttgart08_2411_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3608" maxZ="-2608">
+		<node X="142796" Y="-204224" />
+		<node X="144692" Y="-205856" />
+		<node X="145776" Y="-204416" />
+		<node X="143700" Y="-202888" />
+	</zone>
+	<!-- schttgart08_2411_09 -->
+	<zone name="schttgart08_2411_09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3760" maxZ="-3260">
+		<node X="141056" Y="-206992" />
+		<node X="142632" Y="-207684" />
+		<node X="142848" Y="-206376" />
+		<node X="140916" Y="-203720" />
+		<node X="139752" Y="-204540" />
+	</zone>
+	<!-- schttgart08_2411_10 -->
+	<zone name="schttgart08_2411_10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3764" maxZ="-3364">
+		<node X="137432" Y="-208624" />
+		<node X="139356" Y="-208660" />
+		<node X="140812" Y="-206592" />
+		<node X="139692" Y="-204516" />
+		<node X="135924" Y="-207436" />
+	</zone>
+	<!-- schttgart08_2411_11 -->
+	<zone name="schttgart08_2411_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3756" maxZ="-3156">
+		<node X="138484" Y="-210908" />
+		<node X="142752" Y="-211744" />
+		<node X="143860" Y="-210364" />
+		<node X="139464" Y="-208788" />
+		<node X="138064" Y="-208788" />
+	</zone>
+	<!-- schttgart08_2411_12 -->
+	<zone name="schttgart08_2411_12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3752" maxZ="-3152">
+		<node X="141936" Y="-209608" />
+		<node X="144156" Y="-210404" />
+		<node X="145216" Y="-209920" />
+		<node X="145420" Y="-209148" />
+		<node X="144464" Y="-208296" />
+		<node X="142244" Y="-207976" />
+	</zone>
+	<!-- schttgart08_2411_13 -->
+	<zone name="schttgart08_2411_13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3788" maxZ="-3388">
+		<node X="135964" Y="-211844" />
+		<node X="137432" Y="-211440" />
+		<node X="137180" Y="-209696" />
+		<node X="136808" Y="-208824" />
+		<node X="135664" Y="-208092" />
+	</zone>
+	<!-- schttgart08_2411_14 -->
+	<zone name="schttgart08_2411_14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3848" maxZ="-3398">
+		<node X="138152" Y="-213716" />
+		<node X="138540" Y="-212796" />
+		<node X="138180" Y="-211936" />
+		<node X="137488" Y="-211492" />
+		<node X="135968" Y="-211880" />
+		<node X="136184" Y="-212932" />
+		<node X="137096" Y="-213704" />
+	</zone>
+	<!-- schttgart08_2411_15 -->
+	<zone name="schttgart08_2411_15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3840" maxZ="-3490">
+		<node X="138680" Y="-212836" />
+		<node X="141248" Y="-213916" />
+		<node X="141812" Y="-212548" />
+		<node X="139836" Y="-211924" />
+		<node X="138536" Y="-212040" />
+	</zone>
+	<!-- schttgart08_2411_17 -->
+	<zone name="schttgart08_2411_17m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3724" maxZ="-3324">
+		<node X="145100" Y="-211856" />
+		<node X="147540" Y="-213580" />
+		<node X="148552" Y="-212608" />
+		<node X="145632" Y="-211596" />
+	</zone>
+	<!-- schttgart08_2411_18 -->
+	<zone name="schttgart08_2411_18m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3544" maxZ="-3144">
+		<node X="147816" Y="-215268" />
+		<node X="151492" Y="-215520" />
+		<node X="150272" Y="-213116" />
+		<node X="148672" Y="-212720" />
+		<node X="147632" Y="-213632" />
+	</zone>
+	<!-- schttgart08_2411_19 -->
+	<zone name="schttgart08_2411_19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3604" maxZ="-2954">
+		<node X="146116" Y="-217620" />
+		<node X="147992" Y="-218480" />
+		<node X="153624" Y="-217424" />
+		<node X="153336" Y="-215692" />
+		<node X="147836" Y="-215316" />
+	</zone>
+	<!-- schttgart08_2411_20 -->
+	<zone name="schttgart08_2411_20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3624" maxZ="-2624">
+		<node X="148408" Y="-211400" />
+		<node X="149880" Y="-211636" />
+		<node X="150248" Y="-209796" />
+		<node X="150216" Y="-208612" />
+		<node X="147372" Y="-208720" />
+	</zone>
+	<!-- schttgart08_2411_21 -->
+	<zone name="schttgart08_2411_21m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3780" maxZ="-3380">
+		<node X="153008" Y="-214028" />
+		<node X="153940" Y="-212960" />
+		<node X="153312" Y="-208984" />
+		<node X="151176" Y="-209172" />
+		<node X="151276" Y="-211508" />
+	</zone>
+	<!-- schttgart09_2411_03 -->
+	<zone name="schttgart09_2411_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3696" maxZ="-2446">
+		<node X="136272" Y="-195116" />
+		<node X="138420" Y="-192304" />
+		<node X="137232" Y="-189764" />
+		<node X="135632" Y="-188612" />
+		<node X="134512" Y="-188772" />
+		<node X="133588" Y="-191932" />
+	</zone>
+	<!-- schttgart09_2411_04 -->
+	<zone name="schttgart09_2411_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3068" maxZ="-1418">
+		<node X="139684" Y="-192352" />
+		<node X="141332" Y="-189636" />
+		<node X="140472" Y="-187800" />
+		<node X="138136" Y="-188316" />
+		<node X="137640" Y="-189356" />
+		<node X="138448" Y="-192132" />
+	</zone>
+	<!-- schttgart09_2411_22 -->
+	<zone name="schttgart09_2411_22m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3804" maxZ="-3404">
+		<node X="157424" Y="-211716" />
+		<node X="158340" Y="-211820" />
+		<node X="159492" Y="-210300" />
+		<node X="159324" Y="-208908" />
+		<node X="156380" Y="-209644" />
+	</zone>
+	<!-- schttgart09_2411_23 -->
+	<zone name="schttgart09_2411_23m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3812" maxZ="-3412">
+		<node X="158600" Y="-215100" />
+		<node X="160316" Y="-214308" />
+		<node X="161348" Y="-213132" />
+		<node X="160672" Y="-211972" />
+		<node X="157624" Y="-211992" />
+		<node X="156788" Y="-214636" />
+		<node X="157580" Y="-214992" />
+	</zone>
+	<!-- schttgart09_2411_24 -->
+	<zone name="schttgart09_2411_24m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3768" maxZ="-3168">
+		<node X="155644" Y="-219308" />
+		<node X="158572" Y="-219180" />
+		<node X="159476" Y="-216236" />
+		<node X="155356" Y="-215548" />
+	</zone>
+	<!-- schttgart09_2411_25 -->
+	<zone name="schttgart09_2411_25m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3792" maxZ="-3392">
+		<node X="156588" Y="-221328" />
+		<node X="159044" Y="-220764" />
+		<node X="158968" Y="-219320" />
+		<node X="155684" Y="-219348" />
+		<node X="155912" Y="-220568" />
+	</zone>
+	<!-- schttgart09_2411_26 -->
+	<zone name="schttgart09_2411_26m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3768" maxZ="-3368">
+		<node X="159152" Y="-220772" />
+		<node X="160864" Y="-220944" />
+		<node X="161796" Y="-218864" />
+		<node X="159816" Y="-217432" />
+		<node X="159100" Y="-218708" />
+	</zone>
+	<!-- schttgart09_2411_27 -->
+	<zone name="schttgart09_2411_27m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3792" maxZ="-3392">
+		<node X="161488" Y="-218548" />
+		<node X="163572" Y="-217208" />
+		<node X="163640" Y="-215356" />
+		<node X="160372" Y="-216764" />
+		<node X="160008" Y="-217508" />
+	</zone>
+</list>	

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- schttgart09_2412_01 -->
+	<spawn zone="schttgart09_2412_01m1">
+		<npc id="20521" count="3" respawnDelay="20" /> <!-- Whinstone Golem -->
+		<npc id="20323" count="2" respawnDelay="20" /> <!-- Goblin Brigand Leader -->
+		<npc id="20526" count="2" respawnDelay="20" /> <!-- Obsidian Golem -->
+	</spawn>
+	<!-- schttgart09_2412_02 -->
+	<spawn zone="schttgart09_2412_02m1">
+		<npc id="20521" count="2" respawnDelay="20" /> <!-- Whinstone Golem -->
+		<npc id="20323" count="3" respawnDelay="20" /> <!-- Goblin Brigand Leader -->
+		<npc id="20526" count="3" respawnDelay="20" /> <!-- Obsidian Golem -->
+	</spawn>
+	<!-- schttgart09_2412_03 -->
+	<spawn zone="schttgart09_2412_03m1">
+		<npc id="20521" count="3" respawnDelay="20" /> <!-- Whinstone Golem -->
+		<npc id="20323" count="3" respawnDelay="20" /> <!-- Goblin Brigand Leader -->
+		<npc id="20526" count="3" respawnDelay="20" /> <!-- Obsidian Golem -->
+	</spawn>
+	<!-- schttgart09_2412_04 -->
+	<spawn zone="schttgart09_2412_04m1">
+		<npc id="20521" count="3" respawnDelay="20" /> <!-- Whinstone Golem -->
+		<npc id="20323" count="3" respawnDelay="20" /> <!-- Goblin Brigand Leader -->
+		<npc id="20526" count="2" respawnDelay="20" /> <!-- Obsidian Golem -->
+	</spawn>
+	<!-- schttgart09_2412_05 -->
+	<spawn zone="schttgart09_2412_05m1">
+		<npc id="20521" count="2" respawnDelay="20" /> <!-- Whinstone Golem -->
+	</spawn>
+	<!-- schttgart09_2412_06 -->
+	<spawn zone="schttgart09_2412_06m1">
+		<npc id="20521" count="1" respawnDelay="20" /> <!-- Whinstone Golem -->
+		<npc id="20323" count="2" respawnDelay="20" /> <!-- Goblin Brigand Leader -->
+	</spawn>
+	<!-- schttgart09_2412_07 -->
+	<spawn zone="schttgart09_2412_07m1">
+		<npc id="20323" count="1" respawnDelay="20" /> <!-- Goblin Brigand Leader -->
+		<npc id="20526" count="2" respawnDelay="20" /> <!-- Obsidian Golem -->
+	</spawn>
+	<!-- schuttgart05_2412_01 -->
+	<spawn zone="schuttgart05_2412_01m1">
+		<npc id="20331" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Monster Eye Tracker -->
+		<npc id="20330" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Mineshaft Bat -->
+		<npc id="20425" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Soldier -->
+		<npc id="20540" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Gemstone Beast -->
+		<npc id="20346" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Darkstone Golem -->
+		<npc id="20423" count="1" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Archer -->
+	</spawn>
+	<!-- schuttgart05_2412_02 -->
+	<spawn zone="schuttgart05_2412_02m1">
+		<npc id="20331" count="5" respawnDelay="34" respawnRandom="15" /> <!-- Monster Eye Tracker -->
+		<npc id="20330" count="6" respawnDelay="34" respawnRandom="15" /> <!-- Mineshaft Bat -->
+		<npc id="20425" count="5" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Soldier -->
+		<npc id="20540" count="5" respawnDelay="34" respawnRandom="15" /> <!-- Gemstone Beast -->
+		<npc id="20346" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Darkstone Golem -->
+		<npc id="20423" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Archer -->
+	</spawn>
+	<!-- schuttgart05_2412_03 -->
+	<spawn zone="schuttgart05_2412_03m1">
+		<npc id="20423" count="1" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Archer -->
+		<npc id="20449" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Will-O-Wisp -->
+		<npc id="20435" count="4" respawnDelay="34" respawnRandom="15" /> <!-- Opal Beast -->
+		<npc id="20389" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Boogle Ratman -->
+		<npc id="20422" count="4" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Warlord -->
+	</spawn>
+	<!-- schuttgart05_2412_04 -->
+	<spawn zone="schuttgart05_2412_04m1">
+		<npc id="20423" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Archer -->
+		<npc id="20449" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Will-O-Wisp -->
+		<npc id="20435" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Opal Beast -->
+		<npc id="20389" count="4" respawnDelay="34" respawnRandom="15" /> <!-- Boogle Ratman -->
+		<npc id="20422" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Warlord -->
+	</spawn>
+	<!-- schuttgart05_2412_05 -->
+	<spawn zone="schuttgart05_2412_05m1">
+		<npc id="20389" count="4" respawnDelay="34" respawnRandom="15" /> <!-- Boogle Ratman -->
+		<npc id="20422" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Warlord -->		
+	</spawn>
+	<!-- schuttgart05_2412_06 -->
+	<spawn zone="schuttgart05_2412_06m1">
+		<npc id="20389" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Boogle Ratman -->
+		<npc id="20422" count="4" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Warlord -->		
+	</spawn>
+	<!-- schuttgart05_2412_07 -->
+	<spawn zone="schuttgart05_2412_07m1">
+		<npc id="20449" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Will-O-Wisp -->
+		<npc id="20435" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Opal Beast -->
+		<npc id="20389" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Boogle Ratman -->
+		<npc id="20422" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Warlord -->
+	</spawn>
+	<!-- schuttgart05_2412_08 -->
+	<spawn zone="schuttgart05_2412_08m1">
+		<npc id="20423" count="1" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Archer -->
+		<npc id="20449" count="1" respawnDelay="34" respawnRandom="15" /> <!-- Will-O-Wisp -->
+		<npc id="20435" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Opal Beast -->
+		<npc id="20389" count="1" respawnDelay="34" respawnRandom="15" /> <!-- Boogle Ratman -->
+		<npc id="20422" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Akaste Bone Warlord -->
+	</spawn>
+	<!-- schuttgart05_2412_09 -->
+	<spawn zone="schuttgart05_2412_09m1">
+		<npc id="20541" count="4" respawnDelay="34" respawnRandom="15" /> <!-- Ore Bat -->
+		<npc id="20483" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Corpse Candle -->
+		<npc id="20390" count="4" respawnDelay="34" respawnRandom="15" /> <!-- Boogle Ratman Leader -->
+		<npc id="20511" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Pitchstone Golem -->
+	</spawn>
+	<!-- schuttgart05_2412_10 -->
+	<spawn zone="schuttgart05_2412_10m1">
+		<npc id="20541" count="5" respawnDelay="34" respawnRandom="15" /> <!-- Ore Bat -->
+		<npc id="20483" count="6" respawnDelay="34" respawnRandom="15" /> <!-- Corpse Candle -->
+		<npc id="20390" count="5" respawnDelay="34" respawnRandom="15" /> <!-- Boogle Ratman Leader -->
+		<npc id="20511" count="6" respawnDelay="34" respawnRandom="15" /> <!-- Pitchstone Golem -->
+	</spawn>
+	<!-- schuttgart05_2412_11 -->
+	<spawn zone="schuttgart05_2412_11m1">
+		<npc id="20541" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Ore Bat -->
+		<npc id="20483" count="4" respawnDelay="34" respawnRandom="15" /> <!-- Corpse Candle -->
+		<npc id="20390" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Boogle Ratman Leader -->
+		<npc id="20511" count="4" respawnDelay="34" respawnRandom="15" /> <!-- Pitchstone Golem -->
+	</spawn>
+	<!-- schuttgart05_2412_12 -->
+	<spawn zone="schuttgart05_2412_12m1">
+		<npc id="20541" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Ore Bat -->
+		<npc id="20483" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Corpse Candle -->
+		<npc id="20390" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Boogle Ratman Leader -->
+		<npc id="20511" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Pitchstone Golem -->
+	</spawn>
+	<!-- schuttgart05_2412_13 -->
+	<spawn zone="schuttgart05_2412_13m1">
+		<npc id="20541" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Ore Bat -->
+		<npc id="20483" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Corpse Candle -->
+		<npc id="20390" count="2" respawnDelay="34" respawnRandom="15" /> <!-- Boogle Ratman Leader -->
+		<npc id="20511" count="3" respawnDelay="34" respawnRandom="15" /> <!-- Pitchstone Golem -->
+	</spawn>
+</list>	

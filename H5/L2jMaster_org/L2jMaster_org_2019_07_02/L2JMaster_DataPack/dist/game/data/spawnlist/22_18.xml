@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- oren01_npc2218_001 -->
+	<spawn zone="oren01_npc2218_00101">
+		<npc id="30748" x="70525" y="30754" z="-1299" heading="28672" respawnDelay="60" /> <!-- Exarion -->
+	</spawn>
+	<!-- oren30_npc2218_002 -->
+	<spawn zone="oren01_npc2218_00201">
+		<npc id="30757" x="95348" y="22298" z="-2882" heading="0" respawnDelay="60" /> <!-- Statue Of Offering -->
+		<npc id="30759" x="95359" y="22208" z="-2879" heading="4096" respawnDelay="60" /> <!-- Kalis -->
+	</spawn>
+	<!-- oren01_npc2218_003 -->
+	<spawn zone="oren_npc2218_00301">
+		<npc id="30738" x="69836" y="18108" z="-3664" heading="0" respawnDelay="60" /> <!-- Matild -->
+	</spawn>
+	<!-- oren16_npc2218_004 -->
+	<spawn zone="oren16_npc2218_00401">
+		<npc id="30169" x="85005" y="15638" z="-4271" heading="11000" respawnDelay="60" /> <!-- Marty -->
+		<npc id="30170" x="84689" y="16198" z="-4271" heading="0" respawnDelay="60" /> <!-- Radic -->
+		<npc id="30162" x="84814" y="15886" z="-4291" heading="5200" respawnDelay="60" /> <!-- Karin -->
+	</spawn>
+	<!-- oren16_npc2218_005 -->
+	<spawn zone="oren16_npc2218_00501">
+		<npc id="30166" x="85655" y="16767" z="-4271" heading="43500" respawnDelay="60" /> <!-- Wesley -->
+		<npc id="30165" x="85004" y="16760" z="-4271" heading="54000" respawnDelay="60" /> <!-- Ralford -->
+	</spawn>
+	<!-- oren16_npc2218_006 -->
+	<spawn zone="oren16_npc2218_00601">
+		<npc id="30164" x="85655" y="15638" z="-4271" heading="22000" respawnDelay="60" /> <!-- Ian -->
+		<npc id="30163" x="85982" y="16193" z="-4271" heading="32768" respawnDelay="60" /> <!-- Rex -->
+	</spawn>
+	<!-- oren16_npc2218_007 -->
+	<spawn zone="oren16_npc2218_00701">
+		<npc id="30727" x="85336" y="16194" z="-3664" heading="49152" respawnDelay="60" /> <!-- Verona -->
+	</spawn>
+	<!-- oren16_npc2218_008 -->
+	<spawn zone="oren16_npc2218_00801">
+		<npc id="30716" x="85336" y="16194" z="-2799" heading="59500" respawnDelay="60" /> <!-- Cecile -->
+		<npc id="30171" x="85332" y="16592" z="-2799" heading="48500" respawnDelay="60" /> <!-- Gaius -->
+		<npc id="30176" x="85675" y="15994" z="-2799" heading="27000" respawnDelay="60" /> <!-- Valleria -->
+		<npc id="30715" x="84985" y="15991" z="-2799" heading="5300" respawnDelay="60" /> <!-- Marina -->
+	</spawn>
+	<!-- oren16_npc2218_009 -->
+	<spawn zone="oren16_npc2218_00901">
+		<npc id="30717" x="85332" y="16592" z="-2285" heading="48500" respawnDelay="60" /> <!-- Gauen -->
+		<npc id="30174" x="85675" y="15994" z="-2285" heading="27000" respawnDelay="60" /> <!-- Arkenias -->
+		<npc id="30718" x="84985" y="15991" z="-2285" heading="5300" respawnDelay="60" /> <!-- Joan -->
+		<npc id="30719" x="85336" y="16194" z="-2285" heading="59500" respawnDelay="60" /> <!-- Mariell -->
+	</spawn>
+	<!-- oren16_npc2218_010 -->
+	<spawn zone="oren16_npc2218_01001">
+		<npc id="30175" x="85675" y="15994" z="-1769" heading="27000" respawnDelay="60" /> <!-- Fairen -->
+		<npc id="30720" x="85332" y="16592" z="-1769" heading="48500" respawnDelay="60" /> <!-- Kaiena -->
+		<npc id="30721" x="84985" y="15991" z="-1769" heading="5300" respawnDelay="60" /> <!-- Ladd -->
+		<npc id="30722" x="85336" y="16194" z="-1769" heading="59500" respawnDelay="60" /> <!-- Merian -->
+	</spawn>
+	<!-- oren16_npc2218_011 -->
+	<spawn zone="oren16_npc2218_01101">
+		<npc id="30726" x="85516" y="17458" z="-3511" heading="16384" respawnDelay="60" /> <!-- Tebose -->
+		<npc id="30725" x="85149" y="17458" z="-3511" heading="16384" respawnDelay="60" /> <!-- Yening -->
+	</spawn>
+	<!-- oren16_npc2218_012 -->
+	<spawn zone="oren16_npc2218_01201">
+		<npc id="30723" x="85518" y="14911" z="-3510" heading="49152" respawnDelay="60" /> <!-- Roy -->
+		<npc id="30724" x="85143" y="14911" z="-3511" heading="49152" respawnDelay="60" /> <!-- Tavillian -->
+	</spawn>
+	<!-- oren16_npc2218_013 -->
+	<spawn zone="oren29_npc2218_01301">
+		<npc id="30934" x="85881" y="14126" z="-5257" heading="46752" respawnDelay="60" /> <!-- Marsha -->
+	</spawn>
+	<!-- oren29_npc2218_014 -->
+	<spawn zone="oren29_npc2218_01401">
+		<npc id="30935" x="82234" y="22257" z="-5257" heading="54112" respawnDelay="60" /> <!-- Trumpin -->
+	</spawn>
+	<!-- oren16_npc2218_015 -->
+	<spawn zone="oren16_npc2218_01501">
+		<npc id="31149" x="85515" y="16192" z="-4272" heading="0" respawnDelay="60" /> <!-- Alchemist's Mixing Urn -->
+	</spawn>
+	<!-- oren16_npc2218_016 -->
+	<spawn zone="oren16_npc2218_01601">
+		<npc id="31605" x="85683" y="16395" z="-2808" heading="-27296" respawnDelay="60" /> <!-- Kinsley -->
+		<npc id="31606" x="85692" y="16401" z="-2808" heading="6133" respawnDelay="60" /> <!-- Alice de Catrina -->
+	</spawn>
+	<!-- oren16_npc2218_017 -->
+	<spawn zone="oren16_npc2218_01701">
+		<npc id="31811" x="85440" y="16816" z="-3609" heading="16500" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren16_npc2218_018 -->
+	<spawn zone="oren16_npc2218_01801">
+		<npc id="31812" x="85373" y="16200" z="-3665" heading="49000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren16_npc2218_019 -->
+	<spawn zone="oren16_npc2218_01901">
+		<npc id="31813" x="85232" y="15568" z="-3609" heading="49000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren16_npc2218_020 -->
+	<spawn zone="oren16_npc2218_020m1">
+		<npc id="32323" x="85331" y="15790" z="-2804" heading="16392" respawnDelay="60" /> <!-- Avant-Garde -->
+	</spawn>
+	<!-- oren29_2218_23 -->
+	<spawn zone="oren29_2218_23m1">
+		<npc id="20563" count="4" respawnDelay="24" respawnRandom="5" /> <!-- Manashen Gargoyle -->
+		<npc id="20564" count="4" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Monstereye -->
+		<npc id="20565" count="3" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Stone Golem -->
+	</spawn>
+	<!-- oren29_2218_24 -->
+	<spawn zone="oren29_2218_24m1">
+		<npc id="20563" count="5" respawnDelay="24" respawnRandom="5" /> <!-- Manashen Gargoyle -->
+		<npc id="20564" count="4" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Monstereye -->
+		<npc id="20565" count="4" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Stone Golem -->
+	</spawn>
+	<!-- oren29_2218_25 -->
+	<spawn zone="oren29_2218_25m1">
+		<npc id="20564" count="3" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Monstereye -->
+		<npc id="20565" count="3" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Stone Golem -->
+		<npc id="20566" count="5" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Iron Golem -->
+	</spawn>
+	<!-- oren29_2218_26 -->
+	<spawn zone="oren29_2218_26m1">
+		<npc id="20566" count="5" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Iron Golem -->
+		<npc id="20567" count="3" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Gargoyle -->
+		<npc id="20235" count="7" respawnDelay="24" respawnRandom="5" /> <!-- Shackle -->
+	</spawn>
+	<!-- oren29_2218_27 -->
+	<spawn zone="oren29_2218_27m1">
+		<npc id="20565" count="4" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Stone Golem -->
+		<npc id="20567" count="4" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Gargoyle -->
+		<npc id="20235" count="4" respawnDelay="24" respawnRandom="5" /> <!-- Shackle -->
+	</spawn>
+	<!-- oren29_2218_28 -->
+	<spawn zone="oren29_2218_28m1">
+		<npc id="20564" count="3" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Monstereye -->
+		<npc id="20565" count="3" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Stone Golem -->
+		<npc id="20567" count="3" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Gargoyle -->
+	</spawn>
+	<!-- oren29_2218_29 -->
+	<spawn zone="oren29_2218_29m1">
+		<npc id="20564" count="4" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Monstereye -->
+		<npc id="20565" count="4" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Stone Golem -->
+		<npc id="20566" count="5" respawnDelay="24" respawnRandom="5" /> <!-- Enchanted Iron Golem -->
+	</spawn>
+	<!-- oren30_2218_05 -->
+	<spawn zone="oren30_2218_05m1">
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_06 -->
+	<spawn zone="oren30_2218_06m1">
+		<npc id="20569" count="5" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="5" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="6" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_06s -->
+	<spawn zone="oren30_2218_06sm1">
+		<npc id="20569" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_07 -->
+	<spawn zone="oren30_2218_07m1">
+		<npc id="20568" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor -->
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+	</spawn>
+	<!-- oren30_2218_07s -->
+	<spawn zone="oren30_2218_07sm1">
+		<npc id="20568" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Formor -->
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+	</spawn>
+	<!-- oren30_2218_08 -->
+	<spawn zone="oren30_2218_08m1">
+		<npc id="20568" count="5" respawnDelay="25" respawnRandom="5" /> <!-- Formor -->
+		<npc id="20569" count="5" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+	</spawn>
+	<!-- oren30_2218_09 -->
+	<spawn zone="oren30_2218_09m1">
+		<npc id="20568" count="5" respawnDelay="25" respawnRandom="5" /> <!-- Formor -->
+		<npc id="20569" count="5" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="5" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+	</spawn>
+	<!-- oren30_2218_10 -->
+	<spawn zone="oren30_2218_10m1">
+		<npc id="20568" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor -->
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+	</spawn>
+	<!-- oren30_2218_10s -->
+	<spawn zone="oren30_2218_10sm1">
+		<npc id="20568" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Formor -->
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+	</spawn>
+	<!-- oren30_2218_11 -->
+	<spawn zone="oren30_2218_11m1">
+		<npc id="20568" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Formor -->
+		<npc id="20569" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+	</spawn>
+	<!-- oren30_2218_12 -->
+	<spawn zone="oren30_2218_12m1">
+		<npc id="20568" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Formor -->
+		<npc id="20569" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+	</spawn>
+	<!-- oren30_2218_13 -->
+	<spawn zone="oren30_2218_13m1">
+		<npc id="20568" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor -->
+		<npc id="20569" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_13s -->
+	<spawn zone="oren30_2218_13sm1">
+		<npc id="20569" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_14 -->
+	<spawn zone="oren30_2218_14m1">
+		<npc id="20569" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_14s -->
+	<spawn zone="oren30_2218_14sm1">
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_15 -->
+	<spawn zone="oren30_2218_15m1">
+		<npc id="20569" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_15s -->
+	<spawn zone="oren30_2218_15sm1">
+		<npc id="20569" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_16 -->
+	<spawn zone="oren30_2218_16m1">
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+		<npc id="20572" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear High Warrior -->
+	</spawn>
+	<!-- oren30_2218_16s -->
+	<spawn zone="oren30_2218_16sm1">
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_17 -->
+	<spawn zone="oren30_2218_17m1">
+		<npc id="20569" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+		<npc id="20572" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear High Warrior -->
+	</spawn>
+	<!-- oren30_2218_17s -->
+	<spawn zone="oren30_2218_17sm1">
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+		<npc id="20572" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear High Warrior -->
+	</spawn>
+	<!-- oren30_2218_18 -->
+	<spawn zone="oren30_2218_18m1">
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="1" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+		<npc id="20572" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear High Warrior -->
+	</spawn>
+	<!-- oren30_2218_18s -->
+	<spawn zone="oren30_2218_18sm1">
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20572" count="1" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear High Warrior -->
+	</spawn>
+	<!-- oren30_2218_19 -->
+	<spawn zone="oren30_2218_19m1">
+		<npc id="20569" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="4" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_20 -->
+	<spawn zone="oren30_2218_20m1">
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="1" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_20s -->
+	<spawn zone="oren30_2218_20sm1">
+		<npc id="20569" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Formor Elder -->
+		<npc id="20570" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_21 -->
+	<spawn zone="oren30_2218_21m1">
+		<npc id="20570" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren30_2218_22 -->
+	<spawn zone="oren30_2218_22m1">
+		<npc id="20570" count="3" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear -->
+		<npc id="20571" count="2" respawnDelay="25" respawnRandom="5" /> <!-- Tarlk Bugbear Warrior -->
+	</spawn>
+	<!-- oren31_2218_03 -->
+	<spawn zone="oren31_2218_03m1">
+		<npc id="20241" count="2" respawnDelay="41" respawnRandom="5" /> <!-- Hunter Gargoyle -->
+		<npc id="20573" count="4" respawnDelay="41" respawnRandom="5" /> <!-- Tarlk Basilisk -->
+		<npc id="20574" count="4" respawnDelay="41" respawnRandom="5" /> <!-- Elder Tarlk Basilisk -->
+	</spawn>
+	<!-- oren31_2218_04 -->
+	<spawn zone="oren31_2218_04m1">
+		<npc id="20241" count="3" respawnDelay="41" respawnRandom="5" /> <!-- Hunter Gargoyle -->
+		<npc id="20573" count="5" respawnDelay="41" respawnRandom="5" /> <!-- Tarlk Basilisk -->
+		<npc id="20574" count="4" respawnDelay="41" respawnRandom="5" /> <!-- Elder Tarlk Basilisk -->
+	</spawn>
+	<!-- oren28_tb2218_01 -->
+	<spawn zone="oren28_tb01_m1">
+		<npc id="18272" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- oren30_tb2218_06 -->
+	<spawn zone="oren30_tb06_m1">
+		<npc id="18273" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- oren28_tb2218_02 -->
+	<spawn zone="oren28_tb02_m1">
+		<npc id="18273" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- oren30_tb2218_07 -->
+	<spawn zone="oren30_tb07_m1">
+		<npc id="18274" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- oren01_qm2218_01 -->
+	<spawn zone="oren01_qm2218_01m1">
+		<npc id="27098" count="4" respawnDelay="180" /> <!-- Ghost Fire -->
+	</spawn>
+	<!-- oren01_qm2218_02 -->
+	<spawn zone="oren01_qm2218_02m1">
+		<npc id="27098" count="4" respawnDelay="180" /> <!-- Ghost Fire -->
+	</spawn>
+</list>

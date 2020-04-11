@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="dist/game/data/scripts"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_241"/>
+	<classpathentry kind="lib" path="dist/libs/bonecp-0.8.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="dist/libs/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="dist/libs/commons.jar"/>
+	<classpathentry kind="lib" path="dist/libs/ecj-4.4.jar"/>
+	<classpathentry kind="lib" path="dist/libs/engine.jar"/>
+	<classpathentry kind="lib" path="dist/libs/event-engine.jar"/>
+	<classpathentry kind="lib" path="dist/libs/geoengine.jar"/>
+	<classpathentry kind="lib" path="dist/libs/HikariCP-3.2.0.jar"/>
+	<classpathentry kind="lib" path="dist/libs/java-engine-1.8.jar"/>
+	<classpathentry kind="lib" path="dist/libs/mail-1.5.2.jar"/>
+	<classpathentry kind="lib" path="dist/libs/mmocore.jar"/>
+	<classpathentry kind="lib" path="dist/libs/mysql-connector-java-5.1.34-bin.jar"/>
+	<classpathentry kind="lib" path="dist/libs/protection.jar"/>
+	<classpathentry kind="lib" path="dist/libs/protocols.jar"/>
+	<classpathentry kind="lib" path="dist/libs/sutil.jar"/>
+	<classpathentry kind="lib" path="dist/libs/weupnp-0.1.3.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/L2J_SunriseProject_Core_SQL"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

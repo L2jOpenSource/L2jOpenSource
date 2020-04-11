@@ -1,0 +1,14 @@
+<!ELEMENT list (drakeWarrior)* >
+<!ELEMENT drakeWarrior (pathRoute)* >
+<!ELEMENT pathRoute EMPTY >
+
+<!ATTLIST drakeWarrior
+	id CDATA #REQUIRED
+>
+
+<!ATTLIST pathRoute
+	position CDATA #REQUIRED
+	locX CDATA #REQUIRED
+	locY CDATA #REQUIRED
+	locZ CDATA #REQUIRED
+>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- safe scrols -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- cloak zaken -->
+	<item>
+		<ingredient id="41006" count="500" />
+		<production id="21716" count="1" />
+	</item>
+	<!-- cloak freya -->
+	<item>
+		<ingredient id="41006" count="500" />
+		<production id="21717" count="1" />
+	</item>
+	<!-- cloak tezza -->
+	<item>
+		<ingredient id="41006" count="500" />
+		<production id="21718" count="1" />
+	</item>
+
+</list>

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- aden08_npc2319_01 -->
+	<spawn zone="aden08_npc2319_0101">
+		<npc id="30747" x="110395" y="41625" z="-4619" heading="0" respawnDelay="60" /> <!-- Mimyu -->
+	</spawn>
+	<!-- jackpot_bug_52_2319_01 -->
+	<spawn zone="jackpot_bug_52_2319_001m1">
+		<npc id="18664" count="6" respawnDelay="14400" respawnRandom="13200" randRate="21" /> <!-- Lucky Pig -->
+	</spawn>
+	<!-- ssq_npc2319_01 -->
+	<spawn zone="ssq_npc2319_01m1">
+		<npc id="32570" x="124694" y="62730" z="-3640" heading="49152" respawnDelay="60" /> <!-- Eric -->
+	</spawn>
+	<!-- aden08_tb2319_05 -->
+	<spawn zone="aden08_tb05_m1">
+		<npc id="18273" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden08_tb2319_41 -->
+	<spawn zone="aden08_tb41_m1">
+		<npc id="18274" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden08_tb2319_53 -->
+	<spawn zone="aden08_tb53_m1">
+		<npc id="18275" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden08_2319_01 -->
+	<spawn zone="aden08_2319_01m1">
+		<npc id="20589" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+	</spawn>
+	<!-- aden08_2319_02 -->
+	<spawn zone="aden08_2319_02m1">
+		<npc id="20589" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+	</spawn>
+	<!-- aden08_2319_03 -->
+	<spawn zone="aden08_2319_03m1">
+		<npc id="20589" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_04 -->
+	<spawn zone="aden08_2319_04m1">
+		<npc id="20589" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+	</spawn>
+	<!-- aden08_2319_05 -->
+	<spawn zone="aden08_2319_05m1">
+		<npc id="20589" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20591" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_06 -->
+	<spawn zone="aden08_2319_06m1">
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_07 -->
+	<spawn zone="aden08_2319_07m1">
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_08 -->
+	<spawn zone="aden08_2319_08m1">
+		<npc id="20591" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_09 -->
+	<spawn zone="aden08_2319_09m1">
+		<npc id="20591" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+	</spawn>
+	<!-- aden08_2319_10 -->
+	<spawn zone="aden08_2319_10m1">
+		<npc id="20591" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+	</spawn>
+	<!-- aden08_2319_11 -->
+	<spawn zone="aden08_2319_11m1">
+		<npc id="20591" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+	</spawn>
+	<!-- aden08_2319_12 -->
+	<spawn zone="aden08_2319_12m1">
+		<npc id="20590" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_13 -->
+	<spawn zone="aden08_2319_13m1">
+		<npc id="20589" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20591" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_14 -->
+	<spawn zone="aden08_2319_14m1">
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+	</spawn>
+	<!-- aden08_2319_15 -->
+	<spawn zone="aden08_2319_15m1">
+		<npc id="20592" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+	</spawn>
+	<!-- aden08_2319_16 -->
+	<spawn zone="aden08_2319_16m1">
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+	</spawn>
+	<!-- aden08_2319_17 -->
+	<spawn zone="aden08_2319_17m1">
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20594" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+		<npc id="20595" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+	</spawn>
+	<!-- aden08_2319_18 -->
+	<spawn zone="aden08_2319_18m1">
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20594" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+	</spawn>
+	<!-- aden08_2319_19 -->
+	<spawn zone="aden08_2319_19m1">
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20594" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+	</spawn>
+	<!-- aden08_2319_20 -->
+	<spawn zone="aden08_2319_20m1">
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+	</spawn>
+	<!-- aden08_2319_21 -->
+	<spawn zone="aden08_2319_21m1">
+		<npc id="20592" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+	</spawn>
+	<!-- aden08_2319_22 -->
+	<spawn zone="aden08_2319_22m1">
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_23 -->
+	<spawn zone="aden08_2319_23m1">
+		<npc id="20589" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20591" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_24 -->
+	<spawn zone="aden08_2319_24m1">
+		<npc id="20589" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20591" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_25 -->
+	<spawn zone="aden08_2319_25m1">
+		<npc id="20589" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+	</spawn>
+	<!-- aden08_2319_26 -->
+	<spawn zone="aden08_2319_26m1">
+		<npc id="20589" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_27 -->
+	<spawn zone="aden08_2319_27m1">
+		<npc id="20589" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+	</spawn>
+	<!-- aden08_2319_28 -->
+	<spawn zone="aden08_2319_28m1">
+		<npc id="20589" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+	</spawn>
+	<!-- aden08_2319_29 -->
+	<spawn zone="aden08_2319_29m1">
+		<npc id="20589" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+	</spawn>
+	<!-- aden08_2319_30 -->
+	<spawn zone="aden08_2319_30m1">
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_31 -->
+	<spawn zone="aden08_2319_31m1">
+		<npc id="20591" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="5" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+	</spawn>
+	<!-- aden08_2319_32 -->
+	<spawn zone="aden08_2319_32m1">
+		<npc id="20591" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_33 -->
+	<spawn zone="aden08_2319_33m1">
+		<npc id="20591" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_34 -->
+	<spawn zone="aden08_2319_34m1">
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+	</spawn>
+	<!-- aden08_2319_35 -->
+	<spawn zone="aden08_2319_35m1">
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+	</spawn>
+	<!-- aden08_2319_36 -->
+	<spawn zone="aden08_2319_36m1">
+		<npc id="20591" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_37 -->
+	<spawn zone="aden08_2319_37m1">
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20592" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_38 -->
+	<spawn zone="aden08_2319_38m1">
+		<npc id="20590" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+	</spawn>
+	<!-- aden08_2319_39 -->
+	<spawn zone="aden08_2319_39m1">
+		<npc id="20589" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline -->
+		<npc id="20590" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele -->
+	</spawn>
+	<!-- aden08_2319_40 -->
+	<spawn zone="aden08_2319_40m1">
+		<npc id="20592" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+		<npc id="20594" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+	</spawn>
+	<!-- aden08_2319_41 -->
+	<spawn zone="aden08_2319_41m1">
+		<npc id="20592" count="5" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="5" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+		<npc id="20594" count="5" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+	</spawn>
+	<!-- aden08_2319_42 -->
+	<spawn zone="aden08_2319_42m1">
+		<npc id="20593" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+		<npc id="20594" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+	</spawn>
+	<!-- aden08_2319_43 -->
+	<spawn zone="aden08_2319_43m1">
+		<npc id="20593" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+		<npc id="20594" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+		<npc id="20595" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+	</spawn>
+	<!-- aden08_2319_44 -->
+	<spawn zone="aden08_2319_44m1">
+		<npc id="20594" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+		<npc id="20595" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+	</spawn>
+	<!-- aden08_2319_45 -->
+	<spawn zone="aden08_2319_45m1">
+		<npc id="20594" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+		<npc id="20595" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+	</spawn>
+	<!-- aden08_2319_46 -->
+	<spawn zone="aden08_2319_46m1">
+		<npc id="20596" count="7" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="6" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+		<npc id="20598" count="6" respawnDelay="80" respawnRandom="15" /> <!-- Satyr Elder -->
+		<npc id="20599" count="7" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn Elder -->
+	</spawn>
+	<!-- aden08_2319_48 -->
+	<spawn zone="aden08_2319_48m1">
+		<npc id="20594" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+		<npc id="20595" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+	</spawn>
+	<!-- aden08_2319_49 -->
+	<spawn zone="aden08_2319_49m1">
+		<npc id="20594" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+		<npc id="20595" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+	</spawn>
+	<!-- aden08_2319_50 -->
+	<spawn zone="aden08_2319_50m1">
+		<npc id="20594" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+		<npc id="20595" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+	</spawn>
+	<!-- aden08_2319_51 -->
+	<spawn zone="aden08_2319_51m1">
+		<npc id="20596" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+		<npc id="20598" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Satyr Elder -->
+		<npc id="20599" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn Elder -->
+	</spawn>
+	<!-- aden08_2319_52 -->
+	<spawn zone="aden08_2319_52m1">
+		<npc id="20596" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+		<npc id="20598" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Satyr Elder -->
+		<npc id="20599" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn Elder -->
+	</spawn>
+	<!-- aden08_2319_53 -->
+	<spawn zone="aden08_2319_53m1">
+		<npc id="20596" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+		<npc id="20598" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr Elder -->
+		<npc id="20599" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn Elder -->
+	</spawn>
+	<!-- aden08_2319_54 -->
+	<spawn zone="aden08_2319_54m1">
+		<npc id="20596" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+		<npc id="20598" count="5" respawnDelay="80" respawnRandom="15" /> <!-- Satyr Elder -->
+		<npc id="20599" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn Elder -->
+	</spawn>
+	<!-- aden08_2319_55 -->
+	<spawn zone="aden08_2319_55m1">
+		<npc id="20595" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+	</spawn>
+	<!-- aden08_2319_56 -->
+	<spawn zone="aden08_2319_56m1">
+		<npc id="20594" count="5" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+		<npc id="20595" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="5" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+	</spawn>
+	<!-- aden08_2319_57 -->
+	<spawn zone="aden08_2319_57m1">
+		<npc id="20595" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+	</spawn>
+	<!-- aden08_2319_58 -->
+	<spawn zone="aden08_2319_58m1">
+		<npc id="20595" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+	</spawn>
+	<!-- aden08_2319_59 -->
+	<spawn zone="aden08_2319_59m1">
+		<npc id="20595" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+	</spawn>
+	<!-- aden08_2319_60 -->
+	<spawn zone="aden08_2319_60m1">
+		<npc id="20595" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+	</spawn>
+	<!-- aden08_2319_62 -->
+	<spawn zone="aden08_2319_62m1">
+		<npc id="20595" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+	</spawn>
+	<!-- aden08_2319_63 -->
+	<spawn zone="aden08_2319_63m1">
+		<npc id="20595" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+	</spawn>
+	<!-- aden08_2319_64 -->
+	<spawn zone="aden08_2319_64m1">
+		<npc id="20595" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+	</spawn>
+	<!-- aden08_2319_65 -->
+	<spawn zone="aden08_2319_65m1">
+		<npc id="20595" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Fline Elder -->
+		<npc id="20596" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Liele Elder -->
+		<npc id="20597" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Valley Treant Elder -->
+	</spawn>
+	<!-- aden08_2319_66 -->
+	<spawn zone="aden08_2319_66m1">
+		<npc id="20592" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="2" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+		<npc id="20594" count="1" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+	</spawn>
+	<!-- aden08_2319_67 -->
+	<spawn zone="aden08_2319_67m1">
+		<npc id="20592" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+		<npc id="20594" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+	</spawn>
+	<!-- aden08_2319_68 -->
+	<spawn zone="aden08_2319_68m1">
+		<npc id="20592" count="4" respawnDelay="80" respawnRandom="15" /> <!-- Satyr -->
+		<npc id="20593" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Unicorn -->
+		<npc id="20594" count="3" respawnDelay="80" respawnRandom="15" /> <!-- Forest Runner -->
+	</spawn>
+</list>

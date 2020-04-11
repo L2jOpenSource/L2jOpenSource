@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- innadril19_2422_001 -->
+	<spawn zone="innadril19_2422_001m1">
+		<npc id="32282" x="139904" y="150368" z="-3104" heading="4096" respawnDelay="60" /> <!-- Yiyen -->
+	</spawn>
+	<!-- innadril18_2422_001 -->
+	<spawn zone="innadril18_2422_001m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="152976" y="146576" z="-3184" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_002 -->
+	<spawn zone="innadril18_2422_002m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="152272" y="147728" z="-3200" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_003 -->
+	<spawn zone="innadril18_2422_003m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="153728" y="147872" z="-3232" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_004 -->
+	<spawn zone="innadril18_2422_004m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="151888" y="148528" z="-3200" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_005 -->
+	<spawn zone="innadril18_2422_005m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="152464" y="149216" z="-3296" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_006 -->
+	<spawn zone="innadril18_2422_006m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="153792" y="148912" z="-3312" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_007 -->
+	<spawn zone="innadril18_2422_007m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="152336" y="150096" z="-3408" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_008 -->
+	<spawn zone="innadril18_2422_008m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="153888" y="149744" z="-3344" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_009 -->
+	<spawn zone="innadril18_2422_009m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="152464" y="151104" z="-3472" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_010 -->
+	<spawn zone="innadril18_2422_010m1">
+		<npc id="22263" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="153952" y="150800" z="-3472" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_011 -->
+	<spawn zone="innadril18_2422_011m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="155648" y="148800" z="-3712" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_012 -->
+	<spawn zone="innadril18_2422_012m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="156752" y="149344" z="-3616" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_013 -->
+	<spawn zone="innadril18_2422_013m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="156272" y="150288" z="-3648" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_014 -->
+	<spawn zone="innadril18_2422_014m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="155008" y="151712" z="-3728" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_015 -->
+	<spawn zone="innadril18_2422_015m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="156800" y="151504" z="-3632" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_016 -->
+	<spawn zone="innadril18_2422_016m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="157136" y="152800" z="-3536" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_017 -->
+	<spawn zone="innadril18_2422_017m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="158640" y="152672" z="-3440" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_018 -->
+	<spawn zone="innadril18_2422_018m1">
+		<npc id="22263" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="160080" y="152320" z="-3424" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_020 -->
+	<spawn zone="innadril18_2422_020m1">
+		<npc id="22263" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22265" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="153248" y="153792" z="-3664" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_021 -->
+	<spawn zone="innadril18_2422_021m1">
+		<npc id="22263" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22265" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="155141" y="154105" z="-3672" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_022 -->
+	<spawn zone="innadril18_2422_022m1">
+		<npc id="22263" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22265" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="152160" y="154496" z="-3696" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_023 -->
+	<spawn zone="innadril18_2422_023m1">
+		<npc id="22263" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22265" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="151248" y="155216" z="-3696" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_024 -->
+	<spawn zone="innadril18_2422_024m1">
+		<npc id="22263" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22265" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="152864" y="155936" z="-3687" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_025 -->
+	<spawn zone="innadril18_2422_025m1">
+		<npc id="22263" count="3" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22265" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="154224" y="155600" z="-3687" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_026 -->
+	<spawn zone="innadril18_2422_026m1">
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22266" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="155152" y="155904" z="-3680" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_027 -->
+	<spawn zone="innadril18_2422_027m1">
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22266" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="155888" y="155280" z="-3760" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_028 -->
+	<spawn zone="innadril18_2422_028m1">
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22266" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="157264" y="155472" z="-3760" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_029 -->
+	<spawn zone="innadril18_2422_029m1">
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22266" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="158544" y="155424" z="-3760" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_030 -->
+	<spawn zone="innadril18_2422_030m1">
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22266" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="160064" y="155056" z="-3760" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_031 -->
+	<spawn zone="innadril18_2422_031m1">
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22266" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="152720" y="157472" z="-3504" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_032 -->
+	<spawn zone="innadril18_2422_032m1">
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22266" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="155696" y="156944" z="-3664" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_033 -->
+	<spawn zone="innadril18_2422_033m1">
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22266" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Pythia -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22267" x="157072" y="157600" z="-3552" heading="0" respawnDelay="310" /> <!-- Dark Water Dragon -->
+	</spawn>
+	<!-- innadril18_2422_034 -->
+	<spawn zone="innadril18_2422_034m1">
+		<npc id="22263" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Chrysocolla -->
+	</spawn>
+	<!-- innadril18_2422_035 -->
+	<spawn zone="innadril18_2422_035m1">
+		<npc id="22263" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+	</spawn>
+	<!-- innadril18_2422_036 -->
+	<spawn zone="innadril18_2422_036m1">
+		<npc id="22263" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Sonneratia -->
+		<npc id="22264" count="2" respawnDelay="30" respawnRandom="15" /> <!-- Castalia -->
+	</spawn>
+	<!-- innadril18_2422_037 -->
+	<spawn zone="innadril18_2422_037m1">
+		<npc id="18367" x="155312" y="160160" z="-3344" heading="0" respawnDelay="60" /> <!-- Prison Guard -->
+		<npc id="18368" x="155840" y="159936" z="-3344" heading="0" respawnDelay="15" /> <!-- Prison Guard -->
+		<npc id="18368" x="155840" y="160448" z="-3344" heading="0" respawnDelay="15" /> <!-- Prison Guard -->
+	</spawn>
+	<!-- innadril16_2422_001 -->
+	<spawn zone="innadril16_2422_001m1">
+		<npc id="18367" x="146592" y="151888" z="-2864" heading="49152" respawnDelay="60" /> <!-- Prison Guard -->
+		<npc id="18368" x="146366" y="151506" z="-2864" heading="49152" respawnDelay="15" /> <!-- Prison Guard -->
+		<npc id="18368" x="146880" y="151504" z="-2864" heading="49152" respawnDelay="15" /> <!-- Prison Guard -->
+	</spawn>
+	<!-- innadril16_2422_002 -->
+	<spawn zone="innadril16_2422_002m1">
+		<npc id="22263" count="2" respawnDelay="30" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" /> <!-- Pythia -->
+	</spawn>
+	<!-- innadril16_2422_003 -->
+	<spawn zone="innadril16_2422_003m1">
+		<npc id="22263" count="1" respawnDelay="30" /> <!-- Sonneratia -->
+		<npc id="22264" count="2" respawnDelay="30" /> <!-- Castalia -->
+		<npc id="22265" count="2" respawnDelay="30" /> <!-- Chrysocolla -->
+		<npc id="22266" count="1" respawnDelay="30" /> <!-- Pythia -->
+	</spawn>
+	<!-- innadril16_2422_004 -->
+	<spawn zone="innadril16_2422_004m1">
+		<npc id="22263" count="2" respawnDelay="30" /> <!-- Sonneratia -->
+		<npc id="22264" count="1" respawnDelay="30" /> <!-- Castalia -->
+		<npc id="22265" count="1" respawnDelay="30" /> <!-- Chrysocolla -->
+		<npc id="22266" count="2" respawnDelay="30" /> <!-- Pythia -->
+	</spawn>
+</list>

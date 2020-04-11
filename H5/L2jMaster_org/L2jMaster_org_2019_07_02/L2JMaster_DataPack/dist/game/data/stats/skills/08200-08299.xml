@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="8200" levels="1" name="Light Draconic Leather Armor Set - PvP">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t89_ul_i00" />
+		<set name="magicLvl" val="75" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="289" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtkSpd" val="1.04" /> <!-- Attack Speed +4% -->
+				<mul stat="pAtk" val="1.04" /> <!-- P. Atk +4% -->
+				<add stat="weightPenalty" val="5759" /> <!-- Point at which a weight penalty is applied +5759 -->
+				<mul stat="pvpPhysDef" val="1.05" />
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8201" levels="1" name="Major Arcana Robe Set - PvP">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t90_ul_i00" />
+		<set name="magicLvl" val="75" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5691" skillLevel="1" /> <!-- PvP Armor - Critical Down -->
+				<param targetType="SELF" />
+			</effect>
+			<effect name="DefenceTrait">
+				<param SHOCK="50" />
+				<sub stat="cancel" val="50" /> <!-- Casting Cancel Probability -50% -->
+				<mul stat="mAtk" val="1.17" /> <!-- M. Atk +17% -->
+				<add stat="runSpd" val="7" /> <!-- Movement Speed +7 -->
+				<add stat="weightPenalty" val="5759" /> <!-- Point at which a weight penalty is applied +5759 -->
+				<mul stat="pvpPhysDef" val="1.05" />
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8202" levels="1" name="Dynasty Breastplate - PvP">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t91_u_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="418" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pDef" val="1.046" /> <!-- P. Def +4.6% -->
+				<add stat="darkRes" val="6" /> <!-- Darkness Resistance +6 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5693" skillLevel="1" /> <!-- PvP Armor - Speed Down -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8203" levels="1" name="Dynasty Breastplate - PvP Shield Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t91_uk_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5693" skillLevel="1" /> <!-- PvP Armor - Speed Down -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="DefenceTrait">
+				<param SHOCK="13" />
+				<mul stat="pDef" val="1.054" /> <!-- P. Def. +5.4% -->
+				<mul stat="healEffect" val="1.03" /> <!-- Received Increased Heal +3% -->
+				<add stat="darkRes" val="8" /> <!-- Darkness resistance is increased +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8204" levels="1" name="Dynasty Breastplate - PvP Weapon Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t91_uw_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtk" val="1.054" /> <!-- P. Atk +5.4% -->
+				<add stat="critRate" val="24.6" /> <!-- Critical Damage Chance +24.6 -->
+				<add stat="critDmgAdd" val="234" /> <!-- Critical Damage +234 -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5693" skillLevel="1" /> <!-- PvP Armor - Speed Down -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8205" levels="1" name="Dynasty Breastplate - PvP Force Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t91_uf_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtk" val="1.054" /> <!-- P. Atk. +5.4% -->
+				<add stat="darkRes" val="8" /> <!-- Resistance to Darkness attacks +8 -->
+				<mul stat="physicalMpConsumeRate" val="0.95" /> <!-- MP consumption of the active skill is decreased -5% -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5693" skillLevel="1" /> <!-- PvP Armor - Speed Down -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8206" levels="1" name="Dynasty Breastplate - PvP Bard">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t91_uke_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pDef" val="1.054" /> <!-- P. Def. +5.4% -->
+				<mul stat="danceMpConsumeRate" val="0.95" /> <!-- MP consumption is decreased when song and dance skills are used -5% -->
+				<add stat="darkRes" val="8" /> <!-- Dark resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5693" skillLevel="1" /> <!-- PvP Armor - Speed Down -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8207" levels="1" name="Dynasty Leather Armor - PvP">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_u_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="418" />
+			</effect>
+			<effect name="Buff">
+				<add stat="rEvas" val="1.72" /> <!-- Evacion +1.72 -->
+				<add stat="accCombat" val="1.72" /> <!-- Accuracy +1.72 -->
+				<add stat="darkRes" val="6" /> <!-- Darkness Resistance +6 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8208" levels="1" name="Dynasty Leather Armor - PvP Dagger Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_ud_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="DefenceTrait">
+				<param HOLD="13" />
+				<add stat="rEvas" val="4.3" /> <!-- Evasion +4.3 -->
+				<mul stat="pAtkSpd" val="1.0266" /> <!-- Atk. Spd. are increased +2.66% -->
+				<add stat="darkRes" val="8" /> <!-- Dark resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8209" levels="1" name="Dynasty Leather Armor - PvP Bow Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_ub_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<add stat="accCombat" val="4.3" /> <!-- Accuracy +4.3 -->
+				<mul stat="pAtkSpd" val="1.0266" /> <!-- Atk. Spd. are increased +2.66% -->
+				<add stat="regMp" val="1.72" /> <!-- MP recovery are increased +1.72 -->
+				<add stat="darkRes" val="8" /> <!-- Dark resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8210" levels="1" name="Dynasty Tunic - PvP">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t93_u_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="257" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.12" /> <!-- Casting Spd. +12% -->
+				<add stat="darkRes" val="6" /> <!-- Darkness Resistance +6 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5691" skillLevel="1" /> <!-- PvP Armor - Critical Down -->
+				<param targetType="SELF" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8211" levels="1" name="Dynasty Tunic - PvP Healer">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t93_uh_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Spd. +15% -->
+				<add stat="healEffect" val="20" /> <!-- Increase amount of heal +20 -->
+				<sub stat="cancel" val="15" /> <!-- Decrease magic cancel rate -15% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5691" skillLevel="1" /> <!-- PvP Armor - Critical Down -->
+				<param targetType="SELF" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8212" levels="1" name="Dynasty Tunic - PvP Enchanter">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t93_ue_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Spd. +15% -->
+				<sub stat="cancel" val="15" /> <!-- Decrease magic cancel rate -15% -->
+				<mul stat="magicalMpConsumeRate" val="0.95" /> <!-- Decrease MP consumption -5% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5691" skillLevel="1" /> <!-- PvP Armor - Critical Down -->
+				<param targetType="SELF" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8213" levels="1" name="Dynasty Tunic - PvP Summoner">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t93_us_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Spd. +15% -->
+				<mul stat="pDef" val="1.026" /> <!-- P. Def. +2.6% -->
+				<mul stat="pAtk" val="1.026" /> <!-- Increase P. Atk. +2.6% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5691" skillLevel="1" /> <!-- PvP Armor - Critical Down -->
+				<param targetType="SELF" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8214" levels="1" name="Dynasty Tunic - PvP Wizard">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t93_uw_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Spd. +15% -->
+				<mul stat="mAtk" val="1.054" /> <!-- Increase M. Atk +5.4% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5691" skillLevel="1" /> <!-- PvP Armor - Critical Down -->
+				<param targetType="SELF" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8215" levels="1" name="Dynasty Leather Armor - PvP Force Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_ud_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtk" val="1.054" /> <!-- P. Atk. +5.4% -->
+				<add stat="darkRes" val="8" /> <!-- Dark resistance +8 -->
+				<mul stat="physicalMpConsumeRate" val="0.95" /> <!-- MP consumption of the active skill is decreased -5% -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8216" levels="1" name="Dynasty Leather Armor - PvP Weapon Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_ub_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtk" val="1.054" /> <!-- P. Atk +5.4% -->
+				<add stat="critRate" val="24.6" /> <!-- Critical Damage Chance +24.6 -->
+				<add stat="critDmgAdd" val="234" /> <!-- Critical Damage +234 -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8217" levels="1" name="Dynasty Leather Armor - PvP Enchanter">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t93_ue_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Spd. +15% -->
+				<sub stat="cancel" val="15" /> <!-- Decrease magic cancel rate -15% -->
+				<mul stat="magicalMpConsumeRate" val="0.95" /> <!-- decrease MP consumption -5% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8218" levels="1" name="Dynasty Leather Armor - PvP Summoner">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_u_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtkSpd" val="1.054" /> <!-- increase Atk. Spd. +5.4% -->
+				<mul stat="pAtk" val="1.0266" /> <!-- Increase P. Atk. +2.66% -->
+				<mul stat="pDef" val="1.0266" /> <!-- Increase P. Def. +2.66% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8219" levels="1" name="Dynasty Platinum Breastplate - PvP Shield Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t91_uk_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5693" skillLevel="1" /> <!-- PvP Armor - Speed Down -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="DefenceTrait">
+				<param SHOCK="15" />
+				<mul stat="pDef" val="1.066" /> <!-- P. Def. +6.6% -->
+				<mul stat="healEffect" val="1.04" /> <!-- Heal Capacity +4% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8220" levels="1" name="Dynasty Platinum Breastplate - PvP Weapon Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t91_uw_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtk" val="1.066" /> <!-- P. Atk. +6.6% -->
+				<add stat="critRate" val="29.5" /> <!-- Critical Rate +29.5 Increase -->
+				<add stat="critDmgAdd" val="282" /> <!-- Critical Damage +282 -->
+				<add stat="darkRes" val="8" /> <!-- Darkness Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5693" skillLevel="1" /> <!-- PvP Armor - Speed Down -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8221" levels="1" name="Dynasty Platinum Breastplate - PvP Bard">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t91_uke_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pDef" val="1.066" /> <!-- P. Def. +6.6% -->
+				<mul stat="danceMpConsumeRate" val="0.94" /> <!-- MP Consumption -6% Decrease for Song and Dance Skills -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpPhysDef" val="1.05" />
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5693" skillLevel="1" /> <!-- PvP Armor - Speed Down -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8222" levels="1" name="Dynasty Platinum Breastplate - PvP Force Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t91_uf_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtk" val="1.066" /> <!-- P. Atk. +6.6% -->
+				<add stat="darkRes" val="8" /> <!-- Resistance to Darkness attacks +8 -->
+				<mul stat="physicalMpConsumeRate" val="0.94" /> <!-- Decreases MP consumption by 6% for active skills -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5693" skillLevel="1" /> <!-- PvP Armor - Speed Down -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8223" levels="1" name="Dynasty Jewel Leather Armor - PvP Dagger Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_ud_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="DefenceTrait">
+				<param HOLD="15" />
+				<add stat="rEvas" val="5.3" /> <!-- Evasion +5.3 -->
+				<mul stat="pAtkSpd" val="1.0324" /> <!-- Atk. Spd. +3.24% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8224" levels="1" name="Dynasty Jewel Leather Armor - PvP Bow Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_ub_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<add stat="accCombat" val="5.3" /> <!-- Accuracy +5.3 -->
+				<mul stat="pAtkSpd" val="1.0324" /> <!-- Atk. Spd. +3.24% -->
+				<add stat="regMp" val="1.066" /> <!-- MP Recovery +6.6% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8225" levels="1" name="Dynasty Jewel Leather Armor - PvP Force Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_ud_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtk" val="1.066" /> <!-- P. Atk. +6.6% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="physicalMpConsumeRate" val="0.94" /> <!-- MP Consumption -6% -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8226" levels="1" name="Dynasty Jewel Leather Armor - PvP Weapon Master">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_ub_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtk" val="1.066" /> <!-- Physical Attack Power +6.6% -->
+				<add stat="critRate" val="29.5" /> <!-- Critical Rate +29.5 Increase -->
+				<add stat="critDmgAdd" val="282" /> <!-- Critical Damage +282 -->
+				<add stat="darkRes" val="8" /> <!-- Darkness Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8227" levels="1" name="Dynasty Jewel Leather Armor - PvP Summoner">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_ub_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="492" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtkSpd" val="1.066" /> <!-- Atk. Spd. +6.6% -->
+				<mul stat="pAtk" val="1.0266" /> <!-- P. Atk. +2.66% -->
+				<mul stat="pDef" val="1.0266" /> <!-- P. Def. +2.66% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8228" levels="1" name="Dynasty Jewel Leather Armor - PvP Enchanter">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t92_ub_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Spd. +15% -->
+				<sub stat="cancel" val="15" /> <!-- Decrease magic cancel rate -15% -->
+				<mul stat="magicalMpConsumeRate" val="0.94" /> <!-- Decrease MP consumption -6% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5694" skillLevel="1" /> <!-- PvP Armor - Mirage -->
+				<param targetType="ONE" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8229" levels="1" name="Dynasty Silver Satin Tunic - PvP Healer">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t93_uh_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Spd. +15% -->
+				<add stat="healEffect" val="22" /> <!-- Heal Capacity +22 -->
+				<sub stat="cancel" val="15" /> <!-- Magic Cancel Rate -15 -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5691" skillLevel="1" /> <!-- PvP Armor - Critical Down -->
+				<param targetType="SELF" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8230" levels="1" name="Dynasty Silver Satin Tunic - PvP Enchanter">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t93_ue_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Spd. +15% -->
+				<sub stat="cancel" val="15" /> <!-- Magic Cancel Rate -15 -->
+				<mul stat="magicalMpConsumeRate" val="0.94" /> <!-- MP Consumption -6% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5691" skillLevel="1" /> <!-- PvP Armor - Critical Down -->
+				<param targetType="SELF" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8231" levels="1" name="Dynasty Silver Satin Tunic - PvP Summoner">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t93_us_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Spd. +15% -->
+				<mul stat="pDef" val="1.033" /> <!-- P. Def. +3.3% -->
+				<mul stat="pAtk" val="1.033" /> <!-- P. Atk. +3.3% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5691" skillLevel="1" /> <!-- PvP Armor - Critical Down -->
+				<param targetType="SELF" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8232" levels="1" name="Dynasty Silver Satin Tunic - PvP Wizard">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t93_uw_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="321" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Spd. +15% -->
+				<mul stat="mAtk" val="1.066" /> <!-- M. Atk. +6.6% -->
+				<add stat="darkRes" val="8" /> <!-- Dark Resistance +8 -->
+				<mul stat="pvpMagicalDef" val="1.05" />
+				<mul stat="pvpPhysSkillsDef" val="1.05" />
+				<mul stat="pvpPhysDef" val="1.05" />
+			</effect>
+			<effect name="TriggerSkillByDamage">
+				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
+				<param minDamage="1" />
+				<param chance="2" />
+				<param skillId="5691" skillLevel="1" /> <!-- PvP Armor - Critical Down -->
+				<param targetType="SELF" />
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8233" levels="1" name="Zubei's Helmet">
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="magicLvl" val="58" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="rEvas" val="0.88" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8234" levels="1" name="Zubei's Helmet">
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="magicLvl" val="58" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<mul stat="mAtk" val="1.0125" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8235" levels="1" name="Nightmare Helm">
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="magicLvl" val="67" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="DefenceTrait">
+				<param SLEEP="17.5" />
+				<param HOLD="17.5" />
+				<mul stat="mDef" val="1.0062" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8236" levels="1" name="Nightmare Helm">
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="magicLvl" val="67" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="DefenceTrait">
+				<param SLEEP="17.5" />
+				<param HOLD="17.5" />
+				<mul stat="regMp" val="1.0062" />
+				<mul stat="mAtk" val="1.0062" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8237" levels="1" name="Shalin Heal">
+		<!-- Confirmed CT2.5 -->
+		<set name="effectPoint" val="743" />
+		<set name="hitTime" val="5000" />
+		<set name="icon" val="icon.skill1401" />
+		<set name="isMagic" val="1" /> <!-- Magic Skill -->
+		<set name="magicLvl" val="73" />
+		<set name="mpConsume2" val="61" />
+		<set name="mpConsume1" val="16" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="30000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="reuseDelayLock" val="true" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Heal">
+				<param power="540" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8238" levels="1" name="Shalin Strike">
+		<!-- Confirmed CT2.5 -->
+		<set name="affectScope" val="SINGLE" />
+		<set name="castRange" val="40" />
+		<set name="effectPoint" val="-650" />
+		<set name="effectRange" val="400" />
+		<set name="hitTime" val="2500" />
+		<set name="icon" val="icon.skill0003" />
+		<set name="magicLvl" val="73" />
+		<set name="mpConsume2" val="74" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="20000" />
+		<set name="rideState" val="NONE" />
+		<set name="targetType" val="ENEMY" />
+		<effects>
+			<effect name="PhysicalAttack">
+				<param power="1827" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8239" levels="1" name="Critical Up">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="SEED_OF_CRITICAL" />
+		<set name="effectPoint" val="100" />
+		<set name="hitTime" val="2500" />
+		<set name="icon" val="icon.skill5760" />
+		<set name="magicLvl" val="73" />
+		<set name="mpConsume2" val="74" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="20000" />
+		<set name="rideState" val="NONE" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<mul stat="critRate" val="1.3" />
+				<mul stat="pAtkSpd" val="1.33" />
+			</effect>
+			<effect name="TriggerSkillByAttack">
+				<param attackerType="L2Character" minAttackerLevel="1" maxAttackerLevel="99" />
+				<param isCritical="true" />
+				<param minDamage="1" chance="99" />
+				<param skillId="5760" skillLevel="1" /> <!-- Critical Hit -->
+				<param targetType="SELF" />
+				<param allowWeapons="ALL" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8240" levels="3" name="Obliteration Storm">
+		<!-- Confirmed CT2.5 -->
+		<table name="#abnormalLvl"> 4 6 8 </table>
+		<table name="#power"> 9132 12784 16436 </table>
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="9" />
+		<set name="abnormalType" val="STUN" />
+		<set name="abnormalVisualEffect" val="STUN" />
+		<set name="activateRate" val="50" />
+		<set name="affectRange" val="300" />
+		<set name="basicProperty" val="CON" />
+		<set name="effectPoint" val="-1300" />
+		<set name="hitTime" val="2500" />
+		<set name="icon" val="icon.weapon_long_spear_i00" />
+		<set name="isDebuff" val="true" />
+		<set name="lvlBonusRate" val="1" />
+		<set name="magicLvl" val="73" />
+		<set name="mpConsume2" val="148" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="20000" />
+		<set name="rideState" val="NONE" />
+		<set name="targetType" val="AURA" />
+		<set name="trait" val="SHOCK" />
+		<cond msgId="113" addName="1">
+			<player checkAbnormal="SEED_OF_CRITICAL,#abnormalLvl" />
+		</cond>
+		<effects>
+			<effect name="PhysicalAttack">
+				<param power="#power" />
+			</effect>
+			<effect name="Stun" />
+		</effects>
+		<selfEffects>
+			<effect name="DispelBySlot">
+				<param dispel="SEED_OF_CRITICAL,9" />
+			</effect>
+		</selfEffects>
+	</skill>
+	<skill id="8241" levels="1" name="Critical Up">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="3" />
+		<set name="abnormalTime" val="1200" />
+		<set name="abnormalType" val="CRITICAL_PROB_UP" />
+		<set name="castRange" val="400" />
+		<set name="effectPoint" val="495" />
+		<set name="effectRange" val="900" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="icon.skill1077" />
+		<set name="isMagic" val="1" /> <!-- Magic Skill -->
+		<set name="magicLvl" val="73" />
+		<set name="mpConsume2" val="38" />
+		<set name="mpConsume1" val="10" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="6000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<mul stat="critRate" val="1.3" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8242" levels="1" name="Ice Ball">
+		<!-- Confirmed CT2.5 -->
+		<set name="affectScope" val="SINGLE" />
+		<set name="castRange" val="900" />
+		<set name="effectPoint" val="-574" />
+		<set name="effectRange" val="1400" />
+		<set name="attributeType" val="WATER" />
+		<set name="attributePower" val="20" />
+		<set name="hitTime" val="3100" />
+		<set name="icon" val="icon.skill1184" />
+		<set name="magicLvl" val="61" />
+		<set name="mpConsume2" val="61" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="20000" />
+		<set name="rideState" val="NONE" />
+		<set name="targetType" val="ENEMY" />
+		<effects>
+			<effect name="PhysicalAttack">
+				<param power="1230" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8243" levels="1" name="Chill Strike">
+		<!-- Confirmed CT2.5 -->
+		<set name="affectScope" val="SINGLE" />
+		<set name="castRange" val="40" />
+		<set name="effectPoint" val="-574" />
+		<set name="effectRange" val="400" />
+		<set name="attributeType" val="WATER" />
+		<set name="attributePower" val="20" />
+		<set name="hitTime" val="850" />
+		<set name="icon" val="icon.skill0105" />
+		<set name="magicLvl" val="61" />
+		<set name="mpConsume2" val="61" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="120000" />
+		<set name="rideState" val="NONE" />
+		<set name="targetType" val="ENEMY" />
+		<effects>
+			<effect name="PhysicalAttack">
+				<param power="1845" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8244" levels="1" name="Transform Gatekeeper">
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="7200" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+		<effects>
+			<effect name="Transformation">
+				<param id="319" />
+				<sub stat="vitalityConsumeRate" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8245" levels="1" name="Summon Agathion - Love">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16049" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8246" levels="1" name="Transform Pumpkin Ghost">
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+		<effects>
+			<effect name="Transformation">
+				<param id="108" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8247" levels="1" name="Mount Darkmane Pacer">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+		<effects>
+			<effect name="Transformation">
+				<param id="106" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8248" levels="1" name="Cancel Gatekeeper Transformation">
+		<!-- Confirmed CT2.5 -->
+		<set name="effectPoint" val="10" />
+		<set name="hitTime" val="2500" />
+		<set name="icon" val="icon.skilltransform2" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="99" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="DispelBySlot">
+				<param dispel="TRANSFORM,319" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8249" levels="1" name="Cancel Critical Hit">
+		<!-- Confirmed CT2.5 -->
+		<set name="effectPoint" val="10" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="99" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="DispelBySlot">
+				<param dispel="SEED_OF_CRITICAL,10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8250" levels="2" name="Summon Tigress">
+		<table name="#npcIds"> 14916 14917 </table>
+		<set name="hitTime" val="15000" />
+		<set name="icon" val="icon.skill0283" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="63" />
+		<set name="magicLvl" val="63" />
+		<set name="mpConsume2" val="117" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="20000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canSummon="true" />
+		</cond>
+		<effects>
+			<effect name="Summon">
+				<param npcId="#npcIds" />
+				<param lifeTime="1200" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8251" levels="1" name="Collection Agathion Release Seal">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16061" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8252" levels="1" name="Test - Transform Mount1">
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="NONE" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+	</skill>
+	<skill id="8253" levels="1" name="Test - Transform Mount2">
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="NONE" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+	</skill>
+	<skill id="8254" levels="1" name="Release Seal on Agathion - Monkey">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16054" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8255" levels="1" name="Release Seal on Agathion - Griffin">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16055" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8256" levels="1" name="Release Seal on Agathion - Joy">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16056" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8257" levels="1" name="Release Seal on Agathion - Anger">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16058" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8258" levels="1" name="Release Seal on Agathion - Sorrow">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16057" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8259" levels="1" name="Release Seal on Agathion - Girl Teddy Boy">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16059" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8260" levels="1" name="Release Seal on Agathion - Girl Teddy Girl">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16060" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8261" levels="1" name="Steam Beatle Mount">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+		<effects>
+			<effect name="Transformation">
+				<param id="110" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8262" levels="1" name="Tawny Maned Lion Mount">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+		<effects>
+			<effect name="Transformation">
+				<param id="109" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8263" levels="1" name="Transform Snow King">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+		<effects>
+			<effect name="Transformation">
+				<param id="114" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8264" levels="1" name="Transform Scarecrow Jack">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+		<effects>
+			<effect name="Transformation">
+				<param id="115" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8265" levels="1" name="Transform Tin Golem">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+		<effects>
+			<effect name="Transformation">
+				<param id="116" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8266" levels="1" name="Gludio Talisman">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill08266" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+	</skill>
+	<skill id="8267" levels="1" name="Dion Talisman">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill08267" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+	</skill>
+	<skill id="8268" levels="1" name="Giran Talisman">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill08268" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+	</skill>
+	<skill id="8269" levels="1" name="Oren Talisman">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill08269" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+	</skill>
+	<skill id="8270" levels="1" name="Aden Talisman">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill08270" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+	</skill>
+	<skill id="8271" levels="1" name="Innadril Talisman">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill08271" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+	</skill>
+	<skill id="8272" levels="1" name="Goddard Talisman">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill08272" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+	</skill>
+	<skill id="8273" levels="1" name="Rune Talisman">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill08273" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+	</skill>
+	<skill id="8274" levels="1" name="Schuttgart Talisman">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill08274" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+	</skill>
+	<skill id="8275" levels="1" name="Release Seal on Agathion - pvp">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="75" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16062" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8276" levels="1" name="Shield Branding">
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="3" />
+		<set name="abnormalType" val="STUN" />
+		<set name="abnormalVisualEffect" val="STUN" />
+		<set name="activateRate" val="80" />
+		<set name="affectLimit" val="5-15" />
+		<set name="affectScope" val="FAN" />
+		<set name="attributePower" val="120" />
+		<set name="attributeType" val="HOLY" />
+		<set name="basicProperty" val="CON" />
+		<set name="castRange" val="40" />
+		<set name="effectPoint" val="-100" />
+		<set name="effectRange" val="400" />
+		<set name="fanRange" val="0,0,150,90" />
+		<set name="hitTime" val="1000" />
+		<set name="icon" val="icon.skill0092" />
+		<set name="isDebuff" val="true" />
+		<set name="lvlBonusRate" val="1" />
+		<set name="magicLvl" val="85" />
+		<set name="mpConsume2" val="83" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="5000" />
+		<set name="rideState" val="NONE" />
+		<set name="targetType" val="ENEMY" />
+		<set name="trait" val="SHOCK" />
+		<cond msgId="113" addName="1">
+			<player class_id_restriction="90,91,99,106" />
+		</cond>
+		<effects>
+			<effect name="PhysicalAttack">
+				<param power="2319" />
+			</effect>
+			<effect name="TargetCancel">
+				<param chance="80" />
+			</effect>
+			<effect name="Stun" />
+		</effects>
+	</skill>
+	<skill id="8277" levels="1" name="Transform Native">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="1800" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="1" /> <!-- Magic Skill -->
+		<set name="magicLvl" val="56" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+		<effects>
+			<effect name="Transformation">
+				<param id="101" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8278" levels="1" name="Transform Guard of Dawn">
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="1800" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="effectPoint" val="1" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="1" /> <!-- Magic Skill -->
+		<set name="magicLvl" val="56" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+		<effects>
+			<effect name="Transformation">
+				<param id="113" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8279" levels="1" name="Blessing of Fire">
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="600" />
+		<set name="abnormalType" val="HOLY_ATTACK" />
+		<set name="hitTime" val="100" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="25" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="10000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="8280" levels="1" name="Blessing of Earth">
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="600" />
+		<set name="abnormalType" val="HOLY_ATTACK" />
+		<set name="hitTime" val="100" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="25" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="10000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="8281" levels="1" name="Inventory Slot Add">
+		<set name="icon" val="icon.skill8281" />
+		<set name="magicLvl" val="81" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="8282" levels="1" name="Cloak Slot Add">
+		<set name="icon" val="icon.skill8282" />
+		<set name="magicLvl" val="81" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="8283" levels="1" name="Vesper Heavy Armor Set">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t94_u_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="531" />
+			</effect>
+			<effect name="DefenceTrait">
+				<param HOLD="70" />
+				<param SLEEP="70" />
+				<mul stat="pAtk" val="1.0557" /> <!-- P. Atk. +5.57% -->
+				<mul stat="pDef" val="1.0557" /> <!-- P. Def. +5.57% -->
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8284" levels="1" name="Vesper Noble Heavy Armor Set">
+		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<set name="icon" val="icon.armor_t94_u_i01" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="540" />
+			</effect>
+			<effect name="DefenceTrait">
+				<param HOLD="70" />
+				<param SLEEP="70" />
+				<mul stat="pAtk" val="1.0557" /> <!-- P. Atk. +5.57% -->
+				<mul stat="pDef" val="1.0557" /> <!-- P. Def. +5.57% -->
+				<add stat="accCombat" val="4" /> <!-- Increases Accuracy by 4 -->
+				<add stat="runSpd" val="5" /> <!-- Increases Speed by 5 -->
+				<mul stat="magicSuccRes" val="1.01" /> <!-- Resistance to magic damage by 1% -->
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8285" levels="1" name="Vesper Light Armor Set">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t95_u_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="347" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtk" val="1.0557" /> <!-- P. Atk. +5.57% -->
+				<mul stat="pAtkSpd" val="1.05" /> <!-- Atk. Spd. +5% -->
+				<mul stat="regMp" val="1.05" /> <!-- MP Recovery Rate by 5% -->
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8286" levels="1" name="Vesper Noble Light Armor Set">
+		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<set name="icon" val="icon.armor_t95_u_i01" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="354" />
+			</effect>
+			<effect name="DefenceTrait">
+				<param PARALYZE="50" />
+				<mul stat="pAtk" val="1.0557" /> <!-- P. Atk. +5.57% -->
+				<mul stat="pAtkSpd" val="1.05" /> <!-- Atk. Spd. +5% -->
+				<mul stat="regMp" val="1.05" /> <!-- MP Recovery Rate by 5% -->
+				<add stat="rEvas" val="3" /> <!-- Increases Evasion by 3 -->
+				<add stat="critDmgAdd" val="172" /> <!-- Increases Critical Damage by 172 -->
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8287" levels="1" name="Vesper Robe Set">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.armor_t96_u_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="DefenceTrait">
+				<param SHOCK="50" />
+				<mul stat="mAtk" val="1.0847" /> <!-- M. Atk. 8.47% -->
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Speed 15% -->
+				<mul stat="regMp" val="1.0557" /> <!-- MP Recovery Rate by 5.57% -->
+				<sub stat="cancel" val="30" /> <!-- decreases the damage to be cancelled by magic by 30 -->
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8288" levels="1" name="Vesper Noble Robe Set">
+		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<set name="icon" val="icon.armor_t96_u_i01" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="DefenceTrait">
+				<param SHOCK="50" />
+				<mul stat="mAtk" val="1.0847" /> <!-- M. Atk. 8.47% -->
+				<mul stat="mAtkSpd" val="1.15" /> <!-- Casting Speed 15% -->
+				<mul stat="regMp" val="1.0557" /> <!-- MP Recovery Rate by 5.57% -->
+				<sub stat="cancel" val="30" /> <!-- decreases the damage to be cancelled by magic by 30 -->
+				<add stat="runSpd" val="7" /> <!-- Increases Speed by 7 -->
+				<mul stat="magicalMpConsumeRate" val="0.97" /> <!-- Decreases MP consumption for magic skills by 3% -->
+			</effect>
+			<effect name="EnableCloak" />
+		</effects>
+	</skill>
+	<skill id="8289" levels="3" name="Special Ability Focus">
+		<!-- Confirmed CT2.5 -->
+		<table name="#magicLvl"> 84 85 86 </table>
+		<table name="#rCrit"> 128.7 137.1 137.1 </table>
+		<set name="icon" val="icon.skill1077" />
+		<set name="magicLvl" val="#magicLvl" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="critRate" val="#rCrit" />
+				<mul stat="pvpPhysDmg" val="1.05" />
+				<mul stat="pvpPhysSkillsDmg" val="1.05" />
+				<mul stat="pvpMagicalDmg" val="1.05" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8290" levels="12" name="Add Belt Inventory Slot">
+		<table name="#inventoryLimit"> 3 6 9 12 15 18 21 24 27 30 33 36 </table>
+		<set name="icon" val="icon.skill0332" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="inventoryLimit" val="#inventoryLimit" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8291" levels="12" name="Add Belt Weight Gauge">
+		<table name="#weightPenalty"> 1000 2000 3000 4000 5000 6000 7000 8000 9000 10000 11000 12000 </table>
+		<set name="icon" val="icon.skill0150" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="weightLimit" val="#weightPenalty" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8292" levels="1" name="Olympiad Warrior's Ring">
+		<set name="icon" val="icon.accessory_tateossian_ring_i00" />
+		<set name="magicLvl" val="75" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="AttackTrait">
+				<param HOLD="30" />
+				<mul stat="critDmg" val="1.15" /> <!-- Increases critical attack power by 15% -->
+				<add stat="accCombat" val="2" /> <!-- Increases accuracy by 2 -->
+			</effect>
+			<effect name="DefenceTrait">
+				<param HOLD="30" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8293" levels="1" name="Olympiad Warrior's Earring">
+		<set name="icon" val="icon.accessory_tateossian_earring_i00" />
+		<set name="magicLvl" val="75" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="AttackTrait">
+				<param SHOCK="20" />
+				<param DERANGEMENT="20" />
+				<add stat="absorbDam" val="4" /> <!-- Recovers 4% of the damage to the enemy as your HP -->
+			</effect>
+			<effect name="DefenceTrait">
+				<param SHOCK="20" />
+				<param DERANGEMENT="20" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8294" levels="1" name="Olympiad Warrior's Necklace">
+		<set name="icon" val="icon.accessory_tateossian_necklace_i00" />
+		<set name="magicLvl" val="75" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="AttackTrait">
+				<param PARALYZE="15" />
+				<param SHOCK="15" />
+				<param SLEEP="15" />
+				<mul stat="pReuse" val="0.95" /> <!-- Decreases the skill's reuse time by 5% -->
+				<mul stat="mReuse" val="0.95" /> <!-- Decreases the skill's reuse time by 5% -->
+				<add stat="reflectDam" val="4" /> <!-- Reflects 4% of the damage received back to the enemy -->
+			</effect>
+			<effect name="DefenceTrait">
+				<param PARALYZE="15" />
+				<param SHOCK="15" />
+				<param SLEEP="15" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8295" levels="1" name="Special Ability Focus">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill1077" />
+		<set name="magicLvl" val="81" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="critRate" val="109.2" />
+				<mul stat="pvpPhysDmg" val="1.05" />
+				<mul stat="pvpPhysSkillsDmg" val="1.05" />
+				<mul stat="pvpMagicalDmg" val="1.05" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8296" levels="1" name="Special Ability Focus">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill1077" />
+		<set name="magicLvl" val="83" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="critRate" val="109.2" />
+				<mul stat="pvpPhysDmg" val="1.05" />
+				<mul stat="pvpPhysSkillsDmg" val="1.05" />
+				<mul stat="pvpMagicalDmg" val="1.05" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8297" levels="1" name="Special Ability Haste">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill1077" />
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<mul stat="pAtkSpd" val="1.04" />
+				<mul stat="pvpPhysDmg" val="1.05" />
+				<mul stat="pvpPhysSkillsDmg" val="1.05" />
+				<mul stat="pvpMagicalDmg" val="1.05" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8298" levels="1" name="Special Ability Focus">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.skill1077" />
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="critRate" val="109.2" />
+				<mul stat="pvpPhysDmg" val="1.05" />
+				<mul stat="pvpPhysSkillsDmg" val="1.05" />
+				<mul stat="pvpMagicalDmg" val="1.05" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8299" levels="1" name="Arcana Sigil">
+		<set name="icon" val="icon.arcana_sigil_i01" />
+		<set name="magicLvl" val="75" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+</list>

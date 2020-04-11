@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37617</npc> <!-- Donate Merchant -->
+	</npcs>
+	
+	<!-- Mana Potion -->
+	<item>
+		<ingredient id="23004" count="5"/>
+		<production id="728" count="400"/>
+	</item>
+	<!-- Child's Hat Boy -->
+	<item>
+		<ingredient id="23004" count="10"/>
+		<production id="22189" count="1"/>
+	</item>
+	<!-- Child's Hat Girl -->
+	<item>
+		<ingredient id="23004" count="10"/>
+		<production id="22190" count="1"/>
+	</item>
+	<!-- Rune of Experience Points 50% 7-Day Pack -->
+	<item>
+		<ingredient id="23004" count="10"/>
+		<production id="21091" count="1"/>
+	</item>
+	<!-- Rune of SP 50% 7-Day Pack -->
+	<item>
+		<ingredient id="23004" count="10"/>
+		<production id="21092" count="1"/>
+	</item>
+	<!-- Mount Bracelet Gold Lion -->
+	<item>
+		<ingredient id="23004" count="25"/>
+		<production id="21407" count="1"/>
+	</item>
+	<!-- Jet Bike -->
+	<item>
+		<ingredient id="23004" count="25"/>
+		<production id="21419" count="1"/>
+	</item>
+	<!-- Light Purple Horse -->
+	<item>
+		<ingredient id="23004" count="25"/>
+		<production id="20029" count="1"/>
+	</item>
+	<!-- Steam Beatle -->
+	<item>
+		<ingredient id="23004" count="25"/>
+		<production id="20396" count="1"/>
+	</item>
+</list>

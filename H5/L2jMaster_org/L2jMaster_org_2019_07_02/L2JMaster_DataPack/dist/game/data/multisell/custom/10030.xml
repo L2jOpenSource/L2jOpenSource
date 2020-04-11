@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37617</npc> <!-- Donate Merchant -->
+	</npcs>
+	
+	<!-- Elegia Armors -->
+	
+	<!-- Elegia Heavy -->
+	<item>
+		<ingredient id="23004" count="900" />
+		<production id="15575" count="1"/>
+		<production id="15572" count="1"/>
+		<production id="15578" count="1"/>
+		<production id="15581" count="1"/>
+		<production id="15584" count="1"/>
+	</item>
+	<!-- Elegia Leather -->
+	<item>
+		<ingredient id="23004" count="900" />
+		<production id="15576" count="1"/>
+		<production id="15573" count="1"/>
+		<production id="15579" count="1"/>
+		<production id="15582" count="1"/>
+		<production id="15585" count="1"/>
+	</item>
+	<!-- Elegia Robe -->
+	<item>
+		<ingredient id="23004" count="900" />
+		<production id="15577" count="1"/>
+		<production id="15574" count="1"/>
+		<production id="15580" count="1"/>
+		<production id="15583" count="1"/>
+		<production id="15586" count="1"/>
+	</item>
+	<!-- Elegia Shield -->
+	<item>
+		<ingredient id="23004" count="50" />
+		<production id="15587" count="1"/>
+	</item>
+	<!-- Elegia Sigil -->
+	<item>
+		<ingredient id="23004" count="50" />
+		<production id="15588" count="1"/>
+	</item>
+	<!-- Elegia Necklace -->
+	<item>
+		<ingredient id="23004" count="200" />
+		<production id="15719" count="1"/>
+		<production id="15718" count="2"/>
+		<production id="15717" count="2"/>
+	</item>
+</list>

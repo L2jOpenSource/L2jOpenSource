@@ -1,0 +1,38 @@
+<html>
+<title>Donation</title>
+<body>
+<center>
+Choose the service you want
+</center>
+<br>
+<font color="D2B48C">Donation Form</font>
+<center>
+<img src="L2UI.SquareWhite" width=280 height=1>
+<br>
+Paysafe Card Pin Code:
+<br>
+<center>
+<table>
+<tr>
+<td><edit var="pin1" width=40 height=15></td>
+<td><font color=LEVEL>-</font></td>
+<td><edit var="pin2" width=40 height=15></td>
+<td><font color=LEVEL>-</font></td>
+<td><edit var="pin3" width=40 height=15></td>
+<td><font color=LEVEL>-</font></td>
+<td><edit var="pin4" width=40 height=15></td>
+</tr>
+</table>
+<br><br>
+</center>
+Amount:<edit var="amot" width=40 height=15>
+<br><br>
+Message:<edit var="mes" width=200 height=45>
+<br><br>
+<center>
+<button value="Inform Admin" action="bypass -h npc_%objectId%_sendDonateForm $pin1 $pin2 $pin3 $pin4 $amot $mes" width=150 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+<br>
+<br><img src="L2UI.SquareWhite" width=280 height=1>
+<button action="bypass -h npc_%objectId%_Chat_donate/donate.htm" value="Back" width=90 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+</center>
+</body></html>

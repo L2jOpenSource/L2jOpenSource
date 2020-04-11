@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- aden09_npc2518_01 -->
+	<spawn zone="aden09_npc2518_01m1">
+		<npc id="30978" x="181472" y="7158" z="-2725" heading="32768" respawnDelay="60" /> <!-- Holy Ark of Secrecy 2 -->
+	</spawn>
+	<!-- aden09_tb2518_01 -->
+	<spawn zone="aden09_tb01_m1">
+		<npc id="18275" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden09_tb2518_12 -->
+	<spawn zone="aden09_tb12_m1">
+		<npc id="18276" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden27_2518_39 -->
+	<spawn zone="aden27_2518_39m1">
+		<npc id="20662" count="5" respawnDelay="23" /> <!-- Hatar Ratman Boss -->
+		<npc id="20663" count="5" respawnDelay="23" /> <!-- Hatar Hanishee -->
+		<npc id="20664" count="4" respawnDelay="23" /> <!-- Deprive -->
+	</spawn>
+	<!-- aden27_2518_40 -->
+	<spawn zone="aden27_2518_40m1">
+		<npc id="20662" count="2" respawnDelay="23" /> <!-- Hatar Ratman Boss -->
+		<npc id="20663" count="1" respawnDelay="23" /> <!-- Hatar Hanishee -->
+		<npc id="20664" count="1" respawnDelay="23" /> <!-- Deprive -->
+	</spawn>
+	<!-- aden27_2518_41 -->
+	<spawn zone="aden27_2518_41m1">
+		<npc id="20662" count="2" respawnDelay="23" /> <!-- Hatar Ratman Boss -->
+		<npc id="20663" count="1" respawnDelay="23" /> <!-- Hatar Hanishee -->
+		<npc id="20664" count="1" respawnDelay="23" /> <!-- Deprive -->
+	</spawn>
+	<!-- aden27_2518_42 -->
+	<spawn zone="aden27_2518_42m1">
+		<npc id="20659" count="2" respawnDelay="23" /> <!-- Grave Wanderer -->
+		<npc id="20660" count="1" respawnDelay="23" /> <!-- Archer of Greed -->
+		<npc id="20661" count="1" respawnDelay="23" /> <!-- Hatar Ratman Thief -->
+	</spawn>
+	<!-- aden27_2518_44 -->
+	<spawn zone="aden27_2518_44m1">
+		<npc id="20659" count="3" respawnDelay="23" /> <!-- Grave Wanderer -->
+		<npc id="20660" count="4" respawnDelay="23" /> <!-- Archer of Greed -->
+		<npc id="20661" count="4" respawnDelay="23" /> <!-- Hatar Ratman Thief -->
+	</spawn>
+	<!-- aden09_2518_01 -->
+	<spawn zone="aden09_2518_01m1">
+		<npc id="20675" count="6" respawnDelay="30" /> <!-- Tairim -->
+		<npc id="20996" count="6" respawnDelay="30" /> <!-- Spiteful Ghost of Ruins -->
+		<npc id="20997" count="6" respawnDelay="30" /> <!-- Soldier of Grief -->
+	</spawn>
+	<!-- aden09_2518_02 -->
+	<spawn zone="aden09_2518_02m1">
+		<npc id="20675" count="6" respawnDelay="30" /> <!-- Tairim -->
+		<npc id="20996" count="6" respawnDelay="30" /> <!-- Spiteful Ghost of Ruins -->
+		<npc id="20997" count="6" respawnDelay="30" /> <!-- Soldier of Grief -->
+	</spawn>
+	<!-- aden09_2518_04 -->
+	<spawn zone="aden09_2518_04m1">
+		<npc id="20675" count="6" respawnDelay="30" /> <!-- Tairim -->
+		<npc id="20996" count="6" respawnDelay="30" /> <!-- Spiteful Ghost of Ruins -->
+		<npc id="20997" count="6" respawnDelay="30" /> <!-- Soldier of Grief -->
+	</spawn>
+	<!-- aden09_2518_09 -->
+	<spawn zone="aden09_2518_09m1">
+		<npc id="20997" count="10" respawnDelay="30" /> <!-- Soldier of Grief -->
+		<npc id="20998" count="10" respawnDelay="30" /> <!-- Cruel Punisher -->
+		<npc id="20666" count="10" respawnDelay="30" /> <!-- Taik Orc Seeker -->
+	</spawn>
+	<!-- aden09_2518_10 -->
+	<spawn zone="aden09_2518_10m1">
+		<npc id="20997" count="10" respawnDelay="30" /> <!-- Soldier of Grief -->
+		<npc id="20998" count="10" respawnDelay="30" /> <!-- Cruel Punisher -->
+		<npc id="20666" count="10" respawnDelay="30" /> <!-- Taik Orc Seeker -->
+	</spawn>
+	<!-- aden09_2518_11 -->
+	<spawn zone="aden09_2518_11m1">
+		<npc id="20999" count="8" respawnDelay="30" /> <!-- Roving Soul -->
+		<npc id="20678" count="8" respawnDelay="30" /> <!-- Tortured Undead -->
+		<npc id="21000" count="8" respawnDelay="30" /> <!-- Soul of Ruins -->
+	</spawn>
+	<!-- aden09_2518_12 -->
+	<spawn zone="aden09_2518_12m1">
+		<npc id="20999" count="8" respawnDelay="30" /> <!-- Roving Soul -->
+		<npc id="20678" count="8" respawnDelay="30" /> <!-- Tortured Undead -->
+		<npc id="21000" count="8" respawnDelay="30" /> <!-- Soul of Ruins -->
+	</spawn>
+	<!-- aden09_2518_13 -->
+	<spawn zone="aden09_2518_13m1">
+		<npc id="20999" count="8" respawnDelay="30" /> <!-- Roving Soul -->
+		<npc id="20678" count="8" respawnDelay="30" /> <!-- Tortured Undead -->
+		<npc id="21000" count="8" respawnDelay="30" /> <!-- Soul of Ruins -->
+	</spawn>
+	<!-- aden09_2518_14 -->
+	<spawn zone="aden09_2518_14m1">
+		<npc id="20999" count="8" respawnDelay="30" /> <!-- Roving Soul -->
+		<npc id="20678" count="8" respawnDelay="30" /> <!-- Tortured Undead -->
+		<npc id="21000" count="8" respawnDelay="30" /> <!-- Soul of Ruins -->
+	</spawn>
+	<!-- aden09_2518_15 -->
+	<spawn zone="aden09_2518_15m1">
+		<npc id="20999" count="8" respawnDelay="30" /> <!-- Roving Soul -->
+		<npc id="20678" count="8" respawnDelay="30" /> <!-- Tortured Undead -->
+		<npc id="21000" count="8" respawnDelay="30" /> <!-- Soul of Ruins -->
+	</spawn>
+	<!-- aden09_2518_16 -->
+	<spawn zone="aden09_2518_16m1">
+		<npc id="20678" count="8" respawnDelay="30" /> <!-- Tortured Undead -->
+		<npc id="21000" count="10" respawnDelay="30" /> <!-- Soul of Ruins -->
+		<npc id="20668" count="10" respawnDelay="30" /> <!-- Grave Guard -->
+		<npc id="20669" count="10" respawnDelay="30" /> <!-- Taik Orc Supply Leader -->
+	</spawn>
+	<!-- aden09_2518_17 -->
+	<spawn zone="aden09_2518_17m1">
+		<npc id="20678" count="8" respawnDelay="30" /> <!-- Tortured Undead -->
+		<npc id="21000" count="10" respawnDelay="30" /> <!-- Soul of Ruins -->
+		<npc id="20668" count="10" respawnDelay="30" /> <!-- Grave Guard -->
+		<npc id="20669" count="10" respawnDelay="30" /> <!-- Taik Orc Supply Leader -->
+	</spawn>
+	<!-- aden09_2518_18 -->
+	<spawn zone="aden09_2518_18m1">
+		<npc id="20675" count="7" respawnDelay="30" /> <!-- Tairim -->
+		<npc id="20996" count="7" respawnDelay="30" /> <!-- Spiteful Ghost of Ruins -->
+		<npc id="20997" count="7" respawnDelay="30" /> <!-- Soldier of Grief -->
+	</spawn>
+	<!-- aden09_2518_19 -->
+	<spawn zone="aden09_2518_19m1">
+		<npc id="20675" count="7" respawnDelay="30" /> <!-- Tairim -->
+		<npc id="20996" count="7" respawnDelay="30" /> <!-- Spiteful Ghost of Ruins -->
+		<npc id="20997" count="7" respawnDelay="30" /> <!-- Soldier of Grief -->
+	</spawn>
+	<!-- aden09_2518_20 -->
+	<spawn zone="aden09_2518_20m1">
+		<npc id="20666" count="6" respawnDelay="30" /> <!-- Taik Orc Seeker -->
+	</spawn>
+	<!-- aden09_2518_21 -->
+	<spawn zone="aden09_2518_21m1">
+		<npc id="20666" count="6" respawnDelay="30" /> <!-- Taik Orc Seeker -->
+	</spawn>
+	<!-- aden09_2518_22 -->
+	<spawn zone="aden09_2518_22m1">
+		<npc id="20669" count="3" respawnDelay="30" /> <!-- Taik Orc Supply Leader -->
+	</spawn>
+	<!-- aden09_2518_23 -->
+	<spawn zone="aden09_2518_23m1">
+		<npc id="20669" count="3" respawnDelay="30" /> <!-- Taik Orc Supply Leader -->
+	</spawn>
+	<!-- aden09_2518_24 -->
+	<spawn zone="aden09_2518_24m1">
+		<npc id="20669" count="3" respawnDelay="30" /> <!-- Taik Orc Supply Leader -->
+	</spawn>
+	<!-- aden09_2518_25 -->
+	<spawn zone="aden09_2518_25m1">
+		<npc id="20669" count="3" respawnDelay="30" /> <!-- Taik Orc Supply Leader -->
+	</spawn>
+	<!-- aden09_2518_26 -->
+	<spawn zone="aden09_2518_26m1">
+		<npc id="20669" count="3" respawnDelay="30" /> <!-- Taik Orc Supply Leader -->
+	</spawn>
+	<!-- aden09_2518_27 -->
+	<spawn zone="aden09_2518_27m1">
+		<npc id="20669" count="3" respawnDelay="30" /> <!-- Taik Orc Supply Leader -->
+	</spawn>
+	<!-- aden09_2518_28 -->
+	<spawn zone="aden09_2518_28m1">
+		<npc id="20669" count="3" respawnDelay="30" /> <!-- Taik Orc Supply Leader -->
+	</spawn>
+	<!-- aden09_2518_29 -->
+	<spawn zone="aden09_2518_29m1">
+		<npc id="20669" count="3" respawnDelay="30" /> <!-- Taik Orc Supply Leader -->
+	</spawn>
+	<!-- aden06_2518_05 -->
+	<spawn zone="aden06_2518_05m1">
+		<npc id="18001" count="2" respawnDelay="25" /> <!-- Blood Queen -->
+		<npc id="20670" count="1" respawnDelay="25" /> <!-- Crimson Drake -->
+		<npc id="20671" count="2" respawnDelay="25" /> <!-- Kadios -->
+	</spawn>
+	<!-- aden06_2518_06 -->
+	<spawn zone="aden06_2518_06m1">
+		<npc id="20672" count="1" respawnDelay="25" /> <!-- Trives -->
+		<npc id="20673" count="2" respawnDelay="25" /> <!-- Falibati -->
+		<npc id="20674" count="2" respawnDelay="25" /> <!-- Doom Knight -->
+	</spawn>
+	<!-- aden06_2518_07 -->
+	<spawn zone="aden06_2518_07m1">
+		<npc id="18001" count="2" respawnDelay="25" /> <!-- Blood Queen -->
+		<npc id="20670" count="2" respawnDelay="25" /> <!-- Crimson Drake -->
+		<npc id="20671" count="1" respawnDelay="25" /> <!-- Kadios -->
+	</spawn>
+	<!-- aden06_2518_30 -->
+	<spawn zone="aden06_2518_30m1">
+		<npc id="20672" count="4" respawnDelay="25" /> <!-- Trives -->
+		<npc id="20673" count="5" respawnDelay="25" /> <!-- Falibati -->
+		<npc id="20674" count="5" respawnDelay="25" /> <!-- Doom Knight -->
+	</spawn>
+	<!-- aden06_2518_31 -->
+	<spawn zone="aden06_2518_31m1">
+		<npc id="20672" count="4" respawnDelay="25" /> <!-- Trives -->
+		<npc id="20673" count="3" respawnDelay="25" /> <!-- Falibati -->
+		<npc id="20674" count="4" respawnDelay="25" /> <!-- Doom Knight -->
+	</spawn>
+	<!-- aden06_2518_32 -->
+	<spawn zone="aden06_2518_32m1">
+		<npc id="18001" count="4" respawnDelay="25" /> <!-- Blood Queen -->
+		<npc id="20670" count="5" respawnDelay="25" /> <!-- Crimson Drake -->
+		<npc id="20671" count="4" respawnDelay="25" /> <!-- Kadios -->
+	</spawn>
+	<!-- aden06_2518_33 -->
+	<spawn zone="aden06_2518_33m1">
+		<npc id="18001" count="3" respawnDelay="25" /> <!-- Blood Queen -->
+		<npc id="20670" count="5" respawnDelay="25" /> <!-- Crimson Drake -->
+		<npc id="20671" count="4" respawnDelay="25" /> <!-- Kadios -->
+	</spawn>
+	<!-- aden06_2518_34 -->
+	<spawn zone="aden06_2518_34m1">
+		<npc id="18001" count="8" respawnDelay="25" /> <!-- Blood Queen -->
+		<npc id="20670" count="8" respawnDelay="25" /> <!-- Crimson Drake -->
+		<npc id="20671" count="8" respawnDelay="25" /> <!-- Kadios -->
+	</spawn>
+	<!-- aden06_2518_36 -->
+	<spawn zone="aden06_2518_36m1">
+		<npc id="18001" count="4" respawnDelay="25" /> <!-- Blood Queen -->
+		<npc id="20670" count="5" respawnDelay="25" /> <!-- Crimson Drake -->
+		<npc id="20671" count="5" respawnDelay="25" /> <!-- Kadios -->
+	</spawn>
+	<!-- aden06_2518_37 -->
+	<spawn zone="aden06_2518_37m1">
+		<npc id="20672" count="4" respawnDelay="25" /> <!-- Trives -->
+		<npc id="20673" count="5" respawnDelay="25" /> <!-- Falibati -->
+		<npc id="20674" count="4" respawnDelay="25" /> <!-- Doom Knight -->
+	</spawn>
+	<!-- aden06_2518_38 -->
+	<spawn zone="aden06_2518_38m1">
+		<npc id="20672" count="5" respawnDelay="25" /> <!-- Trives -->
+		<npc id="20673" count="5" respawnDelay="25" /> <!-- Falibati -->
+		<npc id="20674" count="5" respawnDelay="25" /> <!-- Doom Knight -->
+	</spawn>
+	<!-- aden06_2518_46 -->
+	<spawn zone="aden06_2518_46m1">
+		<npc id="20672" count="2" respawnDelay="25" /> <!-- Trives -->
+		<npc id="20673" count="2" respawnDelay="25" /> <!-- Falibati -->
+		<npc id="20674" count="2" respawnDelay="25" /> <!-- Doom Knight -->
+	</spawn>
+	<!-- aden06_2518_47 -->
+	<spawn zone="aden06_2518_47m1">
+		<npc id="20672" count="2" respawnDelay="25" /> <!-- Trives -->
+		<npc id="20673" count="2" respawnDelay="25" /> <!-- Falibati -->
+		<npc id="20674" count="2" respawnDelay="25" /> <!-- Doom Knight -->
+	</spawn>
+	<!-- aden01_qm2518_01 -->
+	<spawn zone="aden01_qm2518_01m1">
+		<npc id="27181" count="1" respawnDelay="180" /> <!-- Imperial Gravekeeper -->
+	</spawn>
+	<!-- aden01_qm2518_02 -->
+	<spawn zone="aden01_qm2518_02m1">
+		<npc id="27181" count="1" respawnDelay="180" /> <!-- Imperial Gravekeeper -->
+	</spawn>
+</list>

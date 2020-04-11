@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+	<item id="50100" type="Armor" name="Cloak of Zaken">
+		<!-- Description: Cloak that makes you feel Zaken's sorrow. Increases P. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, and refining are impossible. Can be exchanged or dropped. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="S80" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="item_skill" val="21242-1" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="10" />
+			<add stat="waterRes" val="10" />
+			<add stat="windRes" val="10" />
+			<add order="0" stat="pDef" val="40" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="50101" type="Armor" name="Cloak of Freya">
+		<!-- Description: Cloak that makes you feel Freya's chill. Increases P. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, and refining are impossible. Can be exchanged or dropped. -->
+		<set name="icon" val="BranchSys2.Icon.br_freya_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="item_skill" val="21243-1" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add stat="darkRes" val="20" />
+			<add stat="earthRes" val="20" />
+			<add stat="fireRes" val="20" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add order="0" stat="pDef" val="40" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="50102" type="Armor" name="Cloak of Frintezza">
+		<!-- Description: Cloak that plays Frintezza's melody over and over in your head. Increases P. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, and refining are impossible. Can be exchanged or dropped. -->
+		<set name="icon" val="BranchSys2.Icon.br_frintessa_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="S80" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="item_skill" val="21244-1" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add stat="darkRes" val="15" />
+			<add stat="earthRes" val="15" />
+			<add stat="fireRes" val="15" />
+			<add stat="holyRes" val="15" />
+			<add stat="waterRes" val="15" />
+			<add stat="windRes" val="15" />
+			<add order="0" stat="pDef" val="40" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="50103" type="Armor" name="Soul Cloak of Zaken">
+		<!-- Description: Cloak embroidered with Zaken's soul. Increases M. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, refining, exchange, and drop are impossible. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="S80" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="110" />
+		<set name="item_skill" val="21242-1" />
+		<set name="enchant_enabled" val="1" />		
+		<for>
+			<add stat="darkRes" val="30" />
+			<add stat="earthRes" val="30" />
+			<add stat="fireRes" val="30" />
+			<add stat="holyRes" val="30" />
+			<add stat="waterRes" val="30" />
+			<add stat="windRes" val="30" />
+			<add order="0" stat="pDef" val="60" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="50104" type="Armor" name="Soul Cloak of Freya">
+		<!-- Description: Cloak embroidered with Freya's soul. Increases M. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, refining, exchange, and drop are impossible. -->
+		<set name="icon" val="BranchSys2.Icon.br_freya_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="110" />
+		<set name="item_skill" val="21243-1" />
+		<set name="enchant_enabled" val="1" />		
+		<for>
+			<add stat="darkRes" val="50" />
+			<add stat="earthRes" val="50" />
+			<add stat="fireRes" val="50" />
+			<add stat="holyRes" val="50" />
+			<add stat="waterRes" val="50" />
+			<add stat="windRes" val="50" />
+			<add order="0" stat="pDef" val="60" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="50105" type="Armor" name="Soul Cloak of Frintezza">
+		<!-- Description: Cloak embroidered with Frintezza's soul. Increases M. Def. and attribute resistance. Unlocks a skill to move to the boss area. Can only be equipped when the cloak slot is open. Enchantment, attribute, refining, exchange, and drop are impossible. -->
+		<set name="icon" val="BranchSys2.Icon.br_frintessa_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="S80" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="110" />
+		<set name="item_skill" val="21244-1" />
+		<set name="enchant_enabled" val="1" />		
+		<for>
+			<add stat="darkRes" val="40" />
+			<add stat="earthRes" val="40" />
+			<add stat="fireRes" val="40" />
+			<add stat="holyRes" val="40" />
+			<add stat="waterRes" val="40" />
+			<add stat="windRes" val="40" />
+			<add order="0" stat="pDef" val="60" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+</list>

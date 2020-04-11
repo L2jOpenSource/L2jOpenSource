@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./xsd/configs.xsd">
+	<config ENABLED="false" DURATION="10" NOTIFY_DELAY ="5" DAILY="true" DAY="0" HOUR="00" MINUTE="00" RANDOM_MINUTE="5"/>
+</list>
+
+<!-- ENABLED option is global that means if it is false Raid event will be disabled -->
+<!-- DURATION option is the time that boss will be spawned in world -->
+<!-- NOTIFY_DELAY option is a schedule time that will send notification of raid location -->
+<!-- DAILY if this option is true raid event will be daily, make sure DAY option is 0 -->
+<!-- DAY option is to set which day of month boss will spawn, make sure if this is higher than 0 DAILY option must be false -->
+<!-- HOUR option is a 24 hour format about the time boss will spawn -->
+<!-- MINUTE option is the minute of hour boss will spawn -->
+<!-- RANDOM_MINUTE option is to add a random time in minutes so time won't be the same. -->

@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Scrolls -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Scroll: Enchant Armor (S) -->
+	<item>
+		<ingredient id="40002" count="35" />
+		<production id="960" count="1" />
+	</item>
+
+	<!-- Blessed Scroll: Enchant Armor (S) -->
+	<item>
+		<ingredient id="40002" count="500" />
+		<production id="6578" count="1" />
+	</item>
+
+	<!-- Scroll: Enchant Weapon (S) -->
+	<item>
+		<ingredient id="40002" count="35" />
+		<production id="959" count="1" />
+	</item>
+
+	<!-- Blessed Scroll: Enchant Weapon (S) -->
+	<item>
+		<ingredient id="40002" count="500" />
+		<production id="6577" count="1" />
+	</item>
+
+	<!-- Scroll: Enchant Armor (A) -->
+	<item>
+		<ingredient id="40002" count="28" />
+		<production id="730" count="1" />
+	</item>
+
+	<!-- Blessed Scroll: Enchant Armor (A) -->
+	<item>
+		<ingredient id="40002" count="400" />
+		<production id="6570" count="1" />
+	</item>
+
+	<!-- Scroll: Enchant Weapon (A) -->
+	<item>
+		<ingredient id="40002" count="28" />
+		<production id="729" count="1" />
+	</item>
+
+	<!-- Blessed Scroll: Enchant Weapon (A) -->
+	<item>
+		<ingredient id="40002" count="400" />
+		<production id="6569" count="1" />
+	</item>
+
+	<!-- Scroll: Enchant Weapon (B) -->
+	<item>
+		<ingredient id="57" count="1000000" />
+		<production id="947" count="1" />
+	</item>
+
+	<!-- Blessed Scroll: Enchant Weapon (B) -->
+	<item>
+		<ingredient id="40002" count="300" />
+		<production id="6571" count="1" />
+	</item>
+
+	<!-- Scroll: Enchant Armor (B) -->
+	<item>
+		<ingredient id="57" count="300000" />
+		<production id="948" count="1" />
+	</item>
+
+	<!-- Blessed Scroll: Enchant Armor (B) -->
+	<item>
+		<ingredient id="40002" count="300" />
+		<production id="6572" count="1" />
+	</item>
+
+	<!-- Scroll: Enchant Weapon (C) -->
+	<item>
+		<ingredient id="57" count="400000" />
+		<production id="951" count="1" />
+	</item>
+
+	<!-- Blessed Scroll: Enchant Weapon (C) -->
+	<item>
+		<ingredient id="40002" count="200" />
+		<production id="6573" count="1" />
+	</item>
+
+	<!-- Scroll: Enchant Armor (C) -->
+	<item>
+		<ingredient id="57" count="200000" />
+		<production id="952" count="1" />
+	</item>
+
+	<!-- Blessed Scroll: Enchant Armor (C) -->
+	<item>
+		<ingredient id="40002" count="200" />
+		<production id="6574" count="1" />
+	</item>
+
+	<!-- Blessed Scroll: Enchant Armor (D) -->
+	<item>
+		<ingredient id="40002" count="100" />
+		<production id="6576" count="1" />
+	</item>
+
+	<!-- Blessed Scroll: Enchant Weapon (D) -->
+	<item>
+		<ingredient id="40002" count="100" />
+		<production id="6575" count="1" />
+	</item>
+	<!-- Scroll: Recovery (Grade D) -->
+	<item>
+		<ingredient id="57" count="5280" />
+		<production id="8595" count="1" />
+	</item>
+
+	<!-- Scroll: Recovery (Grade C) -->
+	<item>
+		<ingredient id="57" count="15400" />
+		<production id="8596" count="1" />
+	</item>
+
+	<!-- Scroll: Recovery (Grade B) -->
+	<item>
+		<ingredient id="57" count="30800" />
+		<production id="8597" count="1" />
+	</item>
+
+	<!-- Scroll: Recovery (Grade A) -->
+	<item>
+		<ingredient id="57" count="52800" />
+		<production id="8598" count="1" />
+	</item>
+
+	<!-- Scroll: Recovery (Grade S) -->
+	<item>
+		<ingredient id="57" count="96000" />
+		<production id="8599" count="1" />
+	</item>
+	<!-- Charm of Courage: D-Grade -->
+	<item>
+		<ingredient id="57" count="9900" />
+		<production id="8516" count="1" />
+	</item>
+
+	<!-- Charm of Courage: C-Grade -->
+	<item>
+		<ingredient id="57" count="19800" />
+		<production id="8517" count="1" />
+	</item>
+
+	<!-- Charm of Courage: B-Grade -->
+	<item>
+		<ingredient id="57" count="39000" />
+		<production id="8518" count="1" />
+	</item>
+
+	<!-- Charm of Courage: A-Grade -->
+	<item>
+		<ingredient id="57" count="81000" />
+		<production id="8519" count="1" />
+	</item>
+
+	<!-- Charm of Courage: S-Grade -->
+	<item>
+		<ingredient id="57" count="150000" />
+		<production id="8520" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="57" count="100000" />
+		<production id="737" count="100" />
+	</item>
+
+
+	<item>
+		<ingredient id="57" count="100000" />
+		<production id="736" count="100" />
+	</item>
+
+	<item>
+		<ingredient id="57" count="100000" />
+		<production id="1830" count="100" />
+	</item>
+
+	<item>
+		<ingredient id="57" count="100000" />
+		<production id="1829" count="100" />
+	</item>
+
+	<item>
+		<ingredient id="57" count="100000" />
+		<production id="20381" count="100" />
+	</item>
+	<item>
+		<ingredient id="40002" count="700" />
+		<production id="1538" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="40002" count="700" />
+		<production id="5859" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="9898" count="1" />
+	</item>
+
+
+</list>

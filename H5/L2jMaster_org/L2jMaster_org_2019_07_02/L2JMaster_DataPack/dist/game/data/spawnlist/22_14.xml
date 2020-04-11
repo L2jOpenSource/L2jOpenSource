@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- schuttgart14_npc2214_34 -->
+	<spawn zone="pabelnpc_m01">
+		<npc id="32042" x="90052" y="-109895" z="-3328" heading="51700" respawnDelay="60" /> <!-- Weathermaster -->
+	</spawn>
+	<!-- schuttgart14_npc2214_44 -->
+	<spawn zone="pabelnpc_m02">
+		<npc id="32032" x="96341" y="-110891" z="-3337" heading="40960" respawnDelay="60" /> <!-- Strange Machine -->
+		<npc id="32033" x="96320" y="-110912" z="-3328" heading="8191" respawnDelay="60" /> <!-- Dr. Chaos -->
+		<npc id="32045" x="96313" y="-110455" z="-3340" heading="50600" respawnDelay="60" /> <!-- Dr. Chaos' Secret Bookshelf -->
+		<npc id="32050" x="96848" y="-111076" z="-3344" heading="36864" respawnDelay="60" /> <!-- Parts Box -->
+	</spawn>
+	<!-- schuttgart14_npc2214_58 -->
+	<spawn zone="pabelnpc_m03">
+		<npc id="32043" x="94092" y="-105804" z="-3329" heading="57100" respawnDelay="60" /> <!-- Weathermaster -->
+	</spawn>
+	<!-- schuttgart14_npc2214_73 -->
+	<spawn zone="pabelnpc_m04">
+		<npc id="32044" x="86101" y="-105818" z="-3338" heading="40960" respawnDelay="60" /> <!-- Weathermaster -->
+	</spawn>
+	<!-- schuttgart14_npc2214_76 -->
+	<spawn zone="pabelnpc_m05">
+		<npc id="32047" x="97014" y="-110618" z="-3293" heading="45056" respawnDelay="60" /> <!-- Wendy -->
+	</spawn>
+	<!-- Suspicious-Looking Pile of Stones -->
+	<spawn zone="pabelnpc_m06">
+		<npc id="32046" x="90336" y="-107264" z="-3323" heading="57344" respawnDelay="60" /> <!-- Suspicious-Looking Pile of Stones -->
+	</spawn>
+	<!-- schuttgart14_npc2214_78 -->
+	<spawn zone="pabelnpc_m07">
+		<npc id="32041" x="91374" y="-116884" z="-3920" heading="54750" respawnDelay="60" /> <!-- Yumi -->
+		<npc id="32069" x="91316" y="-116927" z="-3920" heading="55000" respawnDelay="60" /> <!-- Gutenhagen -->
+	</spawn>
+	<!-- luckpy_80_2214_01 -->
+	<spawn zone="luckpy_luckpy_80_2214_001m1">
+		<npc id="2501" count="6" respawnDelay="14400" respawnRandom="13200" randRate="51" /> <!-- Lucky Pig -->
+	</spawn>
+	<!-- schuttgart14_2214_01 -->
+	<spawn zone="schuttgart14_2214_01m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_02 -->
+	<spawn zone="schuttgart14_2214_02m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_03 -->
+	<spawn zone="schuttgart14_2214_03m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_04 -->
+	<spawn zone="schuttgart14_2214_04m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_05 -->
+	<spawn zone="schuttgart14_2214_05m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_06 -->
+	<spawn zone="schuttgart14_2214_06m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_07 -->
+	<spawn zone="schuttgart14_2214_07m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="4" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_08 -->
+	<spawn zone="schuttgart14_2214_08m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_09 -->
+	<spawn zone="schuttgart14_2214_09m1">
+		<npc id="22801" count="1" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="1" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_10 -->
+	<spawn zone="schuttgart14_2214_10m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_11 -->
+	<spawn zone="schuttgart14_2214_11m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_12 -->
+	<spawn zone="schuttgart14_2214_12m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="4" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_13 -->
+	<spawn zone="schuttgart14_2214_13m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="4" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_14 -->
+	<spawn zone="schuttgart14_2214_14m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="4" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_15 -->
+	<spawn zone="schuttgart14_2214_15m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_16 -->
+	<spawn zone="schuttgart14_2214_16m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_17 -->
+	<spawn zone="schuttgart14_2214_17m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_18 -->
+	<spawn zone="schuttgart14_2214_18m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="4" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_19 -->
+	<spawn zone="schuttgart14_2214_19m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="4" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_20 -->
+	<spawn zone="schuttgart14_2214_20m1">
+		<npc id="22801" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Cruel Pincer Golem -->
+		<npc id="22804" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Horrifying Jackhammer Golem -->
+		<npc id="22807" count="4" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_21 -->
+	<spawn zone="schuttgart14_2214_21m1">
+		<npc id="22807" count="4" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+	</spawn>
+	<!-- schuttgart14_2214_22 -->
+	<spawn zone="schuttgart14_2214_22m1">
+		<npc id="22807" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="22810" count="4" respawnDelay="20" respawnRandom="5" /> <!-- Micro Scout Golem -->
+	</spawn>
+	<!-- schuttgart14_2214_23 -->
+	<spawn zone="schuttgart14_2214_23m1">
+		<npc id="22807" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="22810" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22809" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Guard Golem -->
+	</spawn>
+	<!-- schuttgart14_2214_24 -->
+	<spawn zone="schuttgart14_2214_24m1">
+		<npc id="22807" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="22810" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22809" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_25 -->
+	<spawn zone="schuttgart14_2214_25m1">
+		<npc id="22807" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="22810" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22809" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_26 -->
+	<spawn zone="schuttgart14_2214_26m1">
+		<npc id="22807" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="22810" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22809" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_27 -->
+	<spawn zone="schuttgart14_2214_27m1">
+		<npc id="22807" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="22810" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22809" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_28 -->
+	<spawn zone="schuttgart14_2214_28m1">
+		<npc id="22807" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="22810" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22809" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_29 -->
+	<spawn zone="schuttgart14_2214_29m1">
+		<npc id="22807" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="22810" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22809" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_95 -->
+	<spawn zone="schuttgart14_2214_95m1">
+		<npc id="22807" count="6" respawnDelay="20" respawnRandom="5" /> <!-- Scout-type Golem No. 28 -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart14_2214_96 -->
+	<spawn zone="schuttgart14_2214_96m1">
+		<npc id="22810" count="6" respawnDelay="20" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="18917" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Pavel Safety Device -->
+	</spawn>
+	<!-- schuttgart21_2214_31 -->
+	<spawn zone="schuttgart21_2214_31m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_32 -->
+	<spawn zone="schuttgart21_2214_32m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_33 -->
+	<spawn zone="schuttgart21_2214_33m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_34 -->
+	<spawn zone="schuttgart21_2214_34m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_35 -->
+	<spawn zone="schuttgart21_2214_35m1">
+		<npc id="22809" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_36 -->
+	<spawn zone="schuttgart21_2214_36m1">
+		<npc id="22809" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_46 -->
+	<spawn zone="schuttgart21_2214_46m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_48 -->
+	<spawn zone="schuttgart21_2214_48m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_50 -->
+	<spawn zone="schuttgart21_2214_50m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_52 -->
+	<spawn zone="schuttgart21_2214_52m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_54 -->
+	<spawn zone="schuttgart21_2214_54m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_55 -->
+	<spawn zone="schuttgart21_2214_55m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_56 -->
+	<spawn zone="schuttgart21_2214_56m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_57 -->
+	<spawn zone="schuttgart21_2214_57m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_61 -->
+	<spawn zone="schuttgart21_2214_61m1">
+		<npc id="22809" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_63 -->
+	<spawn zone="schuttgart21_2214_63m1">
+		<npc id="22809" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_65 -->
+	<spawn zone="schuttgart21_2214_65m1">
+		<npc id="22809" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_67 -->
+	<spawn zone="schuttgart21_2214_67m1">
+		<npc id="22809" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_69 -->
+	<spawn zone="schuttgart21_2214_69m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_70 -->
+	<spawn zone="schuttgart21_2214_70m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_71 -->
+	<spawn zone="schuttgart21_2214_71m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart21_2214_72 -->
+	<spawn zone="schuttgart21_2214_72m1">
+		<npc id="22809" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Guard Golem -->
+		<npc id="22810" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Micro Scout Golem -->
+		<npc id="22811" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Great Chaos Golem -->
+		<npc id="22812" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Boom Golem -->
+	</spawn>
+	<!-- schuttgart16_2214_01 -->
+	<spawn zone="schuttgart16_2214_01m1">
+		<npc id="32656" x="71553" y="-128855" z="-3376" heading="16" respawnDelay="0" /> <!--  -->
+	</spawn>
+	<!-- schuttgart16_2214_02 -->
+	<spawn zone="schuttgart16_2214_02m1">
+		<npc id="32656" x="76154" y="-127437" z="-3168" heading="744" respawnDelay="0" /> <!--  -->
+	</spawn>
+	<!-- schuttgart16_2214_03 -->
+	<spawn zone="schuttgart16_2214_03m1">
+		<npc id="32656" x="70821" y="-125606" z="-3024" heading="0" respawnDelay="0" /> <!--  -->
+	</spawn>
+	<!-- schuttgart16_2214_04 -->
+	<spawn zone="schuttgart16_2214_04m1">
+		<npc id="32656" x="67540" y="-122330" z="-2928" heading="0" respawnDelay="0" /> <!--  -->
+	</spawn>
+	<!-- schuttgart16_2214_05 -->
+	<spawn zone="schuttgart16_2214_05m1">
+		<npc id="32656" x="74378" y="-121639" z="-3040" heading="0" respawnDelay="0" /> <!--  -->
+	</spawn>
+	<!-- schuttgart16_2214_06 -->
+	<spawn zone="schuttgart16_2214_06m1">
+		<npc id="32656" x="70076" y="-118960" z="-2528" heading="0" respawnDelay="0" /> <!--  -->
+	</spawn>
+	<!-- schuttgart16_2214_07 -->
+	<spawn zone="schuttgart16_2214_07m1">
+		<npc id="32656" x="74373" y="-116917" z="-2288" heading="0" respawnDelay="0" /> <!--  -->
+	</spawn>
+	<!-- schuttgart16_2214_08 -->
+	<spawn zone="schuttgart16_2214_08m1">
+		<npc id="32656" x="68120" y="-116111" z="-2176" heading="0" respawnDelay="0" /> <!--  -->
+	</spawn>
+	<!-- schuttgart16_2214_09 -->
+	<spawn zone="schuttgart16_2214_09m1">
+		<npc id="32656" x="68089" y="-107238" z="-1184" heading="0" respawnDelay="0" /> <!--  -->
+	</spawn>
+	<!-- schuttgart16_2214_01_n -->
+	<spawn zone="schuttgart16_2214_01_nm1">
+		<npc id="22693" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Hero -->
+		<npc id="22691" count="1" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc -->
+		<npc id="22692" count="2" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+	</spawn>
+	<!-- schuttgart16_2214_01_s -->
+	<spawn zone="schuttgart16_2214_01_sm1">
+		<npc id="22691" count="1" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc -->
+		<npc id="22692" count="2" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22698" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Archer -->
+	</spawn>
+	<!-- schuttgart16_2214_02_n -->
+	<spawn zone="schuttgart16_2214_02_nm1">
+		<npc id="22691" count="1" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc -->
+		<npc id="22692" count="3" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22697" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Priest -->
+		<npc id="22699" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Sniper -->
+	</spawn>
+	<!-- schuttgart16_2214_02_s -->
+	<spawn zone="schuttgart16_2214_02_sm1">
+		<npc id="22691" count="1" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc -->
+		<npc id="22692" count="3" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22699" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Sniper -->
+		<npc id="22695" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Healer -->
+	</spawn>
+	<!-- schuttgart16_2214_03_n -->
+	<spawn zone="schuttgart16_2214_03_nm1">
+		<npc id="22691" count="3" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc -->
+		<npc id="22692" count="2" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22697" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Priest -->
+	</spawn>
+	<!-- schuttgart16_2214_03_s -->
+	<spawn zone="schuttgart16_2214_03_sm1">
+		<npc id="22691" count="2" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc -->
+		<npc id="22692" count="3" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22698" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Archer -->
+	</spawn>
+	<!-- schuttgart16_2214_04_n -->
+	<spawn zone="schuttgart16_2214_04_nm1">
+		<npc id="22692" count="4" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22693" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Hero -->
+	</spawn>
+	<!-- schuttgart16_2214_04_s -->
+	<spawn zone="schuttgart16_2214_04_sm1">
+		<npc id="22692" count="3" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22695" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Healer -->
+		<npc id="22696" count="3" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Shaman -->
+	</spawn>
+	<!-- schuttgart16_2214_05_n -->
+	<spawn zone="schuttgart16_2214_05_nm1">
+		<npc id="22692" count="4" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22693" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Hero -->
+		<npc id="22696" count="2" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Shaman -->
+	</spawn>
+	<!-- schuttgart16_2214_05_s -->
+	<spawn zone="schuttgart16_2214_05_sm1">
+		<npc id="22692" count="4" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22697" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Priest -->
+		<npc id="22696" count="2" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Shaman -->
+		<npc id="22695" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Healer -->
+	</spawn>
+	<!-- schuttgart16_2214_06_n -->
+	<spawn zone="schuttgart16_2214_06_nm1">
+		<npc id="22693" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Hero -->
+		<npc id="22692" count="3" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22696" count="2" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Shaman -->
+	</spawn>
+	<!-- schuttgart16_2214_06_s -->
+	<spawn zone="schuttgart16_2214_06_sm1">
+		<npc id="22692" count="3" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22691" count="2" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc -->
+		<npc id="22695" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Healer -->
+	</spawn>
+	<!-- schuttgart16_2214_07_n -->
+	<spawn zone="schuttgart16_2214_07_nm1">
+		<npc id="22693" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Hero -->
+		<npc id="22692" count="4" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+	</spawn>
+	<!-- schuttgart16_2214_07_s -->
+	<spawn zone="schuttgart16_2214_07_sm1">
+		<npc id="22692" count="3" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+		<npc id="22699" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Sniper -->
+		<npc id="22695" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Healer -->
+	</spawn>
+	<!-- schuttgart16_2214_08_n -->
+	<spawn zone="schuttgart16_2214_08_nm1">
+		<npc id="22694" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ragna Orc Commander -->
+		<npc id="22693" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Hero -->
+		<npc id="22692" count="3" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+	</spawn>
+	<!-- schuttgart16_2214_08_s -->
+	<spawn zone="schuttgart16_2214_08sm1">
+		<npc id="22697" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Priest -->
+		<npc id="22693" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Hero -->
+		<npc id="22699" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Sniper -->
+	</spawn>
+	<!-- schuttgart16_2214_09_n -->
+	<spawn zone="schuttgart16_2214_09_nm1">
+		<npc id="22694" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ragna Orc Commander -->
+		<npc id="22693" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Hero -->
+		<npc id="22692" count="3" respawnDelay="35" respawnRandom="10" /> <!-- Ragna Orc Warrior -->
+	</spawn>
+	<!-- schuttgart16_2214_09_s -->
+	<spawn zone="schuttgart16_2214_09_sm1">
+		<npc id="22697" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Priest -->
+		<npc id="22693" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ragna Orc Hero -->
+		<npc id="22699" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Ragna Orc Sniper -->
+	</spawn>
+	<!-- schuttgart16_2214_21 -->
+	<spawn zone="schuttgart16_2214_21m1">
+		<npc id="22701" count="4" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_22 -->
+	<spawn zone="schuttgart16_2214_22m1">
+		<npc id="22701" count="3" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="1" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_23 -->
+	<spawn zone="schuttgart16_2214_23m1">
+		<npc id="22701" count="4" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_24 -->
+	<spawn zone="schuttgart16_2214_24m1">
+		<npc id="22701" count="3" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="1" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_25 -->
+	<spawn zone="schuttgart16_2214_25m1">
+		<npc id="22701" count="4" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_26 -->
+	<spawn zone="schuttgart16_2214_26m1">
+		<npc id="22701" count="3" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="1" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_27 -->
+	<spawn zone="schuttgart16_2214_27m1">
+		<npc id="22701" count="3" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="1" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_28 -->
+	<spawn zone="schuttgart16_2214_28m1">
+		<npc id="22701" count="4" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_29 -->
+	<spawn zone="schuttgart16_2214_29m1">
+		<npc id="22701" count="4" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_30 -->
+	<spawn zone="schuttgart16_2214_30m1">
+		<npc id="22701" count="4" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_31 -->
+	<spawn zone="schuttgart16_2214_31m1">
+		<npc id="22701" count="4" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_32 -->
+	<spawn zone="schuttgart16_2214_32m1">
+		<npc id="22701" count="3" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="1" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_33 -->
+	<spawn zone="schuttgart16_2214_33m1">
+		<npc id="22701" count="4" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_34 -->
+	<spawn zone="schuttgart16_2214_34m1">
+		<npc id="22701" count="3" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="1" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_35 -->
+	<spawn zone="schuttgart16_2214_35m1">
+		<npc id="22701" count="4" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_36 -->
+	<spawn zone="schuttgart16_2214_36m1">
+		<npc id="22701" count="3" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="1" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_37 -->
+	<spawn zone="schuttgart16_2214_37m1">
+		<npc id="22701" count="4" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_38 -->
+	<spawn zone="schuttgart16_2214_38m1">
+		<npc id="22701" count="3" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="3" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_39 -->
+	<spawn zone="schuttgart16_2214_39m1">
+		<npc id="22701" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_40 -->
+	<spawn zone="schuttgart16_2214_40m1">
+		<npc id="22701" count="3" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="3" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_41 -->
+	<spawn zone="schuttgart16_2214_41m1">
+		<npc id="22701" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_42 -->
+	<spawn zone="schuttgart16_2214_42m1">
+		<npc id="22701" count="3" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Dre Vanul -->
+		<npc id="22702" count="1" respawnDelay="45" respawnRandom="15" /> <!-- Varangka's Destroyer -->
+	</spawn>
+	<!-- schuttgart16_2214_61 -->
+	<spawn zone="schuttgart16_2214_61m1">
+		<npc id="18807" count="1" respawnDelay="900" respawnRandom="300" /> <!-- Frightened Ragna Orc -->
+	</spawn>
+	<!-- schuttgart16_2214_62 -->
+	<spawn zone="schuttgart16_2214_62m1">
+		<npc id="18807" count="1" respawnDelay="900" respawnRandom="300" /> <!-- Frightened Ragna Orc -->
+	</spawn>
+	<!-- schuttgart16_2214_63 -->
+	<spawn zone="schuttgart16_2214_63m1">
+		<npc id="18807" count="1" respawnDelay="900" respawnRandom="300" /> <!-- Frightened Ragna Orc -->
+	</spawn>
+	<!-- schuttgart16_2214_64 -->
+	<spawn zone="schuttgart16_2214_64m1">
+		<npc id="18807" count="1" respawnDelay="900" respawnRandom="300" /> <!-- Frightened Ragna Orc -->
+	</spawn>
+	<!-- schuttgart16_2214_65 -->
+	<spawn zone="schuttgart16_2214_65m1">
+		<npc id="18807" count="1" respawnDelay="900" respawnRandom="300" /> <!-- Frightened Ragna Orc -->
+	</spawn>
+	<!-- schuttgart16_2214_66 -->
+	<spawn zone="schuttgart16_2214_66m1">
+		<npc id="18807" count="1" respawnDelay="900" respawnRandom="300" /> <!-- Frightened Ragna Orc -->
+	</spawn>
+	<!-- schuttgart16_2214_67 -->
+	<spawn zone="schuttgart16_2214_67m1">
+		<npc id="18807" count="1" respawnDelay="900" respawnRandom="300" /> <!-- Frightened Ragna Orc -->
+	</spawn>
+	<!-- schuttgart16_2214_68 -->
+	<spawn zone="schuttgart16_2214_68m1">
+		<npc id="18807" count="1" respawnDelay="900" respawnRandom="300" /> <!-- Frightened Ragna Orc -->
+	</spawn>
+	<!-- schuttgart16_2214_69 -->
+	<spawn zone="schuttgart16_2214_69m1">
+		<npc id="18807" count="1" respawnDelay="900" respawnRandom="300" /> <!-- Frightened Ragna Orc -->
+	</spawn>
+	<!-- schuttgart16_2214_51 -->
+	<spawn zone="schuttgart16_2214_51m1">
+		<npc id="32655" x="71136" y="-114412" z="-1740" heading="10816" respawnDelay="60" /> <!-- Chairen -->
+		<npc id="32016" x="71232" y="-113952" z="-1740" heading="-17768" respawnDelay="60" /> <!-- Torrant -->
+	</spawn>
+	<!-- schuttgart16_2214_71 -->
+	<spawn zone="schuttgart16_2214_71m1">
+		<npc id="18811" x="74120" y="-101920" z="-960" heading="32760" respawnDelay="300" /> <!-- Guardian of the Altar -->
+	</spawn>
+	<!-- schuttgart14_tb2214_01 -->
+	<spawn zone="schuttgart14_tb01_m1">
+		<npc id="18282" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- schuttgart14_tb2214_22 -->
+	<spawn zone="schuttgart14_tb22_m1">
+		<npc id="18283" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

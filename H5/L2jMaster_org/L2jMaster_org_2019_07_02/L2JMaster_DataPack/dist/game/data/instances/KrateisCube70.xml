@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Krateis Cube (70)" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/instance.xsd">
+	<activityTime val="20" />
+	<allowSummon val="false" />
+	<emptyDestroyTime val="1200" />
+	<exitPoint x="-70128" y="-71063" z="-1420" />
+	<spawnlist>
+		<group name="general">
+			<spawn npcId="32504" x="-87073" y="-81994" z="-8336" heading="0" respawn="30"/>
+			<!-- {18587,18580,18581,18584,18591,18589,18583}; -->
+			<spawn npcId="18587" x="-77596" y="-77500" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-78221" y="-77490" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-78226" y="-78136" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-77594" y="-78131" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-80222" y="-78126" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-79589" y="-78126" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-79584" y="-77487" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-80227" y="-77486" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-82230" y="-78131" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-81593" y="-78132" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-81580" y="-77484" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-82231" y="-77490" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-83582" y="-77490" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-84227" y="-77500" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-84232" y="-78122" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-83593" y="-78130" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-85596" y="-78134" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-85588" y="-77500" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-86211" y="-77493" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-86226" y="-78126" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-85592" y="-79491" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-86225" y="-79486" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-86233" y="-80141" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-85608" y="-80129" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-83589" y="-79503" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-84236" y="-79484" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-84231" y="-80127" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-83593" y="-80126" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-81592" y="-79497" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-82241" y="-79487" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-82226" y="-80125" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-81588" y="-80126" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-79594" y="-79495" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-80199" y="-79491" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-80228" y="-80125" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-79594" y="-80126" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-77585" y="-80122" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-77582" y="-79517" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-78231" y="-79490" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-78221" y="-80126" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-78223" y="-82120" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-77599" y="-82137" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-77582" y="-81489" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-78240" y="-81489" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-80226" y="-82126" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-79586" y="-82128" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-79586" y="-81496" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-80212" y="-81494" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-82226" y="-82130" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-81594" y="-82132" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-81586" y="-81487" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-82209" y="-81490" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-84218" y="-82121" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-83565" y="-82136" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-83598" y="-81472" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-84232" y="-81489" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-85903" y="-81809" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-86226" y="-81491" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-86227" y="-82132" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-85591" y="-82128" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-85585" y="-81493" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-85589" y="-83497" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-86208" y="-83492" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-86224" y="-84140" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-85588" y="-84128" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-83590" y="-83495" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-84227" y="-83491" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-84226" y="-84109" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-83586" y="-84134" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-81587" y="-83507" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-82235" y="-83485" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-82223" y="-84140" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-81606" y="-84133" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-79592" y="-83503" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-80226" y="-83485" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-80223" y="-84125" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-79563" y="-84138" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-77604" y="-83498" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-78215" y="-83491" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-78228" y="-84133" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-77595" y="-84133" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-78229" y="-86130" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-77595" y="-86130" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-77590" y="-85487" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-78247" y="-85487" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-80247" y="-86129" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-79575" y="-86135" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-79592" y="-85490" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-80195" y="-85485" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-82219" y="-86116" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-81613" y="-86131" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-81593" y="-85462" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-82238" y="-85495" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-84253" y="-86145" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-83578" y="-86137" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18583" x="-83585" y="-85483" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18587" x="-84252" y="-85486" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18580" x="-86239" y="-86132" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18581" x="-85599" y="-86132" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18584" x="-85590" y="-85466" z="-8357" heading="0" respawn="30"/>
+			<spawn npcId="18591" x="-86217" y="-85485" z="-8357" heading="0" respawn="30"/>
+		</group>
+	</spawnlist>
+	<doorlist>
+		<door doorId="17150007"/>
+		<door doorId="17150009"/>
+		<door doorId="17150011"/>
+		<door doorId="17150013"/>
+		<door doorId="17150016"/>
+		<door doorId="17150017"/>
+		<door doorId="17150018"/>
+		<door doorId="17150019"/>
+		<door doorId="17150020"/>
+		<door doorId="17150027"/>
+		<door doorId="17150029"/>
+		<door doorId="17150031"/>
+		<door doorId="17150033"/>
+		<door doorId="17150036"/>
+		<door doorId="17150037"/>
+		<door doorId="17150038"/>
+		<door doorId="17150039"/>
+		<door doorId="17150040"/>
+		<door doorId="17150047"/>
+		<door doorId="17150049"/>
+		<door doorId="17150051"/>
+		<door doorId="17150053"/>
+		<door doorId="17150056"/>
+		<door doorId="17150057"/>
+		<door doorId="17150058"/>
+		<door doorId="17150059"/>
+		<door doorId="17150060"/>
+		<door doorId="17150067"/>
+		<door doorId="17150069"/>
+		<door doorId="17150071"/>
+		<door doorId="17150073"/>
+		<door doorId="17150076"/>
+		<door doorId="17150077"/>
+		<door doorId="17150078"/>
+		<door doorId="17150079"/>
+		<door doorId="17150080"/>
+		<door doorId="17150087"/>
+		<door doorId="17150089"/>
+		<door doorId="17150091"/>
+		<door doorId="17150093"/>
+		<door doorId="17150008"/>
+		<door doorId="17150010"/>
+		<door doorId="17150012"/>
+		<door doorId="17150014"/>
+		<door doorId="17150021"/>
+		<door doorId="17150022"/>
+		<door doorId="17150023"/>
+		<door doorId="17150024"/>
+		<door doorId="17150025"/>
+		<door doorId="17150028"/>
+		<door doorId="17150030"/>
+		<door doorId="17150032"/>
+		<door doorId="17150034"/>
+		<door doorId="17150041"/>
+		<door doorId="17150042"/>
+		<door doorId="17150043"/>
+		<door doorId="17150044"/>
+		<door doorId="17150045"/>
+		<door doorId="17150048"/>
+		<door doorId="17150050"/>
+		<door doorId="17150052"/>
+		<door doorId="17150054"/>
+		<door doorId="17150061"/>
+		<door doorId="17150062"/>
+		<door doorId="17150063"/>
+		<door doorId="17150064"/>
+		<door doorId="17150065"/>
+		<door doorId="17150068"/>
+		<door doorId="17150070"/>
+		<door doorId="17150072"/>
+		<door doorId="17150074"/>
+		<door doorId="17150081"/>
+		<door doorId="17150082"/>
+		<door doorId="17150083"/>
+		<door doorId="17150084"/>
+		<door doorId="17150085"/>
+		<door doorId="17150088"/>
+		<door doorId="17150090"/>
+		<door doorId="17150092"/>
+		<door doorId="17150094"/>
+	</doorlist>
+</instance>

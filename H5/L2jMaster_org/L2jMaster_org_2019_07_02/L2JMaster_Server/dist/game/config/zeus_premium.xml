@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zeus_premium.xsd">
+	<premium id="1" name="normal">
+		<set name="active" val = "true" />
+		<set name="exp" val="40" /> 
+		<set name="sp" val="40" /> 
+		<set name="adena" val="40" /> 
+		<set name="spoil" val="40" /> 
+		<set name="drop" val="40" /> 
+		<set name="Epaulette" val="40" /> 
+		<set name="Craft" val="40" />
+		<set name="MW_Craft" val="40" />
+		<set name="days" val="3" />
+		<set name="cost" val="30" />
+		<set name="tipo" val="account" />
+		<set name="ima" val="br_cashtex.skill.br_cash_rune_of_exp_buff_1" />
+	</premium>
+	<premium id="2" name="Medio">
+		<set name="active" val = "true" />
+		<set name="exp" val="50" />
+		<set name="sp" val="50" />
+		<set name="adena" val="50" />
+		<set name="spoil" val="50" />
+		<set name="drop" val="50" />
+		<set name="Epaulette" val="50" />
+		<set name="Craft" val="50" />
+		<set name="MW_Craft" val="8" />
+		<set name="days" val="6" />
+		<set name="cost" val="45" />
+		<set name="tipo" val="account" />
+		<set name="ima" val="br_cashtex.skill.br_cash_rune_of_exp_buff_2" />
+	</premium>
+	<premium id="3" name="Full">
+		<set name="active" val = "true" />
+		<set name="exp" val="80" />
+		<set name="sp" val="80" />
+		<set name="adena" val="80" />
+		<set name="spoil" val="80" />
+		<set name="drop" val="80" />
+		<set name="Epaulette" val="80" />
+		<set name="Craft" val="80" />
+		<set name="MW_Craft" val="80" />
+		<set name="days" val="8" />
+		<set name="cost" val="85" />
+		<set name="tipo" val="account" />
+		<set name="ima" val="br_cashtex.skill.br_cash_rune_of_exp_buff_3" />
+	</premium>
+	<premium id="4" name="Normal Clan">
+		<set name="active" val = "true" />
+		<set name="exp" val="90" />
+		<set name="sp" val="40" />
+		<set name="adena" val="40" />
+		<set name="spoil" val="40" />
+		<set name="drop" val="40" />
+		<set name="Epaulette" val="40" />
+		<set name="Craft" val="40" />
+		<set name="MW_Craft" val="40" />
+		<set name="days" val="3" />
+		<set name="cost" val="30" />
+		<set name="tipo" val="clan" />
+		<set name="ima" val="br_cashtex.skill.br_cash_rune_of_exp_buff_4" />
+	</premium>
+	<premium id="5" name="Medio Clan">
+		<set name="active" val = "true" />
+		<set name="exp" val="100" />
+		<set name="sp" val="50" />
+		<set name="adena" val="50" />
+		<set name="spoil" val="50" />
+		<set name="drop" val="50" />
+		<set name="Epaulette" val="50" />
+		<set name="Craft" val="50" />
+		<set name="MW_Craft" val="50" />
+		<set name="days" val="6" />
+		<set name="cost" val="45" />
+		<set name="tipo" val="clan" />
+		<set name="ima" val="br_cashtex.skill.br_cash_rune_of_exp_buff_5" />
+	</premium>
+	<premium id="6" name="Full clan">
+		<set name="active" val = "true" />
+		<set name="exp" val="120" />
+		<set name="sp" val="80" />
+		<set name="adena" val="80" />
+		<set name="spoil" val="80" />
+		<set name="drop" val="80" />
+		<set name="Epaulette" val="80" />
+		<set name="Craft" val="80" />
+		<set name="MW_Craft" val="80" />
+		<set name="days" val="8" />
+		<set name="cost" val="85" />
+		<set name="tipo" val="Clan" />
+		<set name="ima" val="br_cashtex.skill.br_cash_rune_of_rp_buff_5" />
+	</premium>
+</list>

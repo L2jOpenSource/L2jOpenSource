@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- oren22_2220_e01 -->
+	<spawn name="smtg_drill_group_22">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22775" x="77578" y="66004" z="-3164" heading="16648" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+			<npc id="22782" x="77418" y="66228" z="-3191" heading="-16280" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77576" y="66227" z="-3191" heading="-16192" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77732" y="66232" z="-3191" heading="-19376" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77419" y="66335" z="-3191" heading="-16128" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77575" y="66350" z="-3191" heading="-18872" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77741" y="66355" z="-3191" heading="-26144" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77417" y="66455" z="-3191" heading="-15680" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77579" y="66466" z="-3191" heading="-15752" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77736" y="66475" z="-3191" heading="-16488" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77413" y="66569" z="-3191" heading="-13568" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77579" y="66579" z="-3191" heading="-19168" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77739" y="66583" z="-3191" heading="-17512" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2220_e02 -->
+	<spawn name="smtg_drill_group_23">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22775" x="78620" y="65996" z="-3164" heading="16688" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+			<npc id="22782" x="78383" y="66236" z="-3200" heading="-15944" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78526" y="66238" z="-3200" heading="-15512" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78669" y="66245" z="-3200" heading="-17816" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78802" y="66238" z="-3200" heading="-17792" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78390" y="66349" z="-3200" heading="-16144" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78527" y="66356" z="-3200" heading="-16488" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78673" y="66365" z="-3200" heading="-15776" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78812" y="66357" z="-3200" heading="-16384" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78389" y="66466" z="-3200" heading="-16920" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78526" y="66469" z="-3200" heading="-16840" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78670" y="66475" z="-3200" heading="-18360" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78817" y="66471" z="-3200" heading="-18016" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78397" y="66594" z="-3200" heading="-17440" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78531" y="66587" z="-3200" heading="-17632" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78677" y="66593" z="-3200" heading="-16640" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78821" y="66593" z="-3200" heading="-22304" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2220_e03 -->
+	<spawn name="smtg_drill_group_24">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22775" x="79688" y="65999" z="-3174" heading="16480" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+			<npc id="22782" x="79427" y="66223" z="-3200" heading="-14240" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79533" y="66234" z="-3200" heading="-15536" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79651" y="66243" z="-3200" heading="-17216" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79793" y="66242" z="-3200" heading="-17008" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79936" y="66234" z="-3200" heading="-18240" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79427" y="66343" z="-3200" heading="-17104" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79535" y="66362" z="-3200" heading="-16056" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79656" y="66378" z="-3200" heading="-16064" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79798" y="66380" z="-3200" heading="-16992" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79938" y="66369" z="-3200" heading="-16752" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79423" y="66466" z="-3200" heading="-14600" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79536" y="66482" z="-3200" heading="-16296" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79661" y="66495" z="-3200" heading="-15680" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79795" y="66502" z="-3200" heading="-17088" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79930" y="66500" z="-3200" heading="-17824" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79431" y="66599" z="-3200" heading="-13544" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79545" y="66617" z="-3200" heading="-16552" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79676" y="66624" z="-3200" heading="-17616" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79803" y="66625" z="-3200" heading="-19536" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79941" y="66620" z="-3200" heading="-18440" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2220_e04 -->
+	<spawn name="smtg_drill_group_25">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22776" x="78127" y="67305" z="-3165" heading="16880" respawnDelay="90" />	<!-- Sel Mahum Training Officer -->
+			<npc id="22783" x="78425" y="67509" z="-3200" heading="-16488" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78309" y="67518" z="-3200" heading="-16400" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78162" y="67529" z="-3200" heading="-16616" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78005" y="67541" z="-3200" heading="-16456" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77879" y="67549" z="-3200" heading="-16104" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77759" y="67544" z="-3200" heading="-9992" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78430" y="67619" z="-3200" heading="-16040" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78313" y="67629" z="-3200" heading="-16432" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78166" y="67635" z="-3200" heading="-17024" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78009" y="67640" z="-3200" heading="-16344" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77885" y="67647" z="-3200" heading="-16544" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77749" y="67646" z="-3200" heading="-7560" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77753" y="67759" z="-3200" heading="-14480" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77881" y="67743" z="-3200" heading="-15400" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78006" y="67744" z="-3200" heading="-16968" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78168" y="67748" z="-3200" heading="-16120" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78320" y="67744" z="-3200" heading="-17408" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78426" y="67746" z="-3216" heading="-16408" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+	</spawn>
+	<!-- oren22_2220_e05 -->
+	<spawn name="smtg_drill_group_26">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22776" x="79121" y="67309" z="-3160" heading="17688" respawnDelay="90" />	<!-- Sel Mahum Training Officer -->
+			<npc id="22783" x="78928" y="67520" z="-3200" heading="-15384" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79062" y="67518" z="-3200" heading="-17752" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79207" y="67524" z="-3200" heading="-14440" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79305" y="67533" z="-3200" heading="-17104" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78923" y="67656" z="-3200" heading="-27136" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79065" y="67651" z="-3200" heading="-18392" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79201" y="67651" z="-3200" heading="-19704" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79324" y="67661" z="-3200" heading="-17208" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78927" y="67780" z="-3200" heading="-15568" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79078" y="67778" z="-3200" heading="-18760" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79213" y="67776" z="-3200" heading="-16824" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79313" y="67777" z="-3200" heading="-17296" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+	</spawn>
+	<!-- oren22_2220_f01 -->
+	<spawn name="smtg_drill_group_27">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22778" x="83532" y="66959" z="-2963" heading="944" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+			<npc id="22785" x="83735" y="66916" z="-2992" heading="32272" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83742" y="67038" z="-2992" heading="-32000" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83751" y="67149" z="-2992" heading="31768" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83734" y="66804" z="-2992" heading="28752" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83863" y="66799" z="-2992" heading="31984" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83866" y="66918" z="-2992" heading="32128" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83875" y="67030" z="-2992" heading="-31952" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83873" y="67141" z="-2992" heading="-28864" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83987" y="66789" z="-2992" heading="28448" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83996" y="66914" z="-2992" heading="-32144" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83996" y="67033" z="-2992" heading="-31024" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84004" y="67150" z="-2992" heading="31784" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84120" y="67036" z="-2992" heading="32240" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84105" y="66836" z="-2992" heading="30872" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+	</spawn>
+	<!-- oren22_2220_f02 -->
+	<spawn name="smtg_drill_group_28">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22778" x="83532" y="67973" z="-2961" heading="56" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+			<npc id="22785" x="83707" y="67833" z="-2982" heading="31760" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83802" y="67832" z="-2982" heading="31560" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83925" y="67829" z="-2982" heading="30568" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84026" y="67833" z="-2982" heading="-31472" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83713" y="67969" z="-2982" heading="-32640" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83811" y="67972" z="-2982" heading="-32704" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83926" y="67969" z="-2982" heading="32176" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84037" y="67976" z="-2982" heading="32584" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83721" y="68100" z="-2982" heading="-30176" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83822" y="68103" z="-2982" heading="32080" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83930" y="68110" z="-2982" heading="-31840" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84047" y="68105" z="-2982" heading="-32760" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+	</spawn>
+	<!-- oren22_2220_f03 -->
+	<spawn name="smtg_drill_group_29">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22778" x="82164" y="66420" z="-2958" heading="-752" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+			<npc id="22784" x="82384" y="66240" z="-2992" heading="32456" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82391" y="66359" z="-2992" heading="30544" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82402" y="66483" z="-2992" heading="30952" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82395" y="66614" z="-2992" heading="-31840" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82511" y="66236" z="-2992" heading="-32728" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82517" y="66351" z="-3008" heading="32568" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82521" y="66480" z="-2992" heading="-30152" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82526" y="66607" z="-2992" heading="31832" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82633" y="66236" z="-3008" heading="28936" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82642" y="66350" z="-3008" heading="31792" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82646" y="66478" z="-2992" heading="-32352" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82652" y="66606" z="-2992" heading="-32496" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82773" y="66230" z="-3008" heading="29992" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82774" y="66347" z="-3008" heading="31344" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82784" y="66476" z="-3008" heading="-31576" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82785" y="66599" z="-3008" heading="-29208" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2220_f04 -->
+	<spawn name="smtg_drill_group_30">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22778" x="82174" y="67483" z="-2957" heading="2312" respawnDelay="90" /> <!-- Sel Mahum Drill Sergeant -->
+			<npc id="22784" x="82384" y="67279" z="-2992" heading="31408" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82391" y="67404" z="-2992" heading="-31088" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82397" y="67537" z="-2992" heading="-31416" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82403" y="67664" z="-2992" heading="-29584" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82509" y="67281" z="-2992" heading="32376" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82509" y="67415" z="-2992" heading="-31440" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82520" y="67539" z="-2992" heading="32768" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82524" y="67669" z="-2992" heading="-29192" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82623" y="67280" z="-2992" heading="28960" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82638" y="67423" z="-2992" heading="31392" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82641" y="67519" z="-2992" heading="-31744" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82644" y="67638" z="-2992" heading="32632" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82757" y="67278" z="-2992" heading="30976" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82762" y="67397" z="-2992" heading="-32624" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82773" y="67533" z="-2992" heading="30696" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82773" y="67661" z="-2992" heading="-32136" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2220_f05 -->
+	<spawn name="smtg_drill_group_31">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22778" x="82175" y="68529" z="-2957" heading="0" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+			<npc id="22784" x="82346" y="68317" z="-2992" heading="32352" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82389" y="68434" z="-2992" heading="32056" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82392" y="68575" z="-2992" heading="-32568" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82378" y="68698" z="-2992" heading="32664" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82497" y="68692" z="-2992" heading="-31888" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82500" y="68576" z="-2992" heading="-31392" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82500" y="68440" z="-2992" heading="30320" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82478" y="68319" z="-2992" heading="31768" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82612" y="68701" z="-2992" heading="-27488" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82628" y="68580" z="-2992" heading="-29984" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82627" y="68455" z="-2992" heading="30760" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82624" y="68326" z="-2992" heading="27424" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82748" y="68323" z="-2992" heading="31584" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82760" y="68444" z="-2992" heading="31352" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82763" y="68584" z="-2992" heading="32520" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82756" y="68706" z="-2992" heading="-30776" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<spawn>
+	<!-- oren22_firezone01 -->
+			<npc id="22787" x="82261" y="61698" z="-3506" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="82485" y="61237" z="-3505" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="82176" y="61510" z="-3503" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="82577" y="61968" z="-3504" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83510" y="61601" z="-3475" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83450" y="61082" z="-3496" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="82561" y="61086" z="-3503" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83449" y="61876" z="-3463" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83428" y="61754" z="-3478" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="82862" y="61261" z="-3502" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone02 -->
+			<npc id="18908" x="83724" y="62668" z="-3472" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+			<npc id="18927" x="84477" y="63108" z="-3600" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="84530" y="62801" z="-3550" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83689" y="62530" z="-3484" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="84671" y="63477" z="-3680" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83730" y="62955" z="-3540" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83773" y="62315" z="-3440" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="84400" y="62413" z="-3470" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="84748" y="62948" z="-3505" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="84698" y="61874" z="-3148" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="84106" y="63252" z="-3600" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83962" y="63151" z="-3578" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="84453" y="62863" z="-3560" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="84632" y="62330" z="-3474" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="83554" y="62505" z="-3488" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="85140" y="63346" z="-3677" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone03 -->
+			<npc id="18927" x="86472" y="60872" z="-3504" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="86022" y="61912" z="-3488" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="85682" y="63067" z="-3648" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="86002" y="62590" z="-3590" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86049" y="62145" z="-3560" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="85861" y="63033" z="-3645" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86676" y="60746" z="-3525" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="85575" y="62017" z="-3490" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86829" y="60803" z="-3545" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86695" y="61654" z="-3640" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="85752" y="61827" z="-3475" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86575" y="60724" z="-3520" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86333" y="62402" z="-3665" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="86206" y="60783" z="-3495" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="85798" y="62167" z="-3520" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone04 -->
+			<npc id="18927" x="87344" y="62175" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="87045" y="62622" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="87876" y="62590" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="87152" y="62336" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87352" y="63022" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87809" y="62910" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87427" y="62022" z="-3710" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87033" y="62182" z="-3710" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87591" y="62531" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87396" y="62916" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87256" y="62580" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87829" y="62295" z="-3710" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87162" y="62439" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="87523" y="62611" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="87571" y="63122" z="-3700" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="87956" y="62352" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="86861" y="62931" z="-3710" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone05 -->
+			<npc id="18908" x="87612" y="59356" z="-3552" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+			<npc id="18908" x="88532" y="60352" z="-3642" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+			<npc id="18927" x="88092" y="60352" z="-3584" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="89265" y="60176" z="-3648" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="90031" y="60799" z="-3664" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="88672" y="59842" z="-3568" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="90863" y="59871" z="-3664" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="87300" y="58875" z="-3590" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="88169" y="59612" z="-3550" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91007" y="60136" z="-3630" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89093" y="60119" z="-3640" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87795" y="59899" z="-3550" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89570" y="60730" z="-3700" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87627" y="59644" z="-3555" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="88251" y="58708" z="-3600" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89474" y="60632" z="-3625" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="90901" y="60165" z="-3635" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="90509" y="59975" z="-3660" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="88851" y="59287" z="-3555" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone06 -->
+			<npc id="18908" x="85852" y="53212" z="-3624" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+			<npc id="18927" x="85764" y="54368" z="-3604" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="86760" y="53968" z="-3696" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="87310" y="54592" z="-3648" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="88272" y="54171" z="-3600" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="89017" y="54030" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="89936" y="54224" z="-3760" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="90647" y="54350" z="-3776" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="87062" y="55149" z="-3690" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="84993" y="54713" z="-3480" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="85850" y="53050" z="-3625" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="88686" y="54738" z="-3525" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="88919" y="54320" z="-3595" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86434" y="54005" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="90343" y="54535" z="-3785" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89010" y="54638" z="-3785" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="88841" y="55011" z="-3450" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="85374" y="54290" z="-3595" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="89278" y="55078" z="-3500" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="89540" y="54556" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="86505" y="54274" z="-3720" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="86008" y="54498" z="-3700" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone07 -->
+			<npc id="18908" x="93964" y="55692" z="-3352" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+			<npc id="18927" x="91260" y="55012" z="-3760" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="94418" y="54744" z="-3576" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="93952" y="54461" z="-3632" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="92713" y="54672" z="-3680" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="91712" y="55664" z="-3648" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="91744" y="56688" z="-3568" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="93552" y="54166" z="-3685" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93687" y="55527" z="-3485" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="94054" y="55932" z="-3400" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="94632" y="54869" z="-3575" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="94798" y="54250" z="-3615" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93249" y="55226" z="-3480" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="94059" y="55110" z="-3560" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="94677" y="55519" z="-3395" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="92176" y="55150" z="-3595" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93840" y="54979" z="-3580" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="92471" y="55843" z="-3422" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="94771" y="54813" z="-3615" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="94811" y="54336" z="-3625" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="92690" y="55914" z="-3445" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone08 -->
+			<npc id="18927" x="91174" y="57769" z="-3744" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="91558" y="58062" z="-3730" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91030" y="57663" z="-3750" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91028" y="58349" z="-3800" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="90603" y="57998" z="-3780" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="90286" y="58376" z="-3755" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="90556" y="58125" z="-3785" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="90884" y="58160" z="-3800" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="90543" y="57651" z="-3760" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91439" y="58246" z="-3765" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91441" y="58110" z="-3755" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="90508" y="58172" z="-3780" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="90980" y="57610" z="-3750" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone09 -->
+			<npc id="18908" x="92981" y="60834" z="-3288" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+			<npc id="18927" x="93416" y="60046" z="-3328" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="92174" y="60399" z="-3392" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="93090" y="61839" z="-3264" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="93377" y="62926" z="-3312" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="92872" y="60006" z="-3370" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93303" y="60450" z="-3290" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93056" y="60815" z="-3300" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93881" y="63720" z="-3260" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="94432" y="63010" z="-3225" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="94333" y="62919" z="-3225" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93186" y="60223" z="-3325" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="92883" y="61288" z="-3270" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93342" y="63096" z="-3340" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93485" y="60240" z="-3265" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="92309" y="60017" z="-3445" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="93287" y="64061" z="-3360" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="93033" y="64131" z="-3390" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="91529" y="60916" z="-3365" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone10 -->
+			<npc id="18927" x="89663" y="65106" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="87463" y="63886" z="-3664" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="88378" y="64266" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="86512" y="64884" z="-3568" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="86801" y="64089" z="-3365" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87148" y="63770" z="-3665" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="88983" y="63930" z="-3680" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87824" y="64124" z="-3705" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89635" y="65279" z="-3700" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87602" y="64361" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87272" y="63660" z="-3660" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89979" y="64954" z="-3700" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89364" y="65348" z="-3695" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87344" y="64290" z="-3690" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="88754" y="65015" z="-3720" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="87679" y="64796" z="-3730" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone11 -->
+			<npc id="18927" x="82537" y="63719" z="-3520" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="80992" y="63760" z="-3600" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="83456" y="63642" z="-3575" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="81090" y="63770" z="-3600" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83697" y="63727" z="-3640" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="81979" y="63444" z="-3595" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="82852" y="63566" z="-3570" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="81908" y="63488" z="-3595" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="82276" y="63848" z="-3590" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="82677" y="63712" z="-3575" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="81805" y="63743" z="-3590" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="81259" y="64163" z="-3550" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="82471" y="63998" z="-3585" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="82870" y="63747" z="-3575" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="81145" y="63517" z="-3625" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="82590" y="63422" z="-3560" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone12 -->
+			<npc id="18908" x="78332" y="63440" z="-3640" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+			<npc id="18927" x="79053" y="63696" z="-3616" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="79342" y="63950" z="-3580" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="78867" y="63427" z="-3670" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="78973" y="63120" z="-3690" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="78692" y="63644" z="-3640" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="78186" y="63786" z="-3615" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="79400" y="63387" z="-3670" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="78378" y="63593" z="-3640" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="79386" y="63726" z="-3630" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="79095" y="62548" z="-3685" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="78886" y="63899" z="-3590" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="78210" y="63733" z="-3625" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="78385" y="63627" z="-3635" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone13 -->
+			<npc id="18927" x="80352" y="64898" z="-3312" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="79154" y="65040" z="-3376" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="79070" y="64834" z="-3415" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="79292" y="65296" z="-3285" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="80565" y="65062" z="-3330" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="78109" y="65238" z="-3250" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="81099" y="65194" z="-3440" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="78365" y="64954" z="-3300" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="80037" y="65097" z="-3310" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="79271" y="65243" z="-3300" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="81069" y="64624" z="-3500" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="78439" y="65032" z="-3310" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="78160" y="65236" z="-3265" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="79836" y="65175" z="-3295" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="79942" y="64940" z="-3305" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="78990" y="62250" z="-3335" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone14 -->
+			<npc id="18908" x="77836" y="68796" z="-3312" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+			<npc id="18927" x="78040" y="69515" z="-3136" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="79168" y="69256" z="-3328" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="77592" y="68676" z="-3110" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="77982" y="69143" z="-3160" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="77660" y="69027" z="-3110" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="79259" y="69304" z="-3345" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="77987" y="69421" z="-3125" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="79052" y="69673" z="-3285" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="78283" y="69031" z="-3225" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="79380" y="69114" z="-3340" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="78184" y="69924" z="-3135" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="79385" y="69202" z="-3345" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="78626" y="68921" z="-3255" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="78393" y="69827" z="-3230" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone15 -->
+			<npc id="18927" x="80090" y="69178" z="-3424" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="80832" y="68663" z="-3472" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="80630" y="67817" z="-3440" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="80096" y="68304" z="-3328" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="18927" x="81406" y="68669" z="-3344" heading="0" respawnDelay="60" />	<!-- Fire -->
+			<npc id="22787" x="80966" y="67247" z="-3380" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="80721" y="67933" z="-3455" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="80458" y="68861" z="-3445" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="81649" y="68522" z="-3285" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="80338" y="68112" z="-3395" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="80140" y="68519" z="-3375" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="81439" y="68105" z="-3320" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="79667" y="68567" z="-3290" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="80418" y="67226" z="-3315" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="80589" y="68533" z="-3465" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="80815" y="68669" z="-3477" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="80815" y="67903" z="-3470" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="79868" y="69141" z="-3380" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="81529" y="68629" z="-3325" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone16 -->
+			<npc id="22787" x="84677" y="65744" z="-3210" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83999" y="66414" z="-3030" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83826" y="65597" z="-3100" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83719" y="66324" z="-3040" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="84130" y="65850" z="-3135" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83945" y="65963" z="-3080" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83864" y="66268" z="-3045" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="84792" y="65645" z="-3230" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="84221" y="66021" z="-3105" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="83979" y="66070" z="-3070" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="84589" y="65886" z="-3175" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="83448" y="65667" z="-3040" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone17 -->
+			<npc id="22787" x="86579" y="66194" z="-3560" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86984" y="66175" z="-3660" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="85669" y="67036" z="-3150" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87979" y="65889" z="-3730" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86183" y="66984" z="-3405" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="87172" y="65592" z="-3680" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="85769" y="65915" z="-3300" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="85103" y="65719" z="-3235" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="85936" y="66401" z="-3380" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="88363" y="65845" z="-3725" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="85804" y="66505" z="-3345" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="86075" y="67510" z="-3375" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="85354" y="66515" z="-3205" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="85667" y="67261" z="-3075" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone18 -->
+			<npc id="22787" x="86778" y="68011" z="-3070" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86331" y="68702" z="-3065" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86734" y="68121" z="-3070" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86966" y="68668" z="-3065" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86117" y="68348" z="-3070" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86746" y="68249" z="-3070" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86888" y="68810" z="-3065" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86505" y="68958" z="-3065" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86746" y="68738" z="-3065" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="86706" y="68687" z="-3065" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="86412" y="69061" z="-3065" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="86551" y="69017" z="-3065" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone19 -->
+			<npc id="22787" x="89720" y="67824" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89329" y="67684" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89833" y="66910" z="-3710" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89049" y="67514" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89261" y="67116" z="-3710" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89923" y="67162" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89490" y="66902" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89146" y="67838" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89219" y="66940" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89260" y="67461" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="90018" y="67217" z="-3710" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="89656" y="67276" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="90052" y="67728" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="89788" y="67374" z="-3715" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone20 -->
+			<npc id="22787" x="91640" y="67344" z="-3670" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91643" y="67943" z="-3590" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91671" y="67365" z="-3665" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91426" y="67657" z="-3617" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91972" y="68095" z="-3595" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91330" y="68170" z="-3560" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91033" y="67984" z="-3590" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91087" y="67907" z="-3597" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91975" y="67688" z="-3650" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91438" y="67843" z="-3595" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="91498" y="67500" z="-3640" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="91126" y="67631" z="-3620" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone21 -->
+			<npc id="22787" x="90703" y="69680" z="-3465" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="90382" y="69495" z="-3475" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89647" y="69673" z="-3415" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="90639" y="69872" z="-3460" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="91208" y="70512" z="-3550" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="88034" y="69328" z="-3170" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="88534" y="69558" z="-3285" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89443" y="70133" z="-3435" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="89923" y="68810" z="-3605" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="90695" y="69271" z="-3490" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="89341" y="69223" z="-3435" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="89118" y="70440" z="-3435" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="88662" y="69283" z="-3290" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="88948" y="69913" z="-3380" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone22 -->
+			<npc id="22787" x="96293" y="69696" z="-3595" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="96646" y="68623" z="-3300" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93330" y="70485" z="-3607" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93387" y="69461" z="-3620" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93183" y="67755" z="-3700" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="96300" y="68476" z="-3305" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="92609" y="70867" z="-3610" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="94065" y="70134" z="-3713" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="94161" y="70994" z="-3690" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22787" x="93509" y="67187" z="-3597" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="95539" y="68871" z="-3400" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="92737" y="70448" z="-3554" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	<!-- oren22_firezone23 -->
+			<npc id="22787" x="82730" y="69303" z="-3576" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22786" x="82885" y="69442" z="-3128" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+			<npc id="22788" x="82724" y="69444" z="-3156" heading="0" respawnDelay="60" />	<!-- Sel Mahum Squad Leader -->
+	</spawn>
+</list>

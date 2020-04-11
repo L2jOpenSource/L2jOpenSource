@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- etc11_1613_001 -->
+	<spawn zone="etc11_1613_001m1">
+		<npc id="32658" x="-114602" y="-151279" z="-6720" heading="0" respawnDelay="60" /> <!-- Guardian of Eastern Seal -->
+		<npc id="32659" x="-114051" y="-151873" z="-6720" heading="0" respawnDelay="60" /> <!-- Guardian of Western Seal -->
+		<npc id="32660" x="-115162" y="-151868" z="-6720" heading="0" respawnDelay="60" /> <!-- Guardian of Southern Seal -->
+		<npc id="32661" x="-115152" y="-154688" z="-6720" heading="0" respawnDelay="60" /> <!-- Guardian of Northern Seal -->
+		<npc id="32662" x="-114608" y="-155280" z="-6720" heading="0" respawnDelay="60" /> <!-- Guardian of Great Seal -->
+		<npc id="32663" x="-114048" y="-154688" z="-6720" heading="0" respawnDelay="60" /> <!-- Guardian of Tower of Seal -->
+	</spawn>
+</list>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio58_1926_501 -->
+	<spawn zone="gludio58_1926_501m1">
+		<npc id="18445" x="-13571" y="275912" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_502 -->
+	<spawn zone="gludio58_1926_502m1">
+		<npc id="18446" x="-11948" y="276084" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_503 -->
+	<spawn zone="gludio58_1926_503m1">
+		<npc id="18447" x="-12092" y="275684" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_504 -->
+	<spawn zone="gludio58_1926_504m1">
+		<npc id="18448" x="-10406" y="274545" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_505 -->
+	<spawn zone="gludio58_1926_505m1">
+		<npc id="18449" x="-10790" y="274430" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_506 -->
+	<spawn zone="gludio58_1926_506m1">
+		<npc id="18450" x="-11132" y="273604" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_507 -->
+	<spawn zone="gludio58_1926_507m1">
+		<npc id="18451" x="-10748" y="272746" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_508 -->
+	<spawn zone="gludio58_1926_508m1">
+		<npc id="18452" x="-10935" y="273107" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_509 -->
+	<spawn zone="gludio58_1926_509m1">
+		<npc id="18453" x="-12965" y="272272" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_510 -->
+	<spawn zone="gludio58_1926_510m1">
+		<npc id="18454" x="-13358" y="272417" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_511 -->
+	<spawn zone="gludio58_1926_511m1">
+		<npc id="18455" x="-14446" y="272952" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_512 -->
+	<spawn zone="gludio58_1926_512m1">
+		<npc id="18456" x="-14192" y="273509" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_513 -->
+	<spawn zone="gludio58_1926_513m1">
+		<npc id="18457" x="-14190" y="274500" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_514 -->
+	<spawn zone="gludio58_1926_514m1">
+		<npc id="18458" x="-13731" y="274675" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_515 -->
+	<spawn zone="gludio58_1926_515m1">
+		<npc id="18459" x="-13855" y="273649" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_516 -->
+	<spawn zone="gludio58_1926_516m1">
+		<npc id="18455" x="-14610" y="273721" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_521 -->
+	<spawn zone="gludio58_1926_521m1">
+		<npc id="18460" x="-13743" y="273238" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio58_1926_522 -->
+	<spawn zone="gludio58_1926_522m1">
+		<npc id="18461" x="-11815" y="272753" z="-9032" heading="0" respawnDelay="15" /> <!-- Tully's Gatekeeper -->
+	</spawn>
+	<!-- gludio57_1926_001 -->
+	<spawn zone="gludio57_1926_001m1">
+		<npc id="22373" count="8" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Scout -->
+		<npc id="22374" count="4" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Watcher -->
+		<npc id="22375" count="1" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Priest -->
+		<npc id="22376" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Lord -->
+	</spawn>
+	<!-- gludio57_1926_002 -->
+	<spawn zone="gludio57_1926_002m1">
+		<npc id="22373" count="10" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Scout -->
+		<npc id="22374" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Watcher -->
+		<npc id="22375" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Priest -->
+		<npc id="22376" count="1" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Lord -->
+	</spawn>
+	<!-- gludio57_1926_003 -->
+	<spawn zone="gludio57_1926_003m1">
+		<npc id="22373" count="3" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Scout -->
+		<npc id="22374" count="5" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Watcher -->
+		<npc id="22375" count="5" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Priest -->
+		<npc id="22376" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Lord -->
+	</spawn>
+	<!-- gludio57_1926_004 -->
+	<spawn zone="gludio57_1926_004m1">
+		<npc id="22373" count="4" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Scout -->
+		<npc id="22374" count="4" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Watcher -->
+		<npc id="22375" count="4" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Priest -->
+		<npc id="22376" count="3" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Lord -->
+	</spawn>
+	<!-- gludio57_1926_006 -->
+	<spawn zone="gludio57_1926_006m1">
+		<npc id="22373" count="5" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Scout -->
+		<npc id="22374" count="4" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Watcher -->
+		<npc id="22375" count="1" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Priest -->
+		<npc id="22376" count="5" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Lord -->
+	</spawn>
+	<!-- gludio57_1926_007 -->
+	<spawn zone="gludio57_1926_007m1">
+		<npc id="22373" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Scout -->
+		<npc id="22374" count="4" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Watcher -->
+		<npc id="22375" count="5" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Priest -->
+		<npc id="22376" count="4" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Lord -->
+	</spawn>
+	<!-- gludio57_1926_008 -->
+	<spawn zone="gludio57_1926_008m1">
+		<npc id="22373" count="3" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Scout -->
+		<npc id="22374" count="4" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Watcher -->
+		<npc id="22375" count="4" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Priest -->
+		<npc id="22376" count="4" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Lord -->
+	</spawn>
+	<!-- gludio57_1926_009 -->
+	<spawn zone="gludio57_1926_009m1">
+		<npc id="22373" count="5" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Scout -->
+		<npc id="22374" count="1" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Watcher -->
+		<npc id="22375" count="4" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Priest -->
+		<npc id="22376" count="5" respawnDelay="80" respawnRandom="10" /> <!-- Cosmic Lord -->
+	</spawn>
+	<!-- gludio57_1926_051 -->
+	<spawn zone="gludio57_1926_051m1">
+		<npc id="32745" x="-22208" y="277024" z="-15040" heading="16384" respawnDelay="60" /> <!-- Teleport Device -->
+	</spawn>
+	<!-- gludio57_1926_052 -->
+	<spawn zone="gludio57_1926_052m1">
+		<npc id="32746" x="-22208" y="277072" z="-13376" heading="16384" respawnDelay="60" /> <!-- Teleport Device -->
+	</spawn>
+	<!-- gludio57_1926_053 -->
+	<spawn zone="gludio57_1926_053m1">
+		<npc id="32747" x="-22208" y="277056" z="-11648" heading="16384" respawnDelay="60" /> <!-- Teleport Device -->
+	</spawn>
+	<!-- gludio57_1926_054 -->
+	<spawn zone="gludio57_1926_054m1">
+		<npc id="32748" x="-22208" y="277072" z="-9920" heading="16384" respawnDelay="60" /> <!-- Teleport Device -->
+	</spawn>
+	<!-- gludio57_1926_056 -->
+	<spawn zone="gludio57_1926_056m1">
+		<npc id="32749" x="-19024" y="277072" z="-8256" heading="16384" respawnDelay="60" /> <!-- Teleport Device -->
+	</spawn>
+	<!-- gludio57_1926_057 -->
+	<spawn zone="gludio57_1926_057m1">
+		<npc id="32750" x="-19024" y="277056" z="-9920" heading="16384" respawnDelay="60" /> <!-- Teleport Device -->
+	</spawn>
+	<!-- gludio57_1926_058 -->
+	<spawn zone="gludio57_1926_058m1">
+		<npc id="32751" x="-19008" y="277040" z="-11648" heading="16384" respawnDelay="60" /> <!-- Teleport Device -->
+	</spawn>
+	<!-- gludio57_1926_059 -->
+	<spawn zone="gludio57_1926_059m1">
+		<npc id="32752" x="-19008" y="277024" z="-13376" heading="16384" respawnDelay="60" /> <!-- Teleport Device -->
+	</spawn>
+	<!-- gludio58_1926_101 -->
+	<spawn zone="gludio58_1926_101m1">
+		<npc id="22383" count="3" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="1" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="1" respawnDelay="80" /> <!-- Foundry Mystic -->
+	</spawn>
+	<!-- gludio58_1926_102 -->
+	<spawn zone="gludio58_1926_102m1">
+		<npc id="22383" count="3" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="2" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+	</spawn>
+	<!-- gludio58_1926_103 -->
+	<spawn zone="gludio58_1926_103m1">
+		<npc id="22377" count="1" respawnDelay="10800" respawnRandom="3600" /> <!-- Master Zelos -->
+		<npc id="32753" x="-13226" y="273413" z="-15304" heading="0" respawnDelay="60" /> <!-- Floor Teleport Device -->
+	</spawn>
+	<!-- gludio58_1926_105 -->
+	<spawn zone="gludio58_1926_105m1">
+		<npc id="22385" count="3" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="2" respawnDelay="80" /> <!-- Foundry Mystic -->
+	</spawn>
+	<!-- gludio58_1926_106 -->
+	<spawn zone="gludio58_1926_106m1">
+		<npc id="22383" count="3" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="1" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="1" respawnDelay="80" /> <!-- Foundry Mystic -->
+	</spawn>
+	<!-- gludio58_1926_107 -->
+	<spawn zone="gludio58_1926_107m1">
+		<npc id="22383" count="3" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="1" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="1" respawnDelay="80" /> <!-- Foundry Mystic -->
+	</spawn>
+	<!-- gludio58_1926_201 -->
+	<spawn zone="gludio58_1926_201m1">
+		<npc id="22383" count="1" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="3" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="2" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22389" count="2" respawnDelay="80" /> <!-- Foundry Spirit Guard -->
+	</spawn>
+	<!-- gludio58_1926_202 -->
+	<spawn zone="gludio58_1926_202m1">
+		<npc id="22383" count="1" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="3" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="2" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22389" count="2" respawnDelay="80" /> <!-- Foundry Spirit Guard -->
+	</spawn>
+	<!-- gludio58_1926_203 -->
+	<spawn zone="gludio58_1926_203m1">
+		<npc id="22383" count="1" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="3" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="2" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22389" count="2" respawnDelay="80" /> <!-- Foundry Spirit Guard -->
+	</spawn>
+	<!-- gludio58_1926_204 -->
+	<spawn zone="gludio58_1926_204m1">
+		<npc id="22383" count="1" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="3" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="2" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22389" count="2" respawnDelay="80" /> <!-- Foundry Spirit Guard -->
+	</spawn>
+	<!-- gludio58_1926_313 -->
+	<spawn zone="gludio58_1926_313m1">
+		<npc id="22380" x="-12496" y="273964" z="-11620" heading="40960" respawnDelay="10800" respawnRandom="3600" /> <!-- Master Festina -->
+		<npc id="22381" x="-12372" y="273828" z="-11620" heading="24576" respawnDelay="180" /> <!-- Master's Guard -->
+		<npc id="22382" x="-12404" y="274068" z="-11620" heading="40960" respawnDelay="180" /> <!-- Master's Guard -->
+		<npc id="22381" x="-12648" y="274100" z="-11616" heading="57343" respawnDelay="180" /> <!-- Master's Guard -->
+		<npc id="22382" x="-12632" y="273828" z="-11616" heading="8192" respawnDelay="180" /> <!-- Master's Guard -->
+	</spawn>
+	<!-- gludio58_1926_321 -->
+	<spawn zone="gludio58_1926_321m1">
+		<npc id="22383" count="5" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Tully's Golem Guard -->
+		<npc id="22386" count="1" respawnDelay="80" respawnRandom="10" /> <!-- Foundry Mystic -->
+		<npc id="22388" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Foundry Spirit Guard -->
+	</spawn>
+	<!-- gludio58_1926_322 -->
+	<spawn zone="gludio58_1926_322m1">
+		<npc id="22383" count="5" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Tully's Golem Guard -->
+		<npc id="22386" count="1" respawnDelay="80" respawnRandom="10" /> <!-- Foundry Mystic -->
+		<npc id="22388" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Foundry Spirit Guard -->
+	</spawn>
+	<!-- gludio58_1926_323 -->
+	<spawn zone="gludio58_1926_323m1">
+		<npc id="22383" count="5" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="3" respawnDelay="80" respawnRandom="10" /> <!-- Tully's Golem Guard -->
+		<npc id="22386" count="1" respawnDelay="80" respawnRandom="10" /> <!-- Foundry Mystic -->
+		<npc id="22388" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Foundry Spirit Guard -->
+	</spawn>
+	<!-- gludio58_1926_324 -->
+	<spawn zone="gludio58_1926_324m1">
+		<npc id="22383" count="5" respawnDelay="60" /> <!-- Tully's Toy -->
+		<npc id="22385" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Tully's Golem Guard -->
+		<npc id="22386" count="1" respawnDelay="80" respawnRandom="10" /> <!-- Foundry Mystic -->
+		<npc id="22388" count="2" respawnDelay="80" respawnRandom="10" /> <!-- Foundry Spirit Guard -->
+	</spawn>
+	<!-- gludio58_1926_401 -->
+	<spawn zone="gludio58_1926_401m1">
+		<npc id="22385" count="2" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="2" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22389" count="2" respawnDelay="80" /> <!-- Foundry Spirit Guard -->
+		<npc id="22390" count="1" respawnDelay="180" /> <!-- Foundry Foreman -->
+	</spawn>
+	<!-- gludio58_1926_402 -->
+	<spawn zone="gludio58_1926_402m1">
+		<npc id="22385" count="2" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="2" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22389" count="2" respawnDelay="80" /> <!-- Foundry Spirit Guard -->
+		<npc id="22390" count="1" respawnDelay="180" /> <!-- Foundry Foreman -->
+	</spawn>
+	<!-- gludio58_1926_403 -->
+	<spawn zone="gludio58_1926_403m1">
+		<npc id="22385" count="2" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="2" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22389" count="2" respawnDelay="80" /> <!-- Foundry Spirit Guard -->
+		<npc id="22390" count="1" respawnDelay="180" /> <!-- Foundry Foreman -->
+	</spawn>
+	<!-- gludio58_1926_404 -->
+	<spawn zone="gludio58_1926_404m1">
+		<npc id="22385" count="2" respawnDelay="80" /> <!-- Tully's Golem Guard -->
+		<npc id="22387" count="2" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22389" count="2" respawnDelay="80" /> <!-- Foundry Spirit Guard -->
+		<npc id="22390" count="1" respawnDelay="180" /> <!-- Foundry Foreman -->
+	</spawn>
+	<!-- gludio58_1926_600 -->
+	<spawn zone="gludio58_1926_600m1">
+		<npc id="32467" x="-12752" y="279696" z="-13596" heading="32768" respawnDelay="60" /> <!-- Teleportation Cubic -->
+	</spawn>
+	<!-- gludio58_1926_601 -->
+	<spawn zone="gludio58_1926_601m1">
+		<npc id="22387" count="3" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22423" count="1" respawnDelay="80" /> <!-- Original Sin Warden -->
+	</spawn>
+	<!-- gludio58_1926_602 -->
+	<spawn zone="gludio58_1926_602m1">
+		<npc id="22387" count="3" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22423" count="1" respawnDelay="80" /> <!-- Original Sin Warden -->
+	</spawn>
+	<!-- gludio58_1926_603 -->
+	<spawn zone="gludio58_1926_603m1">
+		<npc id="22387" count="3" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22423" count="1" respawnDelay="80" /> <!-- Original Sin Warden -->
+	</spawn>
+	<!-- gludio58_1926_604 -->
+	<spawn zone="gludio58_1926_604m1">
+		<npc id="22387" count="3" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22423" count="1" respawnDelay="80" /> <!-- Original Sin Warden -->
+	</spawn>
+	<!-- gludio58_1926_800 -->
+	<spawn zone="gludio58_1926_800m1">
+		<npc id="32467" x="-12752" y="279696" z="-10492" heading="29664" respawnDelay="60" /> <!-- Teleportation Cubic -->
+	</spawn>
+	<!-- gludio58_1926_801 -->
+	<spawn zone="gludio58_1926_801m1">
+		<npc id="22387" count="5" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22431" count="1" respawnDelay="60" /> <!-- Original Sin Warden -->
+	</spawn>
+	<!-- gludio58_1926_802 -->
+	<spawn zone="gludio58_1926_802m1">
+		<npc id="22387" count="5" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22431" count="1" respawnDelay="60" /> <!-- Original Sin Warden -->
+	</spawn>
+	<!-- gludio58_1926_803 -->
+	<spawn zone="gludio58_1926_803m1">
+		<npc id="22387" count="5" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22431" count="1" respawnDelay="60" /> <!-- Original Sin Warden -->
+	</spawn>
+	<!-- gludio58_1926_804 -->
+	<spawn zone="gludio58_1926_804m1">
+		<npc id="22387" count="5" respawnDelay="80" /> <!-- Foundry Mystic -->
+		<npc id="22431" count="1" respawnDelay="60" /> <!-- Original Sin Warden -->
+	</spawn>
+	<!-- gludio58_1926_001 -->
+	<spawn zone="gludio58_1926_001m1">
+		<npc id="32753" x="-12944" y="273952" z="-15296" heading="16384" respawnDelay="60" /> <!-- Floor Teleport Device -->
+	</spawn>
+	<!-- gludio58_1926_002 -->
+	<spawn zone="gludio58_1926_002m1">
+		<npc id="32754" x="-12768" y="273440" z="-13600" heading="16384" respawnDelay="60" /> <!-- Floor Teleport Device -->
+	</spawn>
+	<!-- gludio58_1926_003 -->
+	<spawn zone="gludio58_1926_003m1">
+		<npc id="32755" x="-13133" y="275690" z="-11925" heading="16384" respawnDelay="60" /> <!-- Floor Teleport Device -->
+	</spawn>
+	<!-- gludio58_1926_004 -->
+	<spawn zone="gludio58_1926_004m1">
+		<npc id="32756" x="-12848" y="273408" z="-10496" heading="16384" respawnDelay="60" /> <!-- Floor Teleport Device -->
+	</spawn>
+	<!-- gludio58_mb1926_501 -->
+	<spawn zone="gludio58_mb1926_501m1">
+		<npc id="25545" count="3" respawnDelay="60" /> <!-- Tully's Banshee -->
+	</spawn>
+	<!-- gludio58_mb1926_502 -->
+	<spawn zone="gludio58_mb1926_502m1">
+		<npc id="32303" x="-13511" y="274061" z="-9032" heading="0" respawnDelay="60" /> <!-- Machine -->
+	</spawn>
+	<!-- gludio58_mb1926_503 -->
+	<spawn zone="gludio58_mb1926_503m1">
+		<npc id="32303" x="-11462" y="273793" z="-9024" heading="32768" respawnDelay="60" /> <!-- Machine -->
+	</spawn>
+</list>

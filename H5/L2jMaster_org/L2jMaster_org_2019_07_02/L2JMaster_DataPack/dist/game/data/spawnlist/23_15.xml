@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- godard01_npc2315_01 -->
+	<spawn zone="godard01_npc2315_0101">
+		<AIData>
+			<disableRandomAnimation>false</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="31710" count="3" respawnDelay="60" /> <!-- Varka Van Commander -->
+		<npc id="31711" count="1" respawnDelay="60" /> <!-- Varka Van Shaman -->
+		<npc id="31712" count="1" respawnDelay="60" /> <!-- Varka Raider -->
+	</spawn>
+	<!-- godard01_npc2315_02 -->
+	<spawn zone="godard01_npc2315_0201">
+		<npc id="31707" count="3" respawnDelay="60" /> <!-- Ketra Van Grunt -->
+		<npc id="31708" count="1" respawnDelay="60" /> <!-- Ketra Van Shaman -->
+		<npc id="31709" count="1" respawnDelay="60" /> <!-- Ketra Van Captain -->
+	</spawn>
+	<!-- godard01_npc2315_03 -->
+	<spawn zone="godard01_npc2315_03m1">
+		<npc id="31369" x="123712" y="-72224" z="-3008" heading="16000" respawnDelay="60" /> <!-- Mennon -->
+	</spawn>
+	<!-- godard01_npc2315_04 -->
+	<spawn zone="godard01_npc2315_04m1">
+		<npc id="31654" x="122512" y="-69965" z="-3112" heading="0" respawnDelay="60" /> <!-- Tablet of Vision -->
+	</spawn>
+	<!-- rune13_npc2315_5 -->
+	<spawn zone="rune13_npc2315_5m1">
+		<npc id="32028" x="112800" y="-76508" z="86" heading="0" respawnDelay="60" /> <!-- Holy Grail -->
+	</spawn>
+	<!-- rune13_npc2315_6 -->
+	<spawn zone="rune13_npc2315_6m1">
+		<npc id="32757" x="119120" y="-80576" z="-2694" heading="-31744" respawnDelay="60" /> <!-- Greymore -->
+	</spawn>
+	<!-- rune13_npc2315_7 -->
+	<spawn zone="rune13_npc2315_7m1">
+		<npc id="32780" x="108272" y="-88032" z="-2891" heading="21984" respawnDelay="60" /> <!-- Aquilani -->
+	</spawn>
+	<!-- rune13_npc2315_8 -->
+	<spawn zone="rune13_npc2315_8m1">
+		<npc id="32764" x="108457" y="-87835" z="-2888" heading="0" respawnDelay="60" /> <!-- -->
+	</spawn>
+	<!-- rune13_npc2315_9 -->
+	<spawn zone="rune13_npc2315_9m1">
+		<npc id="32764" x="122985" y="-74841" z="-2880" heading="0" respawnDelay="60" /> <!-- -->
+	</spawn>
+	<!-- ssq_npc2315_01 -->
+	<spawn zone="ssq_npc2315_01m1">
+		<npc id="32815" x="115512" y="-84984" z="-3392" heading="32768" respawnDelay="60" /> <!-- Odd Globe -->
+	</spawn>
+	<!-- rune13_2315_49 -->
+	<spawn zone="rune13_2315_49m1">
+		<npc id="32758" x="110805" y="-81851" z="-1588" heading="-25824" respawnDelay="60" /> <!-- Sumiel -->
+		<npc id="18913" x="110238" y="-82249" z="-1589" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="110240" y="-82406" z="-1589" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="110236" y="-82097" z="-1590" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="110414" y="-82091" z="-1590" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="110413" y="-82252" z="-1591" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="110413" y="-82410" z="-1591" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="110568" y="-82092" z="-1590" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="110566" y="-82250" z="-1592" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="110560" y="-82415" z="-1592" heading="0" respawnDelay="60" /> <!-- Furnace -->
+	</spawn>
+	<!-- rune13_2315_50 -->
+	<spawn zone="rune13_2315_50m1">
+		<npc id="32758" x="114956" y="-71152" z="-548" heading="-27620" respawnDelay="60" /> <!-- Sumiel -->
+		<npc id="18913" x="114399" y="-70596" z="-544" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="114587" y="-70596" z="-544" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="114772" y="-70595" z="-544" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="114398" y="-70781" z="-544" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="114583" y="-70784" z="-544" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="114769" y="-70786" z="-544" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="114398" y="-70968" z="-544" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="114585" y="-70972" z="-544" heading="0" respawnDelay="60" /> <!-- Furnace -->
+		<npc id="18913" x="114767" y="-70974" z="-544" heading="0" respawnDelay="60" /> <!-- Furnace -->
+	</spawn>
+	<!-- rune13_2315_38 -->
+	<spawn zone="rune13_2315_38m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_39 -->
+	<spawn zone="rune13_2315_39m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_40 -->
+	<spawn zone="rune13_2315_40m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_41 -->
+	<spawn zone="rune13_2315_41m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_06 -->
+	<spawn zone="rune13_2315_06m1">
+		<npc id="18912" x="111192" y="-80578" z="-3534" heading="-13408" respawnDelay="60" /> <!-- Scarecrow -->
+		<npc id="18912" x="111605" y="-80545" z="-3534" heading="9600" respawnDelay="60" /> <!-- Scarecrow -->
+		<npc id="18912" x="111583" y="-80189" z="-3534" heading="17736" respawnDelay="60" /> <!-- Scarecrow -->
+		<npc id="18912" x="111239" y="-80113" z="-3533" heading="11792" respawnDelay="60" /> <!-- Scarecrow -->
+		<npc id="18909" count="10" respawnDelay="90" respawnRandom="15" /> <!-- Solina Knights -->
+		<npc id="18910" count="5" respawnDelay="90" respawnRandom="15" /> <!-- Solina Knight Captain -->
+	</spawn>
+	<!-- rune13_2315_26 -->
+	<spawn zone="rune13_2315_26m1">
+		<npc id="22794" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Judge -->
+		<npc id="22795" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Manager -->
+		<npc id="22796" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Supervisor -->
+		<npc id="22797" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Worshipper -->
+	</spawn>
+	<!-- rune13_2315_27 -->
+	<spawn zone="rune13_2315_27m1">
+		<npc id="22794" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Judge -->
+		<npc id="22795" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Manager -->
+		<npc id="22796" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Supervisor -->
+		<npc id="22797" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Worshipper -->
+	</spawn>
+	<!-- rune13_2315_28 -->
+	<spawn zone="rune13_2315_28m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_29 -->
+	<spawn zone="rune13_2315_29m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_30 -->
+	<spawn zone="rune13_2315_30m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_31 -->
+	<spawn zone="rune13_2315_31m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_32 -->
+	<spawn zone="rune13_2315_32m1">
+		<npc id="22794" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Judge -->
+		<npc id="22795" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Manager -->
+		<npc id="22796" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Supervisor -->
+		<npc id="22797" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Worshipper -->
+	</spawn>
+	<!-- rune13_2315_33 -->
+	<spawn zone="rune13_2315_33m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_34 -->
+	<spawn zone="rune13_2315_34m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_35 -->
+	<spawn zone="rune13_2315_35m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_36 -->
+	<spawn zone="rune13_2315_36m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_37 -->
+	<spawn zone="rune13_2315_37m1">
+		<npc id="22794" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Judge -->
+		<npc id="22795" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Manager -->
+		<npc id="22796" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Supervisor -->
+		<npc id="22797" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Worshipper -->
+	</spawn>
+	<!-- rune13_2315_42 -->
+	<spawn zone="rune13_2315_42m1">
+		<npc id="22794" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Judge -->
+		<npc id="22795" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Manager -->
+		<npc id="22796" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Supervisor -->
+		<npc id="22797" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Worshipper -->
+	</spawn>
+	<!-- rune13_2315_43 -->
+	<spawn zone="rune13_2315_43m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_44 -->
+	<spawn zone="rune13_2315_44m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_45 -->
+	<spawn zone="rune13_2315_45m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_46 -->
+	<spawn zone="rune13_2315_46m1">
+		<npc id="22798" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Protector -->
+		<npc id="22799" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Fighter -->
+		<npc id="22800" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Divinity Magus -->
+	</spawn>
+	<!-- rune13_2315_47 -->
+	<spawn zone="rune13_2315_47m1">
+		<npc id="22794" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Judge -->
+		<npc id="22795" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Manager -->
+		<npc id="22796" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Supervisor -->
+		<npc id="22797" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Worshipper -->
+	</spawn>
+	<!-- rune13_2315_48 -->
+	<spawn zone="rune13_2315_48m1">
+		<npc id="22794" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Judge -->
+		<npc id="22795" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Manager -->
+		<npc id="22796" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Supervisor -->
+		<npc id="22797" count="1" respawnDelay="500" respawnRandom="50" /> <!-- Divinity Worshipper -->
+	</spawn>
+	<!-- rune13_2315_52 -->
+	<spawn zone="rune13_2315_52m1">
+		<npc id="22797" count="3" respawnDelay="25" respawnRandom="10" /> <!-- Divinity Worshipper -->
+	</spawn>
+	<!-- rune13_2315_53 -->
+	<spawn zone="rune13_2315_53m1">
+		<npc id="22797" count="3" respawnDelay="25" respawnRandom="10" /> <!-- Divinity Worshipper -->
+	</spawn>
+	<!-- rune13_2315_54 -->
+	<spawn zone="rune13_2315_54m1">
+		<npc id="22797" count="3" respawnDelay="25" respawnRandom="10" /> <!-- Divinity Worshipper -->
+	</spawn>
+	<!-- rune13_2315_55 -->
+	<spawn zone="rune13_2315_55m1">
+		<npc id="22797" count="3" respawnDelay="25" respawnRandom="10" /> <!-- Divinity Worshipper -->
+	</spawn>
+	<!-- rune13_2315_01 -->
+	<spawn zone="rune13_2315_01m1">
+		<npc id="22789" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_02 -->
+	<spawn zone="rune13_2315_02m1">
+		<npc id="22789" count="3" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+	</spawn>
+	<!-- rune13_2315_03 -->
+	<spawn zone="rune13_2315_03m1">
+		<npc id="22789" count="3" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+	</spawn>
+	<!-- rune13_2315_04 -->
+	<spawn zone="rune13_2315_04m1">
+		<npc id="22789" count="3" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+	</spawn>
+	<!-- rune13_2315_05 -->
+	<spawn zone="rune13_2315_05m1">
+		<npc id="22789" count="3" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_07 -->
+	<spawn zone="rune13_2315_07m1">
+		<npc id="22793" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_08 -->
+	<spawn zone="rune13_2315_08m1">
+		<npc id="22789" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_09 -->
+	<spawn zone="rune13_2315_09m1">
+		<npc id="22791" count="3" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+	</spawn>
+	<!-- rune13_2315_10 -->
+	<spawn zone="rune13_2315_10m1">
+		<npc id="22789" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_11 -->
+	<spawn zone="rune13_2315_11m1">
+		<npc id="22793" count="4" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_12 -->
+	<spawn zone="rune13_2315_12m1">
+		<npc id="22789" count="4" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+	</spawn>
+	<!-- rune13_2315_13 -->
+	<spawn zone="rune13_2315_13m1">
+		<npc id="22789" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+	</spawn>
+	<!-- rune13_2315_56 -->
+	<spawn zone="rune13_2315_56m1">
+		<npc id="22793" count="4" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_14 -->
+	<spawn zone="rune13_2315_14m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22793" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_15 -->
+	<spawn zone="rune13_2315_15m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_16 -->
+	<spawn zone="rune13_2315_16m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_17 -->
+	<spawn zone="rune13_2315_17m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_18 -->
+	<spawn zone="rune13_2315_18m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22793" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_19 -->
+	<spawn zone="rune13_2315_19m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_20 -->
+	<spawn zone="rune13_2315_20m1">
+		<npc id="22793" count="3" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_21 -->
+	<spawn zone="rune13_2315_21m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_22 -->
+	<spawn zone="rune13_2315_22m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_23 -->
+	<spawn zone="rune13_2315_23m1">
+		<npc id="22789" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_24 -->
+	<spawn zone="rune13_2315_24m1">
+		<npc id="22789" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_25 -->
+	<spawn zone="rune13_2315_25m1">
+		<npc id="22789" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="2" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_57 -->
+	<spawn zone="rune13_2315_57m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_58 -->
+	<spawn zone="rune13_2315_58m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_59 -->
+	<spawn zone="rune13_2315_59m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_2315_60 -->
+	<spawn zone="rune13_2315_60m1">
+		<npc id="22789" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Guide Solina -->
+		<npc id="22790" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Seeker Solina -->
+		<npc id="22791" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Savior Solina -->
+		<npc id="22793" count="1" respawnDelay="25" respawnRandom="10" /> <!-- Ascetic Solina -->
+	</spawn>
+	<!-- rune13_mb2315_01 -->
+	<spawn zone="rune13_mb2315_01m1">
+		<npc id="18915" x="113696" y="-77393" z="48" heading="0" respawnDelay="60" /> <!-- Divine Furnace -->
+		<npc id="18915" x="111904" y="-77424" z="51" heading="0" respawnDelay="60" /> <!-- Divine Furnace -->
+		<npc id="18915" x="111904" y="-75616" z="58" heading="0" respawnDelay="60" /> <!-- Divine Furnace -->
+		<npc id="18915" x="113632" y="-75616" z="50" heading="0" respawnDelay="60" /> <!-- Divine Furnace -->
+	</spawn>
+</list>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="To The Monastery" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
+	<activityTime val="45" />
+	<allowSummon val="false" />
+	<emptyDestroyTime val="1" />
+	<exitPoint x="115512" y="-85000" z="-339" />
+	<doorlist>
+		<door doorId="21100001" />
+		<door doorId="21100002" />
+		<door doorId="21100003" />
+		<door doorId="21100004" />
+		<door doorId="21100005" />
+		<door doorId="21100006" />
+		<door doorId="21100007" />
+		<door doorId="21100008" />
+		<door doorId="21100009" />
+		<door doorId="21100010" />
+		<door doorId="21100011" />
+		<door doorId="21100012" />
+		<door doorId="21100013" />
+		<door doorId="21100014" />
+		<door doorId="21100015" />
+		<door doorId="21100016" />
+		<door doorId="21100018" />
+		<door doorId="21100101" />
+		<door doorId="21100102" />
+		<door doorId="21100103" />
+		<door doorId="21100104" />
+	</doorlist>
+	<spawnlist>
+	<group name="general">
+		<!-- ================     Seven Sign, To The Monastery        ===============  -->
+		<spawn npcId="32813" x="37623" y="-50882" z="-1157" heading="33304" respawn="0" />
+		<spawn npcId="32792" x="120928" y="-86462" z="-3397" heading="0" respawn="0" />
+		<spawn npcId="32803" x="85792" y="-249628" z="-8296" heading="49152" respawn="0" />
+		<spawn npcId="32804" x="82524" y="-249625" z="-8296" heading="0" respawn="0" />
+		<spawn npcId="32805" x="85786" y="-252505" z="-8296" heading="0" respawn="0" />
+		<spawn npcId="32806" x="88669" y="-249624" z="-8296" heading="0" respawn="0" />
+		<spawn npcId="32807" x="85785" y="-246730" z="-8296" heading="0" respawn="0" />
+		<spawn npcId="32816" x="84909" y="-249625" z="-8296" heading="0" respawn="0" />
+		<spawn npcId="32817" x="85791" y="-250507" z="-8296" heading="0" respawn="0" />
+		<spawn npcId="32818" x="86673" y="-249625" z="-8296" heading="0" respawn="0" />
+		<spawn npcId="32819" x="85792" y="-248744" z="-8296" heading="0" respawn="0" />
+		<spawn npcId="32821" x="81416" y="-249622" z="-8320" heading="34490" respawn="0" />
+		<spawn npcId="32822" x="82525" y="-250761" z="-8320" heading="49152" respawn="0" />
+		<spawn npcId="32823" x="83656" y="-249615" z="-8320" heading="401" respawn="0" />
+		<spawn npcId="32824" x="82524" y="-248498" z="-8320" heading="49152" respawn="0" />
+		<spawn npcId="32825" x="85794" y="-253651" z="-8320" heading="15313" respawn="0" />
+		<spawn npcId="32826" x="86928" y="-252506" z="-8320" heading="348" respawn="0" />
+		<spawn npcId="32827" x="85787" y="-251388" z="-8320" heading="13829" respawn="0" />
+		<spawn npcId="32828" x="84677" y="-252513" z="-8320" heading="32768" respawn="0" />
+		<spawn npcId="32829" x="89801" y="-249620" z="-8320" heading="0" respawn="0" />
+		<spawn npcId="32830" x="88660" y="-248504" z="-8320" heading="49152" respawn="0" />
+		<spawn npcId="32831" x="87555" y="-249627" z="-8320" heading="33168" respawn="0" />
+		<spawn npcId="32832" x="88663" y="-250762" z="-8320" heading="49152" respawn="0" />
+		<spawn npcId="32833" x="85788" y="-247859" z="-8320" heading="50449" respawn="0" />
+		<spawn npcId="32834" x="86921" y="-246735" z="-8320" heading="0" respawn="0" />
+		<spawn npcId="32835" x="85791" y="-245610" z="-8320" heading="16384" respawn="0" />
+		<spawn npcId="32836" x="84679" y="-246729" z="-8320" heading="32768" respawn="0" />
+		<!-- ================     Seven Signs, Solinas Tomb           ===============  -->
+		<spawn npcId="32793" x="55960" y="-250568" z="-6760" heading="32768" respawn="0" />
+		<spawn npcId="32820" x="45395" y="-249635" z="-6728" heading="0" respawn="0" />
+		<spawn npcId="32837" x="56088" y="-253240" z="-6760" heading="0" respawn="0" />
+		<spawn npcId="32842" x="56088" y="-251688" z="-6760" heading="32768" respawn="0" />
+		<spawn npcId="32843" x="56136" y="-252472" z="-6736" heading="0" respawn="0" />
+		<spawn npcId="32838" x="45394" y="-247720" z="-6758" heading="0" respawn="0" />
+		<spawn npcId="32839" x="47319" y="-249634" z="-6758" heading="0" respawn="0" />
+		<spawn npcId="32840" x="45400" y="-251544" z="-6758" heading="0" respawn="0" />
+		<spawn npcId="32841" x="43468" y="-249639" z="-6758" heading="0" respawn="0" />
+		<spawn npcId="32858" x="46673" y="-248367" z="-6733" heading="0" respawn="0" />
+		<spawn npcId="32860" x="46672" y="-250912" z="-6733" heading="0" respawn="0" />
+		<spawn npcId="32859" x="44113" y="-250912" z="-6733" heading="0" respawn="0" />
+		<spawn npcId="32857" x="44114" y="-248368" z="-6733" heading="0" respawn="0" />
+		<spawn npcId="27412" x="45784" y="-248152" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27413" x="45768" y="-247368" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27412" x="45048" y="-247368" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27413" x="45032" y="-248088" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27412" x="46968" y="-249992" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27413" x="47688" y="-249992" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27412" x="47672" y="-249304" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27413" x="46984" y="-249288" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27412" x="45048" y="-251192" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27413" x="45048" y="-251912" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27412" x="45720" y="-251912" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27413" x="45736" y="-251192" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27412" x="43816" y="-249304" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27413" x="43128" y="-249304" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27412" x="43144" y="-249976" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27413" x="43816" y="-249992" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27414" x="44488" y="-251288" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27407" x="43768" y="-251304" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27414" x="43736" y="-250552" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27407" x="44440" y="-250568" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27417" x="46360" y="-250584" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27418" x="47016" y="-250568" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27417" x="47000" y="-251256" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27418" x="46296" y="-251240" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27409" x="46328" y="-248696" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27410" x="46344" y="-248024" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27409" x="47000" y="-248040" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27410" x="47000" y="-248712" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27414" x="44472" y="-248712" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27407" x="43768" y="-248696" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27414" x="43784" y="-248040" z="-6800" heading="0" respawn="0" />
+		<spawn npcId="27407" x="44456" y="-248040" z="-6800" heading="0" respawn="0" />
+		<!-- ================    Seven Signs Power of the Seal	      ===============  -->
+		<spawn npcId="18949" x="76280" y="-241224" z="-10832" heading="0" respawn="0" />
+	</group>
+	</spawnlist>
+</instance>

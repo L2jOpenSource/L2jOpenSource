@@ -1,0 +1,2584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- rune12_npc2216_01 -->
+	<spawn zone="rune12_npc2216_0101">
+		<npc id="31554" x="70000" y="-50064" z="-3264" heading="8000" respawnDelay="60" /> <!-- Kahman -->
+		<npc id="31557" x="69840" y="-49888" z="-3264" heading="7000" respawnDelay="60" /> <!-- Mercenary Sentry -->
+	</spawn>
+	<!-- rune12_npc2216_02 -->
+	<spawn zone="rune12_npc2216_0201">
+		<npc id="31553" x="69248" y="-50160" z="-3288" heading="0" respawnDelay="60" /> <!-- Pierce -->
+	</spawn>
+	<!-- rune12_npc2216_03 -->
+	<spawn zone="rune12_npc2216_0301">
+		<npc id="31555" x="69348" y="-50408" z="-3288" heading="10000" respawnDelay="60" /> <!-- Abercrombie -->
+	</spawn>
+	<!-- rune12_npc2216_04 -->
+	<spawn zone="rune12_npc2216_0401">
+		<npc id="31556" x="69232" y="-49984" z="-3284" heading="0" respawnDelay="60" /> <!-- Selina -->
+	</spawn>
+	<!-- rune12_npc2216_05 -->
+	<spawn zone="rune12_npc2216_0501">
+		<npc id="31557" x="69376" y="-50080" z="-3288" heading="0" respawnDelay="60" /> <!-- Mercenary Sentry -->
+		<npc id="31557" x="69372" y="-50264" z="-3288" heading="0" respawnDelay="60" /> <!-- Mercenary Sentry -->
+	</spawn>
+	<!-- rune12_npc2216_06 -->
+	<spawn zone="rune12_npc2216_0601">
+		<npc id="31661" x="72196" y="-55720" z="-3144" heading="0" respawnDelay="60" /> <!-- Forgotten Monument -->
+	</spawn>
+	<!-- rune12_npc2216_07 -->
+	<spawn zone="rune12_npc2216_0701">
+		<npc id="31662" x="77184" y="-44064" z="-3264" heading="0" respawnDelay="60" /> <!-- Forgotten Monument -->
+	</spawn>
+	<!-- rune12_npc2216_08 -->
+	<spawn zone="rune12_npc2216_0801">
+		<npc id="31663" x="78832" y="-61536" z="-2308" heading="0" respawnDelay="60" /> <!-- Forgotten Monument -->
+	</spawn>
+	<!-- rune12_npc2216_09 -->
+	<spawn zone="rune12_npc2216_0901">
+		<npc id="31664" x="91856" y="-52340" z="-2636" heading="0" respawnDelay="60" /> <!-- Forgotten Monument -->
+	</spawn>
+	<!-- rune12_npc2216_10 -->
+	<spawn zone="rune12_npc2216_1001">
+		<npc id="31665" x="83168" y="-54320" z="-2328" heading="0" respawnDelay="60" /> <!-- Corpse of Dwarf -->
+	</spawn>
+	<!-- rune12_npc2216_11 -->
+	<spawn zone="rune12_npc2216_1101">
+		<npc id="31751" x="94912" y="-60800" z="-2512" heading="12288" respawnDelay="60" /> <!-- Mysterious Dark Knight -->
+		<npc id="31752" x="94880" y="-60768" z="-2496" heading="12288" respawnDelay="60" /> <!-- Corpse of Angel -->
+		<npc id="31752" x="94960" y="-60768" z="-2496" heading="0" respawnDelay="60" /> <!-- Corpse of Angel -->
+		<npc id="31752" x="94976" y="-60832" z="-2496" heading="28672" respawnDelay="60" /> <!-- Corpse of Angel -->
+		<npc id="31752" x="94864" y="-60844" z="-2512" heading="0" respawnDelay="60" /> <!-- Corpse of Angel -->
+	</spawn>
+	<!-- rune15_npc2216_01 -->
+	<spawn zone="rune15_npc2216_01m1">
+		<npc id="32015" x="89872" y="-44896" z="-2144" heading="33000" respawnDelay="60" /> <!-- Scout's Corpse -->
+	</spawn>
+	<!-- rune12_npc2216_001 -->
+	<spawn zone="rune12_npc2216_001m1">
+		<npc id="32241" x="92581" y="-59611" z="-2864" heading="9124" respawnDelay="60" /> <!-- Berka -->
+	</spawn>
+	<!-- rune12_2216_01 -->
+	<spawn zone="rune12_2216_01m1">
+		<npc id="21510" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>71059</fleeX>
+			<fleeY>-55540</fleeY>
+			<fleeZ>-3136</fleeZ>
+		</AIData>
+		<npc id="21508" count="4" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="4" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Worker -->
+	</spawn>
+	<!-- rune12_2216_04s -->
+	<spawn zone="rune12_2216_04sm1">
+		<AIData>
+			<fleeX>71059</fleeX>
+			<fleeY>-55540</fleeY>
+			<fleeZ>-3136</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_05s -->
+	<spawn zone="rune12_2216_05sm1">
+		<npc id="21512" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>71059</fleeX>
+			<fleeY>-55540</fleeY>
+			<fleeZ>-3136</fleeZ>
+		</AIData>
+		<npc id="21510" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_06s -->
+	<spawn zone="rune12_2216_06sm1">
+		<AIData>
+			<fleeX>71059</fleeX>
+			<fleeY>-55540</fleeY>
+			<fleeZ>-3136</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_02 -->
+	<spawn zone="rune12_2216_02m1">
+		<AIData>
+			<fleeX>75750</fleeX>
+			<fleeY>-54438</fleeY>
+			<fleeZ>-3136</fleeZ>
+		</AIData>
+		<npc id="21508" count="6" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="6" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_07s -->
+	<spawn zone="rune12_2216_07sm1">
+		<AIData>
+			<fleeX>75750</fleeX>
+			<fleeY>-54438</fleeY>
+			<fleeZ>-3136</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_10s -->
+	<spawn zone="rune12_2216_10sm1">
+		<npc id="21512" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<AIData>
+			<fleeX>75750</fleeX>
+			<fleeY>-54438</fleeY>
+			<fleeZ>-3136</fleeZ>
+		</AIData>
+		<npc id="21510" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_03 -->
+	<spawn zone="rune12_2216_03m1">
+		<AIData>
+			<fleeX>73747</fleeX>
+			<fleeY>-51298</fleeY>
+			<fleeZ>-3136</fleeZ>
+		</AIData>
+		<npc id="21508" count="3" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="3" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_08s -->
+	<spawn zone="rune12_2216_08sm1">
+		<AIData>
+			<fleeX>73747</fleeX>
+			<fleeY>-51298</fleeY>
+			<fleeZ>-3136</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_09s -->
+	<spawn zone="rune12_2216_09sm1">
+		<AIData>
+			<fleeX>73747</fleeX>
+			<fleeY>-51298</fleeY>
+			<fleeZ>-3136</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_11s -->
+	<spawn zone="rune12_2216_11sm1">
+		<npc id="21512" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>73747</fleeX>
+			<fleeY>-51298</fleeY>
+			<fleeZ>-3136</fleeZ>
+		</AIData>
+		<npc id="21510" count="1" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="2" respawnDelay="42" respawnRandom="20" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_12s -->
+	<spawn zone="rune12_2216_12sm1">
+		<npc id="21512" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>72221</fleeX>
+			<fleeY>-45383</fleeY>
+			<fleeZ>-3285</fleeZ>
+		</AIData>
+		<npc id="21510" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="2" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_13 -->
+	<spawn zone="rune12_2216_13m1">
+		<AIData>
+			<fleeX>72221</fleeX>
+			<fleeY>-45383</fleeY>
+			<fleeZ>-3285</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="2" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="2" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_14s -->
+	<spawn zone="rune12_2216_14sm1">
+		<AIData>
+			<fleeX>72221</fleeX>
+			<fleeY>-45383</fleeY>
+			<fleeZ>-3285</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_15s -->
+	<spawn zone="rune12_2216_15sm1">
+		<npc id="21512" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>733051</fleeX>
+			<fleeY>-42394</fleeY>
+			<fleeZ>-3281</fleeZ>
+		</AIData>
+		<npc id="21510" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_16 -->
+	<spawn zone="rune12_2216_16m1">
+		<AIData>
+			<fleeX>733051</fleeX>
+			<fleeY>-42394</fleeY>
+			<fleeZ>-3281</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_17s -->
+	<spawn zone="rune12_2216_17sm1">
+		<AIData>
+			<fleeX>733051</fleeX>
+			<fleeY>-42394</fleeY>
+			<fleeZ>-3281</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_18s -->
+	<spawn zone="rune12_2216_18sm1">
+		<npc id="21512" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>76293</fleeX>
+			<fleeY>-43415</fleeY>
+			<fleeZ>-3308</fleeZ>
+		</AIData>
+		<npc id="21510" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="2" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_19 -->
+	<spawn zone="rune12_2216_19m1">
+		<AIData>
+			<fleeX>76293</fleeX>
+			<fleeY>-43415</fleeY>
+			<fleeZ>-3308</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_20s -->
+	<spawn zone="rune12_2216_20sm1">
+		<AIData>
+			<fleeX>76293</fleeX>
+			<fleeY>-43415</fleeY>
+			<fleeZ>-3308</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato -->
+		<npc id="21510" count="2" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+	</spawn>
+	<!-- rune12_2216_21s -->
+	<spawn zone="rune12_2216_21sm1">
+		<AIData>
+			<fleeX>76293</fleeX>
+			<fleeY>-43415</fleeY>
+			<fleeZ>-3308</fleeZ>
+		</AIData>
+		<npc id="21509" count="2" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Worker -->
+		<npc id="21511" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_22s -->
+	<spawn zone="rune12_2216_22sm1">
+		<npc id="21512" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>81503</fleeX>
+			<fleeY>-44735</fleeY>
+			<fleeZ>-3332</fleeZ>
+		</AIData>
+		<npc id="21510" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="2" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_23 -->
+	<spawn zone="rune12_2216_23m1">
+		<AIData>
+			<fleeX>81503</fleeX>
+			<fleeY>-44735</fleeY>
+			<fleeZ>-3332</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_24s -->
+	<spawn zone="rune12_2216_24sm1">
+		<AIData>
+			<fleeX>81503</fleeX>
+			<fleeY>-44735</fleeY>
+			<fleeZ>-3332</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato -->
+		<npc id="21510" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+	</spawn>
+	<!-- rune12_2216_25s -->
+	<spawn zone="rune12_2216_25sm1">
+		<AIData>
+			<fleeX>81503</fleeX>
+			<fleeY>-44735</fleeY>
+			<fleeZ>-3332</fleeZ>
+		</AIData>
+		<npc id="21509" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Worker -->
+		<npc id="21511" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_26s -->
+	<spawn zone="rune12_2216_26sm1">
+		<npc id="21512" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>79532</fleeX>
+			<fleeY>-42193</fleeY>
+			<fleeZ>-3315</fleeZ>
+		</AIData>
+		<npc id="21511" count="2" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_27 -->
+	<spawn zone="rune12_2216_27m1">
+				<AIData>
+			<fleeX>79532</fleeX>
+			<fleeY>-42193</fleeY>
+			<fleeZ>-3315</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_28s -->
+	<spawn zone="rune12_2216_28sm1">
+		<npc id="21512" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>82345</fleeX>
+			<fleeY>-41623</fleeY>
+			<fleeZ>-3292</fleeZ>
+		</AIData>
+		<npc id="21511" count="2" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_29 -->
+	<spawn zone="rune12_2216_29m1">
+		<AIData>
+			<fleeX>82345</fleeX>
+			<fleeY>-41623</fleeY>
+			<fleeZ>-3292</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato -->
+		<npc id="21509" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="2" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_521 -->
+	<spawn zone="rune12_2216_521m1">
+		<AIData>
+			<fleeX>78796</fleeX>
+			<fleeY>-51380</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>78996</fleeX>
+			<fleeY>-51380</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_53 -->
+	<spawn zone="rune12_2216_53m1">
+		<AIData>
+			<fleeX>78996</fleeX>
+			<fleeY>-51380</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>78796</fleeX>
+			<fleeY>-51180</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_54 -->
+	<spawn zone="rune12_2216_54m1">
+		<AIData>
+			<fleeX>78796</fleeX>
+			<fleeY>-51380</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>78996</fleeX>
+			<fleeY>-51380</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+	</spawn>
+	<!-- rune12_2216_55 -->
+	<spawn zone="rune12_2216_55m1">
+		<AIData>
+			<fleeX>78796</fleeX>
+			<fleeY>-51380</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>78996</fleeX>
+			<fleeY>-51380</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>78796</fleeX>
+			<fleeY>-51180</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="90" respawnRandom="35" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>78996</fleeX>
+			<fleeY>-51180</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_56 -->
+	<spawn zone="rune12_2216_56m1">
+		<AIData>
+			<fleeX>78996</fleeX>
+			<fleeY>-51380</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>78796</fleeX>
+			<fleeY>-51180</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>78996</fleeX>
+			<fleeY>-51180</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_57 -->
+	<spawn zone="rune12_2216_57m1">
+		<AIData>
+			<fleeX>82876</fleeX>
+			<fleeY>-50900</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>83076</fleeX>
+			<fleeY>-50900</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>82876</fleeX>
+			<fleeY>-50700</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>83076</fleeX>
+			<fleeY>-50700</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_58 -->
+	<spawn zone="rune12_2216_58m1">
+		<AIData>
+			<fleeX>83076</fleeX>
+			<fleeY>-50900</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>82876</fleeX>
+			<fleeY>-50700</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>83076</fleeX>
+			<fleeY>-50700</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_59 -->
+	<spawn zone="rune12_2216_59m1">
+		<AIData>
+			<fleeX>82876</fleeX>
+			<fleeY>-50900</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>83076</fleeX>
+			<fleeY>-50900</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>82876</fleeX>
+			<fleeY>-50700</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>83076</fleeX>
+			<fleeY>-50700</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_60 -->
+	<spawn zone="rune12_2216_60m1">
+		<AIData>
+			<fleeX>82876</fleeX>
+			<fleeY>-50900</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>83076</fleeX>
+			<fleeY>-50900</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>82876</fleeX>
+			<fleeY>-50700</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>83076</fleeX>
+			<fleeY>-50700</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_61 -->
+	<spawn zone="rune12_2216_61m1">
+		<AIData>
+			<fleeX>85584</fleeX>
+			<fleeY>-54781</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>85667</fleeX>
+			<fleeY>-54781</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->		
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_62 -->
+	<spawn zone="rune12_2216_62m1">
+		<AIData>
+			<fleeX>85667</fleeX>
+			<fleeY>-54781</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>85584</fleeX>
+			<fleeY>-54781</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+	</spawn>
+	<!-- rune12_2216_63 -->
+	<spawn zone="rune12_2216_63m1">
+		<AIData>
+			<fleeX>85584</fleeX>
+			<fleeY>-54781</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>85667</fleeX>
+			<fleeY>-54781</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_64 -->
+	<spawn zone="rune12_2216_64m1">
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="2" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_65 -->
+	<spawn zone="rune12_2216_65m1">
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_66 -->
+	<spawn zone="rune12_2216_66m1">
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_67 -->
+	<spawn zone="rune12_2216_67m1">
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_68 -->
+	<spawn zone="rune12_2216_68m1">
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_69 -->
+	<spawn zone="rune12_2216_69m1">
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_70 -->
+	<spawn zone="rune12_2216_70m1">
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>85452</fleeX>
+			<fleeY>-54836</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>85356</fleeX>
+			<fleeY>-59476</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_71 -->
+	<spawn zone="rune12_2216_71m1">
+		<AIData>
+			<fleeX>85584</fleeX>
+			<fleeY>-54781</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>85667</fleeX>
+			<fleeY>-54781</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+	</spawn>
+	<!-- rune12_2216_72 -->
+	<spawn zone="rune12_2216_72m1">
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_73 -->
+	<spawn zone="rune12_2216_73m1">
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_74 -->
+	<spawn zone="rune12_2216_74m1">
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="2" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_75 -->
+	<spawn zone="rune12_2216_75m1">
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_76 -->
+	<spawn zone="rune12_2216_76m1">
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_77 -->
+	<spawn zone="rune12_2216_77m1">
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60452</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>88788</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_78 -->
+	<spawn zone="rune12_2216_78m1">
+		<AIData>
+			<fleeX>85356</fleeX>
+			<fleeY>-59476</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>85556</fleeX>
+			<fleeY>-59476</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>85356</fleeX>
+			<fleeY>-59276</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>85556</fleeX>
+			<fleeY>-59276</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_79 -->
+	<spawn zone="rune12_2216_79m1">
+		<AIData>
+			<fleeX>85356</fleeX>
+			<fleeY>-59476</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>85556</fleeX>
+			<fleeY>-59476</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>85356</fleeX>
+			<fleeY>-59276</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>85556</fleeX>
+			<fleeY>-59276</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_80 -->
+	<spawn zone="rune12_2216_80m1">
+		<AIData>
+			<fleeX>85356</fleeX>
+			<fleeY>-59476</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>85556</fleeX>
+			<fleeY>-59476</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21515" count="2" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>85356</fleeX>
+			<fleeY>-59276</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_81 -->
+	<spawn zone="rune12_2216_81m1">
+		<AIData>
+			<fleeX>81116</fleeX>
+			<fleeY>-60068</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81316</fleeX>
+			<fleeY>-60068</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81116</fleeX>
+			<fleeY>-59868</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81316</fleeX>
+			<fleeY>-59868</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_82 -->
+	<spawn zone="rune12_2216_82m1">
+		<AIData>
+			<fleeX>81316</fleeX>
+			<fleeY>-60068</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81116</fleeX>
+			<fleeY>-59868</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81316</fleeX>
+			<fleeY>-59868</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_83 -->
+	<spawn zone="rune12_2216_83m1">
+		<AIData>
+			<fleeX>81116</fleeX>
+			<fleeY>-60068</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81316</fleeX>
+			<fleeY>-60068</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81116</fleeX>
+			<fleeY>-59868</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81316</fleeX>
+			<fleeY>-59868</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_84 -->
+	<spawn zone="rune12_2216_84m1">
+		<AIData>
+			<fleeX>81116</fleeX>
+			<fleeY>-60068</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81316</fleeX>
+			<fleeY>-60068</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81116</fleeX>
+			<fleeY>-59868</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81316</fleeX>
+			<fleeY>-59868</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_85 -->
+	<spawn zone="rune12_2216_85m1">
+		<AIData>
+			<fleeX>84940</fleeX>
+			<fleeY>-63028</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>85140</fleeX>
+			<fleeY>-63028</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>84940</fleeX>
+			<fleeY>-62828</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>85140</fleeX>
+			<fleeY>-62828</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_86 -->
+	<spawn zone="rune12_2216_86m1">
+		<AIData>
+			<fleeX>84940</fleeX>
+			<fleeY>-63028</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>85140</fleeX>
+			<fleeY>-63028</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>84940</fleeX>
+			<fleeY>-62828</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_87 -->
+	<spawn zone="rune12_2216_87m1">
+		<AIData>
+			<fleeX>84940</fleeX>
+			<fleeY>-63028</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>85140</fleeX>
+			<fleeY>-63028</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>84940</fleeX>
+			<fleeY>-62828</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+	</spawn>
+	<!-- rune12_2216_88 -->
+	<spawn zone="rune12_2216_88m1">
+		<AIData>
+			<fleeX>85140</fleeX>
+			<fleeY>-63028</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>84940</fleeX>
+			<fleeY>-62828</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>85140</fleeX>
+			<fleeY>-62828</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+	</spawn>
+	<!-- rune12_2216_89 -->
+	<spawn zone="rune12_2216_89m1">
+		<AIData>
+			<fleeX>85140</fleeX>
+			<fleeY>-63028</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>84940</fleeX>
+			<fleeY>-62828</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>85140</fleeX>
+			<fleeY>-62828</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_90 -->
+	<spawn zone="rune12_2216_90m1">
+		<AIData>
+			<fleeX>81196</fleeX>
+			<fleeY>-63364</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81396</fleeX>
+			<fleeY>-63364</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81196</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81396</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_91 -->
+	<spawn zone="rune12_2216_91m1">
+		<AIData>
+			<fleeX>81196</fleeX>
+			<fleeY>-63364</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81396</fleeX>
+			<fleeY>-63364</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81196</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81396</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_92 -->
+	<spawn zone="rune12_2216_92m1">
+		<AIData>
+			<fleeX>81196</fleeX>
+			<fleeY>-63364</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81396</fleeX>
+			<fleeY>-63364</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81196</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81396</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_93 -->
+	<spawn zone="rune12_2216_93m1">
+		<AIData>
+			<fleeX>81196</fleeX>
+			<fleeY>-63364</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81396</fleeX>
+			<fleeY>-63364</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81196</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81396</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_94 -->
+	<spawn zone="rune12_2216_94m1">
+		<AIData>
+			<fleeX>81196</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81396</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>77148</fleeX>
+			<fleeY>-61716</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+	</spawn>
+	<!-- rune12_2216_95 -->
+	<spawn zone="rune12_2216_95m1">
+		<AIData>
+			<fleeX>82345</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81396</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_96 -->
+	<spawn zone="rune12_2216_96m1">
+		<AIData>
+			<fleeX>77148</fleeX>
+			<fleeY>-61716</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>77348</fleeX>
+			<fleeY>-61716</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>77148</fleeX>
+			<fleeY>-61516</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+	</spawn>
+	<!-- rune12_2216_97 -->
+	<spawn zone="rune12_2216_97m1">
+		<AIData>
+			<fleeX>77148</fleeX>
+			<fleeY>-61716</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>77348</fleeX>
+			<fleeY>-61716</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>77148</fleeX>
+			<fleeY>-61516</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>77348</fleeX>
+			<fleeY>-61516</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_98 -->
+	<spawn zone="rune12_2216_98m1">
+		<AIData>
+			<fleeX>77148</fleeX>
+			<fleeY>-61716</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>77348</fleeX>
+			<fleeY>-61716</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>77148</fleeX>
+			<fleeY>-61516</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>77348</fleeX>
+			<fleeY>-61516</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_99 -->
+	<spawn zone="rune12_2216_99m1">
+		<AIData>
+			<fleeX>77148</fleeX>
+			<fleeY>-61716</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>77348</fleeX>
+			<fleeY>-61716</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>77148</fleeX>
+			<fleeY>-61516</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>77348</fleeX>
+			<fleeY>-61516</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_100 -->
+	<spawn zone="rune12_2216_100m1">
+		<AIData>
+			<fleeX>77512</fleeX>
+			<fleeY>-58412</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>77712</fleeX>
+			<fleeY>-58412</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>77512</fleeX>
+			<fleeY>-58212</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>77712</fleeX>
+			<fleeY>-58212</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_101 -->
+	<spawn zone="rune12_2216_101m1">
+		<AIData>
+			<fleeX>77512</fleeX>
+			<fleeY>-58412</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>77712</fleeX>
+			<fleeY>-58412</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>77512</fleeX>
+			<fleeY>-58212</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>77712</fleeX>
+			<fleeY>-58212</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_102 -->
+	<spawn zone="rune12_2216_102m1">
+		<AIData>
+			<fleeX>77512</fleeX>
+			<fleeY>-58412</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>77712</fleeX>
+			<fleeY>-58412</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>77512</fleeX>
+			<fleeY>-58212</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>77712</fleeX>
+			<fleeY>-58212</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_103 -->
+	<spawn zone="rune12_2216_103m1">
+		<AIData>
+			<fleeX>77512</fleeX>
+			<fleeY>-58412</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>77712</fleeX>
+			<fleeY>-58412</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>77512</fleeX>
+			<fleeY>-58212</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>77712</fleeX>
+			<fleeY>-58212</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_104 -->
+	<spawn zone="rune12_2216_104m1">
+		<AIData>
+			<fleeX>89436</fleeX>
+			<fleeY>-52116</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>89636</fleeX>
+			<fleeY>-51916</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>89636</fleeX>
+			<fleeY>-52116</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>89436</fleeX>
+			<fleeY>-51916</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_105 -->
+	<spawn zone="rune12_2216_105m1">
+		<AIData>
+			<fleeX>89436</fleeX>
+			<fleeY>-52116</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>89636</fleeX>
+			<fleeY>-51916</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>89636</fleeX>
+			<fleeY>-52116</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>89436</fleeX>
+			<fleeY>-51916</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_106 -->
+	<spawn zone="rune12_2216_106m1">
+		<AIData>
+			<fleeX>89436</fleeX>
+			<fleeY>-52116</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>89636</fleeX>
+			<fleeY>-51916</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>89636</fleeX>
+			<fleeY>-52116</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>89436</fleeX>
+			<fleeY>-51916</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_107 -->
+	<spawn zone="rune12_2216_107m1">
+		<AIData>
+			<fleeX>92124</fleeX>
+			<fleeY>-53060</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>92324</fleeX>
+			<fleeY>-53060</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>92124</fleeX>
+			<fleeY>-52860</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>92324</fleeX>
+			<fleeY>-52860</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_108 -->
+	<spawn zone="rune12_2216_108m1">
+		<AIData>
+			<fleeX>92124</fleeX>
+			<fleeY>-53060</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>92324</fleeX>
+			<fleeY>-53060</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>92124</fleeX>
+			<fleeY>-52860</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>92324</fleeX>
+			<fleeY>-52860</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_109 -->
+	<spawn zone="rune12_2216_109m1">
+		<AIData>
+			<fleeX>92124</fleeX>
+			<fleeY>-53060</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>92324</fleeX>
+			<fleeY>-53060</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21514" count="2" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>92124</fleeX>
+			<fleeY>-52860</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>92324</fleeX>
+			<fleeY>-52860</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_110 -->
+	<spawn zone="rune12_2216_110m1">
+		<AIData>
+			<fleeX>92324</fleeX>
+			<fleeY>-53060</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>92124</fleeX>
+			<fleeY>-52860</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_111 -->
+	<spawn zone="rune12_2216_111m1">
+		<AIData>
+			<fleeX>93996</fleeX>
+			<fleeY>-54932</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>94196</fleeX>
+			<fleeY>-54932</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>93996</fleeX>
+			<fleeY>-54732</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>94196</fleeX>
+			<fleeY>-54732</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_112 -->
+	<spawn zone="rune12_2216_112m1">
+		<AIData>
+			<fleeX>93996</fleeX>
+			<fleeY>-54932</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>94196</fleeX>
+			<fleeY>-54932</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>93996</fleeX>
+			<fleeY>-54732</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>94196</fleeX>
+			<fleeY>-54732</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_113 -->
+	<spawn zone="rune12_2216_113m1">
+		<AIData>
+			<fleeX>93996</fleeX>
+			<fleeY>-54932</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>94196</fleeX>
+			<fleeY>-54932</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>93996</fleeX>
+			<fleeY>-54732</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>94196</fleeX>
+			<fleeY>-54732</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_114-->
+	<spawn zone="rune12_2216_114m1">
+		<AIData>
+			<fleeX>94572</fleeX>
+			<fleeY>-52644</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>94772</fleeX>
+			<fleeY>-52644</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>94572</fleeX>
+			<fleeY>-52444</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>94772</fleeX>
+			<fleeY>-52444</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_115 -->
+	<spawn zone="rune12_2216_115m1">
+		<AIData>
+			<fleeX>94572</fleeX>
+			<fleeY>-52644</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>94772</fleeX>
+			<fleeY>-52644</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>94572</fleeX>
+			<fleeY>-52444</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+	</spawn>
+	<!-- rune12_2216_116 -->
+	<spawn zone="rune12_2216_116m1">
+		<AIData>
+			<fleeX>94572</fleeX>
+			<fleeY>-52644</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>94772</fleeX>
+			<fleeY>-52644</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>94572</fleeX>
+			<fleeY>-52444</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>94772</fleeX>
+			<fleeY>-52444</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_117 -->
+	<spawn zone="rune12_2216_117m1">
+		<AIData>
+			<fleeX>94772</fleeX>
+			<fleeY>-52644</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>94572</fleeX>
+			<fleeY>-52444</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>94772</fleeX>
+			<fleeY>-52444</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+	</spawn>
+	<!-- rune12_2216_b06 -->
+	<spawn zone="rune12_2216_b06m1">
+		<npc id="21512" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>72220</fleeX>
+			<fleeY>-45284</fleeY>
+			<fleeZ>-3224</fleeZ>
+		</AIData>
+		<npc id="21509" count="1" respawnDelay="42" /> <!-- Splinter Stakato Worker -->
+		<AIData>
+			<fleeX>72420</fleeX>
+			<fleeY>-45284</fleeY>
+			<fleeZ>-3224</fleeZ>
+		</AIData>
+		<npc id="21510" count="2" respawnDelay="42" /> <!-- Splinter Stakato Soldier -->
+		<AIData>
+			<fleeX>72220</fleeX>
+			<fleeY>-45084</fleeY>
+			<fleeZ>-3224</fleeZ>
+		</AIData>
+		<npc id="21511" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b07 -->
+	<spawn zone="rune12_2216_b07m1">
+		<npc id="21512" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>73212</fleeX>
+			<fleeY>-42404</fleeY>
+			<fleeZ>-3224</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="42" /> <!-- Splinter Stakato -->
+		<AIData>
+			<fleeX>73412</fleeX>
+			<fleeY>-42404</fleeY>
+			<fleeZ>-3224</fleeZ>
+		</AIData>
+		<npc id="21509" count="1" respawnDelay="42" /> <!-- Splinter Stakato Worker -->
+		<AIData>
+			<fleeX>73412</fleeX>
+			<fleeY>-42404</fleeY>
+			<fleeZ>-3224</fleeZ>
+		</AIData>
+		<npc id="21510" count="1" respawnDelay="42" /> <!-- Splinter Stakato Soldier -->
+		<AIData>
+			<fleeX>73212</fleeX>
+			<fleeY>-42204</fleeY>
+			<fleeZ>-3224</fleeZ>
+		</AIData>
+		<npc id="21511" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b08 -->
+	<spawn zone="rune12_2216_b08m1">
+		<npc id="21512" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>76084</fleeX>
+			<fleeY>-43724</fleeY>
+			<fleeZ>-3224</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="42" /> <!-- Splinter Stakato -->
+		<AIData>
+			<fleeX>76284</fleeX>
+			<fleeY>-43724</fleeY>
+			<fleeZ>-3224</fleeZ>
+		</AIData>
+		<npc id="21509" count="1" respawnDelay="42" /> <!-- Splinter Stakato Worker -->
+		<AIData>
+			<fleeX>76084</fleeX>
+			<fleeY>-43524</fleeY>
+			<fleeZ>-3224</fleeZ>
+		</AIData>
+		<npc id="21510" count="2" respawnDelay="42" /> <!-- Splinter Stakato Soldier -->
+		<AIData>
+			<fleeX>76284</fleeX>
+			<fleeY>-43524</fleeY>
+			<fleeZ>-3224</fleeZ>
+		</AIData>
+		<npc id="21511" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b09 -->
+	<spawn zone="rune12_2216_b09m1">
+		<npc id="21512" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>79580</fleeX>
+			<fleeY>-42276</fleeY>
+			<fleeZ>-3216</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="42" /> <!-- Splinter Stakato -->
+		<AIData>
+			<fleeX>79780</fleeX>
+			<fleeY>-42276</fleeY>
+			<fleeZ>-3216</fleeZ>
+		</AIData>
+		<npc id="21510" count="1" respawnDelay="42" /> <!-- Splinter Stakato Soldier -->
+		<AIData>
+			<fleeX>79580</fleeX>
+			<fleeY>-42076</fleeY>
+			<fleeZ>-3216</fleeZ>
+		</AIData>
+		<npc id="21511" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b10 -->
+	<spawn zone="rune12_2216_b10m1">
+		<npc id="21512" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>82300</fleeX>
+			<fleeY>-41532</fleeY>
+			<fleeZ>-3216</fleeZ>
+		</AIData>
+		<npc id="21509" count="1" respawnDelay="42" /> <!-- Splinter Stakato Worker -->
+		<npc id="21510" count="1" respawnDelay="42" /> <!-- Splinter Stakato Soldier -->
+		<npc id="21511" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b11 -->
+	<spawn zone="rune12_2216_b11m1">
+		<npc id="21512" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+		<AIData>
+			<fleeX>81340</fleeX>
+			<fleeY>-44868</fleeY>
+			<fleeZ>-3232</fleeZ>
+		</AIData>
+		<npc id="21509" count="1" respawnDelay="42" /> <!-- Splinter Stakato Worker -->
+		<AIData>
+			<fleeX>81540</fleeX>
+			<fleeY>-44868</fleeY>
+			<fleeZ>-3232</fleeZ>
+		</AIData>
+		<npc id="21510" count="1" respawnDelay="42" /> <!-- Splinter Stakato Soldier -->
+		<AIData>
+			<fleeX>81340</fleeX>
+			<fleeY>-44668</fleeY>
+			<fleeZ>-3232</fleeZ>
+		</AIData>
+		<npc id="21511" count="1" respawnDelay="42" /> <!-- Splinter Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b12 -->
+	<spawn zone="rune12_2216_b12m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>78796</fleeX>
+			<fleeY>-51380</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>78996</fleeX>
+			<fleeY>-51380</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>78796</fleeX>
+			<fleeY>-51180</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b13 -->
+	<spawn zone="rune12_2216_b13m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>82876</fleeX>
+			<fleeY>-50900</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>83076</fleeX>
+			<fleeY>-50900</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>82876</fleeX>
+			<fleeY>-50700</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b14 -->
+	<spawn zone="rune12_2216_b14m1">
+		<npc id="21517" count="2" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55844</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81100</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81300</fleeX>
+			<fleeY>-55644</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="2" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b15 -->
+	<spawn zone="rune12_2216_b15m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>77512</fleeX>
+			<fleeY>-58412</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>77712</fleeX>
+			<fleeY>-58412</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>77512</fleeX>
+			<fleeY>-58212</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b16 -->
+	<spawn zone="rune12_2216_b16m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>77348</fleeX>
+			<fleeY>-61716</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>77148</fleeX>
+			<fleeY>-61716</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>77148</fleeX>
+			<fleeY>-61516</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b17 -->
+	<spawn zone="rune12_2216_b17m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>81316</fleeX>
+			<fleeY>-60068</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>81116</fleeX>
+			<fleeY>-59868</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>81116</fleeX>
+			<fleeY>-59868</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81116</fleeX>
+			<fleeY>-59668</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b18 -->
+	<spawn zone="rune12_2216_b18m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>85140</fleeX>
+			<fleeY>-63028</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>84940</fleeX>
+			<fleeY>-62828</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>85140</fleeX>
+			<fleeY>-62828</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b19 -->
+	<spawn zone="rune12_2216_b19m1">
+		<AIData>
+			<fleeX>88588</fleeX>
+			<fleeY>-60252</fleeY>
+			<fleeZ>-2336</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b20 -->
+	<spawn zone="rune12_2216_b20m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>85584</fleeX>
+			<fleeY>-54781</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>85667</fleeX>
+			<fleeY>-54781</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21513" count="1" respawnDelay="42" /> <!-- Needle Stakato -->
+		<AIData>
+			<fleeX>85584</fleeX>
+			<fleeY>-54781</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b21 -->
+	<spawn zone="rune12_2216_b21m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>89436</fleeX>
+			<fleeY>-52116</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>89636</fleeX>
+			<fleeY>-51916</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>89636</fleeX>
+			<fleeY>-52116</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b22 -->
+	<spawn zone="rune12_2216_b22m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>92124</fleeX>
+			<fleeY>-53060</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>92324</fleeX>
+			<fleeY>-53060</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>92124</fleeX>
+			<fleeY>-52860</fleeY>
+			<fleeZ>-2616</fleeZ>
+		</AIData>
+		<npc id="21516" count="2" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b23 -->
+	<spawn zone="rune12_2216_b23m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>94572</fleeX>
+			<fleeY>-52444</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b24 -->
+	<spawn zone="rune12_2216_b24m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>85356</fleeX>
+			<fleeY>-59476</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21515" count="1" respawnDelay="42" /> <!-- Needle Stakato Soldier -->
+		<AIData>
+			<fleeX>85556</fleeX>
+			<fleeY>-59476</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>85356</fleeX>
+			<fleeY>-59276</fleeY>
+			<fleeZ>-2512</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b25 -->
+	<spawn zone="rune12_2216_b25m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>81196</fleeX>
+			<fleeY>-63364</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="42" /> <!-- Splinter Stakato -->
+		<AIData>
+			<fleeX>81396</fleeX>
+			<fleeY>-63364</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>81196</fleeX>
+			<fleeY>-63164</fleeY>
+			<fleeZ>-2328</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune12_2216_b26 -->
+	<spawn zone="rune12_2216_b26m1">
+		<npc id="21517" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+		<AIData>
+			<fleeX>93996</fleeX>
+			<fleeY>-54932</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21508" count="1" respawnDelay="42" /> <!-- Splinter Stakato -->
+		<AIData>
+			<fleeX>94196</fleeX>
+			<fleeY>-54932</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21514" count="1" respawnDelay="42" /> <!-- Needle Stakato Worker -->
+		<AIData>
+			<fleeX>93996</fleeX>
+			<fleeY>-54732</fleeY>
+			<fleeZ>-2600</fleeZ>
+		</AIData>
+		<npc id="21516" count="1" respawnDelay="42" /> <!-- Needle Stakato Drone -->
+	</spawn>
+	<!-- rune15_2216_01 -->
+	<spawn zone="rune15_2216_03m1">
+		<npc id="22617" count="3" respawnDelay="40" respawnRandom="30" /> <!-- Spiked Stakato -->
+		<npc id="22621" count="2" respawnDelay="40" respawnRandom="30" /> <!-- Male Spiked Stakato -->
+	</spawn>
+	<!-- rune15_2216_05 -->
+	<spawn zone="rune15_2216_05m1">
+		<npc id="22617" count="5" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato -->
+		<npc id="22621" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Male Spiked Stakato -->
+		<npc id="22625" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Cannibalistic Stakato Leader -->
+	</spawn>
+	<!-- rune15_2216_07 -->
+	<spawn zone="rune15_2216_07m1">
+		<npc id="22617" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato -->
+		<npc id="22621" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Male Spiked Stakato -->
+		<npc id="22625" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Cannibalistic Stakato Leader -->
+	</spawn>
+	<!-- rune15_2216_09 -->
+	<spawn zone="rune15_2216_09m1">
+		<npc id="22618" count="3" respawnDelay="40" respawnRandom="30" /> <!-- Spiked Stakato Worker -->
+		<npc id="22621" count="3" respawnDelay="40" respawnRandom="30" /> <!-- Male Spiked Stakato -->
+	</spawn>
+	<!-- rune15_2216_11 -->
+	<spawn zone="rune15_2216_11m1">
+		<npc id="22621" count="3" respawnDelay="40" respawnRandom="30" /> <!-- Male Spiked Stakato -->
+		<npc id="22623" count="2" respawnDelay="40" respawnRandom="30" /> <!-- Spiked Stakato Sorcerer -->
+		<npc id="22628" count="2" respawnDelay="40" respawnRandom="30" /> <!-- Spiked Stakato Drone -->
+	</spawn>
+	<!-- rune15_2216_13 -->
+	<spawn zone="rune15_2216_13m1">
+		<npc id="22617" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato -->
+		<npc id="22621" count="4" respawnDelay="64" respawnRandom="20" /> <!-- Male Spiked Stakato -->
+		<npc id="22625" count="4" respawnDelay="64" respawnRandom="20" /> <!-- Cannibalistic Stakato Leader -->
+	</spawn>
+	<!-- rune15_2216_15 -->
+	<spawn zone="rune15_2216_15m1">
+		<npc id="22621" count="2" respawnDelay="64" respawnRandom="20" /> <!-- Male Spiked Stakato -->
+		<npc id="22625" count="4" respawnDelay="64" respawnRandom="20" /> <!-- Cannibalistic Stakato Leader -->
+		<npc id="22627" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Soldier -->
+	</spawn>
+	<!-- rune15_2216_17 -->
+	<spawn zone="rune15_2216_17m1">
+		<npc id="22617" count="2" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato -->
+		<npc id="22618" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Worker -->
+		<npc id="22623" count="2" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Sorcerer -->
+		<npc id="22627" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Soldier -->
+		<npc id="22628" count="2" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Drone -->
+	</spawn>
+	<!-- rune15_2216_19 -->
+	<spawn zone="rune15_2216_19m1">
+		<npc id="22630" count="2" respawnDelay="100" respawnRandom="100" /> <!-- Spiked Stakato Nurse -->
+	</spawn>
+	<!-- rune15_2216_19_e -->
+	<spawn zone="rune15_2216_19_em1">
+		<npc id="18795" count="2" respawnDelay="1800" respawnRandom="1800" /> <!-- Bizarre Cocoon -->
+	</spawn>
+	<!-- rune15_2216_21 -->
+	<spawn zone="rune15_2216_21m1">
+		<npc id="22630" count="2" respawnDelay="100" respawnRandom="100" /> <!-- Spiked Stakato Nurse -->
+	</spawn>
+	<!-- rune15_2216_21_e -->
+	<spawn zone="rune15_2216_21_em1">
+		<npc id="18798" count="2" respawnDelay="1800" respawnRandom="1800" /> <!-- Bizarre Cocoon -->
+	</spawn>
+	<!-- rune15_2216_23 -->
+	<spawn zone="rune15_2216_23m1">
+		<npc id="22617" count="5" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato -->
+		<npc id="22623" count="2" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Sorcerer -->
+		<npc id="22625" count="4" respawnDelay="64" respawnRandom="20" /> <!-- Cannibalistic Stakato Leader -->
+	</spawn>
+	<!-- rune15_2216_25 -->
+	<spawn zone="rune15_2216_25m1">
+		<npc id="22617" count="4" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato -->
+		<npc id="22625" count="4" respawnDelay="64" respawnRandom="20" /> <!-- Cannibalistic Stakato Leader -->
+		<npc id="22628" count="4" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Drone -->
+	</spawn>
+	<!-- rune15_2216_27 -->
+	<spawn zone="rune15_2216_27m1">
+		<npc id="22625" count="4" respawnDelay="64" respawnRandom="20" /> <!-- Cannibalistic Stakato Leader -->
+		<npc id="22627" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Soldier -->
+		<npc id="22628" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Drone -->
+	</spawn>
+	<!-- rune15_2216_29 -->
+	<spawn zone="rune15_2216_29m1">
+		<npc id="22618" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Worker -->
+		<npc id="22625" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Cannibalistic Stakato Leader -->
+		<npc id="22628" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Drone -->
+		<npc id="22633" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Shaman -->
+	</spawn>
+	<!-- rune15_2216_31 -->
+	<spawn zone="rune15_2216_31m1">
+		<npc id="22618" count="3" respawnDelay="40" respawnRandom="30" /> <!-- Spiked Stakato Worker -->
+		<npc id="22621" count="2" respawnDelay="40" respawnRandom="30" /> <!-- Male Spiked Stakato -->
+		<npc id="22633" count="2" respawnDelay="40" respawnRandom="30" /> <!-- Spiked Stakato Shaman -->
+	</spawn>
+	<!-- rune15_2216_33 -->
+	<spawn zone="rune15_2216_33m1">
+		<npc id="22625" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Cannibalistic Stakato Leader -->
+		<npc id="22627" count="5" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Soldier -->
+		<npc id="22633" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Shaman -->
+	</spawn>
+	<!-- rune15_2216_35 -->
+	<spawn zone="rune15_2216_35m1">
+		<npc id="22623" count="5" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Sorcerer -->
+		<npc id="22625" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Cannibalistic Stakato Leader -->
+		<npc id="22627" count="3" respawnDelay="64" respawnRandom="20" /> <!-- Spiked Stakato Soldier -->
+	</spawn>
+	<!-- rune15_2216_37 -->
+	<spawn zone="rune15_2216_37m1">
+		<npc id="22630" count="2" respawnDelay="100" respawnRandom="100" /> <!-- Spiked Stakato Nurse -->
+	</spawn>
+	<!-- rune15_2216_37_e -->
+	<spawn zone="rune15_2216_37_em1">
+		<npc id="18798" count="3" respawnDelay="1800" respawnRandom="1800" /> <!-- Bizarre Cocoon -->
+	</spawn>
+	<!-- rune15_2216_39_e -->
+	<spawn zone="rune15_2216_39_em1">
+		<npc id="18798" count="3" respawnDelay="7200" respawnRandom="7200" /> <!-- Bizarre Cocoon -->
+	</spawn>
+	<!-- rune15_npc2216_q -->
+	<spawn zone="rune15_npc2216_qm1">
+		<npc id="32640" x="89480" y="-44457" z="-2136" heading="43316" respawnDelay="60" /> <!-- Kintaijin -->
+	</spawn>
+	<!-- rune15_tb2216_01 -->
+	<spawn zone="rune15_tb2216_01m1">
+		<npc id="18286" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

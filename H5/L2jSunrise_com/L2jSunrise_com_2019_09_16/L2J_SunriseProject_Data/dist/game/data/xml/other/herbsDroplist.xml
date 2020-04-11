@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/herbsDroplist.xsd">
+	<group id="1"> <!-- Default Group -->
+		<item id="13028" min="1" max="1" category="0" chance="20000" /> <!-- Vitality Replenishing Herb -->
+		<item id="8600" min="1" max="1" category="1" chance="100000" /> <!-- Herb of Life -->
+		<item id="8601" min="1" max="1" category="1" chance="40000" /> <!-- Greater Herb of Life -->
+		<item id="8602" min="1" max="1" category="1" chance="8000" /> <!-- Superior Herb of Life -->
+		<item id="8603" min="1" max="1" category="2" chance="100000" /> <!-- Herb of Mana -->
+		<item id="8604" min="1" max="1" category="2" chance="40000" /> <!-- Greater Herb of Mana -->
+		<item id="8605" min="1" max="1" category="2" chance="8000" /> <!-- Superior Herb of Mana -->
+		<item id="8612" min="1" max="1" category="3" chance="2000" /> <!-- Herb of the Warrior -->
+		<item id="8613" min="1" max="1" category="3" chance="2000" /> <!-- Herb of the Mystic -->
+		<item id="8614" min="1" max="1" category="3" chance="2000" /> <!-- Herb of Recovery -->
+		<item id="8606" min="1" max="1" category="4" chance="150000" /> <!-- Herb of Power -->
+		<item id="8607" min="1" max="1" category="5" chance="150000" /> <!-- Herb of Magic -->
+		<item id="8608" min="1" max="1" category="6" chance="150000" /> <!-- Herb of Atk. Spd. -->
+		<item id="8609" min="1" max="1" category="7" chance="150000" /> <!-- Herb of Casting Spd. -->
+		<item id="8610" min="1" max="1" category="8" chance="150000" /> <!-- Herb of Critical Attack - Probability -->
+		<item id="8611" min="1" max="1" category="9" chance="150000" /> <!-- Herb of Speed -->
+		<item id="10655" min="1" max="1" category="10" chance="150000" /> <!-- Herb of Vampiric Rage -->
+		<item id="10656" min="1" max="1" category="11" chance="150000" /> <!-- Herb of Critical Attack - Power -->
+		<item id="10657" min="1" max="1" category="12" chance="50000" /> <!-- Herb of Doubt -->
+	</group>
+	<group id="2"> <!-- Primeval Island Mobs -->
+		<item id="13028" min="1" max="1" category="0" chance="20000" /> <!-- Vitality Replenishing Herb -->
+		<item id="8600" min="1" max="1" category="1" chance="200000" /> <!-- Herb of Life -->
+		<item id="8601" min="1" max="1" category="1" chance="80000" /> <!-- Greater Herb of Life -->
+		<item id="8602" min="1" max="1" category="1" chance="16000" /> <!-- Superior Herb of Life -->
+		<item id="8603" min="1" max="1" category="2" chance="150000" /> <!-- Herb of Mana -->
+		<item id="8604" min="1" max="1" category="2" chance="60000" /> <!-- Greater Herb of Mana -->
+		<item id="8605" min="1" max="1" category="2" chance="12000" /> <!-- Superior Herb of Mana -->
+		<item id="8613" min="1" max="1" category="3" chance="4000" /> <!-- Herb of the Mystic -->
+		<item id="8614" min="1" max="1" category="3" chance="4000" /> <!-- Herb of Recovery -->
+		<item id="8607" min="1" max="1" category="4" chance="150000" /> <!-- Herb of Magic -->
+		<item id="8609" min="1" max="1" category="5" chance="150000" /> <!-- Herb of Casting Spd. -->
+		<item id="8611" min="1" max="1" category="6" chance="150000" /> <!-- Herb of Speed -->
+		<item id="10657" min="1" max="1" category="7" chance="75000" /> <!-- Herb of Doubt -->
+	</group>
+	<group id="3"> <!-- Field of Silence & Field of Whisper Mobs -->
+		<item id="13028" min="1" max="1" category="0" chance="5000" /> <!-- Vitality Replenishing Herb -->
+		<item id="8600" min="1" max="1" category="1" chance="210000" /> <!-- Herb of Life -->
+		<item id="8601" min="1" max="1" category="1" chance="150000" /> <!-- Greater Herb of Life -->
+		<item id="8602" min="1" max="1" category="1" chance="35000" /> <!-- Superior Herb of Life -->
+		<item id="8603" min="1" max="1" category="2" chance="190000" /> <!-- Herb of Mana -->
+		<item id="8604" min="1" max="1" category="2" chance="180000" /> <!-- Greater Herb of Mana -->
+		<item id="8605" min="1" max="1" category="2" chance="50000" /> <!-- Superior Herb of Mana -->
+		<item id="8612" min="1" max="1" category="3" chance="2000" /> <!-- Herb of the Warrior -->
+		<item id="8613" min="1" max="1" category="3" chance="10000" /> <!-- Herb of the Mystic -->
+		<item id="8614" min="1" max="1" category="3" chance="2000" /> <!-- Herb of Recovery -->
+		<item id="8606" min="1" max="1" category="4" chance="60000" /> <!-- Herb of Power -->
+		<item id="8607" min="1" max="1" category="5" chance="60000" /> <!-- Herb of Magic -->
+		<item id="8608" min="1" max="1" category="6" chance="80000" /> <!-- Herb of Atk. Spd. -->
+		<item id="8609" min="1" max="1" category="7" chance="40000" /> <!-- Herb of Casting Spd. -->
+		<item id="8610" min="1" max="1" category="8" chance="20000" /> <!-- Herb of Critical Attack - Probability -->
+		<item id="8611" min="1" max="1" category="9" chance="90000" /> <!-- Herb of Speed -->
+		<item id="10655" min="1" max="1" category="10" chance="60000" /> <!-- Herb of Vampiric Rage -->
+		<item id="10656" min="1" max="1" category="11" chance="30000" /> <!-- Herb of Critical Attack - Power -->
+		<item id="10657" min="1" max="1" category="12" chance="5000" /> <!-- Herb of Doubt -->
+		<item id="14824" min="1" max="1" category="13" chance="9000" /> <!-- Ancient Herb - Slayer -->
+		<item id="14825" min="1" max="1" category="13" chance="9000" /> <!-- Ancient Herb - Immortal -->
+		<item id="14826" min="1" max="1" category="13" chance="25000" /> <!-- Ancient Herb - Terminator -->
+		<item id="14827" min="1" max="1" category="13" chance="30000" /> <!-- Ancient Herb - Guide -->
+	</group>
+	<group id="4"> <!-- Sel Mahum Training Ground Chef Group Mobs -->
+		<item id="13028" min="1" max="1" category="0" chance="3299" /> <!-- Vitality Replenishing Herb -->
+		<item id="8600" min="1" max="1" category="1" chance="231000" /> <!-- Herb of Life -->
+		<item id="8601" min="1" max="1" category="1" chance="159600" /> <!-- Greater Herb of Life -->
+		<item id="8602" min="1" max="1" category="1" chance="29400" /> <!-- Superior Herb of Life -->
+		<item id="8603" min="1" max="1" category="2" chance="44000" /> <!-- Herb of Mana -->
+		<item id="8604" min="1" max="1" category="2" chance="57200" /> <!-- Greater Herb of Mana -->
+		<item id="8605" min="1" max="1" category="2" chance="8800" /> <!-- Superior Herb of Mana -->
+		<item id="8612" min="1" max="1" category="3" chance="3300" /> <!-- Herb of the Warrior -->
+		<item id="8613" min="1" max="1" category="3" chance="3300" /> <!-- Herb of the Mystic -->
+		<item id="8614" min="1" max="1" category="3" chance="3400" /> <!-- Herb of Recovery -->
+		<item id="8606" min="1" max="1" category="4" chance="50000" /> <!-- Herb of Power -->
+		<item id="8608" min="1" max="1" category="4" chance="50000" /> <!-- Herb of Atk. Spd. -->
+		<item id="8610" min="1" max="1" category="4" chance="50000" /> <!-- Herb of Critical Attack - Probability -->
+		<item id="10655" min="1" max="1" category="4" chance="50000" /> <!-- Herb of Vampiric Rage -->
+		<item id="10656" min="1" max="1" category="4" chance="50000" /> <!-- Herb of Critical Attack - Power -->
+		<item id="8607" min="1" max="1" category="5" chance="50000" /> <!-- Herb of Magic -->
+		<item id="8609" min="1" max="1" category="5" chance="50000" /> <!-- Herb of Casting Spd. -->
+		<item id="8611" min="1" max="1" category="6" chance="103400" /> <!-- Herb of Speed -->
+		<item id="10657" min="1" max="1" category="6" chance="3299" /> <!-- Herb of Doubt -->
+	</group>
+	<group id="5"> <!-- Sel Mahum Training Ground Soldier Group Mobs -->
+		<item id="8600" min="1" max="1" category="1" chance="275000" /> <!-- Herb of Life -->
+		<item id="8601" min="1" max="1" category="1" chance="190000" /> <!-- Greater Herb of Life -->
+		<item id="8602" min="1" max="1" category="1" chance="35000" /> <!-- Superior Herb of Life -->
+	</group>
+	<group id="6"> <!-- Sel Mahum Training Ground Squad Leader Group Mobs -->
+		<item id="13028" min="1" max="1" category="0" chance="3300" /> <!-- Vitality Replenishing Herb -->
+		<item id="8600" min="1" max="1" category="1" chance="231000" /> <!-- Herb of Life -->
+		<item id="8601" min="1" max="1" category="1" chance="159600" /> <!-- Greater Herb of Life -->
+		<item id="8602" min="1" max="1" category="1" chance="29400" /> <!-- Superior Herb of Life -->
+		<item id="8603" min="1" max="1" category="2" chance="44000" /> <!-- Herb of Mana -->
+		<item id="8604" min="1" max="1" category="2" chance="57200" /> <!-- Greater Herb of Mana -->
+		<item id="8605" min="1" max="1" category="2" chance="8800" /> <!-- Superior Herb of Mana -->
+		<item id="8606" min="1" max="1" category="3" chance="50000" /> <!-- Herb of Power -->
+		<item id="8608" min="1" max="1" category="3" chance="50000" /> <!-- Herb of Atk. Spd. -->
+		<item id="8610" min="1" max="1" category="3" chance="50000" /> <!-- Herb of Critical Attack - Probability -->
+		<item id="10655" min="1" max="1" category="3" chance="50000" /> <!-- Herb of Vampiric Rage -->
+		<item id="10656" min="1" max="1" category="3" chance="50000" /> <!-- Herb of Critical Attack - Power -->
+		<item id="8607" min="1" max="1" category="4" chance="50000" /> <!-- Herb of Magic -->
+		<item id="8609" min="1" max="1" category="4" chance="50000" /> <!-- Herb of Casting Spd. -->
+		<item id="8612" min="1" max="1" category="5" chance="3300" /> <!-- Herb of the Warrior -->
+		<item id="8613" min="1" max="1" category="5" chance="3300" /> <!-- Herb of the Mystic -->
+		<item id="8614" min="1" max="1" category="5" chance="3400" /> <!-- Herb of Recovery -->
+		<item id="8611" min="1" max="1" category="6" chance="103400" /> <!-- Herb of Speed -->
+		<item id="10657" min="1" max="1" category="6" chance="3300" /> <!-- Herb of Doubt -->
+		<item id="10655" min="1" max="1" category="7" chance="450000" /> <!-- Herb of Vampiric Rage -->
+	</group>
+	<group id="7"> <!-- Sel Mahum Training Ground Soldier Group Mobs -->
+		<item id="8952" min="10" max="20" category="1" chance="1000000" /> <!-- Greater Herb of Life -->
+		<item id="8953" min="10" max="20" category="2" chance="1000000" /> <!-- Greater Herb of Mana -->
+	</group>
+	<group id="8"> <!-- Sel Mahum Training Ground Soldier Group Mobs -->
+		<item id="8952" min="10" max="20" category="1" chance="1000000" /> <!-- Greater Herb of Life -->
+		<item id="8953" min="10" max="20" category="2" chance="1000000" /> <!-- Greater Herb of Mana -->
+	</group>
+	<group id="9"> <!-- Spirit of water -->
+		<item id="8600" min="1" max="1" category="1" chance="200000" /> <!--Herb of Life-->
+		<item id="8601" min="1" max="1" category="2" chance="450000" /> <!--Greater Herb of Life-->
+		<item id="8602" min="1" max="1" category="2" chance="350000" /> <!--Superior Herb of Life-->
+		<item id="8600" min="1" max="1" category="3" chance="150000" /> <!--Herb of Mana-->
+		<item id="8601" min="1" max="1" category="4" chance="540000" /> <!--Greater Herb of Mana-->
+		<item id="8602" min="1" max="1" category="4" chance="310000" /> <!--Superior Herb of Mana-->
+	</group>
+</list>

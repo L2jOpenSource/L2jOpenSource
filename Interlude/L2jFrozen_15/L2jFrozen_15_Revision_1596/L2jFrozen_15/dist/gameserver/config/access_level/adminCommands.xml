@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- ADMIN -->
+	<admin command="admin_admin" accessLevel="7" />
+	<admin command="admin_admin1" accessLevel="7" />
+	<admin command="admin_admin2" accessLevel="7" />
+	<admin command="admin_admin3" accessLevel="7" />
+	<admin command="admin_admin4" accessLevel="7" />
+	<admin command="admin_admin5" accessLevel="7" />
+	<admin command="admin_gmliston" accessLevel="7" />
+	<admin command="admin_gmlistoff" accessLevel="7" />
+	<admin command="admin_silence" accessLevel="7" />
+	<admin command="admin_diet" accessLevel="7" />
+	<admin command="admin_obs_mode" accessLevel="7" />
+	
+
+	<!-- OLYMPIAD -->
+	<admin command="admin_saveolymp" accessLevel="7" />
+	<admin command="admin_manualhero" accessLevel="7" />
+	<admin command="admin_oly_obs_mode" accessLevel="7" />
+
+	<!-- ANNOUNCEMENTS -->
+	<admin command="admin_list_announcements" accessLevel="7" />
+	<admin command="admin_reload_announcements" accessLevel="7" />
+	<admin command="admin_announce_announcements" accessLevel="7" />
+	<admin command="admin_add_announcement" accessLevel="7" />
+	<admin command="admin_del_announcement" accessLevel="7" />
+	<admin command="admin_announce" accessLevel="7" />
+	<admin command="admin_critannounce" accessLevel="7" />
+	<admin command="admin_announce_menu" accessLevel="7" />
+	<admin command="admin_list_autoannouncements" accessLevel="7" />
+	<admin command="admin_add_autoannouncement" accessLevel="7" />
+	<admin command="admin_del_autoannouncement" accessLevel="7" />
+	<admin command="admin_autoannounce" accessLevel="7" />
+
+	<!-- BAN -->
+	<admin command="admin_ban" accessLevel="7" />
+	<admin command="admin_unban" accessLevel="7" />
+	<admin command="admin_ban_acc" accessLevel="7" />
+	<admin command="admin_unban_acc" accessLevel="7" />
+	<admin command="admin_ban_char" accessLevel="7" />
+	<admin command="admin_unban_char" accessLevel="7" />
+	<admin command="admin_ban_ip" accessLevel="7" />
+	<admin command="admin_jail" accessLevel="7" />
+	<admin command="admin_unjail" accessLevel="7" />
+	<admin command="admin_banchat" accessLevel="7" />
+	<admin command="admin_unbanchat" accessLevel="7" />
+
+	<!-- BBS -->
+	<admin command="admin_bbs" accessLevel="7" />
+
+	<!-- BOAT -->
+	<admin command="admin_boat" accessLevel="7" />
+
+	<!-- BUFFS -->
+	<admin command="admin_addbufftest" accessLevel="7" />
+	<admin command="admin_getbuffs" accessLevel="7" />
+	<admin command="admin_stopbuff" accessLevel="7" />
+	<admin command="admin_stopallbuffs" accessLevel="7" />
+	<admin command="admin_areacancel" accessLevel="7" />
+
+	<!-- CACHE -->
+	<admin command="admin_cache_htm_rebuild" accessLevel="7" />
+	<admin command="admin_cache_htm_reload" accessLevel="7" />
+	<admin command="admin_cache_reload_path" accessLevel="7" />
+	<admin command="admin_cache_reload_file" accessLevel="7" />
+	<admin command="admin_cache_crest_rebuild" accessLevel="7" />
+	<admin command="admin_cache_crest_reload" accessLevel="7" />
+	<admin command="admin_cache_crest_fix" accessLevel="7" />
+
+	<!-- CHANGE LEVEL -->
+	<admin command="admin_changelvl" accessLevel="7" />
+
+	<!-- CHRISTMAS -->
+	<admin command="admin_christmas_start" accessLevel="7" />
+	<admin command="admin_christmas_end" accessLevel="7" />
+
+	<!-- CREATE ITEM -->
+	<admin command="admin_mass_create" accessLevel="7" />
+	<admin command="admin_itemcreate" accessLevel="7" />
+	<admin command="admin_create_item" accessLevel="7" />
+	<admin command="admin_searchitem" accessLevel="7" />
+	<admin command="admin_createForm" accessLevel="7" />
+
+	<!-- CURSED WEAPONS -->
+	<admin command="admin_cw_info" accessLevel="7" />
+	<admin command="admin_cw_remove" accessLevel="7" />
+	<admin command="admin_cw_goto" accessLevel="7" />
+	<admin command="admin_cw_reload" accessLevel="7" />
+	<admin command="admin_cw_add" accessLevel="7" />
+	<admin command="admin_cw_info_menu" accessLevel="7" />
+
+	<!-- DOOR CONTROL -->
+	<admin command="admin_open" accessLevel="7" />
+	<admin command="admin_close" accessLevel="7" />
+	<admin command="admin_openall" accessLevel="7" />
+	<admin command="admin_closeall" accessLevel="7" />
+
+	<!-- EDIT CHARACTER (PLAYER) -->
+	<admin command="admin_changename" accessLevel="7" />
+	<admin command="admin_edit_character" accessLevel="7" />
+	<admin command="admin_current_player" accessLevel="7" />
+	<admin command="admin_nokarma" accessLevel="7" />
+	<admin command="admin_setkarma" accessLevel="7" />
+	<admin command="admin_character_list" accessLevel="7" />
+	<admin command="admin_character_info" accessLevel="7" />
+	<admin command="admin_show_characters" accessLevel="7" />
+	<admin command="admin_find_character" accessLevel="7" />
+	<admin command="admin_find_dualbox" accessLevel="7" />
+	<admin command="admin_find_ip" accessLevel="7" />
+	<admin command="admin_find_account" accessLevel="7" />
+	<admin command="admin_save_modifications" accessLevel="7" />
+	<admin command="admin_rec" accessLevel="7" />
+	<admin command="admin_setclass" accessLevel="7" />
+	<admin command="admin_setname" accessLevel="7" />
+	<admin command="admin_settitle" accessLevel="7" />
+	<admin command="admin_setsex" accessLevel="7" />
+	<admin command="admin_setcolor" accessLevel="7" />
+	<admin command="admin_fullfood" accessLevel="7" />
+	<admin command="admin_remclanwait" accessLevel="7" />
+	<admin command="admin_setcp" accessLevel="7" />
+	<admin command="admin_sethp" accessLevel="7" />
+	<admin command="admin_setmp" accessLevel="7" />
+	<admin command="admin_setchar_cp" accessLevel="7" />
+	<admin command="admin_setchar_hp" accessLevel="7" />
+	<admin command="admin_setchar_mp" accessLevel="7" />
+	<admin command="admin_clear_inventory" accessLevel="7" />
+
+	<!-- EDIT NPC -->
+	<admin command="admin_show_skilllist_npc" accessLevel="7" />
+	<admin command="admin_add_skill_npc" accessLevel="7" />
+	<admin command="admin_del_skill_npc" accessLevel="7" />
+	<admin command="admin_edit_skill_npc" accessLevel="7" />
+	<admin command="admin_edit_npc" accessLevel="7" />
+	<admin command="admin_save_npc" accessLevel="7" />
+	<admin command="admin_show_droplist" accessLevel="7" />
+	<admin command="admin_edit_drop" accessLevel="7" />
+	<admin command="admin_add_drop" accessLevel="7" />
+	<admin command="admin_del_drop" accessLevel="7" />
+	<admin command="admin_box_access" accessLevel="7" />
+	<admin command="admin_close_window" accessLevel="7" />
+	<admin command="admin_load_npc" accessLevel="7" />
+	
+	<!-- CHARACTER (PLAYER) SUPERVISION -->
+	<admin command="admin_start_monitor_char" accessLevel="7" />
+	<admin command="admin_stop_monitor_char" accessLevel="7" />
+	<admin command="admin_block_char_packet" accessLevel="7" />
+	<admin command="admin_restore_char_packet" accessLevel="7" />
+
+	<!-- EFFECTS -->
+	<admin command="admin_invis" accessLevel="7" />
+	<admin command="admin_invisible" accessLevel="7" />
+	<admin command="admin_vis" accessLevel="7" />
+	<admin command="admin_visible" accessLevel="7" />
+	<admin command="admin_invis_menu" accessLevel="7" />
+	<admin command="admin_earthquake" accessLevel="7" />
+	<admin command="admin_earthquake_menu" accessLevel="7" />
+	<admin command="admin_bighead" accessLevel="7" />
+	<admin command="admin_shrinkhead" accessLevel="7" />
+	<admin command="admin_gmspeed" accessLevel="7" />
+	<admin command="admin_gmspeed_menu" accessLevel="7" />
+	<admin command="admin_unpara_all" accessLevel="7" />
+	<admin command="admin_para_all" accessLevel="7" />
+	<admin command="admin_unpara" accessLevel="7" />
+	<admin command="admin_para" accessLevel="7" />
+	<admin command="admin_unpara_all_menu" accessLevel="7" />
+	<admin command="admin_para_all_menu" accessLevel="7" />
+	<admin command="admin_unpara_menu" accessLevel="7" />
+	<admin command="admin_para_menu" accessLevel="7" />
+	<admin command="admin_polyself" accessLevel="7" />
+	<admin command="admin_unpolyself" accessLevel="7" />
+	<admin command="admin_polyself_menu" accessLevel="7" />
+	<admin command="admin_unpolyself_menu" accessLevel="7" />
+	<admin command="admin_clearteams" accessLevel="7" />
+	<admin command="admin_setteam_close" accessLevel="7" />
+	<admin command="admin_setteam" accessLevel="7" />
+	<admin command="admin_social" accessLevel="7" />
+	<admin command="admin_effect" accessLevel="7" />
+	<admin command="admin_social_menu" accessLevel="7" />
+	<admin command="admin_effect_menu" accessLevel="7" />
+	<admin command="admin_abnormal" accessLevel="7" />
+	<admin command="admin_abnormal_menu" accessLevel="7" />
+	<admin command="admin_play_sounds" accessLevel="7" />
+	<admin command="admin_play_sound" accessLevel="7" />
+	<admin command="admin_atmosphere" accessLevel="7" />
+	<admin command="admin_atmosphere_menu" accessLevel="7" />
+	<admin command="admin_npc_say" accessLevel="7" />
+	<admin command="admin_debuff" accessLevel="7" />
+
+	<!-- ENCHANT -->
+	<admin command="admin_seteh" accessLevel="7" />
+	<admin command="admin_setec" accessLevel="7" />
+	<admin command="admin_seteg" accessLevel="7" />
+	<admin command="admin_setel" accessLevel="7" />
+	<admin command="admin_seteb" accessLevel="7" />
+	<admin command="admin_setew" accessLevel="7" />
+	<admin command="admin_setes" accessLevel="7" />
+	<admin command="admin_setle" accessLevel="7" />
+	<admin command="admin_setre" accessLevel="7" />
+	<admin command="admin_setlf" accessLevel="7" />
+	<admin command="admin_setrf" accessLevel="7" />
+	<admin command="admin_seten" accessLevel="7" />
+	<admin command="admin_setun" accessLevel="7" />
+	<admin command="admin_setba" accessLevel="7" />
+	<admin command="admin_enchant" accessLevel="7" />
+
+	<!-- EVENT ENGINE -->
+	<admin command="admin_event" accessLevel="7" />
+	<admin command="admin_event_new" accessLevel="7" />
+	<admin command="admin_event_choose" accessLevel="7" />
+	<admin command="admin_event_store" accessLevel="7" />
+	<admin command="admin_event_set" accessLevel="7" />
+	<admin command="admin_event_change_teams_number" accessLevel="7" />
+	<admin command="admin_event_announce" accessLevel="7" />
+	<admin command="admin_event_panel" accessLevel="7" />
+	<admin command="admin_event_control_begin" accessLevel="7" />
+	<admin command="admin_event_control_teleport" accessLevel="7" />
+	<admin command="admin_add" accessLevel="7" />
+	<admin command="admin_event_see" accessLevel="7" />
+	<admin command="admin_event_del" accessLevel="7" />
+	<admin command="admin_delete_buffer" accessLevel="7" />
+	<admin command="admin_event_control_sit" accessLevel="7" />
+	<admin command="admin_event_name" accessLevel="7" />
+	<admin command="admin_event_control_kill" accessLevel="7" />
+	<admin command="admin_event_control_res" accessLevel="7" />
+	<admin command="admin_event_control_poly" accessLevel="7" />
+	<admin command="admin_event_control_unpoly" accessLevel="7" />
+	<admin command="admin_event_control_prize" accessLevel="7" />
+	<admin command="admin_event_control_chatban" accessLevel="7" />
+	<admin command="admin_event_control_finish" accessLevel="7" />
+
+	<!-- EXP SP -->
+	<admin command="admin_add_exp_sp_to_character" accessLevel="7" />
+	<admin command="admin_add_exp_sp" accessLevel="7" />
+	<admin command="admin_remove_exp_sp" accessLevel="7" />
+
+	<!-- FIGHT CALCULATOR -->
+	<admin command="admin_fight_calculator" accessLevel="7" />
+	<admin command="admin_fight_calculator_show" accessLevel="7" />
+	<admin command="admin_fcs" accessLevel="7" />
+
+	<!-- FORT SIEGE -->
+	<admin command="admin_fortsiege" accessLevel="7" />
+	<admin command="admin_add_fortattacker" accessLevel="7" />
+	<admin command="admin_add_fortdefender" accessLevel="7" />
+	<admin command="admin_add_fortguard" accessLevel="7" />
+	<admin command="admin_list_fortsiege_clans" accessLevel="7" />
+	<admin command="admin_clear_fortsiege_list" accessLevel="7" />
+	<admin command="admin_move_fortdefenders" accessLevel="7" />
+	<admin command="admin_spawn_fortdoors" accessLevel="7" />
+	<admin command="admin_endfortsiege" accessLevel="7" />
+	<admin command="admin_startfortsiege" accessLevel="7" />
+	<admin command="admin_setfort" accessLevel="7" />
+	<admin command="admin_removefort" accessLevel="7" />
+
+	<!-- GEODATA -->
+	<admin command="admin_geo_z" accessLevel="7" />
+	<admin command="admin_geo_type" accessLevel="7" />
+	<admin command="admin_geo_nswe" accessLevel="7" />
+	<admin command="admin_geo_los" accessLevel="7" />
+	<admin command="admin_geo_position" accessLevel="7" />
+	<admin command="admin_geo_bug" accessLevel="7" />
+	<admin command="admin_geo_load" accessLevel="7" />
+	<admin command="admin_geo_unload" accessLevel="7" />			
+
+	<!-- GM -->
+	<admin command="admin_gm" accessLevel="7" />
+
+	<!-- GM CHAT -->
+	<admin command="admin_gmchat" accessLevel="7" />
+	<admin command="admin_snoop" accessLevel="7" />
+	<admin command="admin_gmchat_menu" accessLevel="7" />
+
+	<!-- HEAL -->
+	<admin command="admin_heal" accessLevel="7" />
+
+	<!-- HELP PAGE -->
+	<admin command="admin_help" accessLevel="7" />
+
+	<!-- HERO -->
+	<admin command="admin_sethero" accessLevel="7" />
+
+	<!-- INVULNERABLE -->
+	<admin command="admin_invul" accessLevel="7" />
+	<admin command="admin_setinvul" accessLevel="7" />
+
+	<!-- KICK -->
+	<admin command="admin_kick" accessLevel="7" />
+	<admin command="admin_kick_non_gm" accessLevel="7" />
+
+	<!-- KILL -->
+	<admin command="admin_kill" accessLevel="7" />
+	<admin command="admin_kill_monster" accessLevel="7" />
+
+	<!-- LEVEL -->
+	<admin command="admin_add_level" accessLevel="7" />
+	<admin command="admin_set_level" accessLevel="7" />
+
+	<!-- LOGIN -->
+	<admin command="admin_server_gm_only" accessLevel="7" />
+	<admin command="admin_server_all" accessLevel="7" />
+	<admin command="admin_server_max_player" accessLevel="7" />
+	<admin command="admin_server_list_clock" accessLevel="7" />
+	<admin command="admin_server_login" accessLevel="7" />
+
+	<!-- SEVEN SIGNS MAMMON -->
+	<admin command="admin_mammon_find" accessLevel="7" />
+	<admin command="admin_mammon_respawn" accessLevel="7" />
+	<admin command="admin_list_spawns" accessLevel="7" />
+	<admin command="admin_msg" accessLevel="7" />
+
+	<!-- MANOR -->
+	<admin command="admin_manor" accessLevel="7" />
+	<admin command="admin_manor_reset" accessLevel="7" />
+	<admin command="admin_manor_save" accessLevel="7" />
+	<admin command="admin_manor_disable" accessLevel="7" />
+
+	<!-- MASS CONTROL -->
+	<admin command="admin_masskill" accessLevel="7" />
+	<admin command="admin_massress" accessLevel="7" />
+
+	<!-- MASS RECALL -->
+	<admin command="admin_recallclan" accessLevel="7" />
+	<admin command="admin_recallparty" accessLevel="7" />
+	<admin command="admin_recallally" accessLevel="7" />
+
+	<!-- MENU -->
+	<admin command="admin_char_manage" accessLevel="7" />
+	<admin command="admin_teleport_character_to_menu" accessLevel="7" />
+	<admin command="admin_recall_char_menu" accessLevel="7" />
+	<admin command="admin_recall_party_menu" accessLevel="7" />
+	<admin command="admin_recall_clan_menu" accessLevel="7" />
+	<admin command="admin_goto_char_menu" accessLevel="7" />
+	<admin command="admin_kick_menu" accessLevel="7" />
+	<admin command="admin_kill_menu" accessLevel="7" />
+	<admin command="admin_ban_menu" accessLevel="7" />
+	<admin command="admin_unban_menu" accessLevel="7" />
+
+	<!-- MOB MENU -->
+	<admin command="admin_mobmenu" accessLevel="7" />
+	<admin command="admin_mobgroup_list" accessLevel="7" />
+	<admin command="admin_mobgroup_create" accessLevel="7" />
+	<admin command="admin_mobgroup_remove" accessLevel="7" />
+	<admin command="admin_mobgroup_delete" accessLevel="7" />
+	<admin command="admin_mobgroup_spawn" accessLevel="7" />
+	<admin command="admin_mobgroup_unspawn" accessLevel="7" />
+	<admin command="admin_mobgroup_kill" accessLevel="7" />
+	<admin command="admin_mobgroup_idle" accessLevel="7" />
+	<admin command="admin_mobgroup_attack" accessLevel="7" />
+	<admin command="admin_mobgroup_rnd" accessLevel="7" />
+	<admin command="admin_mobgroup_return" accessLevel="7" />
+	<admin command="admin_mobgroup_follow" accessLevel="7" />
+	<admin command="admin_mobgroup_casting" accessLevel="7" />
+	<admin command="admin_mobgroup_nomove" accessLevel="7" />
+	<admin command="admin_mobgroup_attackgrp" accessLevel="7" />
+	<admin command="admin_mobgroup_invul" accessLevel="7" />
+	<admin command="admin_mobinst" accessLevel="7" />
+
+	<!-- MONSTER RACE -->
+	<admin command="admin_mons" accessLevel="7" />
+
+	<!-- NOBLE -->
+	<admin command="admin_setnoble" accessLevel="7" />
+
+	<!-- PETITIONS -->
+	<admin command="admin_view_petitions" accessLevel="7" />
+	<admin command="admin_view_petition" accessLevel="7" />
+	<admin command="admin_accept_petition" accessLevel="7" />
+	<admin command="admin_reject_petition" accessLevel="7" />
+	<admin command="admin_reset_petitions" accessLevel="7" />
+
+	<!-- FORGE PACKET -->
+	<admin command="admin_forge" accessLevel="7" />
+	<admin command="admin_forge2" accessLevel="7" />
+	<admin command="admin_forge3" accessLevel="7" />
+
+	<!-- PLEGDE -->
+	<admin command="admin_pledge" accessLevel="7" />
+
+	<!-- POLYMORPH -->
+	<admin command="admin_polymorph" accessLevel="7" />
+	<admin command="admin_unpolymorph" accessLevel="7" />
+	<admin command="admin_polymorph_menu" accessLevel="7" />
+	<admin command="admin_unpolymorph_menu" accessLevel="7" />
+
+	<!-- QUEST -->
+	<admin command="admin_quest_reload" accessLevel="7" />
+
+	<!-- RELOAD -->
+	<admin command="admin_reload" accessLevel="7" />
+
+	<!-- REPAIR -->
+	<admin command="admin_restore" accessLevel="7" />
+	<admin command="admin_repair" accessLevel="7" />
+
+	<!-- RESURRECTION -->
+	<admin command="admin_res" accessLevel="7" />
+	<admin command="admin_res_monster" accessLevel="7" />
+
+	<!-- RIDE WYRVEN OR STRIDER -->
+	<admin command="admin_ride_wyvern" accessLevel="7" />
+	<admin command="admin_ride_strider" accessLevel="7" />
+	<admin command="admin_unride_wyvern" accessLevel="7" />
+	<admin command="admin_unride_strider" accessLevel="7" />
+	<admin command="admin_unride" accessLevel="7" />
+
+	<!-- SCRIPT -->
+	<admin command="admin_load_script" accessLevel="7" />
+
+	<!-- SHOP -->
+	<admin command="admin_buy" accessLevel="7" />
+	<admin command="admin_gmshop" accessLevel="7" />
+
+	<!-- SHUTDOWN -->
+	<admin command="admin_server_shutdown" accessLevel="7" />
+	<admin command="admin_server_restart" accessLevel="7" />
+	<admin command="admin_server_abort" accessLevel="7" />
+
+	<!-- SIEGE -->
+	<admin command="admin_siege" accessLevel="7" />
+	<admin command="admin_add_attacker" accessLevel="7" />
+	<admin command="admin_add_defender" accessLevel="7" />
+	<admin command="admin_add_guard" accessLevel="7" />
+	<admin command="admin_list_siege_clans" accessLevel="7" />
+	<admin command="admin_clear_siege_list" accessLevel="7" />
+	<admin command="admin_move_defenders" accessLevel="7" />
+	<admin command="admin_spawn_doors" accessLevel="7" />
+	<admin command="admin_endsiege" accessLevel="7" />
+	<admin command="admin_startsiege" accessLevel="7" />
+	<admin command="admin_setcastle" accessLevel="7" />
+	<admin command="admin_removecastle" accessLevel="7" />
+	<admin command="admin_clanhall" accessLevel="7" />
+	<admin command="admin_clanhallset" accessLevel="7" />
+	<admin command="admin_clanhalldel" accessLevel="7" />
+	<admin command="admin_clanhallopendoors" accessLevel="7" />
+	<admin command="admin_clanhallclosedoors" accessLevel="7" />
+	<admin command="admin_clanhallteleportself" accessLevel="7" />
+
+	<!-- SKILLS -->
+	<admin command="admin_show_skills" accessLevel="7" />
+	<admin command="admin_remove_skills" accessLevel="7" />
+	<admin command="admin_skill_list" accessLevel="7" />
+	<admin command="admin_skill_index" accessLevel="7" />
+	<admin command="admin_add_skill" accessLevel="7" />
+	<admin command="admin_remove_skill" accessLevel="7" />
+	<admin command="admin_get_skills" accessLevel="7" />
+	<admin command="admin_reset_skills" accessLevel="7" />
+	<admin command="admin_give_all_skills" accessLevel="7" />
+	<admin command="admin_remove_all_skills" accessLevel="7" />
+	<admin command="admin_add_clan_skill" accessLevel="7" />
+
+	<!-- SPAWN -->
+	<admin command="admin_show_spawns" accessLevel="7" />
+	<admin command="admin_spawn" accessLevel="7" />
+	<admin command="admin_spawn_monster" accessLevel="7" />
+	<admin command="admin_spawn_index" accessLevel="7" />
+	<admin command="admin_unspawnall" accessLevel="7" />
+	<admin command="admin_respawnall" accessLevel="7" />
+	<admin command="admin_spawn_reload" accessLevel="7" />
+	<admin command="admin_npc_index" accessLevel="7" />
+	<admin command="admin_spawn_once" accessLevel="7" />
+	<admin command="admin_show_npcs" accessLevel="7" />
+	<admin command="admin_teleport_reload" accessLevel="7" />
+	<admin command="admin_spawnnight" accessLevel="7" />
+	<admin command="admin_spawnday" accessLevel="7" />
+	<admin command="admin_delete" accessLevel="7" />
+
+	<!-- TARGET -->
+	<admin command="admin_target" accessLevel="7" />
+
+	<!-- TELEPORT -->
+	<admin command="admin_show_moves" accessLevel="7" />
+	<admin command="admin_show_moves_other" accessLevel="7" />
+	<admin command="admin_show_teleport" accessLevel="7" />
+	<admin command="admin_teleport_to_character" accessLevel="7" />
+	<admin command="admin_teleportto" accessLevel="7" />
+	<admin command="admin_move_to" accessLevel="7" />
+	<admin command="admin_teleport_character" accessLevel="7" />
+	<admin command="admin_recall" accessLevel="7" />
+	<admin command="admin_walk" accessLevel="7" />
+	<admin command="admin_gonorth" accessLevel="7" />
+	<admin command="admin_gosouth" accessLevel="7" />
+	<admin command="admin_goeast" accessLevel="7" />
+	<admin command="admin_gowest" accessLevel="7" />
+	<admin command="admin_goup" accessLevel="7" />
+	<admin command="admin_godown" accessLevel="7" />
+	<admin command="admin_tele" accessLevel="7" />
+	<admin command="admin_teleto" accessLevel="7" />
+	<admin command="admin_instant_move" accessLevel="7" />
+	<admin command="admin_sendhome" accessLevel="7" />
+
+	<!-- TEST -->
+	<admin command="admin_stats" accessLevel="7" />
+	<admin command="admin_skill_test" accessLevel="7" />
+	<admin command="admin_st" accessLevel="7" />
+	<admin command="admin_mp" accessLevel="7" />
+	<admin command="admin_known" accessLevel="7" />
+
+	<!-- OTHERS -->
+	<admin command="admin_mcrit" accessLevel="7" />
+	<admin command="admin_who" accessLevel="7" />
+
+	<!-- TOWN WAR -->
+	<admin command="admin_townwar_start" accessLevel="7" />
+	<admin command="admin_townwar_end" accessLevel="7" />
+
+	<!-- ZONE -->
+	<admin command="admin_zone_check" accessLevel="7" />
+	<admin command="admin_zone_reload" accessLevel="7" />
+
+	<!-- AIO -->
+	<admin command="admin_setaio" accessLevel="7" />
+	<admin command="admin_removeaio" accessLevel="7" />
+
+</list>

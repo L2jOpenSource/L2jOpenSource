@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- ssqteleport1_npc1622_01 -->
+	<zone name="ssqteleport1_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-6792" maxZ="-6492">
+		<node X="-114168" Y="182138" />
+		<node X="-114168" Y="178046" />
+		<node X="-115422" Y="178071" />
+	</zone>
+</list>

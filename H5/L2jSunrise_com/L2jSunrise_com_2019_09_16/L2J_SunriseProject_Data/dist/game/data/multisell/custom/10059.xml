@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- gemstone -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- aio gemstone -->
+	<item>
+		<ingredient id="40000" count="25" />
+		<production id="40001" count="1" />
+	</item>
+</list>

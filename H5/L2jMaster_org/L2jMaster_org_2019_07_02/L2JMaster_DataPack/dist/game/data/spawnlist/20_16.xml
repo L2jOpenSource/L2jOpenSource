@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- rune03_npc2016_01 -->
+	<spawn zone="rune03_npc2016_01m1">
+		<npc id="35503" x="18616" y="-48956" z="-1228" heading="0" respawnDelay="60" /> <!-- Outer Doorman -->
+	</spawn>
+	<!-- rune03_npc2016_02 -->
+	<spawn zone="rune03_npc2016_02m1">
+		<npc id="35503" x="17908" y="-48960" z="-1206" heading="33000" respawnDelay="60" /> <!-- Outer Doorman -->
+	</spawn>
+	<!-- rune03_npc2016_03 -->
+	<spawn zone="rune03_npc2016_03m1">
+		<npc id="35504" x="15860" y="-49020" z="-1065" heading="0" respawnDelay="60" /> <!-- Inner Doorman -->
+	</spawn>
+	<!-- rune03_npc2016_04 -->
+	<spawn zone="rune03_npc2016_04m1">
+		<npc id="35504" x="15688" y="-49036" z="-1061" heading="33000" respawnDelay="60" /> <!-- Inner Doorman -->
+	</spawn>
+	<!-- rune03_npc2016_05 -->
+	<spawn zone="rune03_npc2016_05m1">
+		<npc id="35511" x="10352" y="-49504" z="-549" heading="0" respawnDelay="60" /> <!-- Gompus -->
+	</spawn>
+	<!-- rune03_npc2016_06 -->
+	<spawn zone="rune03_npc2016_06m1">
+		<npc id="35508" x="12864" y="-49184" z="-1091" heading="33000" respawnDelay="60" /> <!-- Warehouse Keeper -->
+	</spawn>
+	<!-- rune03_npc2016_07 -->
+	<spawn zone="rune03_npc2016_07m1">
+		<npc id="35507" x="12872" y="-48752" z="-1091" heading="33000" respawnDelay="60" /> <!-- Blacksmith -->
+	</spawn>
+	<!-- rune03_npc2016_08 -->
+	<spawn zone="rune03_npc2016_08m1">
+		<npc id="35513" x="26976" y="-48968" z="-1303" heading="0" respawnDelay="60" /> <!-- Sherman -->
+	</spawn>
+	<!-- rune03_npc2016_15 -->
+	<spawn zone="rune03_npc2016_15m1">
+		<npc id="35510" x="12012" y="-47180" z="1296" heading="57000" respawnDelay="60" /> <!-- Titus -->
+	</spawn>
+	<!-- rune03_npc2016_16 -->
+	<spawn zone="rune03_npc2016_16m1">
+		<npc id="35502" x="10592" y="-49136" z="3864" heading="0" respawnDelay="60" /> <!-- Mass Gatekeeper -->
+	</spawn>
+	<!-- rune03_npc2016_17 -->
+	<spawn zone="rune03_npc2016_17m1">
+		<npc id="35509" x="10256" y="-49088" z="-296" heading="0" respawnDelay="60" /> <!-- Frederick -->
+	</spawn>
+	<!-- rune03_npc2016_18 -->
+	<!-- rune03_npc2016_19 -->
+	<!-- rune03_npc2016_20 -->
+	<spawn zone="rune03_npc2016_18m1">
+		<npc id="35506" x="11532" y="-49136" z="-1087" heading="0" respawnDelay="60" /> <!-- Dungeon Gatekeeper -->
+	</spawn>
+	<!-- rune03_npc2016_21 -->
+	<spawn zone="rune03_npc2016_21m1">
+		<npc id="35505" x="12736" y="-51184" z="-1089" heading="49000" respawnDelay="60" /> <!-- Inner Doorman -->
+		<npc id="35505" x="12780" y="-51060" z="-1091" heading="0" respawnDelay="60" /> <!-- Inner Doorman -->
+	</spawn>
+	<!-- rune03_npc2016_22 -->
+	<spawn zone="rune03_npc2016_22m1">
+		<npc id="35655" x="10352" y="-48788" z="-545" heading="0" respawnDelay="60" /> <!-- Court Magician -->
+	</spawn>
+	<!-- rune03_npc2016_23 -->
+	<spawn zone="rune03_npc2016_23m1">
+		<npc id="36410" x="11534" y="-48907" z="-1088" heading="0" respawnDelay="60" /> <!-- Warden -->
+	</spawn>
+	<!-- rune_holything -->
+	<spawn zone="rune_holything">
+		<npc id="35469" x="9132" y="-49152" z="1088" heading="0" respawnDelay="60" /> <!-- Gods' Altar -->
+	</spawn>
+</list>

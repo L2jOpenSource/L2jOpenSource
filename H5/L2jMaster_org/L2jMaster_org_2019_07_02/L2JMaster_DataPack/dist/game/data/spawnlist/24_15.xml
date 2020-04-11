@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- godard12_npc2415_02 -->
+	<spawn zone="godard12_npc2415_0201">
+		<npc id="31615" x="145904" y="-70880" z="-4098" heading="18000" respawnDelay="60" /> <!-- Hermit -->
+	</spawn>
+	<!-- godard12_npc2415_03 -->
+	<spawn zone="godard12_npc2415_0301">
+		<npc id="31652" x="161728" y="-92880" z="-1840" heading="16500" respawnDelay="60" /> <!-- Tablet of Vision -->
+	</spawn>
+	<!-- godard12_npc2415_04 -->
+	<spawn zone="godard12_npc2415_0401">
+		<npc id="31653" x="162848" y="-76496" z="-3051" heading="0" respawnDelay="60" /> <!-- Tablet of Vision -->
+	</spawn>
+	<!-- godard13_npc2415_001 -->
+	<spawn zone="godard13_npc2415_00101">
+		<npc id="31376" x="149824" y="-79840" z="-5579" heading="48000" respawnDelay="60" /> <!-- Kurfa -->
+	</spawn>
+	<!-- godard13_npc2415_002 -->
+	<spawn zone="godard13_npc2415_00201">
+		<npc id="31370" x="149980" y="-82204" z="-5579" heading="24000" respawnDelay="60" /> <!-- Kadun Zu Ketra -->
+	</spawn>
+	<!-- godard13_npc2415_003 -->
+	<spawn zone="godard13_npc2415_00301">
+		<npc id="31374" x="149104" y="-80544" z="-5635" heading="48000" respawnDelay="60" /> <!-- Jaff -->
+	</spawn>
+	<!-- godard13_npc2415_004 -->
+	<spawn zone="godard13_npc2415_00401">
+		<npc id="31375" x="150416" y="-80752" z="-5603" heading="48000" respawnDelay="60" /> <!-- Jumara -->
+	</spawn>
+	<!-- godard13_npc2415_005 -->
+	<spawn zone="godard13_npc2415_00501">
+		<npc id="31373" x="150368" y="-81216" z="-5603" heading="15000" respawnDelay="60" /> <!-- Atan -->
+	</spawn>
+	<!-- godard13_npc2415_006 -->
+	<spawn zone="godard13_npc2415_00601">
+		<npc id="31372" x="149052" y="-80996" z="-5648" heading="16000" respawnDelay="60" /> <!-- Asefa -->
+	</spawn>
+	<!-- godard13_npc2415_007 -->
+	<spawn zone="godard13_npc2415_00701">
+		<npc id="31371" x="146980" y="-67483" z="-3656" heading="33000" respawnDelay="60" /> <!-- Wahkan -->
+	</spawn>
+	<!-- godard13_npc2415_008 -->
+	<spawn zone="godard13_npc2415_00801">
+		<npc id="31559" x="149000" y="-81392" z="-5633" heading="48000" respawnDelay="60" /> <!-- Box of Asefa -->
+	</spawn>
+	<!-- godard12_2415_01 -->
+	<spawn zone="godard12_2415_01m1">
+		<npc id="21324" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Footman -->
+		<npc id="21325" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra's War Hound -->
+		<npc id="21326" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Kookaburra -->
+	</spawn>
+	<!-- godard12_2415_02 -->
+	<spawn zone="godard12_2415_02m1">
+		<npc id="21324" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Footman -->
+		<npc id="21325" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra's War Hound -->
+		<npc id="21328" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Scout -->
+	</spawn>
+	<!-- godard12_2415_03 -->
+	<spawn zone="godard12_2415_03m1">
+		<npc id="21329" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Shaman -->
+		<npc id="21330" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Buffalo -->
+		<npc id="21332" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Lieutenant -->
+	</spawn>
+	<!-- godard12_2415_04 -->
+	<spawn zone="godard12_2415_04m1">
+		<npc id="21332" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Lieutenant -->
+		<npc id="21333" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Windsus -->
+		<npc id="21335" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Elite Soldier -->
+		<npc id="21336" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc White Captain -->
+	</spawn>
+	<!-- godard12_2415_05 -->
+	<spawn zone="godard12_2415_05m1">
+		<npc id="21327" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Raider -->
+		<npc id="21328" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Scout -->
+		<npc id="21329" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Shaman -->
+		<npc id="21330" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Buffalo -->
+	</spawn>
+	<!-- godard12_2415_06 -->
+	<spawn zone="godard12_2415_06m1">
+		<npc id="21332" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Lieutenant -->
+		<npc id="21333" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Windsus -->
+	</spawn>
+	<!-- godard12_2415_07 -->
+	<spawn zone="godard12_2415_07m1">
+		<npc id="21336" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc White Captain -->
+		<npc id="21337" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Elder Buffalo -->
+		<npc id="21339" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc General -->
+		<npc id="21345" count="2" respawnDelay="100" respawnRandom="30" /> <!-- Ketra's Head Shaman -->
+	</spawn>
+	<!-- godard12_2415_08 -->
+	<spawn zone="godard12_2415_08m1">
+		<npc id="21335" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Elite Soldier -->
+		<npc id="21336" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc White Captain -->
+		<npc id="21337" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Elder Buffalo -->
+		<npc id="21345" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra's Head Shaman -->
+	</spawn>
+	<!-- godard12_2415_09 -->
+	<spawn zone="godard12_2415_09m1">
+		<npc id="21339" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc General -->
+		<npc id="21342" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Grand Priest -->
+		<npc id="21345" count="2" respawnDelay="120" respawnRandom="80" /> <!-- Ketra's Head Shaman -->
+		<npc id="21347" count="1" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Prophet -->
+	</spawn>
+	<!-- godard12_2415_10 -->
+	<spawn zone="godard12_2415_10m1">
+		<npc id="21339" count="2" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc General -->
+		<npc id="21342" count="2" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Grand Priest -->
+		<npc id="21347" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Prophet -->
+	</spawn>
+	<!-- godard12_2415_12 -->
+	<spawn zone="godard12_2415_12m1">
+		<npc id="21339" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc General -->
+		<npc id="21340" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Battalion Commander -->
+		<npc id="21341" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Elder Kookaburra -->
+		<npc id="21345" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra's Head Shaman -->
+	</spawn>
+	<!-- godard12_2415_13 -->
+	<spawn zone="godard12_2415_13m1">
+		<npc id="21340" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Battalion Commander -->
+		<npc id="21342" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Grand Priest -->
+		<npc id="21347" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Prophet -->
+	</spawn>
+	<!-- godard12_2415_14 -->
+	<spawn zone="godard12_2415_14m1">
+		<npc id="21331" count="6" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Warrior -->
+		<npc id="21333" count="6" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Windsus -->
+		<npc id="21334" count="6" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Medium -->
+		<npc id="21343" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Commander -->
+	</spawn>
+	<!-- godard12_2415_15 -->
+	<spawn zone="godard12_2415_15m1">
+		<npc id="21332" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Lieutenant -->
+		<npc id="21333" count="2" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Windsus -->
+		<npc id="21336" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc White Captain -->
+		<npc id="21343" count="2" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Commander -->
+	</spawn>
+	<!-- godard12_2415_16 -->
+	<spawn zone="godard12_2415_16m1">
+		<npc id="21328" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Scout -->
+		<npc id="21330" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Buffalo -->
+		<npc id="21332" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Lieutenant -->
+	</spawn>
+	<!-- godard12_2415_17 -->
+	<spawn zone="godard12_2415_17m1">
+		<npc id="21325" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra's War Hound -->
+		<npc id="21327" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Raider -->
+		<npc id="21330" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Buffalo -->
+	</spawn>
+	<!-- godard12_2415_18 -->
+	<spawn zone="godard12_2415_18m1">
+		<npc id="21324" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Footman -->
+		<npc id="21325" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra's War Hound -->
+		<npc id="21326" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Kookaburra -->
+	</spawn>
+	<!-- godard12_2415_19 -->
+	<spawn zone="godard12_2415_19m1">
+		<npc id="21329" count="5" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Shaman -->
+		<npc id="21330" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Buffalo -->
+		<npc id="21331" count="5" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Warrior -->
+	</spawn>
+	<!-- godard12_2415_20 -->
+	<spawn zone="godard12_2415_20m1">
+		<npc id="21334" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Medium -->
+		<npc id="21335" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Elite Soldier -->
+		<npc id="21343" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Commander -->
+		<npc id="21345" count="2" respawnDelay="120" respawnRandom="80" /> <!-- Ketra's Head Shaman -->
+	</spawn>
+	<!-- godard12_2415_21 -->
+	<spawn zone="godard12_2415_21m1">
+		<npc id="21334" count="6" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Medium -->
+		<npc id="21335" count="6" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Elite Soldier -->
+		<npc id="21343" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Commander -->
+	</spawn>
+	<!-- godard12_2415_22 -->
+	<spawn zone="godard12_2415_22m1">
+		<npc id="21331" count="6" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Warrior -->
+		<npc id="21332" count="5" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Lieutenant -->
+		<npc id="21333" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Windsus -->
+		<npc id="21335" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Elite Soldier -->
+	</spawn>
+	<!-- godard12_2415_25 -->
+	<spawn zone="godard12_2415_25m1">
+		<npc id="21341" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Elder Kookaburra -->
+		<npc id="21342" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Grand Priest -->
+		<npc id="21345" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra's Head Shaman -->
+	</spawn>
+	<!-- godard12_2415_26 -->
+	<spawn zone="godard12_2415_26m1">
+		<npc id="21338" count="5" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Priest -->
+		<npc id="21341" count="5" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Elder Kookaburra -->
+		<npc id="21342" count="5" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Grand Priest -->
+		<npc id="21345" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra's Head Shaman -->
+	</spawn>
+	<!-- godard12_2415_27 -->
+	<spawn zone="godard12_2415_27m1">
+		<npc id="21331" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Warrior -->
+		<npc id="21333" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Windsus -->
+		<npc id="21334" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Medium -->
+	</spawn>
+	<!-- godard12_2415_28 -->
+	<spawn zone="godard12_2415_28m1">
+		<npc id="21333" count="5" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Windsus -->
+		<npc id="21334" count="6" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Medium -->
+		<npc id="21336" count="6" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc White Captain -->
+	</spawn>
+	<!-- godard12_2415_29 -->
+	<spawn zone="godard12_2415_29m1">
+		<npc id="21325" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra's War Hound -->
+		<npc id="21326" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Kookaburra -->
+		<npc id="21327" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Raider -->
+	</spawn>
+	<!-- godard12_2415_30 -->
+	<spawn zone="godard12_2415_30m1">
+		<npc id="21329" count="7" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Shaman -->
+		<npc id="21330" count="6" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Buffalo -->
+		<npc id="21331" count="7" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Warrior -->
+	</spawn>
+	<!-- godard12_2415_31 -->
+	<spawn zone="godard12_2415_31m1">
+		<npc id="21328" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Scout -->
+		<npc id="21330" count="5" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Buffalo -->
+		<npc id="21331" count="5" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Warrior -->
+	</spawn>
+	<!-- godard12_2415_32 -->
+	<spawn zone="godard12_2415_32m1">
+		<npc id="21332" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Lieutenant -->
+		<npc id="21334" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Medium -->
+	</spawn>
+	<!-- godard12_2415_33 -->
+	<spawn zone="godard12_2415_33m1">
+		<npc id="21332" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Lieutenant -->
+		<npc id="21334" count="3" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Medium -->
+		<npc id="21343" count="1" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Commander -->
+	</spawn>
+	<!-- godard12_2415_34 -->
+	<spawn zone="godard12_2415_34m1">
+		<npc id="21333" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Grazing Windsus -->
+		<npc id="21335" count="4" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Orc Elite Soldier -->
+		<npc id="21343" count="2" respawnDelay="120" respawnRandom="80" /> <!-- Ketra Commander -->
+	</spawn>
+	<!-- godard12_tb2415_01 -->
+	<spawn zone="godard12_tb01_m1">
+		<npc id="18284" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- godard12_tb2415_14 -->
+	<spawn zone="godard12_tb14_m1">
+		<npc id="18285" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Dynasty Circlet -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9438" count="1" />
+	</item>
+
+	<!-- Dynasty Gloves -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9439" count="1" />
+	</item>
+
+	<!-- Dynasty Shoes -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9440" count="1" />
+	</item>
+
+	<!-- Dynasty Stockings -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9437" count="1" />
+	</item>
+
+	<!-- Dynasty Tunic -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9432" count="1" />
+	</item>
+
+	<!-- Dynasty Tunic - Summoner -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9435" count="1" />
+	</item>
+
+	<!-- Dynasty Tunic - Human Wizard -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9436" count="1" />
+	</item>
+
+	<!-- Dynasty Tunic - Healer -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9433" count="1" />
+	</item>
+
+	<!-- Dynasty Tunic - Enchanter -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="9434" count="1" />
+	</item>
+
+	<!-- Dynasty sigil -->
+	<item>
+		<ingredient id="40002" count="40" />
+		<production id="10119" count="1" />
+	</item>
+
+
+
+</list>

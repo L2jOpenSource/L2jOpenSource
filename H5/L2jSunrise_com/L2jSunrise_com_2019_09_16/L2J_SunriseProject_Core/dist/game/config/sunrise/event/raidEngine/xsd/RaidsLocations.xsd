@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="raid" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:attribute name="locName" type="xs:string"></xs:attribute>
+						<xs:attribute name="x" type="xs:int"></xs:attribute>
+						<xs:attribute name="y" type="xs:int"></xs:attribute>
+						<xs:attribute name="z" type="xs:int"></xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,40 @@
+[09:50:16]  INFO Loaded 127 server names
+[09:50:17]  INFO Loaded whirlpool2 as default crypt.
+[09:50:17]  INFO Cached 10 KeyPairs for RSA communication
+[09:50:17]  INFO Stored 20 keys for Blowfish communication
+[09:50:17]  INFO Loaded 1 registered GameServer(s).
+[09:50:17]  INFO Listening for gameservers on 127.0.0.1:9014
+[09:50:17]  INFO Listening for clients on *:2106
+[09:51:19]  INFO Trying to register gameserver: 4 [127.0.0.1]
+[09:51:19]  INFO Gameserver registration successful.
+[13:49:41]  INFO Connection with gameserver 4 [L2Mythras] lost.
+[13:49:41]  INFO Setting gameserver down.
+[13:51:20]  INFO Trying to register gameserver: 4 [127.0.0.1]
+[13:51:20]  INFO Gameserver registration successful.
+[14:02:01]  INFO Connection with gameserver 4 [L2Mythras] lost.
+[14:02:01]  INFO Setting gameserver down.
+[14:03:39]  INFO Trying to register gameserver: 4 [127.0.0.1]
+[14:03:39]  INFO Gameserver registration successful.
+[18:26:22]  INFO Connection with gameserver 4 [L2Mythras] lost.
+[18:26:22]  INFO Setting gameserver down.
+[18:27:59]  INFO Trying to register gameserver: 4 [127.0.0.1]
+[18:27:59]  INFO Gameserver registration successful.
+[10:28:30]  WARN Gameserver 4 [L2Mythras] : time offset 1125 ms.
+[13:54:31]  WARN Gameserver 4 [L2Mythras] : time offset 2060 ms.
+[14:00:31]  WARN Gameserver 4 [L2Mythras] : time offset 2044 ms.
+[14:15:03]  WARN Gameserver 4 [L2Mythras] : time offset 3428 ms.
+[14:27:32]  WARN Gameserver 4 [L2Mythras] : time offset 2451 ms.
+[15:29:03]  WARN Gameserver 4 [L2Mythras] : time offset 3849 ms.
+[17:31:32]  WARN Gameserver 4 [L2Mythras] : time offset 2784 ms.
+[18:58:30]  WARN Gameserver 4 [L2Mythras] : time offset 1111 ms.
+[19:34:04]  WARN Gameserver 4 [L2Mythras] : time offset 4381 ms.
+[19:51:31]  INFO Connection with gameserver 4 [L2Mythras] lost.
+[19:51:31]  INFO Setting gameserver down.
+[19:53:09]  INFO Trying to register gameserver: 4 [127.0.0.1]
+[19:53:09]  INFO Gameserver registration successful.
+[22:27:42]  WARN Gameserver 4 [L2Mythras] : time offset 3912 ms.
+[15:22:45]  INFO Connection with gameserver 4 [L2Mythras] lost.
+[15:22:45]  INFO Setting gameserver down.
+[15:24:20]  INFO Trying to register gameserver: 4 [127.0.0.1]
+[15:24:20]  INFO Gameserver registration successful.
+[20:17:22]  WARN Gameserver 4 [L2Mythras] : time offset 2067 ms.

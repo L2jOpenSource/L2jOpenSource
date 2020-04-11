@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-80 Weapon -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Dynasty Phantom - Acumen -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10771" count="1" />
+	</item>
+
+	<!-- Dynasty Phantom - Conversion -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10772" count="1" />
+	</item>
+
+	<!-- Dynasty Phantom - Mana Up -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10773" count="1" />
+	</item>
+
+	<!-- Dynasty Sword - Focus -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10750" count="1" />
+	</item>
+
+	<!-- Dynasty Sword - Health -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10751" count="1" />
+	</item>
+
+	<!-- Dynasty Sword - Light -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10752" count="1" />
+	</item>
+
+	<!-- Dynasty Rapier - Focus -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10783" count="1" />
+	</item>
+
+	<!-- Dynasty Rapier - Health -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10784" count="1" />
+	</item>
+
+	<!-- Dynasty Rapier - Light -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10785" count="1" />
+	</item>
+
+	<!-- Dynasty Halberd - Anger -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10765" count="1" />
+	</item>
+
+	<!-- Dynasty Halberd - Critical Stun -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10766" count="1" />
+	</item>
+
+	<!-- Dynasty Halberd - Light -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10767" count="1" />
+	</item>
+
+	<!-- Dynasty Bagh-Nakh - Haste -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10768" count="1" />
+	</item>
+
+	<!-- Dynasty Bagh-Nakh - Rsk. Evasion -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10769" count="1" />
+	</item>
+
+	<!-- Dynasty Bagh-Nakh - Rsk. Haste -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10770" count="1" />
+	</item>
+
+	<!-- Dynasty Knife - Critical Damage -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10762" count="1" />
+	</item>
+
+	<!-- Dynasty Knife - Evasion -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10763" count="1" />
+	</item>
+
+	<!-- Dynasty Knife - Focus -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10764" count="1" />
+	</item>
+
+	<!-- Dynasty Crossbow - Cheap Shot -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10789" count="1" />
+	</item>
+
+	<!-- Dynasty Crossbow - Focus -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10790" count="1" />
+	</item>
+
+	<!-- Dynasty Crossbow - Guidance -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10791" count="1" />
+	</item>
+
+	<!-- Dynasty Bow - Cheap Shot -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10781" count="1" />
+	</item>
+
+	<!-- Dynasty Bow - Focus -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10780" count="1" />
+	</item>
+
+	<!-- Dynasty Bow - Focus -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10782" count="1" />
+	</item>
+
+	<!-- Dynasty Cudgel - Anger -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10756" count="1" />
+	</item>
+
+	<!-- Dynasty Cudgel - Health -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10757" count="1" />
+	</item>
+
+	<!-- Dynasty Cudgel - Rsk. Focus -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10758" count="1" />
+	</item>
+
+	<!-- Dynasty Blade - Focus -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10754" count="1" />
+	</item>
+
+	<!-- Dynasty Blade - Health -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10753" count="1" />
+	</item>
+
+	<!-- Dynasty Blade - Light -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10755" count="1" />
+	</item>
+
+	<!-- Dynasty Staff - Acumen -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10777" count="1" />
+	</item>
+
+	<!-- Dynasty Staff - Conversion -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10778" count="1" />
+	</item>
+
+	<!-- Dynasty Staff - Mana Up -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10779" count="1" />
+	</item>
+
+	<!-- Dynasty Crusher - Anger -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10759" count="1" />
+	</item>
+
+	<!-- Dynasty Crusher - Health -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10760" count="1" />
+	</item>
+
+	<!-- Dynasty Crusher - Rsk. Focus -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10761" count="1" />
+	</item>
+	<!-- dynasty dual sword -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="10792" count="1" />
+	</item>
+
+	<!-- Dynasty dual dagger -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="14558" count="1" />
+	</item>
+
+
+
+</list>

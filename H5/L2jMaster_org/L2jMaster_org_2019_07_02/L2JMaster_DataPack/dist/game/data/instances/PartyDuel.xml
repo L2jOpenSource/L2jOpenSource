@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="coliseum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/instance.xsd">
+	<activityTime val="30" />
+	<allowSummon val="false" />
+	<spawnPoints startPosType="FIXED">
+		<Location x="148786" y="46368" z="-3414" />
+		<Location x="148786" y="46454" z="-3414" />
+		<Location x="148786" y="46549" z="-3414" />
+		<Location x="148786" y="46652" z="-3414" />
+		<Location x="148786" y="46745" z="-3414" />
+		<Location x="148786" y="46842" z="-3414" />
+		<Location x="148786" y="46939" z="-3414" />
+		<Location x="148786" y="47033" z="-3414" />
+		<Location x="148786" y="47132" z="-3414" />
+		<Location x="150114" y="46358" z="-3414" />
+		<Location x="150114" y="46445" z="-3414" />
+		<Location x="150114" y="46540" z="-3414" />
+		<Location x="150114" y="46642" z="-3414" />
+		<Location x="150114" y="46735" z="-3414" />
+		<Location x="150114" y="46833" z="-3414" />
+		<Location x="150114" y="46930" z="-3414" />
+		<Location x="150114" y="47023" z="-3414" />
+		<Location x="150114" y="47122" z="-3414" />
+	</spawnPoints>
+	<doorlist>
+		<door doorId="24190001" />
+		<door doorId="24190002" />
+		<door doorId="24190003" />
+		<door doorId="24190004" />
+	</doorlist>
+</instance>

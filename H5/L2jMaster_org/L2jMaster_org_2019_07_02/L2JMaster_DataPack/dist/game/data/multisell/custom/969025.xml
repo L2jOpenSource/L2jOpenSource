@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37619</npc> <!-- Forgotten Shop -->
+	</npcs>
+	
+	<!-- Titan -->
+	
+	<!-- Archer's Will -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10553" count="1" />
+	</item>
+	<!-- Fighter's Will -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10552" count="1" />
+	</item>
+	<!-- Protection of Alignment -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10551" count="1" />
+	</item>
+	<!-- Protection of Elemental -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10550" count="1" />
+	</item>
+	<!-- Protection of Rune -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10549" count="1" />
+	</item>
+	<!-- Demolition Impact 83 -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14183" count="1" />
+	</item>
+	<!-- Expose Weak Point -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10560" count="1" />
+	</item>
+	<!-- Final Secret -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14208" count="1" />
+	</item>
+</list> 

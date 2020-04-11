@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- lyonn06_npc2013_001 -->
+	<spawn zone="lyonn_npc2013_00101">
+		<npc id="30590" x="12432" y="-141808" z="-1877" heading="16384" respawnDelay="60" /> <!-- Rosheek -->
+	</spawn>
+	<!-- lyonn08_2013_01 -->
+	<spawn zone="lyonn08_2013_01m1">
+		<npc id="20333" count="4" respawnDelay="21" /> <!-- Greystone Golem -->
+		<npc id="20428" count="4" respawnDelay="21" /> <!-- Evil Eye Patroller -->
+		<npc id="20364" count="4" respawnDelay="21" /> <!-- Maraku Werewolf Chieftain -->
+	</spawn>
+	<!-- lyonn08_2013_02 -->
+	<spawn zone="lyonn08_2013_02m1">
+		<npc id="20333" count="3" respawnDelay="21" /> <!-- Greystone Golem -->
+		<npc id="20428" count="3" respawnDelay="21" /> <!-- Evil Eye Patroller -->
+		<npc id="20364" count="3" respawnDelay="21" /> <!-- Maraku Werewolf Chieftain -->
+	</spawn>
+	<!-- lyonn08_2013_03 -->
+	<spawn zone="lyonn08_2013_03m1">
+		<npc id="20428" count="3" respawnDelay="21" /> <!-- Evil Eye Patroller -->
+		<npc id="20364" count="3" respawnDelay="21" /> <!-- Maraku Werewolf Chieftain -->
+		<npc id="20474" count="3" respawnDelay="21" /> <!-- Kasha Spider -->
+	</spawn>
+	<!-- lyonn08_2013_04 -->
+	<spawn zone="lyonn08_2013_04m1">
+		<npc id="20364" count="3" respawnDelay="21" /> <!-- Maraku Werewolf Chieftain -->
+		<npc id="20479" count="3" respawnDelay="21" /> <!-- Kasha Bear -->
+		<npc id="20476" count="3" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+	</spawn>
+	<!-- lyonn08_2013_05 -->
+	<spawn zone="lyonn08_2013_05m1">
+		<npc id="20479" count="3" respawnDelay="21" /> <!-- Kasha Bear -->
+		<npc id="20476" count="2" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+		<npc id="20478" count="2" respawnDelay="21" /> <!-- Kasha Blade Spider -->
+	</spawn>
+	<!-- lyonn08_2013_06 -->
+	<spawn zone="lyonn08_2013_06m1">
+		<npc id="20474" count="4" respawnDelay="21" /> <!-- Kasha Spider -->
+		<npc id="20479" count="4" respawnDelay="21" /> <!-- Kasha Bear -->
+		<npc id="20476" count="4" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+		<npc id="20478" count="4" respawnDelay="21" /> <!-- Kasha Blade Spider -->
+	</spawn>
+</list>

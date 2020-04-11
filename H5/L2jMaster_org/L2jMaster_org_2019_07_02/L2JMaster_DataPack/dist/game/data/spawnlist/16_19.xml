@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- aden45_npc1619_001 -->
+	<spawn zone="aden45_npc1619_001m1">
+		<npc id="32133" x="-125872" y="38208" z="1251" heading="0" respawnDelay="60" />	<!-- Perwan -->
+		<npc id="32134" x="-125872" y="38016" z="1251" heading="0" respawnDelay="60" />	<!-- Newbie Helper -->
+	</spawn>
+	<!-- aden45_npc1619_002 -->
+	<spawn zone="aden45_npc1619_002m1">
+		<npc id="32135" x="-119692" y="44504" z="380" heading="33324" respawnDelay="60" /> <!-- Newbie Helper -->
+	</spawn>
+	<!-- aden45_npc1619_003 -->
+	<spawn zone="aden45_npc1619_003m1">
+		<npc id="32136" x="-122400" y="38432" z="1453" heading="0" respawnDelay="60" /> <!-- Basil -->
+	</spawn>
+	<!-- aden45_npc1619_004 -->
+	<spawn zone="aden45_npc1619_004m1">
+		<npc id="32137" x="-122396" y="37784" z="1450" heading="16076" respawnDelay="60" /> <!-- Sucrete -->
+	</spawn>
+	<!-- aden45_npc1619_005 -->
+	<spawn zone="aden45_npc1619_005m1">
+		<npc id="32138" x="-118080" y="42835" z="720" heading="15964" respawnDelay="60" /> <!-- Kekropus -->
+		<npc id="32139" x="-118132" y="42788" z="723" heading="17008" respawnDelay="60" /> <!-- Casca -->
+		<npc id="32140" x="-118028" y="42788" z="720" heading="16688" respawnDelay="60" /> <!-- Zenya -->
+	</spawn>
+	<!-- aden45_npc1619_006 -->
+	<spawn zone="aden45_npc1619_006m1">
+		<npc id="32141" x="-119104" y="43280" z="559" heading="0" respawnDelay="60" /> <!-- Nerga -->
+		<npc id="32142" x="-119104" y="43152" z="559" heading="0" respawnDelay="60" /> <!-- Tenor -->
+	</spawn>
+	<!-- aden45_npc1619_007 -->
+	<spawn zone="aden45_npc1619_007m1">
+		<npc id="32143" x="-117056" y="43168" z="559" heading="33556" respawnDelay="60" /> <!-- Belkis -->
+		<npc id="32144" x="-117060" y="43296" z="559" heading="32568" respawnDelay="60" /> <!-- Xonia -->
+	</spawn>
+	<!-- aden45_npc1619_008 -->
+	<spawn zone="aden45_npc1619_008m1">
+		<npc id="32145" x="-118192" y="42384" z="838" heading="16400" respawnDelay="60" /> <!-- Maynard -->
+		<npc id="32146" x="-117968" y="42384" z="838" heading="15880" respawnDelay="60" /> <!-- Valfar -->
+	</spawn>
+	<!-- aden45_npc1619_009 -->
+	<spawn zone="aden45_npc1619_009m1">
+		<npc id="32160" x="-118720" y="48062" z="473" heading="49308" respawnDelay="60" /> <!-- Devon -->
+		<npc id="32161" x="-118527" y="47955" z="473" heading="32936" respawnDelay="60" /> <!-- Black -->
+		<npc id="32162" x="-118918" y="47956" z="474" heading="0" respawnDelay="60" /> <!-- Martika -->
+	</spawn>
+	<!-- aden45_npc1619_010 -->
+	<spawn zone="aden45_npc1619_010m1">
+		<npc id="32157" x="-117824" y="48080" z="476" heading="49308" respawnDelay="60" /> <!-- Moka -->
+		<npc id="32158" x="-117605" y="48079" z="472" heading="43644" respawnDelay="60" /> <!-- Fisler -->
+		<npc id="32159" x="-118030" y="47930" z="465" heading="0" respawnDelay="60" /> <!-- Kincaid -->
+	</spawn>
+	<!-- aden45_npc1619_011 -->
+	<spawn zone="aden45_npc1619_011m1">
+		<npc id="32166" x="-116749" y="48077" z="462" heading="41732" respawnDelay="60" /> <!-- Trevor -->
+		<npc id="32167" x="-117153" y="48075" z="463" heading="58116" respawnDelay="60" /> <!-- Nika -->
+	</spawn>
+	<!-- aden45_npc1619_012 -->
+	<spawn zone="aden45_npc1619_012m1">
+		<npc id="32150" x="-120294" y="46013" z="384" heading="0" respawnDelay="60" /> <!-- Took -->
+		<npc id="32151" x="-120157" y="45813" z="355" heading="16416" respawnDelay="60" /> <!-- Herz -->
+		<npc id="32152" x="-120158" y="46221" z="354" heading="45056" respawnDelay="60" /> <!-- Henri -->
+	</spawn>
+	<!-- aden45_npc1619_013 -->
+	<spawn zone="aden45_npc1619_013m1">
+		<npc id="32154" x="-120706" y="45079" z="419" heading="6956" respawnDelay="60" /> <!-- Aldenia -->
+		<npc id="32156" x="-120604" y="44960" z="423" heading="24308" respawnDelay="60" /> <!-- Talbot -->
+		<npc id="32155" x="-120356" y="45293" z="416" heading="45392" respawnDelay="60" /> <!-- Nabot -->
+		<npc id="32153" x="-120432" y="45296" z="416" heading="45056" respawnDelay="60" /> <!-- Franco -->
+	</spawn>
+	<!-- aden45_npc1619_014 -->
+	<spawn zone="aden45_npc1619_014m1">
+		<npc id="32149" x="-120442" y="47125" z="422" heading="0" respawnDelay="60" /> <!-- Ennear -->
+		<npc id="32147" x="-120400" y="46921" z="422" heading="0" respawnDelay="60" /> <!-- Rivian -->
+		<npc id="32148" x="-120407" y="46755" z="423" heading="0" respawnDelay="60" /> <!-- Cindet -->
+	</spawn>
+	<!-- aden45_npc1619_016 -->
+	<spawn zone="aden45_npc1619_016m1">
+		<npc id="32163" x="-116879" y="46591" z="360" heading="44352" respawnDelay="60" /> <!-- Ragara -->
+	</spawn>
+	<!-- aden45_npc1619_017 -->
+	<spawn zone="aden45_npc1619_017m1">
+		<npc id="32170" x="-114975" y="44658" z="524" heading="15332" respawnDelay="60" /> <!-- Benis -->
+		<npc id="32171" x="-114802" y="44821" z="524" heading="32144" respawnDelay="60" /> <!-- Hoffa -->
+		<npc id="32172" x="-114801" y="45031" z="525" heading="32164" respawnDelay="60" /> <!-- Saylem -->
+	</spawn>
+	<!-- aden45_npc1619_018 -->
+	<spawn zone="aden45_npc1619_018m1">
+		<npc id="32174" x="-119774" y="49245" z="22" heading="0" respawnDelay="60" /> <!-- Maddy -->
+		<npc id="32173" x="-119378" y="49242" z="22" heading="32812" respawnDelay="60" /> <!-- Marcela -->
+	</spawn>
+	<!-- aden45_npc1619_019 -->
+	<spawn zone="aden45_npc1619_019m1">
+		<npc id="32176" x="-119362" y="51862" z="-780" heading="20824" respawnDelay="60" /> <!-- Ambra -->
+		<npc id="32175" x="-119830" y="51860" z="-787" heading="11396" respawnDelay="60" /> <!-- Bixon -->
+	</spawn>
+	<!-- aden45_npc1619_020 -->
+	<spawn zone="aden45_npc1619_020m1">
+		<npc id="32177" x="-112872" y="46850" z="68" heading="8944" respawnDelay="60" /> <!-- Syzar -->
+		<npc id="32178" x="-112352" y="47392" z="68" heading="41568" respawnDelay="60" /> <!-- Carver -->
+	</spawn>
+	<!-- aden45_npc1619_021 -->
+	<spawn zone="aden45_npc1619_021m1">
+		<npc id="32180" x="-110536" y="45162" z="-1132" heading="3072" respawnDelay="60" /> <!-- Kato -->
+	</spawn>
+	<!-- aden45_npc1619_022 -->
+	<spawn zone="aden45_npc1619_022m1">
+		<npc id="32179" x="-110544" y="49040" z="-1124" heading="63440" respawnDelay="60" /> <!-- Putin -->
+	</spawn>
+	<!-- aden45_npc1619_023 -->
+	<spawn zone="aden45_npc1619_023m1">
+		<npc id="32191" x="-124624" y="51584" z="-540" heading="8172" respawnDelay="60" /> <!-- Hanarin -->
+		<npc id="32192" x="-124064" y="51584" z="-540" heading="22896" respawnDelay="60" /> <!-- Falken -->
+	</spawn>
+	<!-- aden45_npc1619_024 -->
+	<spawn zone="aden45_npc1619_024m1">
+		<npc id="32337" x="-119808" y="47760" z="403" heading="0" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- aden45_npc1619_025 -->
+	<spawn zone="aden45_npc1619_025m1">
+		<npc id="32338" x="-120048" y="45296" z="405" heading="0" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- aden45_npc1619_026 -->
+	<spawn zone="aden45_npc1619_026m1">
+		<npc id="32339" x="-115680" y="44144" z="515" heading="17712" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- aden45_npc1619_027 -->
+	<spawn zone="aden45_npc1619_027m1">
+		<npc id="32340" x="-115088" y="43536" z="480" heading="680" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- aden45_npc1619_028 -->
+	<spawn zone="aden45_npc1619_028m1">
+		<npc id="32164" x="-115888" y="43568" z="524" heading="8372" respawnDelay="60" /> <!-- Erinu -->
+		<npc id="32165" x="-115486" y="43567" z="525" heading="24616" respawnDelay="60" /> <!-- Zakone -->
+	</spawn>
+	<!-- aden45_npc1619_029 -->
+	<spawn zone="aden45_npc1619_029m1">
+		<npc id="32348" x="-116944" y="48144" z="459" heading="49152" respawnDelay="60" /> <!-- Burang -->
+	</spawn>
+	<!-- aden45_npc1619_030 -->
+	<spawn zone="aden45_npc1619_030m1">
+		<npc id="36456" x="-115169" y="44156" z="512" heading="25360" respawnDelay="60" /> <!-- Manor Manager -->
+	</spawn>
+	<!-- aden45_npc1619_031 -->
+	<spawn zone="aden45_npc1619_031m1">
+		<npc id="31688" x="-115008" y="47488" z="501" heading="37504" respawnDelay="60" /> <!-- Grand Olympiad Manager -->
+		<npc id="31690" x="-114991" y="47563" z="501" heading="372768" respawnDelay="60" /> <!-- Monument of Heroes -->
+	</spawn>
+	<!-- aden45_npc1619_032 -->
+	<spawn zone="aden45_npc1619_032m1">
+		<npc id="32469" x="-111520" y="41744" z="2173" heading="32768" respawnDelay="60" /> <!-- Eindburgh -->
+	</spawn>
+	<!-- aden45_npc1619_premium01 -->
+	<spawn zone="aden45_npc1619_premium01m1">
+		<npc id="32478" x="-115215" y="45059" z="496" heading="32768" respawnDelay="60" /> <!-- Dimensional Merchant -->
+	</spawn>
+	<!-- aden45_npc1619__tk01 -->
+	<spawn zone="aden45_npc1619__tk01m1">
+		<npc id="30990" x="-117079" y="47175" z="448" heading="16384" respawnDelay="60" /> <!-- Lottery Ticket Seller -->
+	</spawn>
+	<!-- aden44_1619_01 -->
+	<spawn zone="aden44_1619_01m1">
+		<npc id="22229" count="10" respawnDelay="15" /> <!-- Young Grey Keltir -->
+		<npc id="22230" count="10" respawnDelay="15" /> <!-- Grey Keltir -->
+	</spawn>
+	<!-- aden44_1619_02 -->
+	<spawn zone="aden44_1619_02m1">
+		<npc id="22229" count="10" respawnDelay="15" /> <!-- Young Grey Keltir -->
+		<npc id="22230" count="10" respawnDelay="15" /> <!-- Grey Keltir -->
+	</spawn>
+	<!-- aden44_1619_03 -->
+	<spawn zone="aden44_1619_03m1">
+		<npc id="22229" count="8" respawnDelay="15" /> <!-- Young Grey Keltir -->
+		<npc id="22230" count="8" respawnDelay="15" /> <!-- Grey Keltir -->
+	</spawn>
+	<!-- aden44_1619_04 -->
+	<spawn zone="aden44_1619_04m1">
+		<npc id="22229" count="5" respawnDelay="15" /> <!-- Young Grey Keltir -->
+		<npc id="22230" count="5" respawnDelay="15" /> <!-- Grey Keltir -->
+		<npc id="22231" count="5" respawnDelay="15" /> <!-- Dominant Grey Keltir -->
+	</spawn>
+	<!-- aden44_1619_05 -->
+	<spawn zone="aden44_1619_05m1">
+		<npc id="22229" count="5" respawnDelay="15" /> <!-- Young Grey Keltir -->
+		<npc id="22230" count="5" respawnDelay="15" /> <!-- Grey Keltir -->
+		<npc id="22231" count="5" respawnDelay="15" /> <!-- Dominant Grey Keltir -->
+	</spawn>
+	<!-- aden44_1619_06 -->
+	<spawn zone="aden44_1619_06m1">
+		<npc id="22229" count="5" respawnDelay="15" /> <!-- Young Grey Keltir -->
+		<npc id="22230" count="5" respawnDelay="15" /> <!-- Grey Keltir -->
+		<npc id="22231" count="5" respawnDelay="15" /> <!-- Dominant Grey Keltir -->
+	</spawn>
+	<!-- aden44_1619_07 -->
+	<spawn zone="aden44_1619_07m1">
+		<npc id="22229" count="6" respawnDelay="15" /> <!-- Young Grey Keltir -->
+		<npc id="22230" count="6" respawnDelay="15" /> <!-- Grey Keltir -->
+		<npc id="22230" count="12" respawnDelay="15" /> <!-- Grey Keltir -->
+	</spawn>
+	<!-- aden44_1619_08 -->
+	<spawn zone="aden44_1619_08m1">
+		<npc id="22231" count="6" respawnDelay="15" /> <!-- Dominant Grey Keltir -->
+		<npc id="22232" count="6" respawnDelay="15" /> <!-- Black Wolf -->
+		<npc id="22233" count="14" respawnDelay="15" /> <!-- Dominant Black Wolf -->
+	</spawn>
+	<!-- aden44_1619_09 -->
+	<spawn zone="aden44_1619_09m1">
+		<npc id="22231" count="4" respawnDelay="15" /> <!-- Dominant Grey Keltir -->
+		<npc id="22232" count="4" respawnDelay="15" /> <!-- Black Wolf -->
+		<npc id="22233" count="10" respawnDelay="15" /> <!-- Dominant Black Wolf -->
+	</spawn>
+	<!-- aden44_1619_10 -->
+	<spawn zone="aden44_1619_10m1">
+		<npc id="22231" count="5" respawnDelay="15" /> <!-- Dominant Grey Keltir -->
+		<npc id="22232" count="5" respawnDelay="15" /> <!-- Black Wolf -->
+		<npc id="22233" count="10" respawnDelay="15" /> <!-- Dominant Black Wolf -->
+	</spawn>
+	<!-- aden48_1619_01 -->
+	<spawn zone="aden48_1619_01m1">
+		<npc id="22228" count="6" respawnDelay="15" /> <!-- Grey Elpy -->
+		<npc id="22229" count="6" respawnDelay="15" /> <!-- Young Grey Keltir -->
+	</spawn>
+	<!-- aden48_1619_02 -->
+	<spawn zone="aden48_1619_02m1">
+		<npc id="22228" count="8" respawnDelay="15" /> <!-- Grey Elpy -->
+		<npc id="22229" count="8" respawnDelay="15" /> <!-- Young Grey Keltir -->
+	</spawn>
+	<!-- aden48_1619_03 -->
+	<spawn zone="aden48_1619_03m1">
+		<npc id="22228" count="4" respawnDelay="15" /> <!-- Grey Elpy -->
+		<npc id="22229" count="4" respawnDelay="15" /> <!-- Young Grey Keltir -->
+	</spawn>
+	<!-- aden48_1619_04 -->
+	<spawn zone="aden48_1619_04m1">
+		<npc id="22228" count="2" respawnDelay="15" /> <!-- Grey Elpy -->
+		<npc id="22229" count="2" respawnDelay="15" /> <!-- Young Grey Keltir -->
+	</spawn>
+	<!-- aden48_1619_05 -->
+	<spawn zone="aden48_1619_05m1">
+		<npc id="22228" count="10" respawnDelay="15" /> <!-- Grey Elpy -->
+		<npc id="22229" count="10" respawnDelay="15" /> <!-- Young Grey Keltir -->
+	</spawn>
+	<!-- aden45_qm1619_00 -->
+	<spawn zone="aden45_qm1619_00">
+		<npc id="18342" count="20" respawnDelay="15" /> <!-- Tutorial Gremlin -->
+	</spawn>
+	<!-- aden49_1619_01 -->
+	<spawn zone="aden49_1619_01m1">
+		<npc id="22240" count="8" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="8" respawnDelay="15" /> <!-- Colossus -->
+	</spawn>
+	<!-- aden49_1619_01s -->
+	<spawn zone="aden49_1619_01sm1">
+		<npc id="22240" count="2" respawnDelay="15" /> <!-- Muertos Scout -->
+	</spawn>
+	<!-- aden49_1619_02 -->
+	<spawn zone="aden49_1619_02m1">
+		<npc id="22240" count="8" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="8" respawnDelay="15" /> <!-- Colossus -->
+	</spawn>
+	<!-- aden49_1619_02s -->
+	<spawn zone="aden49_1619_02sm1">
+		<npc id="22240" count="8" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="2" respawnDelay="15" /> <!-- Colossus -->
+	</spawn>
+	<!-- aden49_1619_03 -->
+	<spawn zone="aden49_1619_03m1">
+		<npc id="22240" count="6" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="6" respawnDelay="15" /> <!-- Colossus -->
+		<npc id="22242" count="6" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1619_03s -->
+	<spawn zone="aden49_1619_03sm1">
+		<npc id="22240" count="2" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="2" respawnDelay="15" /> <!-- Colossus -->
+		<npc id="22242" count="2" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1619_04 -->
+	<spawn zone="aden49_1619_04m1">
+		<npc id="22240" count="10" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="10" respawnDelay="15" /> <!-- Colossus -->
+	</spawn>
+	<!-- aden49_1619_04s -->
+	<spawn zone="aden49_1619_04sm1">
+		<npc id="22240" count="2" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="2" respawnDelay="15" /> <!-- Colossus -->
+		<npc id="22242" count="2" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1619_05 -->
+	<spawn zone="aden49_1619_05m1">
+		<npc id="22240" count="15" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="15" respawnDelay="15" /> <!-- Colossus -->
+		<npc id="22242" count="15" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1619_05s -->
+	<spawn zone="aden49_1619_05sm1">
+		<npc id="22240" count="2" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="2" respawnDelay="15" /> <!-- Colossus -->
+		<npc id="22242" count="2" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1619_06 -->
+	<spawn zone="aden49_1619_06m1">
+		<npc id="22240" count="10" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="12" respawnDelay="15" /> <!-- Colossus -->
+		<npc id="22242" count="10" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1619_061s -->
+	<spawn zone="aden49_1619_061sm1">
+		<npc id="22240" count="2" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="2" respawnDelay="15" /> <!-- Colossus -->
+		<npc id="22242" count="2" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1619_062s -->
+	<spawn zone="aden49_1619_062sm1">
+		<npc id="22240" count="2" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="2" respawnDelay="15" /> <!-- Colossus -->
+		<npc id="22242" count="2" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1619_07 -->
+	<spawn zone="aden49_1619_07m1">
+		<npc id="22240" count="10" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="10" respawnDelay="15" /> <!-- Colossus -->
+	</spawn>
+	<!-- aden49_1619_07s -->
+	<spawn zone="aden49_1619_07sm1">
+		<npc id="22240" count="2" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="2" respawnDelay="15" /> <!-- Colossus -->
+	</spawn>
+	<!-- aden49_1619_08 -->
+	<spawn zone="aden49_1619_08m1">
+		<npc id="22240" count="8" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="10" respawnDelay="15" /> <!-- Colossus -->
+	</spawn>
+	<!-- aden49_1619_08s -->
+	<spawn zone="aden49_1619_08sm1">
+		<npc id="22240" count="2" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22241" count="3" respawnDelay="15" /> <!-- Colossus -->
+	</spawn>
+	<!-- aden50_1619_01 -->
+	<spawn zone="aden50_1619_01m1">
+		<npc id="22236" count="3" respawnDelay="15" /> <!-- Muertos Archer -->
+		<npc id="22237" count="5" respawnDelay="15" /> <!-- Mountain Fungus -->
+		<npc id="22238" count="5" respawnDelay="15" /> <!-- Mountain Werewolf Chief -->
+	</spawn>
+	<!-- aden50_1619_02 -->
+	<spawn zone="aden50_1619_02m1">
+		<npc id="22236" count="8" respawnDelay="15" /> <!-- Muertos Archer -->
+		<npc id="22237" count="12" respawnDelay="15" /> <!-- Mountain Fungus -->
+		<npc id="22238" count="10" respawnDelay="15" /> <!-- Mountain Werewolf Chief -->
+	</spawn>
+	<!-- aden50_1619_03 -->
+	<spawn zone="aden50_1619_03m1">
+		<npc id="22237" count="4" respawnDelay="15" /> <!-- Mountain Fungus -->
+		<npc id="22238" count="4" respawnDelay="15" /> <!-- Mountain Werewolf Chief -->
+		<npc id="22239" count="4" respawnDelay="15" /> <!-- Muertos Guard -->
+	</spawn>
+	<!-- aden50_1619_04 -->
+	<spawn zone="aden50_1619_04m1">
+		<npc id="22236" count="8" respawnDelay="15" /> <!-- Muertos Archer -->
+		<npc id="22238" count="5" respawnDelay="15" /> <!-- Mountain Werewolf Chief -->
+		<npc id="22239" count="5" respawnDelay="15" /> <!-- Muertos Guard -->
+	</spawn>
+	<!-- aden50_1619_05 -->
+	<spawn zone="aden50_1619_05m1">
+		<npc id="22238" count="4" respawnDelay="15" /> <!-- Mountain Werewolf Chief -->
+		<npc id="22239" count="5" respawnDelay="15" /> <!-- Muertos Guard -->
+	</spawn>
+	<!-- aden50_1619_06 -->
+	<spawn zone="aden50_1619_06m1">
+		<npc id="22238" count="4" respawnDelay="15" /> <!-- Mountain Werewolf Chief -->
+		<npc id="22239" count="4" respawnDelay="15" /> <!-- Muertos Guard -->
+	</spawn>
+	<!-- aden50_1619_07s -->
+	<spawn zone="aden50_1619_07m1">
+		<npc id="22238" count="3" respawnDelay="15" /> <!-- Mountain Werewolf Chief -->
+	</spawn>
+	<!-- aden50_1619_08s -->
+	<spawn zone="aden50_1619_08sm1">
+		<npc id="22236" count="2" respawnDelay="15" /> <!-- Muertos Archer -->
+		<npc id="22239" count="3" respawnDelay="15" /> <!-- Muertos Guard -->
+	</spawn>
+	<!-- aden50_1619_09s -->
+	<spawn zone="aden50_1619_09sm1">
+		<npc id="22238" count="2" respawnDelay="15" /> <!-- Mountain Werewolf Chief -->
+		<npc id="22239" count="2" respawnDelay="15" /> <!-- Muertos Guard -->
+	</spawn>
+</list>

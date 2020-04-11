@@ -1,0 +1,130 @@
+<list>
+	<skill id="30000" levels="1" name="Auto CP/MP/HP">
+		<table name="#mana">0.2</table>
+		<set name="icon" val="icon.etc_cp_potion_i01" />
+		<set name="magicLevel" val="5" />
+		<set name="mpConsume1" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="CONT" />
+		<set name="operateType" val="OP_TOGGLE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="0x7fffffff" name="LDManaDamOverTime" time="3" val="#mana">
+				<add order="0x10" stat="regCp" val="200" />
+				<add order="0x10" stat="regMp" val="200" />
+				<add order="0x10" stat="regHp" val="50" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="30001" levels="1" name="Invisible PvP Defense" >
+		<!--
+			Description: Received damage is decreased during PVP.
+		-->
+		<table name="#PvPMeleeDefence">1.01</table>
+		<table name="#PvPSkillDefence">1.1</table>
+		<table name="#PvPMagicDefence">1.2</table>
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="#PvPMeleeDefence" />
+            <mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="#PvPSkillDefence" />
+            <mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="#PvPMagicDefence" />
+		</for>
+	</skill>
+	<skill id="30002" levels="1" name="Invisible Nerf PvP Physical Skill" >
+		<!--
+			Description: 
+		-->
+		<table name="#pvpDam">0.80</table>
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" val="#pvpDam" />
+		</for>
+	</skill>
+	<skill id="30003" levels="1" name="Invisible Nerf PvP Magical Skill" >
+		<!--
+			Description: 
+		-->
+		<table name="#pvpDam">0.70</table>
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+            <mul order="0x30" stat="pvpMagicSkillDmgBonus" val="#pvpDam" />
+		</for>
+	</skill>
+		<skill id="30004" levels="1" name="Invisible Nerf PvP Melee" >
+		<!--
+			Description: 
+		-->
+		<table name="#pvpDam">0.80</table>
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" val="#pvpDam" />
+		</for>
+	</skill>
+		<skill id="30005" levels="1" name="Invisible Boost PvP Damage" >
+		<!--
+			Description: 
+		-->
+		<table name="#pvpDam">2</table>
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+		    <mul order="0x30" stat="pvpMagicSkillDmgBonus" val="#pvpDam" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" val="#pvpDam" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" val="#pvpDam" />
+		</for>
+	</skill>
+		<skill id="30006" levels="1" name="Invisible Boost PvP Damage and Defense" >
+		<!--
+			Description: 
+		-->
+		<table name="#pvpDam">1.1</table>
+		<table name="#PvPMeleeDefence">1.2</table>
+		<table name="#PvPSkillDefence">1.2</table>
+		<table name="#PvPMagicDefence">1.2</table>
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+		    <mul order="0x30" stat="pvpMagicSkillDmgBonus" val="#pvpDam" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" val="#pvpDam" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" val="#pvpDam" />
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="#PvPMeleeDefence" />
+            <mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="#PvPSkillDefence" />
+            <mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="#PvPMagicDefence" />
+		</for>
+	</skill>
+		<skill id="30007" levels="1" name="Invisible Boost PvP Damage x2" >
+		<!--
+			Description: 
+		-->
+		<table name="#pvpDam">4</table>
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+		    <mul order="0x30" stat="pvpMagicSkillDmgBonus" val="#pvpDam" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" val="#pvpDam" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" val="#pvpDam" />
+		</for>
+	</skill>
+</list>

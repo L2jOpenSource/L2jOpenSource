@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio04_npc1924_001 -->
+	<spawn zone="gludio_npc1924_00101">
+		<npc id="30981" x="-18960" y="209834" z="-3656" heading="0" respawnDelay="60" /> <!-- Black Judge -->
+	</spawn>
+	<!-- gludio04_npc1924_002 -->
+	<spawn zone="gludio_npc1924_00201">
+		<npc id="30653" x="-6774" y="202086" z="-3649" heading="0" respawnDelay="60" /> <!-- Sir Aron Tanford -->
+	</spawn>
+	<!-- gludio04_npc1924_003 -->
+	<spawn zone="gludio_npc1924_00301">
+		<npc id="30730" x="-17305" y="209742" z="-3660" heading="61440" respawnDelay="60" /> <!-- Jax -->
+	</spawn>
+	<!-- gludio04_npc1924_004 -->
+	<spawn zone="gludio_npc1924_00401">
+		<npc id="30638" x="-23896" y="207797" z="-3176" heading="16384" respawnDelay="60" /> <!-- Basilla -->
+	</spawn>
+	<!-- gludio04_npc1924_005 -->
+	<spawn zone="gludio_npc1924_00501">
+		<npc id="30436" x="-16832" y="210256" z="-3661" heading="55000" respawnDelay="60" /> <!-- Sarien -->
+	</spawn>
+	<!-- gludio04_npc1924_006 -->
+	<spawn zone="gludio_npc1924_00601">
+		<npc id="30437" x="-17312" y="208976" z="-3661" heading="3000" respawnDelay="60" /> <!-- Rolento -->
+	</spawn>
+	<!-- gludio04_npc1924_hellbound -->
+	<spawn zone="gludio04_npc1924_hellboundm1">
+		<npc id="32293" x="-16745" y="209719" z="-3665" heading="-14416" respawnDelay="60" /> <!-- Jirrone -->
+		<npc id="32314" x="-16899" y="209827" z="-3641" heading="0" respawnDelay="60" /> <!-- Warpgate -->
+	</spawn>
+	<!-- gludio42_1924_01 -->
+	<spawn zone="gludio42_1924_01m1">
+		<npc id="20059" count="3" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20063" count="4" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="6" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio42_1924_02 -->
+	<spawn zone="gludio42_1924_02m1">
+		<npc id="20059" count="2" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="4" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio42_1924_03 -->
+	<spawn zone="gludio42_1924_03m1">
+		<npc id="20059" count="2" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20063" count="3" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="4" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio42_1924_04s -->
+	<spawn zone="gludio42_1924_04sm1">
+		<npc id="20059" count="1" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20063" count="1" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="2" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio36_1924_01 -->
+	<spawn zone="gludio36_1924_01m1">
+		<npc id="21014" count="1" respawnDelay="25" /> <!-- Lesser Warlike Tyrant -->
+		<npc id="21015" count="3" respawnDelay="25" /> <!-- Ol Mahum Van Leader -->
+		<npc id="21016" count="2" respawnDelay="25" /> <!-- Warlike Tyrant -->
+	</spawn>
+	<!-- gludio36_1924_02 -->
+	<spawn zone="gludio36_1924_02m1">
+		<npc id="21015" count="3" respawnDelay="25" /> <!-- Ol Mahum Van Leader -->
+		<npc id="21016" count="4" respawnDelay="25" /> <!-- Warlike Tyrant -->
+	</spawn>
+	<!-- gludio36_1924_03 -->
+	<spawn zone="gludio36_1924_03m1">
+		<npc id="21015" count="3" respawnDelay="25" /> <!-- Ol Mahum Van Leader -->
+		<npc id="21016" count="3" respawnDelay="25" /> <!-- Warlike Tyrant -->
+	</spawn>
+	<!-- gludio36_1924_04 -->
+	<spawn zone="gludio36_1924_04m1">
+		<npc id="21014" count="1" respawnDelay="25" /> <!-- Lesser Warlike Tyrant -->
+		<npc id="21015" count="2" respawnDelay="25" /> <!-- Ol Mahum Van Leader -->
+		<npc id="21016" count="3" respawnDelay="25" /> <!-- Warlike Tyrant -->
+	</spawn>
+	<!-- gludio22_1924_01 -->
+	<spawn zone="gludio22_1924_01m1">
+		<npc id="20059" count="4" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20357" count="4" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+		<npc id="21101" count="1" respawnDelay="20" /> <!-- Langk Lizardman Shaman -->
+	</spawn>
+	<!-- gludio22_1924_02 -->
+	<spawn zone="gludio22_1924_02m1">
+		<npc id="20059" count="4" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20357" count="5" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+	</spawn>
+	<!-- gludio22_1924_03 -->
+	<spawn zone="gludio22_1924_03m1">
+		<npc id="20059" count="4" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20357" count="5" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+	</spawn>
+	<!-- gludio22_1924_04 -->
+	<spawn zone="gludio22_1924_04m1">
+		<npc id="20059" count="4" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20357" count="3" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+		<npc id="21100" count="2" respawnDelay="20" /> <!-- Langk Lizardman Sentinel -->
+	</spawn>
+	<!-- gludio04_1924_01 -->
+	<spawn zone="gludio04_1924_01m1">
+		<npc id="20067" count="1" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+		<npc id="20072" count="1" respawnDelay="27" /> <!-- Basilisk -->
+	</spawn>
+	<!-- gludio04_1924_02 -->
+	<spawn zone="gludio04_1924_02m1">
+		<npc id="20067" count="2" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1924_03 -->
+	<spawn zone="gludio04_1924_03m1">
+		<npc id="20067" count="3" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1924_04 -->
+	<spawn zone="gludio04_1924_04m1">
+		<npc id="20067" count="3" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20068" count="1" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1924_05 -->
+	<spawn zone="gludio04_1924_05m1">
+		<npc id="20068" count="3" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+	</spawn>
+	<!-- gludio04_1924_06 -->
+	<spawn zone="gludio04_1924_06m1">
+		<npc id="20068" count="1" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1924_07 -->
+	<spawn zone="gludio04_1924_07m1">
+		<npc id="20072" count="4" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20190" count="2" respawnDelay="27" /> <!-- Skeleton Marauder -->
+	</spawn>
+	<!-- gludio04_1924_08 -->
+	<spawn zone="gludio04_1924_08m1">
+		<npc id="20190" count="2" respawnDelay="27" /> <!-- Skeleton Marauder -->
+		<npc id="20191" count="6" respawnDelay="27" /> <!-- Skeleton Raider -->
+		<npc id="20083" count="4" respawnDelay="27" /> <!-- Granite Golem -->
+	</spawn>
+	<!-- gludio04_1924_09 -->
+	<spawn zone="gludio04_1924_09m1">
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20190" count="1" respawnDelay="27" /> <!-- Skeleton Marauder -->
+	</spawn>
+	<!-- gludio04_1924_10 -->
+	<spawn zone="gludio04_1924_10m1">
+		<npc id="20072" count="3" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20190" count="2" respawnDelay="27" /> <!-- Skeleton Marauder -->
+		<npc id="20191" count="1" respawnDelay="27" /> <!-- Skeleton Raider -->
+	</spawn>
+	<!-- gludio04_1924_11 -->
+	<spawn zone="gludio04_1924_11m1">
+		<npc id="20068" count="1" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+		<npc id="20072" count="1" respawnDelay="27" /> <!-- Basilisk -->
+	</spawn>
+	<!-- gludio04_1924_12 -->
+	<spawn zone="gludio04_1924_12m1">
+		<npc id="20068" count="2" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+		<npc id="20070" count="3" respawnDelay="27" /> <!-- Lesser Basilisk -->
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+	</spawn>
+	<!-- gludio01_qm1924_01 -->
+	<spawn zone="gludio01_qm1924_01m1">
+		<npc id="27105" count="1" respawnDelay="180" /> <!-- Mimi the Cat -->
+	</spawn>
+</list>

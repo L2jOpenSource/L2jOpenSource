@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="FandC Datapack" default="dist" basedir=".">
+	<description>
+		This script will copy all the datapack 
+	</description>
+	
+	<property name="server.prefix" value="l2f" />
+	<property name="build" location="builds/" />
+	<property name="build.dist" location="${build}/dist" />
+
+	<target name="dist" description="Export the files to the output directory.">
+		<sync todir="${build.dist}" includeemptydirs="true">
+			<fileset dir="dist" />
+			<preserveintarget>
+				<include name="${server.prefix}-loginserver.jar" />
+				<include name="${server.prefix}-gameserver.jar" />
+				<include name="${server.prefix}-commons.jar" />
+				<include name="${server.prefix}-scripts.jar" />
+			</preserveintarget>
+		</sync>
+	</target>
+
+</project>

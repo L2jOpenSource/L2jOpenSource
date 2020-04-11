@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- ssq06_2122_ssq02 -->
+	<zone name="ssq06_2122_ssq02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7942" maxZ="-7792">
+		<node X="-51341" Y="-250441" />
+		<node X="-50707" Y="-250441" />
+		<node X="-50704" Y="-248628" />
+		<node X="-51358" Y="-248623" />
+	</zone>
+	<!-- ssq06_2122_ssq03 -->
+	<zone name="ssq06_2122_ssq03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7943" maxZ="-7793">
+		<node X="-49996" Y="-250421" />
+		<node X="-49357" Y="-250435" />
+		<node X="-49353" Y="-248609" />
+		<node X="-49997" Y="-248607" />
+	</zone>
+	<!-- ssq06_2122_ssq04 -->
+	<zone name="ssq06_2122_ssq04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7943" maxZ="-7793">
+		<node X="-48550" Y="-250571" />
+		<node X="-47916" Y="-250566" />
+		<node X="-47919" Y="-249976" />
+		<node X="-48547" Y="-249979" />
+	</zone>
+	<!-- ssq06_2122_ssq05 -->
+	<zone name="ssq06_2122_ssq05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7944" maxZ="-7794">
+		<node X="-49201" Y="-247221" />
+		<node X="-47871" Y="-247227" />
+		<node X="-47877" Y="-246588" />
+		<node X="-49196" Y="-246601" />
+	</zone>
+	<!-- ssq06_2122_ssq06 -->
+	<zone name="ssq06_2122_ssq06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7941" maxZ="-7791">
+		<node X="-48555" Y="-245965" />
+		<node X="-47932" Y="-245967" />
+		<node X="-47918" Y="-245368" />
+		<node X="-48550" Y="-245372" />
+	</zone>
+	<!-- ssq06_2122_ssq07 -->
+	<zone name="ssq06_2122_ssq07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7943" maxZ="-7793">
+		<node X="-51024" Y="-246956" />
+		<node X="-50393" Y="-246958" />
+		<node X="-50389" Y="-245628" />
+		<node X="-51031" Y="-245623" />
+	</zone>
+	<!-- ssq06_2122_ssq08 -->
+	<zone name="ssq06_2122_ssq08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7943" maxZ="-7793">
+		<node X="-52883" Y="-247575" />
+		<node X="-51561" Y="-247575" />
+		<node X="-51557" Y="-246946" />
+		<node X="-52882" Y="-246928" />
+	</zone>
+	<!-- ssq06_2122_ssq09 -->
+	<zone name="ssq06_2122_ssq09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7942" maxZ="-7792">
+		<node X="-53154" Y="-245965" />
+		<node X="-52531" Y="-245966" />
+		<node X="-52528" Y="-245364" />
+		<node X="-53159" Y="-245367" />
+	</zone>
+	<!-- ssq06_2122_ssq10 -->
+	<zone name="ssq06_2122_ssq10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7943" maxZ="-7793">
+		<node X="-53166" Y="-244874" />
+		<node X="-52539" Y="-244878" />
+		<node X="-52539" Y="-244273" />
+		<node X="-53176" Y="-244274" />
+	</zone>
+	<!-- ssq06_2122_ssq11 -->
+	<zone name="ssq06_2122_ssq11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7946" maxZ="-7796">
+		<node X="-53127" Y="-243006" />
+		<node X="-51795" Y="-243023" />
+		<node X="-51783" Y="-242381" />
+		<node X="-53123" Y="-242374" />
+	</zone>
+	<!-- ssq06_2122_ssq12 -->
+	<zone name="ssq06_2122_ssq12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7946" maxZ="-7796">
+		<node X="-53165" Y="-240271" />
+		<node X="-52537" Y="-240269" />
+		<node X="-52543" Y="-239667" />
+		<node X="-53159" Y="-239672" />
+	</zone>
+	<!-- ssq06_2122_ssq13 -->
+	<zone name="ssq06_2122_ssq13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7943" maxZ="-7793">
+		<node X="-52202" Y="-241007" />
+		<node X="-51557" Y="-241003" />
+		<node X="-51564" Y="-239725" />
+		<node X="-52198" Y="-239720" />
+	</zone>
+	<!-- ssq06_2122_ssq14 -->
+	<zone name="ssq06_2122_ssq14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7946" maxZ="-7796">
+		<node X="-51092" Y="-240280" />
+		<node X="-49780" Y="-240283" />
+		<node X="-49774" Y="-239646" />
+		<node X="-51089" Y="-239644" />
+	</zone>
+	<!-- ssq06_2122_ssq15 -->
+	<zone name="ssq06_2122_ssq15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7945" maxZ="-7795">
+		<node X="-51059" Y="-243981" />
+		<node X="-50417" Y="-243974" />
+		<node X="-50409" Y="-242185" />
+		<node X="-51068" Y="-242181" />
+	</zone>
+	<!-- ssq06_2122_ssq16 -->
+	<zone name="ssq06_2122_ssq16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7943" maxZ="-7793">
+		<node X="-48557" Y="-244873" />
+		<node X="-47925" Y="-244876" />
+		<node X="-47927" Y="-244280" />
+		<node X="-48557" Y="-244273" />
+	</zone>
+	<!-- ssq06_2122_ssq17 -->
+	<zone name="ssq06_2122_ssq17m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7939" maxZ="-7789">
+		<node X="-49285" Y="-241676" />
+		<node X="-47980" Y="-241686" />
+		<node X="-47980" Y="-241055" />
+		<node X="-49293" Y="-241049" />
+	</zone>
+	<!-- ssq06_2122_ssq18 -->
+	<zone name="ssq06_2122_ssq18m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7942" maxZ="-7792">
+		<node X="-48565" Y="-240267" />
+		<node X="-47933" Y="-240265" />
+		<node X="-47918" Y="-239676" />
+		<node X="-48563" Y="-239674" />
+	</zone>
+	<!-- ssq06_2122_ssq19 -->
+	<zone name="ssq06_2122_ssq19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7941" maxZ="-7791">
+		<node X="-47451" Y="-240285" />
+		<node X="-46858" Y="-240291" />
+		<node X="-46861" Y="-239653" />
+		<node X="-47452" Y="-239654" />
+	</zone>
+	<!-- ssq06_2122_ssq20 -->
+	<zone name="ssq06_2122_ssq20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7949" maxZ="-7799">
+		<node X="-46021" Y="-240251" />
+		<node X="-44694" Y="-240246" />
+		<node X="-44696" Y="-239624" />
+		<node X="-46026" Y="-239619" />
+	</zone>
+	<!-- ssq06_2122_ssq21 -->
+	<zone name="ssq06_2122_ssq21m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7938" maxZ="-7788">
+		<node X="-43922" Y="-240286" />
+		<node X="-43338" Y="-240289" />
+		<node X="-43340" Y="-239657" />
+		<node X="-43929" Y="-239659" />
+	</zone>
+	<!-- ssq06_2122_ssq22 -->
+	<zone name="ssq06_2122_ssq22m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7943" maxZ="-7793">
+		<node X="-42836" Y="-240296" />
+		<node X="-42251" Y="-240298" />
+		<node X="-42253" Y="-239648" />
+		<node X="-42835" Y="-239664" />
+	</zone>
+	<!-- ssq06_2122_ssq23 -->
+	<zone name="ssq06_2122_ssq23m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7945" maxZ="-7795">
+		<node X="-42866" Y="-242657" />
+		<node X="-42216" Y="-242655" />
+		<node X="-42225" Y="-241315" />
+		<node X="-42870" Y="-241320" />
+	</zone>
+	<!-- ssq06_2122_ssq24 -->
+	<zone name="ssq06_2122_ssq24m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7953" maxZ="-7803">
+		<node X="-44952" Y="-243609" />
+		<node X="-44299" Y="-243613" />
+		<node X="-44291" Y="-241782" />
+		<node X="-44950" Y="-241786" />
+	</zone>
+	<!-- ssq06_2122_ssq25 -->
+	<zone name="ssq06_2122_ssq25m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7947" maxZ="-7797">
+		<node X="-47468" Y="-242874" />
+		<node X="-46840" Y="-242878" />
+		<node X="-46840" Y="-241549" />
+		<node X="-47465" Y="-241553" />
+	</zone>
+	<!-- ssq06_2122_ssq26 -->
+	<zone name="ssq06_2122_ssq26m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7938" maxZ="-7788">
+		<node X="-47452" Y="-244894" />
+		<node X="-46855" Y="-244893" />
+		<node X="-46860" Y="-244259" />
+		<node X="-47451" Y="-244259" />
+	</zone>
+	<!-- ssq06_2122_ssq27 -->
+	<zone name="ssq06_2122_ssq27m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7920" maxZ="-7770">
+		<node X="-45669" Y="-244911" />
+		<node X="-44345" Y="-244888" />
+		<node X="-44343" Y="-244265" />
+		<node X="-45663" Y="-244252" />
+	</zone>
+	<!-- ssq06_2122_ssq28 -->
+	<zone name="ssq06_2122_ssq28m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7942" maxZ="-7792">
+		<node X="-42837" Y="-244899" />
+		<node X="-42253" Y="-244899" />
+		<node X="-42248" Y="-244253" />
+		<node X="-42836" Y="-244259" />
+	</zone>
+	<!-- ssq06_2122_ssq29 -->
+	<zone name="ssq06_2122_ssq29m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7942" maxZ="-7792">
+		<node X="-42868" Y="-245964" />
+		<node X="-42224" Y="-245964" />
+		<node X="-42223" Y="-245357" />
+		<node X="-42859" Y="-245358" />
+	</zone>
+	<!-- ssq06_2122_ssq30 -->
+	<zone name="ssq06_2122_ssq30m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7948" maxZ="-7798">
+		<node X="-43595" Y="-247862" />
+		<node X="-42266" Y="-247868" />
+		<node X="-42263" Y="-247240" />
+		<node X="-43593" Y="-247237" />
+	</zone>
+	<!-- ssq06_2122_ssq31 -->
+	<zone name="ssq06_2122_ssq31m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7945" maxZ="-7795">
+		<node X="-42866" Y="-250576" />
+		<node X="-42225" Y="-250568" />
+		<node X="-42225" Y="-249971" />
+		<node X="-42863" Y="-249969" />
+	</zone>
+	<!-- ssq06_2122_ssq32 -->
+	<zone name="ssq06_2122_ssq32m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7940" maxZ="-7790">
+		<node X="-43819" Y="-250558" />
+		<node X="-43197" Y="-250559" />
+		<node X="-43188" Y="-249233" />
+		<node X="-43823" Y="-249232" />
+	</zone>
+	<!-- ssq06_2122_ssq33 -->
+	<zone name="ssq06_2122_ssq33m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7942" maxZ="-7792">
+		<node X="-45622" Y="-250581" />
+		<node X="-44269" Y="-250586" />
+		<node X="-44270" Y="-249957" />
+		<node X="-45618" Y="-249962" />
+	</zone>
+	<!-- ssq06_2122_ssq34 -->
+	<zone name="ssq06_2122_ssq34m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7945" maxZ="-7795">
+		<node X="-47473" Y="-250571" />
+		<node X="-46840" Y="-250563" />
+		<node X="-46837" Y="-249971" />
+		<node X="-47474" Y="-249963" />
+	</zone>
+	<!-- ssq06_2122_ssq35 -->
+	<zone name="ssq06_2122_ssq35m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7941" maxZ="-7791">
+		<node X="-47417" Y="-249176" />
+		<node X="-46103" Y="-249176" />
+		<node X="-46102" Y="-248549" />
+		<node X="-47418" Y="-248559" />
+	</zone>
+	<!-- ssq06_2122_ssq36 -->
+	<zone name="ssq06_2122_ssq36m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7945" maxZ="-7795">
+		<node X="-44993" Y="-248091" />
+		<node X="-44330" Y="-248093" />
+		<node X="-44325" Y="-246247" />
+		<node X="-44988" Y="-246249" />
+	</zone>
+	<!-- ssq06_2122_ssq37 -->
+	<zone name="ssq06_2122_ssq37m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-7943" maxZ="-7793">
+		<node X="-47470" Y="-245961" />
+		<node X="-46828" Y="-245959" />
+		<node X="-46832" Y="-245364" />
+		<node X="-47471" Y="-245356" />
+	</zone>
+</list>

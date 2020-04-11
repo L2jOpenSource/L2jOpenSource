@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio04_npc1923_001 -->
+	<spawn zone="gludio_npc1923_00101">
+		<npc id="30666" x="-671" y="179051" z="-3708" heading="32768" respawnDelay="60" /> <!-- Sla -->
+	</spawn>
+	<!-- gludio04_npc1923_002 -->
+	<spawn zone="gludio_npc1923_00201">
+		<npc id="30660" x="-21101" y="178989" z="-4094" heading="0" respawnDelay="60" /> <!-- Windy Shaoring -->
+	</spawn>
+	<!-- gludio04_npc1923_003 -->
+	<spawn zone="gludio_npc1923_00301">
+		<npc id="30612" x="-16895" y="194229" z="-4207" heading="11000" respawnDelay="60" /> <!-- Casian -->
+	</spawn>
+	<!-- gludio04_npc1923_004 -->
+	<spawn zone="gludio_npc1923_00401">
+		<npc id="32368" x="-21982" y="186630" z="-4312" heading="0" respawnDelay="60" /> <!-- Weathered Rock -->
+	</spawn>
+	<!-- gludio40_1923_01 -->
+	<spawn zone="gludio40_1923_01m1">
+		<npc id="20059" count="3" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="3" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio40_1923_02 -->
+	<spawn zone="gludio40_1923_02m1">
+		<npc id="20059" count="2" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20063" count="3" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="3" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio40_1923_03 -->
+	<spawn zone="gludio40_1923_03m1">
+		<npc id="20059" count="1" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="3" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio41_1923_01 -->
+	<spawn zone="gludio41_1923_01m1">
+		<npc id="20059" count="1" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20547" count="2" respawnDelay="20" /> <!-- Ol Mahum Reserve -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="3" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio41_1923_02 -->
+	<spawn zone="gludio41_1923_02m1">
+		<npc id="20059" count="2" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20547" count="2" respawnDelay="20" /> <!-- Ol Mahum Reserve -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="2" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio41_1923_03 -->
+	<spawn zone="gludio41_1923_03m1">
+		<npc id="20059" count="3" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="3" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio41_1923_04 -->
+	<spawn zone="gludio41_1923_04m1">
+		<npc id="20059" count="2" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="4" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio04_1923_01 -->
+	<spawn zone="gludio04_1923_01m1">
+		<npc id="20067" count="3" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20068" count="2" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+		<npc id="20070" count="3" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1923_02 -->
+	<spawn zone="gludio04_1923_02m1">
+		<npc id="20072" count="3" respawnDelay="27" /> <!-- Basilisk -->
+	</spawn>
+	<!-- gludio04_1923_03 -->
+	<spawn zone="gludio04_1923_03m1">
+		<npc id="20072" count="4" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20190" count="1" respawnDelay="27" /> <!-- Skeleton Marauder -->
+		<npc id="20191" count="3" respawnDelay="27" /> <!-- Skeleton Raider -->
+	</spawn>
+	<!-- gludio04_1923_04 -->
+	<spawn zone="gludio04_1923_04m1">
+		<npc id="20191" count="4" respawnDelay="27" /> <!-- Skeleton Raider -->
+		<npc id="20080" count="1" respawnDelay="27" /> <!-- Ant Captain -->
+		<npc id="20083" count="3" respawnDelay="27" /> <!-- Granite Golem -->
+	</spawn>
+	<!-- gludio04_1923_05 -->
+	<spawn zone="gludio04_1923_05m1">
+		<npc id="20072" count="3" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20190" count="2" respawnDelay="27" /> <!-- Skeleton Marauder -->
+		<npc id="20191" count="3" respawnDelay="27" /> <!-- Skeleton Raider -->
+	</spawn>
+	<!-- gludio04_1923_06 -->
+	<spawn zone="gludio04_1923_06m1">
+		<npc id="20067" count="4" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+	</spawn>
+	<!-- gludio04_1923_07 -->
+	<spawn zone="gludio04_1923_07m1">
+		<npc id="20068" count="2" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+		<npc id="20072" count="3" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20190" count="2" respawnDelay="27" /> <!-- Skeleton Marauder -->
+		<npc id="20191" count="3" respawnDelay="27" /> <!-- Skeleton Raider -->
+	</spawn>
+	<!-- gludio04_1923_08 -->
+	<spawn zone="gludio04_1923_08m1">
+		<npc id="20072" count="1" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20191" count="2" respawnDelay="27" /> <!-- Skeleton Raider -->
+	</spawn>
+	<!-- gludio04_1923_09 -->
+	<spawn zone="gludio04_1923_09m1">
+		<npc id="20070" count="4" respawnDelay="27" /> <!-- Lesser Basilisk -->
+		<npc id="20190" count="2" respawnDelay="27" /> <!-- Skeleton Marauder -->
+	</spawn>
+	<!-- gludio04_1923_10 -->
+	<spawn zone="gludio04_1923_10m1">
+		<npc id="20191" count="2" respawnDelay="27" /> <!-- Skeleton Raider -->
+		<npc id="20083" count="3" respawnDelay="27" /> <!-- Granite Golem -->
+	</spawn>
+	<!-- gludio04_1923_11 -->
+	<spawn zone="gludio04_1923_11m1">
+		<npc id="20191" count="2" respawnDelay="27" /> <!-- Skeleton Raider -->
+		<npc id="20080" count="1" respawnDelay="27" /> <!-- Ant Captain -->
+		<npc id="20083" count="2" respawnDelay="27" /> <!-- Granite Golem -->
+	</spawn>
+	<!-- gludio04_1923_12 -->
+	<spawn zone="gludio04_1923_12m1">
+		<npc id="20083" count="2" respawnDelay="27" /> <!-- Granite Golem -->
+		<npc id="20085" count="2" respawnDelay="27" /> <!-- Puncher -->
+	</spawn>
+	<!-- gludio04_1923_13 -->
+	<spawn zone="gludio04_1923_13m1">
+		<npc id="20083" count="2" respawnDelay="27" /> <!-- Granite Golem -->
+		<npc id="20085" count="1" respawnDelay="27" /> <!-- Puncher -->
+	</spawn>
+	<!-- gludio04_1923_14 -->
+	<spawn zone="gludio04_1923_14m1">
+		<npc id="20191" count="2" respawnDelay="27" /> <!-- Skeleton Raider -->
+		<npc id="20079" count="1" respawnDelay="27" /> <!-- Ant -->
+		<npc id="20083" count="2" respawnDelay="27" /> <!-- Granite Golem -->
+	</spawn>
+	<!-- gludio04_1923_15 -->
+	<spawn zone="gludio04_1923_15m1">
+		<npc id="20080" count="1" respawnDelay="27" /> <!-- Ant Captain -->
+		<npc id="20083" count="4" respawnDelay="27" /> <!-- Granite Golem -->
+		<npc id="20085" count="3" respawnDelay="27" /> <!-- Puncher -->
+	</spawn>
+	<!-- gludio04_1923_16 -->
+	<spawn zone="gludio04_1923_16m1">
+		<npc id="20083" count="6" respawnDelay="27" /> <!-- Granite Golem -->
+		<npc id="20085" count="6" respawnDelay="27" /> <!-- Puncher -->
+		<npc id="20192" count="6" respawnDelay="27" /> <!-- Tyrant -->
+		<npc id="20088" count="2" respawnDelay="27" /> <!-- Ant Warrior Captain -->
+	</spawn>
+	<!-- gludio04_1923_17 -->
+	<spawn zone="gludio04_1923_17m1">
+		<npc id="20191" count="3" respawnDelay="27" /> <!-- Skeleton Raider -->
+		<npc id="20083" count="5" respawnDelay="27" /> <!-- Granite Golem -->
+	</spawn>
+	<!-- gludio04_1923_18 -->
+	<spawn zone="gludio04_1923_18m1">
+		<npc id="20083" count="2" respawnDelay="27" /> <!-- Granite Golem -->
+		<npc id="20085" count="3" respawnDelay="27" /> <!-- Puncher -->
+		<npc id="20192" count="2" respawnDelay="27" /> <!-- Tyrant -->
+	</spawn>
+	<!-- gludio04_1923_19 -->
+	<spawn zone="gludio04_1923_19m1">
+		<npc id="20191" count="3" respawnDelay="27" /> <!-- Skeleton Raider -->
+		<npc id="20083" count="3" respawnDelay="27" /> <!-- Granite Golem -->
+	</spawn>
+	<!-- gludio04_1923_20 -->
+	<spawn zone="gludio04_1923_20m1">
+		<npc id="20085" count="2" respawnDelay="27" /> <!-- Puncher -->
+		<npc id="20192" count="4" respawnDelay="27" /> <!-- Tyrant -->
+	</spawn>
+	<!-- gludio04_1923_21 -->
+	<spawn zone="gludio04_1923_21m1">
+		<npc id="20085" count="2" respawnDelay="27" /> <!-- Puncher -->
+		<npc id="20192" count="3" respawnDelay="27" /> <!-- Tyrant -->
+		<npc id="20193" count="2" respawnDelay="27" /> <!-- Tyrant Kingpin -->
+	</spawn>
+	<!-- gludio04_1923_22 -->
+	<spawn zone="gludio04_1923_22m1">
+		<npc id="20192" count="3" respawnDelay="27" /> <!-- Tyrant -->
+		<npc id="20193" count="4" respawnDelay="27" /> <!-- Tyrant Kingpin -->
+	</spawn>
+	<!-- gludio04_1923_23 -->
+	<spawn zone="gludio04_1923_23m1">
+		<npc id="20085" count="3" respawnDelay="27" /> <!-- Puncher -->
+		<npc id="20192" count="5" respawnDelay="27" /> <!-- Tyrant -->
+		<npc id="20193" count="5" respawnDelay="27" /> <!-- Tyrant Kingpin -->
+	</spawn>
+	<!-- gludio04_1923_24 -->
+	<spawn zone="gludio04_1923_24m1">
+		<npc id="20085" count="2" respawnDelay="27" /> <!-- Puncher -->
+		<npc id="20192" count="3" respawnDelay="27" /> <!-- Tyrant -->
+		<npc id="20193" count="3" respawnDelay="27" /> <!-- Tyrant Kingpin -->
+	</spawn>
+	<!-- gludio04_1923_25 -->
+	<spawn zone="gludio04_1923_25m1">
+		<npc id="20192" count="3" respawnDelay="27" /> <!-- Tyrant -->
+		<npc id="20193" count="2" respawnDelay="27" /> <!-- Tyrant Kingpin -->
+	</spawn>
+	<!-- gludio04_1923_26 -->
+	<spawn zone="gludio04_1923_26m1">
+		<npc id="20083" count="7" respawnDelay="27" /> <!-- Granite Golem -->
+		<npc id="20085" count="5" respawnDelay="27" /> <!-- Puncher -->
+		<npc id="20192" count="8" respawnDelay="27" /> <!-- Tyrant -->
+	</spawn>
+	<!-- gludio04_1923_27 -->
+	<spawn zone="gludio04_1923_27m1">
+		<npc id="20080" count="1" respawnDelay="27" /> <!-- Ant Captain -->
+		<npc id="20083" count="3" respawnDelay="27" /> <!-- Granite Golem -->
+		<npc id="20085" count="2" respawnDelay="27" /> <!-- Puncher -->
+		<npc id="20192" count="4" respawnDelay="27" /> <!-- Tyrant -->
+	</spawn>
+	<!-- gludio04_1923_28 -->
+	<spawn zone="gludio04_1923_28m1">
+		<npc id="20077" count="8" respawnDelay="27" /> <!-- Androscorpio Hunter -->
+		<npc id="20083" count="7" respawnDelay="27" /> <!-- Granite Golem -->
+		<npc id="20085" count="5" respawnDelay="27" /> <!-- Puncher -->
+	</spawn>
+	<!-- gludio04_1923_29 -->
+	<spawn zone="gludio04_1923_29m1">
+		<npc id="20072" count="5" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20074" count="5" respawnDelay="27" /> <!-- Androscorpio -->
+		<npc id="20077" count="5" respawnDelay="27" /> <!-- Androscorpio Hunter -->
+	</spawn>
+	<!-- gludio04_1923_30 -->
+	<spawn zone="gludio04_1923_30m1">
+		<npc id="20070" count="5" respawnDelay="27" /> <!-- Lesser Basilisk -->
+		<npc id="20074" count="5" respawnDelay="27" /> <!-- Androscorpio -->
+		<npc id="20077" count="5" respawnDelay="27" /> <!-- Androscorpio Hunter -->
+	</spawn>
+	<!-- gludio04_1923_31 -->
+	<spawn zone="gludio04_1923_31m1">
+		<npc id="20083" count="5" respawnDelay="27" /> <!-- Granite Golem -->
+		<npc id="20085" count="5" respawnDelay="27" /> <!-- Puncher -->
+	</spawn>
+	<!-- gludio04_1923_32 -->
+	<spawn zone="gludio04_1923_32m1">
+		<npc id="20074" count="3" respawnDelay="27" /> <!-- Androscorpio -->
+		<npc id="20077" count="3" respawnDelay="27" /> <!-- Androscorpio Hunter -->
+		<npc id="20083" count="3" respawnDelay="27" /> <!-- Granite Golem -->
+	</spawn>
+	<!-- gludio04_1923_p15 -->
+	<spawn zone="gludio04_1923_p15m1">
+		<npc id="20745" count="2" respawnDelay="55" /> <!-- Gigantiops -->
+	</spawn>
+	<!-- gludio04_1923_p16 -->
+	<spawn zone="gludio04_1923_p16m1">
+		<npc id="20745" count="7" respawnDelay="55" /> <!-- Gigantiops -->
+	</spawn>
+	<!-- gludio04_1923_p22 -->
+	<spawn zone="gludio04_1923_p22m1">
+		<npc id="20745" count="3" respawnDelay="55" /> <!-- Gigantiops -->
+	</spawn>
+	<!-- gludio04_1923_p23 -->
+	<spawn zone="gludio04_1923_p23m1">
+		<npc id="20745" count="6" respawnDelay="55" /> <!-- Gigantiops -->
+	</spawn>
+	<!-- gludio04_1923_p24 -->
+	<spawn zone="gludio04_1923_p24m1">
+		<npc id="20745" count="1" respawnDelay="55" /> <!-- Gigantiops -->
+	</spawn>
+	<!-- gludio04_1923_p25 -->
+	<spawn zone="gludio04_1923_p25m1">
+		<npc id="20745" count="1" respawnDelay="55" /> <!-- Gigantiops -->
+	</spawn>
+	<!-- gludio04_1923_p26 -->
+	<spawn zone="gludio04_1923_p26m1">
+		<npc id="20745" count="7" respawnDelay="55" /> <!-- Gigantiops -->
+	</spawn>
+	<!-- gludio04_1923_p28 -->
+	<spawn zone="gludio04_1923_p28m1">
+		<npc id="20745" count="1" respawnDelay="55" /> <!-- Gigantiops -->
+	</spawn>
+	<!-- gludio04_1923_p33 -->
+	<spawn zone="gludio04_1923_p33m1">
+		<npc id="20745" count="5" respawnDelay="55" /> <!-- Gigantiops -->
+	</spawn>
+	<!-- gludio05_1923_01 -->
+	<spawn zone="gludio05_1923_01m1">
+		<npc id="20075" count="2" respawnDelay="70" respawnRandom="20" /> <!-- Ant Larva -->
+	</spawn>
+	<!-- gludio05_1923_02 -->
+	<spawn zone="gludio05_1923_02m1">
+		<npc id="20075" count="2" respawnDelay="70" respawnRandom="20" /> <!-- Ant Larva -->
+		<npc id="20079" count="2" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+	</spawn>
+	<!-- gludio05_1923_03 -->
+	<spawn zone="gludio05_1923_03m1">
+		<npc id="20075" count="7" respawnDelay="60" respawnRandom="20" /> <!-- Ant Larva -->
+		<npc id="20079" count="7" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="7" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+	</spawn>
+	<!-- gludio05_1923_07 -->
+	<spawn zone="gludio05_1923_07m1">
+		<npc id="20082" count="13" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="13" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20086" count="13" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+	</spawn>
+	<!-- gludio05_1923_09 -->
+	<spawn zone="gludio05_1923_09m1">
+		<npc id="20079" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20086" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+	</spawn>
+	<!-- gludio05_1923_10 -->
+	<spawn zone="gludio05_1923_10m1">
+		<npc id="20082" count="7" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="7" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20086" count="7" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+	</spawn>
+	<!-- gludio05_1923_13 -->
+	<spawn zone="gludio05_1923_13m1">
+		<npc id="20084" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20084" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20087" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20087" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20088" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+	</spawn>
+	<!-- gludio05_1923_15 -->
+	<spawn zone="gludio05_1923_15m1">
+		<npc id="20084" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20084" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20087" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20087" count="2" respawnDelay="70" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20088" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+	</spawn>
+	<!-- gludio05_1923_17 -->
+	<spawn zone="gludio05_1923_17m1">
+		<npc id="20082" count="5" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20086" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+	</spawn>
+	<!-- gludio05_1923_19 -->
+	<spawn zone="gludio05_1923_19m1">
+		<npc id="20082" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20086" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+	</spawn>
+	<!-- gludio05_1923_20 -->
+	<spawn zone="gludio05_1923_20m1">
+		<npc id="20079" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20079" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20080" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20081" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Overseer -->
+	</spawn>
+	<!-- gludio05_1923_21 -->
+	<spawn zone="gludio05_1923_21m1">
+		<npc id="20079" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20079" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20080" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20081" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Overseer -->
+	</spawn>
+	<!-- gludio05_1923_24 -->
+	<spawn zone="gludio05_1923_24m1">
+		<npc id="20082" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20086" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+	</spawn>
+	<!-- gludio05_1923_27 -->
+	<spawn zone="gludio05_1923_27m1">
+		<npc id="20084" count="10" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20086" count="10" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20088" count="10" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+	</spawn>
+	<!-- gludio05_1923_28 -->
+	<spawn zone="gludio05_1923_28m1">
+		<npc id="20087" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="2" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="2" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+	</spawn>
+	<!-- gludio05_1923_30 -->
+	<spawn zone="gludio05_1923_30m1">
+		<npc id="20087" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20087" count="4" respawnDelay="70" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20088" count="4" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20089" count="4" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+	</spawn>
+	<!-- gludio05_1923_31 -->
+	<spawn zone="gludio05_1923_31m1">
+		<npc id="20087" count="9" respawnDelay="70" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="9" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="9" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+	</spawn>
+	<!-- gludio05_1923_33 -->
+	<spawn zone="gludio05_1923_33m1">
+		<npc id="20086" count="3" respawnDelay="70" respawnRandom="20" /> <!-- Ant Guard -->
+	</spawn>
+	<!-- gludio05_1923_34 -->
+	<spawn zone="gludio05_1923_34m1">
+		<npc id="20088" count="12" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="12" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20090" count="12" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant Leader -->
+	</spawn>
+	<!-- gludio05_1923_36 -->
+	<spawn zone="gludio05_1923_36m1">
+		<npc id="20087" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20089" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20090" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant Leader -->
+		<npc id="20090" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant Leader -->
+	</spawn>
+	<!-- gludio05_1923_40 -->
+	<spawn zone="gludio05_1923_40m1">
+		<npc id="20075" count="10" respawnDelay="70" respawnRandom="20" /> <!-- Ant Larva -->
+		<npc id="20079" count="10" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+	</spawn>
+	<!-- gludio05_1923_41 -->
+	<spawn zone="gludio05_1923_41m1">
+		<npc id="20075" count="6" respawnDelay="70" respawnRandom="20" /> <!-- Ant Larva -->
+		<npc id="20079" count="6" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+	</spawn>
+	<!-- gludio05_1923_42 -->
+	<spawn zone="gludio05_1923_42m1">
+		<npc id="20075" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Larva -->
+		<npc id="20079" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20079" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+	</spawn>
+	<!-- gludio05_1923_43 -->
+	<spawn zone="gludio05_1923_43m1">
+		<npc id="20075" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Larva -->
+		<npc id="20079" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Captain -->
+	</spawn>
+	<!-- gludio05_1923_44 -->
+	<spawn zone="gludio05_1923_44m1">
+		<npc id="20079" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20079" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20080" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20081" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Overseer -->
+	</spawn>
+	<!-- gludio05_1923_46 -->
+	<spawn zone="gludio05_1923_46m1">
+		<npc id="20081" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20081" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20082" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20082" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20084" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Patrol -->
+	</spawn>
+	<!-- gludio05_1923_47 -->
+	<spawn zone="gludio05_1923_47m1">
+		<npc id="20082" count="12" respawnDelay="70" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="12" respawnDelay="70" respawnRandom="20" /> <!-- Ant Patrol -->
+	</spawn>
+	<!-- gludio05_1923_49 -->
+	<spawn zone="gludio05_1923_49m1">
+		<npc id="20079" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20079" count="5" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20081" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20081" count="5" respawnDelay="70" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20082" count="5" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="5" respawnDelay="70" respawnRandom="20" /> <!-- Ant Patrol -->
+	</spawn>
+	<!-- gludio05_1923_52 -->
+	<spawn zone="gludio05_1923_52m1">
+		<npc id="20084" count="7" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20086" count="7" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20089" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant -->
+	</spawn>
+	<!-- gludio05_1923_51 -->
+	<spawn zone="gludio05_1923_51m1">
+		<npc id="20087" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20087" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20088" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20089" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+	</spawn>
+	<!-- gludio05_1923_55 -->
+	<spawn zone="gludio05_1923_55m1">
+		<npc id="20079" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+	</spawn>
+	<!-- gludio05_1923_56 -->
+	<spawn zone="gludio05_1923_56m1">
+		<npc id="20080" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20082" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+	</spawn>
+	<!-- gludio05_1923_57 -->
+	<spawn zone="gludio05_1923_57m1">
+		<npc id="20080" count="12" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="12" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+	</spawn>
+	<!-- gludio05_1923_58 -->
+	<spawn zone="gludio05_1923_58m1">
+		<npc id="20082" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20082" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20084" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20086" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20086" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Guard -->
+	</spawn>
+	<!-- gludio05_1923_61 -->
+	<spawn zone="gludio05_1923_61m1">
+		<npc id="20084" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20084" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20086" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20087" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20087" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20088" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+	</spawn>
+	<!-- gludio05_1923_63 -->
+	<spawn zone="gludio05_1923_63m1">
+		<npc id="20087" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+	</spawn>
+	<!-- gludio05_1923_65 -->
+	<spawn zone="gludio05_1923_65m1">
+		<npc id="20086" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20087" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20087" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20088" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20089" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+	</spawn>
+	<!-- gludio05_1923_68 -->
+	<spawn zone="gludio05_1923_68m1">
+		<npc id="20086" count="16" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20087" count="16" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="16" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="16" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant -->
+	</spawn>
+	<!-- gludio05_1923_70 -->
+	<spawn zone="gludio05_1923_70m1">
+		<npc id="20086" count="5" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20087" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20089" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20090" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant Leader -->
+		<npc id="20090" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant Leader -->
+	</spawn>
+	<!-- gludio05_1923_74 -->
+	<spawn zone="gludio05_1923_74m1">
+		<npc id="20087" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20087" count="7" respawnDelay="70" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20088" count="7" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="7" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20090" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant Leader -->
+	</spawn>
+	<!-- gludio05_1923_75 -->
+	<spawn zone="gludio05_1923_75m1">
+		<npc id="20087" count="12" respawnDelay="70" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="12" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="12" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+	</spawn>
+	<!-- gludio05_1923_78 -->
+	<spawn zone="gludio05_1923_78m1">
+		<npc id="20089" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20090" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant Leader -->
+	</spawn>
+	<!-- gludio05_1923_79 -->
+	<spawn zone="gludio05_1923_79m1">
+		<npc id="20086" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20086" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20088" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20088" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20089" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20090" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant Leader -->
+		<npc id="20090" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant Leader -->
+	</spawn>
+	<!-- gludio05_1923_80 -->
+	<spawn zone="gludio05_1923_80m1">
+		<npc id="20088" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20088" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20089" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20090" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant Leader -->
+		<npc id="20090" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant Leader -->
+	</spawn>
+	<!-- gludio05_1923_101 -->
+	<spawn zone="gludio05_1923_101m1">
+		<npc id="20086" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20088" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20088" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20089" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20090" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant Leader -->
+		<npc id="20090" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant Leader -->
+	</spawn>
+	<!-- gludio05_1923_102 -->
+	<spawn zone="gludio05_1923_102m1">
+		<npc id="20088" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20088" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+		<npc id="20089" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant -->
+		<npc id="20090" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Noble Ant Leader -->
+		<npc id="20090" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Noble Ant Leader -->
+	</spawn>
+	<!-- gludio05_1923_104 -->
+	<spawn zone="gludio05_1923_104m1">
+		<npc id="20084" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20086" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20087" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+		<npc id="20088" count="2" respawnDelay="70" respawnRandom="20" /> <!-- Ant Warrior Captain -->
+	</spawn>
+	<!-- gludio05_1923_107 -->
+	<spawn zone="gludio05_1923_107m1">
+		<npc id="20084" count="15" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+		<npc id="20086" count="15" respawnDelay="60" respawnRandom="20" /> <!-- Ant Guard -->
+		<npc id="20087" count="15" respawnDelay="60" respawnRandom="20" /> <!-- Ant Soldier -->
+	</spawn>
+	<!-- gludio05_1923_110 -->
+	<spawn zone="gludio05_1923_110m1">
+		<npc id="20080" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20081" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20082" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+	</spawn>
+	<!-- gludio05_1923_111 -->
+	<spawn zone="gludio05_1923_111m1">
+		<npc id="20079" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20079" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20082" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+	</spawn>
+	<!-- gludio05_1923_112 -->
+	<spawn zone="gludio05_1923_112m1">
+		<npc id="20079" count="9" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="9" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="9" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+	</spawn>
+	<!-- gludio05_1923_113 -->
+	<spawn zone="gludio05_1923_113m1">
+		<npc id="20080" count="9" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20082" count="9" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="9" respawnDelay="60" respawnRandom="20" /> <!-- Ant Patrol -->
+	</spawn>
+	<!-- gludio05_1923_116 -->
+	<spawn zone="gludio05_1923_116m1">
+		<npc id="20079" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+	</spawn>
+	<!-- gludio05_1923_117 -->
+	<spawn zone="gludio05_1923_117m1">
+		<npc id="20075" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Larva -->
+		<npc id="20079" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20079" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20080" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20081" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Overseer -->
+	</spawn>
+	<!-- gludio05_1923_124 -->
+	<spawn zone="gludio05_1923_124m1">
+		<npc id="20075" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Ant Larva -->
+		<npc id="20079" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+	</spawn>
+	<!-- gludio05_1923_126 -->
+	<spawn zone="gludio05_1923_126m1">
+		<npc id="20075" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Larva -->
+		<npc id="20079" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Captain -->
+	</spawn>
+	<!-- gludio05_1923_127 -->
+	<spawn zone="gludio05_1923_127m1">
+		<npc id="20075" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Ant Larva -->
+		<npc id="20079" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+	</spawn>
+	<!-- gludio05_1923_128 -->
+	<spawn zone="gludio05_1923_128m1">
+		<npc id="20075" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Larva -->
+		<npc id="20079" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20079" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant -->
+		<npc id="20080" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20080" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Captain -->
+		<npc id="20081" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+	</spawn>
+	<!-- gludio05_1923_133 -->
+	<spawn zone="gludio05_1923_133m1">
+		<npc id="20081" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20081" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Overseer -->
+		<npc id="20082" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20082" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Recruit -->
+		<npc id="20084" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Ant Patrol -->
+	</spawn>
+	<!-- gludio44_1923_01 -->
+	<spawn zone="gludio44_1923_01m1">
+		<npc id="21265" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21266" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21267" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+	</spawn>
+	<!-- gludio44_1923_04 -->
+	<spawn zone="gludio44_1923_04m1">
+		<npc id="21265" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21266" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21268" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+	</spawn>
+	<!-- gludio44_1923_08 -->
+	<spawn zone="gludio44_1923_08m1">
+		<npc id="21265" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21267" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21268" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+	</spawn>
+	<!-- gludio44_1923_11 -->
+	<spawn zone="gludio44_1923_11m1">
+		<npc id="21265" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21266" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21268" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+	</spawn>
+	<!-- gludio44_1923_14 -->
+	<spawn zone="gludio44_1923_14m1">
+		<npc id="21265" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21266" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21267" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+	</spawn>
+	<!-- gludio44_1923_16 -->
+	<spawn zone="gludio44_1923_16m1">
+		<npc id="21265" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21266" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21268" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+	</spawn>
+	<!-- gludio44_1923_20 -->
+	<spawn zone="gludio44_1923_20m1">
+		<npc id="21265" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21267" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21268" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+	</spawn>
+	<!-- gludio44_1923_25 -->
+	<spawn zone="gludio44_1923_25m1">
+		<npc id="21265" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21266" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21267" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+	</spawn>
+	<!-- gludio44_1923_28 -->
+	<spawn zone="gludio44_1923_28m1">
+		<npc id="21266" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21267" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+		<npc id="21268" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Cave Ant Larva -->
+	</spawn>
+	<!-- gludio01_qm1923_01 -->
+	<spawn zone="gludio01_qm1923_01m1">
+		<npc id="27100" count="2" respawnDelay="180" /> <!-- Skeletal Mercenary -->
+	</spawn>
+	<!-- gludio01_qm1923_02 -->
+	<spawn zone="gludio01_qm1923_02m1">
+		<npc id="27100" count="2" respawnDelay="180" /> <!-- Skeletal Mercenary -->
+	</spawn>
+	<!-- gludio01_qm1923_03 -->
+	<spawn zone="gludio01_qm1923_03m1">
+		<npc id="27100" count="2" respawnDelay="180" /> <!-- Skeletal Mercenary -->
+	</spawn>
+	<!-- gludio01_qm1923_04 -->
+	<spawn zone="gludio01_qm1923_04m1">
+		<npc id="27100" count="2" respawnDelay="180" /> <!-- Skeletal Mercenary -->
+	</spawn>
+	<!-- gludio04_tb1923_02 -->
+	<spawn zone="gludio04_tb02_m1">
+		<npc id="18268" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- gludio04_tb1923_03 -->
+	<spawn zone="gludio04_tb03_m1">
+		<npc id="18269" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- gludio04_tb1923_16 -->
+	<spawn zone="gludio04_tb16_m1">
+		<npc id="18270" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

@@ -1,0 +1,3 @@
+Documentation: https://mariadb.com/kb/en/library/about-mariadb-connector-j/
+
+All versions: https://downloads.mariadb.com/Connectors/java/

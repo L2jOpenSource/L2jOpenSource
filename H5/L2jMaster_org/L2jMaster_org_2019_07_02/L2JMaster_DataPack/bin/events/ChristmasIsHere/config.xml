@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event name="ChristmasIsHere" active="14 12 2016-04 01 2016" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/eventConfig.xsd">
+	<droplist>
+		<add item="14612" min="1" max="3" chance="50%" /> <!-- Santa's Red Socks -->
+		<add item="5556" min="1" max="1" chance="25%" /> <!-- Star Ornament -->
+		<add item="5557" min="1" max="1" chance="25%" /> <!-- Bead Ornament -->
+		<add item="5558" min="1" max="1" chance="25%" /> <!-- Fir Tree Branch -->
+		<add item="5559" min="1" max="1" chance="15%" /> <!-- Flower Pot -->
+	</droplist>
+   <spawnlist>
+		<add npc="13184" x="83672" y="148857" z="-3404" heading="33865" />
+		<add npc="13006" x="82983" y="53327" z="-1495" heading="0" />
+		<add npc="13184" x="83017" y="53576" z="-1494" heading="31385" />
+		<add npc="13006" x="82989" y="53826" z="-1494" heading="0" />
+		<add npc="13007" x="147454" y="26907" z="-2203" heading="0" />
+		<add npc="13007" x="43850" y="-48702" z="-796" heading="0" />
+		<add npc="13184" x="44214" y="-48441" z="-796" heading="27931" />
+		<add npc="13184" x="110949" y="218981" z="-3542" heading="2714" />
+		<add npc="13006" x="111697" y="218886" z="-3542" heading="0" />
+		<add npc="13006" x="111071" y="218885" z="-3542" heading="0" />
+		<add npc="13184" x="147786" y="25938" z="-2012" heading="46171" />
+		<add npc="13184" x="86991" y="-143364" z="-1292" heading="5911" />
+		<add npc="13006" x="87138" y="-142673" z="-1340" heading="0" />
+		<add npc="13006" x="87590" y="-142679" z="-1340" heading="0" />
+		<add npc="13184" x="16602" y="142836" z="-2705" heading="16383" />
+		<add npc="13006" x="16455" y="142683" z="-2705" heading="0" />
+		<add npc="13006" x="16653" y="142683" z="-2705" heading="0" />
+		<add npc="13006" x="147939" y="-56024" z="-2774" heading="0" />
+		<add npc="13006" x="147479" y="-56023" z="-2780" heading="0" />
+		<add npc="13184" x="148143" y="-55561" z="-2742" heading="0" />
+		<add npc="13007" x="83458" y="148627" z="-3404" heading="0" />
+		<add npc="13006" x="47878" y="186906" z="-3485" heading="0" />
+	</spawnlist>
+		<messages>
+		<add type="onEnd" text="Christmas Is Here: Event end!" />
+		<add type="onEnter" text="Christmas Is Here: Event started!" />
+	</messages>
+</event>

@@ -1,0 +1,64 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Tatoo of Power -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="485" count="1"/>
+	</item>
+	<!-- Tattoo of Fire -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="486" count="1"/>
+	</item>
+	<!-- Tattoo of Resolve -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="487" count="1"/>
+	</item>
+	<!-- Tatoo of Flame -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="488" count="1"/>
+	</item>
+	<!-- Tatoo of Bravery -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="489" count="1"/>
+	</item>
+	<!-- Tatoo of Blood -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="490" count="1"/>
+	</item>
+	<!-- Tatoo of Absolute -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="491" count="1"/>
+	</item>
+	<!-- Tatoo of Soul -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="492" count="1"/>
+	</item>
+	<!-- Tatoo of Avadon -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="493" count="1"/>
+	</item>
+	<!-- Tatoo of Doom -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="493" count="1"/>
+	</item>
+	<!-- Tatoo of Pledge -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="494" count="1"/>
+	</item>
+	<!-- Tatoo of Divine -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="495" count="1"/>
+	</item>
+</list>

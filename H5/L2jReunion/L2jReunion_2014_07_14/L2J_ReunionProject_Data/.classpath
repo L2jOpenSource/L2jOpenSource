@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="dist/game/data/scripts"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/L2J_ReunionProject_Core"/>
+	<classpathentry kind="lib" path="/L2J_ReunionProject_Core/dist/libs/javolution-5.5.1.jar" sourcepath="/L2J_ReunionProject_Core/dist/libs/javolution-5.5.1-src.zip"/>
+	<classpathentry kind="lib" path="/L2J_ReunionProject_Core/dist/libs/mmocore.jar"/>
+	<classpathentry kind="lib" path="/L2J_ReunionProject_Core/dist/libs/netcon-1.7.jar"/>
+	<classpathentry kind="lib" path="/L2J_ReunionProject_Core/dist/libs/reunion-scripts.jar"/>
+	<classpathentry kind="lib" path="/L2J_ReunionProject_Core/dist/libs/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/L2J_ReunionProject_Core/dist/libs/reunion-engine.jar"/>
+	<classpathentry kind="lib" path="/L2J_ReunionProject_Core/dist/libs/reunion-events.jar"/>
+	<classpathentry kind="lib" path="/L2J_ReunionProject_Core/dist/libs/reunion-interface.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

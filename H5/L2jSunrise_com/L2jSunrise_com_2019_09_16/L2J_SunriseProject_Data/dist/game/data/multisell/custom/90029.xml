@@ -1,0 +1,189 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2011 by NeverMore -->
+
+<list maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Dynasty Helmet -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9422" count="1" />
+	</item>
+
+	<!-- Dynasty Gauntlet -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9423" count="1" />
+	</item>
+
+	<!-- Dynasty Boots -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9424" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Helmet -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9429" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Gloves -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9430" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Boots -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9431" count="1" />
+	</item>
+
+	<!-- Dynasty Circlet -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9438" count="1" />
+	</item>
+
+	<!-- Dynasty Gloves -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9439" count="1" />
+	</item>
+
+	<!-- Dynasty Shoes -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9440" count="1" />
+	</item>
+
+	<!-- Dynasty Shield -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9441" count="1" />
+	</item>
+
+	<!-- Dynasty Breast Plate -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9416" count="1" />
+	</item>
+
+	<!-- Dynasty Breast Plate - Bard -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9420" count="1" />
+	</item>
+
+	<!-- Dynasty Breast Plate - Force Master -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9419" count="1" />
+	</item>
+
+	<!-- Dynasty Breast Plate - Shield Master -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9417" count="1" />
+	</item>
+
+	<!-- Dynasty Breast Plate - Weapon Master -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9418" count="1" />
+	</item>
+
+	<!-- Dynasty Gaiter -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9421" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor - Bow Master -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9427" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor - Dagger Master -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9426" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor - Weapon Master -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="10127" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor - Force Master -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="10126" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor - Enchanter -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="10168" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9425" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor - Summoner -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="10214" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Leggings -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9428" count="1" />
+	</item>
+
+	<!-- Dynasty Tunic -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9432" count="1" />
+	</item>
+
+	<!-- Dynasty Tunic - Summoner -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9435" count="1" />
+	</item>
+
+	<!-- Dynasty Tunic - Human Wizard -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9436" count="1" />
+	</item>
+
+	<!-- Dynasty Tunic - Healer -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9433" count="1" />
+	</item>
+
+	<!-- Dynasty Tunic - Enchanter -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9434" count="1" />
+	</item>
+
+	<!-- Dynasty Stockings -->
+	<item>
+		<ingredient id="3483" count="1000" />
+		<production id="9437" count="1" />
+	</item>
+</list>

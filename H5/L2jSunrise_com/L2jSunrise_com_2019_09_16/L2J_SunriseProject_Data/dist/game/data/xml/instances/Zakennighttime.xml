@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Cavern of the Pirate Captain (nightmare)" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
+	<activityTime val="360" />
+	<allowSummon val="false" />
+	<exitPoint x="52241" y="218775" z="-3224" />
+</instance>

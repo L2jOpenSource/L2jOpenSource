@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Potions -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="50000000" />
+		<production id="5592" count="1000" />
+	</item>
+
+	<!-- Potion -->
+	<item>
+		<ingredient id="57" count="20000000" />
+		<production id="5591" count="1000" />
+	</item>
+
+	<!-- Bottle of Souls -->
+	<item>
+		<ingredient id="57" count="55000000" />
+		<production id="10409" count="1000" />
+	</item>
+
+	<!-- Full Bottle of Souls - 5 Souls (For Combat) -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="10411" count="1000" />
+	</item>
+
+
+	<!-- mystery Potion -->
+	<item>
+		<ingredient id="57" count="5000000" />
+		<production id="5234" count="1" />
+	</item>
+
+	<!-- Greater Swift Attack Potion -->
+	<item>
+		<ingredient id="57" count="5000000" />
+		<production id="1375" count="1" />
+	</item>
+
+	<!-- Greater Haste Potion -->
+	<item>
+		<ingredient id="57" count="5000000" />
+		<production id="1374" count="1" />
+	</item>
+
+	<!-- Greater Magic Haste Potion -->
+	<item>
+		<ingredient id="57" count="5000000" />
+		<production id="6036" count="1" />
+	</item>
+
+	<!-- Healing Potion -->
+	<item>
+		<ingredient id="57" count="50000000" />
+		<production id="1061" count="1000" />
+	</item>
+	<!-- Greater healing Potion -->
+	<item>
+		<ingredient id="57" count="50000000" />
+		<production id="1539" count="1000" />
+	</item>
+
+
+	<!-- Mana Potion -->
+	<item>
+		<ingredient id="57" count="80000000" />
+		<production id="728" count="1000" />
+	</item>
+
+	<!-- Elixir of Life (B-Grade) -->
+	<item>
+		<ingredient id="57" count="10000000" />
+		<production id="8625" count="1000" />
+	</item>
+
+	<!-- Elixir of Life (A-Grade) -->
+	<item>
+		<ingredient id="57" count="10000000" />
+		<production id="8626" count="1000" />
+	</item>
+
+	<!-- Elixir of Life (S-Grade) -->
+	<item>
+		<ingredient id="57" count="10000000" />
+		<production id="8627" count="1000" />
+	</item>
+
+	<!-- Elixir of Mental Strength (B-Grade) -->
+	<item>
+		<ingredient id="57" count="2000000" />
+		<production id="8631" count="1000" />
+	</item>
+
+	<!-- Elixir of Mental Strength (A-Grade) -->
+	<item>
+		<ingredient id="57" count="5000000" />
+		<production id="8632" count="1000" />
+	</item>
+
+	<!-- Elixir of Mental Strength (S-Grade) -->
+	<item>
+		<ingredient id="57" count="10000000" />
+		<production id="8633" count="1000" />
+	</item>
+
+	<!-- Elixir of CP (B-Grade) -->
+	<item>
+		<ingredient id="57" count="2000000" />
+		<production id="8637" count="1000" />
+	</item>
+
+	<!-- Elixir of CP (A-Grade) -->
+	<item>
+		<ingredient id="57" count="5000000" />
+		<production id="8638" count="1000" />
+	</item>
+
+	<!-- Elixir of CP (S-Grade) -->
+	<item>
+		<ingredient id="57" count="10000000" />
+		<production id="8639" count="1000" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5242" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5243" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5244" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5245" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5246" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5247" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5248" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5238" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5239" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5240" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5241" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5235" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5236" count="1" />
+	</item>
+
+	<!-- Greater Potion -->
+	<item>
+		<ingredient id="57" count="500000" />
+		<production id="5237" count="1" />
+	</item>
+
+</list>

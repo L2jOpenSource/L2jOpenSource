@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Greater СP Potion -->
+	<item>
+		<ingredient id="57" count="500000000"/>
+		<production id="5592" count="100"/>
+	</item> 
+	<!-- СP Potion -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5591" count="100"/>
+	</item> 
+	<!-- Greater Healing Potion -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="1539" count="500"/>
+	</item>
+		<!-- Mana Potion -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="728" count="500"/>
+	</item>
+	<!-- Elixir of Life (S-Grade) -->
+	<item>
+		<ingredient id="57" count="500000000"/>
+		<production id="8627" count="100"/>
+	</item>
+	<!-- Elixir of CP (S-Grade) -->
+	<item>
+		<ingredient id="57" count="500000000"/>
+		<production id="8639" count="100"/>
+	</item>
+	<!-- Elixir of Mental Strength (S-Grade) -->
+	<item>
+		<ingredient id="57" count="500000000"/>
+		<production id="8633" count="100"/>
+	</item>
+	<!-- Full Bottle of Souls - 5 Souls (For Combat) -->
+	<item>
+		<ingredient id="57" count="100000000" />
+		<production id="10411" count="10" />
+	</item>
+</list>

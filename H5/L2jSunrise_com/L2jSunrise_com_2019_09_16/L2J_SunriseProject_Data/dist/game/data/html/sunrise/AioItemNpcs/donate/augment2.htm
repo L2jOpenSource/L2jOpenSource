@@ -1,0 +1,43 @@
+<html>
+<title>Donation</title>
+<body>
+<br><br>
+<font color="D2B48C">Augmentation System:</font>
+<center>
+<img src="L2UI.SquareWhite" width=280 height=1>
+<br><br>
+<table width=250>
+<tr>
+<td><font color="LEVEL">Select Base Stats   :</font></td>
+<td><combobox width=105 var=ebox list=STR+1;INT+1;MEN+1;CON+1></td>
+</tr>
+</table>
+<br><img src="L2UI.SquareWhite" width=280 height=1>
+<br>
+<font color="LEVEL">Select passive skill:</font><br>
+<table width=260>
+<tr>
+<td><button value="Might" action="bypass -h Aioitem_augmmight $ebox" width=110 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Duel Might" action="bypass -h Aioitem_augmduelmight $ebox" width=110 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+<tr>
+<td><button value="Shield" action="bypass -h Aioitem_augmshield $ebox" width=110 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Magic Barrier" action="bypass -h Aioitem_augmbarrier $ebox" width=110 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+<tr>
+<td><button value="Heal Empower" action="bypass -h Aioitem_augmheal $ebox" width=110 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Empower" action="bypass -h Aioitem_augmempower $ebox" width=110 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table>
+<table width=260>
+<tr>
+<td align=center><button value="Wild Magic" action="bypass -h Aioitem_augmwild $ebox" width=110 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+</tr>
+</table>
+<br>
+<br><img src="L2UI.SquareWhite" width=280 height=1>
+<br>
+<tr><td><font color="LEVEL">This service will cost you</font> <font color="FF0000">5</font> <font color="LEVEL">donation coins.</font><br>
+<button action="bypass -h Aioitem_Chat_donate/donate.htm" value="Back" width=90 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+</center>
+</body></html>

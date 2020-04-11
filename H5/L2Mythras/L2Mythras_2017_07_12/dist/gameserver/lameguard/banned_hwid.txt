@@ -1,0 +1,49 @@
+# You can copy HWIDs from lameguard.log, one ban must be on one line
+
+11112222333344445555666677d77888        # added : 10.03.02 05:10:20, account : lamer, IG bot
+
+105a4e4b5e3c9da06c67fc3c73f914f9 // Stalone HWID
+105af25716abdc8e542e6e47f9885fc0 // Stalone dog
+1058787b005156c1c6c9024e3ece3292 // Stalone dog
+5c784e4b5e3c9da22c879f34490096f8 // Cheater Russian player
+105862803c38e97fe6912290225b3df3 // stalone dog
+1058e6a5894652a7bd7ff1c91403098c // stalone dog
+4cd47e81004f77e6ca63ad19780a33cd // stalone try
+5cc9906f28fb2ea2daf21e4bbb7003ae // scammer stalone
+1059f25796961845cf6ce010f66d0fd6 // scammer stalone
+5cc9dc0abe884ca46dd2a11d98925703 // DDoSer
+10585329723e1631d0b52c8540443ada // RAIN
+10594304eb0d99330dc7aa0565e23dd7 // PACKET GAMESERVER TRY EXPLOITS
+1057c9f41ed40f2fe8940f5c15cd0e1f // stalone hwid!!! a intrat pe server
+1057cb7158c01a7d79150f5c15cd0ea0 // stlaone hwidul lui
+4cc9bcac616a17857981f871f78316a1 // hacker
+1058e2fdbd3cbc7af871290c785503ca // sorin-hacker
+10584e4b5e3c9da0819ba51da61136f9 //hacker friend sorin
+1059f25716abdc8e8112386a3bef0fc0 //voidjava
+5cc9dd6e5fc7cb75166b516a99be4556 //hacker
+5cc94e4b5e3c9da06f13290c785514f9 //hacker
+1058f25716abdc8e3aae290c785509c2 //spammer items for euro
+5cd5c2a25f6a6c7beb87e05ea06913af //exilium gm
+5cb98d7ee624a59987676f8fa75c11e7 //hacker l2 predator admin
+1057f25716abdc8ea78252c824172bcb //retard
+5cc95aef38f345148264bc05195a1b05 //hacker l2 predator admin
+10584e4b5e3c9da0831f174e8fc236f9 //hacker
+5cc9f25716abdc8e5406681a79155fc0 //banned scammer
+10594e4b5e3c9da0794f8f5ee17024f9 //claw
+5cd34e4b5e3c9da11a37402cda040cf9 //claw-flav
+5cd55aef38f345140fbcbe8b41971705 //claw
+1058f25716abdc8e965606d439f109c2 // no balance at server dark elf
+1056f86b6f4ca51a6fda2c4b6ebc2e99 // achilek
+1056607ef673171be5d82c4b6ebc3bd2 // achylek
+1056627a877085e369b12c4b6ebc3bb0 // achylek
+1056df7406e3397f40be2c4b6ebc0d94 // achylek
+1056635a8ff6130190202c4b6ebc3a76 // achylek
+1057f25796961844b8e0ed84fbd52bd7 // scammer
+10574e4b5e3c9da057d39375db7f30f9 // scammer
+105749ef1ed44b4cdded9e7295373b18 // scammer
+10584e4b5e3c9da05ac793222f9636f8 // drakepulama
+1059f25796a0de3b8b2e174eee740f34 // pozio
+1057f25796961844c7c0511486272bd7 // dubie
+1058785cef511e8ac5532699688532b6 // falqo
+1057f25796961844d6147215a7122bd7 // dzony
+105549ef1fcaf579ef344c7ee1033fa3 // irulana

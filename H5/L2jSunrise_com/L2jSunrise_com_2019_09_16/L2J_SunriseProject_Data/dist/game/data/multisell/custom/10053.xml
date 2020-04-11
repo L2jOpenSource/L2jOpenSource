@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Cloacks -->
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<!-- special treasure chest -->
+	<item>
+		<ingredient id="41006" count="500" />
+		<production id="41007" count="1" />
+	</item>
+	<!-- Sealed Magic Ornament (S-Grade) -->
+	<item>
+		<ingredient id="41006" count="500" />
+		<production id="14905" count="1" />
+	</item>
+	<!-- Sealed Magic Ornament (A-Grade) -->
+	<item>
+		<ingredient id="41006" count="350" />
+		<production id="14904" count="1" />
+	</item>
+</list>

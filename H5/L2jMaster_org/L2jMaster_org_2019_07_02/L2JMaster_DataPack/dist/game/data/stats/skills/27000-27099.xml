@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/skills.xsd">
+	<skill id="27012" levels="1" name="Event Engine - Gift">
+		<!-- Confirmed CT2.5 -->
+		<table name="#extractableItems">
+			6673,5,85;6622,5,4;6392,100,11
+		</table>
+		<set name="capsuled_items_skill" val="#extractableItems" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond msgId="129">
+			<and>
+				<player invSize="10" />
+				<player weight="80" />
+			</and>
+		</cond>
+		<for>
+			<effect name="RestorationRandom" />
+		</for>
+	</skill>
+	<skill id="27013" levels="1" name="TAE - Gift">
+		<!-- Confirmed CT2.5 -->
+		<table name="#extractableItems">
+			13143,1,5.882;14105,1,5.882;14108,1,5.882;14109,1,5.882;14110,1,5.882;14111,1,5.882;13144,1,5.882;14106,1,5.882;14112,1,5.882;14113,1,5.882;14114,1,5.882;13145,1,5.882;14107,1,5.882;14115,1,5.882;14116,1,5.882;14117,1,5.882;13887,1,5.88799999999999
+		</table>
+		<set name="capsuled_items_skill" val="#extractableItems" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond msgId="129">
+			<and>
+				<player invSize="10" />
+				<player weight="80" />
+			</and>
+		</cond>
+		<for>
+			<effect name="RestorationRandom" />
+		</for>
+	</skill>	
+</list>	

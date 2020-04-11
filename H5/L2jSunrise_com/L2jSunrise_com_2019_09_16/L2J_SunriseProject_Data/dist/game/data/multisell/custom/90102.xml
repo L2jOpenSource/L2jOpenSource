@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Forgotten Blade - Focus -->
+		<production count="1" id="6583" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Forgotten Blade - Haste -->
+		<production count="1" id="6581" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Forgotten Blade - Health -->
+		<production count="1" id="6582" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Saint Spear - Guidance -->
+		<production count="1" id="6600" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Saint Spear - Haste -->
+		<production count="1" id="6601" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Saint Spear - Health -->
+		<production count="1" id="6599" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Demon Splinter - Critical Stun -->
+		<production count="1" id="6604" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Demon Splinter - Focus -->
+		<production count="1" id="6602" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Demon Splinter - Health -->
+		<production count="1" id="6603" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Tallum Blade*Dark Legion's Edge -->
+		<production count="1" id="6580" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Angel Slayer - Critical Damage -->
+		<production count="1" id="6590" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Angel Slayer - Haste -->
+		<production count="1" id="6592" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Angel Slayer - HP Drain -->
+		<production count="1" id="6591" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Draconic Bow - Cheap Shot -->
+		<production count="1" id="7576" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Draconic Bow - Critical Slow -->
+		<production count="1" id="7578" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Draconic Bow - Focus -->
+		<production count="1" id="7577" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Arcana Mace - Acumen -->
+		<production count="1" id="6608" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Arcana Mace - Mana Up -->
+		<production count="1" id="6610" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Arcana Mace - MP Regeneration -->
+		<production count="1" id="6609" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Basalt Battlehammer - Health -->
+		<production count="1" id="6585" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Basalt Battlehammer - HP Drain -->
+		<production count="1" id="6584" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Basalt Battlehammer - HP Regeneration -->
+		<production count="1" id="6586" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Heavens Divider - Focus -->
+		<production count="1" id="6607" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Heavens Divider - Haste -->
+		<production count="1" id="6605" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Heavens Divider - Health -->
+		<production count="1" id="6606" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Imperial Staff - Empower -->
+		<production count="1" id="6587" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Imperial Staff - Magic Hold -->
+		<production count="1" id="6589" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Imperial Staff - MP Regeneration -->
+		<production count="1" id="6588" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Dragon Hunter Axe - Health -->
+		<production count="1" id="6597" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Dragon Hunter Axe - HP Drain -->
+		<production count="1" id="6598" />
+	</item>
+	<item>
+		<ingredient count="200" id="6673" />
+		<!-- Dragon Hunter Axe - HP Regeneration -->
+		<production count="1" id="6596" />
+	</item>
+</list>

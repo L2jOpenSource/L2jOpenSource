@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- godard06_npc2414_02 -->
+	<spawn zone="godard06_npc2414_02m1">
+		<npc id="35603" x="152924" y="-126604" z="-2293" heading="33000" respawnDelay="60" /> <!-- Coordinator -->
+	</spawn>
+	<!-- godard05_npc2414_01 -->
+	<spawn zone="godard05_npc2414_0101">
+		<npc id="31521" x="149520" y="-112704" z="-2065" heading="10000" respawnDelay="60" /> <!-- Jeremy -->
+		<npc id="31697" x="149568" y="-112768" z="-2065" heading="8000" respawnDelay="60" /> <!-- Eindarkner -->
+	</spawn>
+	<!-- godard05_npc2414_02 -->
+	<spawn zone="godard05_npc2414_0201">
+		<npc id="31542" x="157136" y="-121456" z="-2363" heading="40000" respawnDelay="60" /> <!-- Yeti's Table -->
+	</spawn>
+	<!-- godard05_npc2414_03 -->
+	<spawn zone="godard05_npc2414_0301">
+		<npc id="31543" x="157648" y="-115360" z="-1904" heading="33000" respawnDelay="60" /> <!-- Pulin -->
+	</spawn>
+	<!-- godard05_npc2414_04 -->
+	<spawn zone="godard05_npc2414_0401">
+		<npc id="31544" x="155616" y="-105696" z="-2755" heading="49000" respawnDelay="60" /> <!-- Naff -->
+	</spawn>
+	<!-- godard05_npc2414_05 -->
+	<spawn zone="godard05_npc2414_0501">
+		<npc id="31545" x="140656" y="-105488" z="-3632" heading="49000" respawnDelay="60" /> <!-- Crocus -->
+	</spawn>
+	<!-- godard05_npc2414_06 -->
+	<spawn zone="godard05_npc2414_0601">
+		<npc id="31546" x="141632" y="-109424" z="-3591" heading="0" respawnDelay="60" /> <!-- Kuber -->
+	</spawn>
+	<!-- godard05_npc2414_07 -->
+	<spawn zone="godard05_npc2414_0701">
+		<npc id="31547" x="147504" y="-113296" z="-2113" heading="6000" respawnDelay="60" /> <!-- Beolin -->
+	</spawn>
+	<!-- godard05_npc2414_08 -->
+	<spawn zone="godard05_npc2414_0801">
+		<npc id="31623" x="157216" y="-109328" z="-2672" heading="0" respawnDelay="60" /> <!-- Bavarin -->
+		<npc id="31602" x="157248" y="-109168" z="-2656" heading="49000" respawnDelay="60" /> <!-- Sharona Artemia -->
+	</spawn>
+	<!-- godard05_npc2414_09 -->
+	<spawn zone="godard05_npc2414_0901">
+		<npc id="31624" x="149404" y="-112468" z="-2065" heading="24000" respawnDelay="60" /> <!-- Donath -->
+		<npc id="31626" x="149312" y="-112484" z="-2065" heading="11000" respawnDelay="60" /> <!-- Duncan -->
+	</spawn>
+	<!-- godard05_npc2414_10 -->
+	<spawn zone="godard05_npc2414_1001">
+		<npc id="31622" x="149760" y="-112928" z="-2065" heading="29000" respawnDelay="60" /> <!-- Keats -->
+	</spawn>
+	<!-- godard05_npc2414_11 -->
+	<spawn zone="godard05_npc2414_1101">
+		<npc id="31627" x="145232" y="-104736" z="-3681" heading="0" respawnDelay="60" /> <!-- Mist -->
+		<npc id="31628" x="145043" y="-104577" z="-3664" heading="58000" respawnDelay="60" /> <!-- Lilly -->
+	</spawn>
+	<!-- godard06_npc2414_01 -->
+	<spawn zone="godard06_npc2414_01m1">
+		<npc id="35604" x="143944" y="-119196" z="-2133" heading="1000" respawnDelay="60" /> <!-- Messenger -->
+	</spawn>
+	<!-- godard06_npc2414_03 -->
+	<spawn zone="godard06_npc2414_03m1">
+		<npc id="35601" x="141152" y="-124272" z="-1871" heading="10000" respawnDelay="60" /> <!-- Doorman -->
+		<npc id="35605" x="140824" y="-124844" z="-1868" heading="10000" respawnDelay="60" /> <!-- Angout -->
+	</spawn>
+	<!-- godard06_npc2414_04 -->
+	<spawn zone="godard06_npc2414_04m1">
+		<npc id="35602" x="140732" y="-123796" z="-1906" heading="2000" respawnDelay="60" /> <!-- Doorman -->
+		<npc id="35602" x="140704" y="-124020" z="-1906" heading="34000" respawnDelay="60" /> <!-- Doorman -->
+	</spawn>
+	<!-- godard06_npc2414_05 -->
+	<spawn zone="godard06_npc2414_05m1">
+		<npc id="32007" x="140968" y="-123600" z="-1907" heading="18000" respawnDelay="60" /> <!-- Galba -->
+	</spawn>
+	<!-- godard05_2414_01 -->
+	<spawn zone="godard05_2414_01m1">
+		<npc id="21315" count="1" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Buffalo -->
+		<npc id="21318" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Antelope -->
+		<npc id="21320" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Yeti -->
+	</spawn>
+	<!-- godard05_2414_02 -->
+	<spawn zone="godard05_2414_02m1">
+		<npc id="21315" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Buffalo -->
+		<npc id="21318" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Antelope -->
+		<npc id="21320" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Yeti -->
+	</spawn>
+	<!-- godard05_2414_03 -->
+	<spawn zone="godard05_2414_03m1">
+		<npc id="21315" count="1" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Buffalo -->
+		<npc id="21318" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Antelope -->
+		<npc id="21320" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Yeti -->
+	</spawn>
+	<!-- godard05_2414_04 -->
+	<spawn zone="godard05_2414_04m1">
+		<npc id="21315" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Buffalo -->
+		<npc id="21318" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Antelope -->
+		<npc id="21320" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Yeti -->
+	</spawn>
+	<!-- godard05_2414_05 -->
+	<spawn zone="godard05_2414_05m1">
+		<npc id="21314" count="2" respawnDelay="70" respawnRandom="40" /> <!-- BaHot Springs Bandersnatchling -->
+		<npc id="21316" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Flava -->
+		<npc id="21320" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Yeti -->
+		<npc id="21322" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Bandersnatch -->
+	</spawn>
+	<!-- godard05_2414_06 -->
+	<spawn zone="godard05_2414_06m1">
+		<npc id="21315" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Buffalo -->
+		<npc id="21317" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Atroxspawn -->
+		<npc id="21319" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Nepenthes -->
+		<npc id="21323" count="3" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Grendel -->
+	</spawn>
+	<!-- godard05_2414_07 -->
+	<spawn zone="godard05_2414_07m1">
+		<npc id="21315" count="3" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Buffalo -->
+		<npc id="21316" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Flava -->
+		<npc id="21320" count="3" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Yeti -->
+		<npc id="21321" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Atrox -->
+	</spawn>
+	<!-- godard05_2414_08 -->
+	<spawn zone="godard05_2414_08m1">
+		<npc id="21314" count="3" respawnDelay="70" respawnRandom="40" /> <!-- BaHot Springs Bandersnatchling -->
+		<npc id="21318" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Antelope -->
+		<npc id="21319" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Nepenthes -->
+		<npc id="21322" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Bandersnatch -->
+	</spawn>
+	<!-- godard05_2414_09 -->
+	<spawn zone="godard05_2414_09m1">
+		<npc id="21314" count="2" respawnDelay="70" respawnRandom="40" /> <!-- BaHot Springs Bandersnatchling -->
+		<npc id="21318" count="3" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Antelope -->
+		<npc id="21319" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Nepenthes -->
+		<npc id="21321" count="3" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Atrox -->
+	</spawn>
+	<!-- godard05_2414_10 -->
+	<spawn zone="godard05_2414_10m1">
+		<npc id="21314" count="4" respawnDelay="70" respawnRandom="40" /> <!-- BaHot Springs Bandersnatchling -->
+		<npc id="21317" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Atroxspawn -->
+		<npc id="21319" count="5" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Nepenthes -->
+		<npc id="21323" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Grendel -->
+	</spawn>
+	<!-- godard05_2414_12 -->
+	<spawn zone="godard05_2414_12m1">
+		<npc id="21315" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Buffalo -->
+		<npc id="21316" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Flava -->
+		<npc id="21320" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Yeti -->
+		<npc id="21322" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Bandersnatch -->
+	</spawn>
+	<!-- godard05_2414_13 -->
+	<spawn zone="godard05_2414_13m1">
+		<npc id="21315" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Buffalo -->
+		<npc id="21318" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Antelope -->
+		<npc id="21320" count="2" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Yeti -->
+	</spawn>
+	<!-- godard05_2414_14 -->
+	<spawn zone="godard05_2414_14m1">
+		<npc id="21314" count="3" respawnDelay="70" respawnRandom="40" /> <!-- BaHot Springs Bandersnatchling -->
+		<npc id="21316" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Flava -->
+		<npc id="21320" count="3" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Yeti -->
+		<npc id="21321" count="3" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Atrox -->
+	</spawn>
+	<!-- godard05_2414_15 -->
+	<spawn zone="godard05_2414_15m1">
+		<npc id="21315" count="3" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Buffalo -->
+		<npc id="21317" count="3" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Atroxspawn -->
+		<npc id="21319" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Nepenthes -->
+		<npc id="21323" count="3" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Grendel -->
+	</spawn>
+	<!-- godard05_2414_16 -->
+	<spawn zone="godard05_2414_16m1">
+		<npc id="21314" count="3" respawnDelay="70" respawnRandom="40" /> <!-- BaHot Springs Bandersnatchling -->
+		<npc id="21318" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Antelope -->
+		<npc id="21319" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Nepenthes -->
+		<npc id="21321" count="3" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Atrox -->
+	</spawn>
+	<!-- godard05_2414_17 -->
+	<spawn zone="godard05_2414_17m1">
+		<npc id="21314" count="4" respawnDelay="70" respawnRandom="40" /> <!-- BaHot Springs Bandersnatchling -->
+		<npc id="21318" count="5" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Antelope -->
+		<npc id="21319" count="4" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Nepenthes -->
+		<npc id="21322" count="5" respawnDelay="70" respawnRandom="40" /> <!-- Hot Springs Bandersnatch -->
+	</spawn>
+</list>

@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- giran03_npc2421_02 -->
+	<zone name="giran03_npc2421_0201" type="NpcSpawnTerritory" shape="NPoly" minZ="-3779" maxZ="-3579">
+		<node X="131100" Y="114556" />
+		<node X="131300" Y="114556" />
+		<node X="131300" Y="114756" />
+		<node X="131100" Y="114756" />
+	</zone>
+	<!-- giran04_npc2421_03 -->
+	<zone name="giran04_npc2421_0301" type="NpcSpawnTerritory" shape="NPoly" minZ="-3856" maxZ="-3556">
+		<node X="154556" Y="120988" />
+		<node X="154756" Y="120988" />
+		<node X="154756" Y="121188" />
+		<node X="154556" Y="121188" />
+	</zone>
+	<!-- giran04_npc2421_04 -->
+	<zone name="giran04_npc2421_0401" type="NpcSpawnTerritory" shape="NPoly" minZ="-3856" maxZ="-2000">
+		<node X="117050" Y="76750" />
+		<node X="117050" Y="76950" />
+		<node X="117250" Y="76950" />
+		<node X="117250" Y="76750" />
+	</zone>
+	<!-- giran04_npc2421_05 -->
+	<zone name="giran04_npc2421_0501" type="NpcSpawnTerritory" shape="NPoly" minZ="-3856" maxZ="-3556">
+		<node X="73200" Y="118200" />
+		<node X="73200" Y="118500" />
+		<node X="73400" Y="118500" />
+		<node X="73400" Y="118200" />
+	</zone>
+	<!-- giran04_npc2421_06 -->
+	<zone name="giran04_npc2421_0601" type="NpcSpawnTerritory" shape="NPoly" minZ="-3856" maxZ="-3556">
+		<node X="99000" Y="110250" />
+		<node X="99000" Y="110450" />
+		<node X="99200" Y="110450" />
+		<node X="99200" Y="110250" />
+	</zone>
+	<!-- giran04_npc2421_07 -->
+	<zone name="giran04_npc2421_0701" type="NpcSpawnTerritory" shape="NPoly" minZ="-3856" maxZ="-2000">
+		<node X="116800" Y="113450" />
+		<node X="116800" Y="113650" />
+		<node X="117000" Y="113650" />
+		<node X="117000" Y="113450" />
+	</zone>
+	<!-- giran04_npc2421_08 -->
+	<zone name="giran04_npc2421_0801" type="NpcSpawnTerritory" shape="NPoly" minZ="-3856" maxZ="-3556">
+		<node X="113000" Y="120900" />
+		<node X="113000" Y="121100" />
+		<node X="113200" Y="121100" />
+		<node X="113200" Y="120900" />
+	</zone>
+	<!-- giran04_npc2421_09 -->
+	<zone name="giran04_npc2421_0901" type="NpcSpawnTerritory" shape="NPoly" minZ="-3856" maxZ="-3556">
+		<node X="131000" Y="114100" />
+		<node X="131000" Y="114300" />
+		<node X="131200" Y="114300" />
+		<node X="131200" Y="114100" />
+	</zone>
+	<!-- giran04_npc2421_10 -->
+	<zone name="giran04_npc2421_1001" type="NpcSpawnTerritory" shape="NPoly" minZ="-3856" maxZ="-3000">
+		<node X="145950" Y="111150" />
+		<node X="145950" Y="111350" />
+		<node X="146100" Y="111350" />
+		<node X="146100" Y="111150" />
+	</zone>
+	<!-- giran04_npc2421_11 -->
+	<zone name="giran04_npc2421_1101" type="NpcSpawnTerritory" shape="NPoly" minZ="-4200" maxZ="-3556">
+		<node X="148450" Y="110450" />
+		<node X="148450" Y="110650" />
+		<node X="148650" Y="110650" />
+		<node X="148650" Y="110450" />
+	</zone>
+	<!-- giran05_2421_01 -->
+	<zone name="giran05_2421_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3748" maxZ="-3548">
+		<node X="135505" Y="113767" />
+		<node X="135809" Y="113732" />
+		<node X="135719" Y="115107" />
+		<node X="135385" Y="114998" />
+		<node X="135133" Y="114652" />
+		<node X="135107" Y="114176" />
+	</zone>
+	<!-- giran05_2421_02 -->
+	<zone name="giran05_2421_02m2" type="NpcSpawnTerritory" shape="NPoly" minZ="-3760" maxZ="-3560">
+		<node X="136352" Y="113594" />
+		<node X="136640" Y="113684" />
+		<node X="137048" Y="114204" />
+		<node X="137079" Y="114721" />
+		<node X="136228" Y="115234" />
+	</zone>
+	<!-- giran05_2421_04 -->
+	<zone name="giran05_2421_04m3" type="NpcSpawnTerritory" shape="NPoly" minZ="-3776" maxZ="-3576">
+		<node X="139450" Y="114237" />
+		<node X="140563" Y="113691" />
+		<node X="141298" Y="114113" />
+		<node X="141316" Y="114663" />
+		<node X="140377" Y="115240" />
+		<node X="139488" Y="114608" />
+	</zone>
+	<!-- giran05_2421_11 -->
+	<zone name="giran05_2421_11m4" type="NpcSpawnTerritory" shape="NPoly" minZ="-3757" maxZ="-3557">
+		<node X="140554" Y="112461" />
+		<node X="141593" Y="113080" />
+		<node X="140765" Y="113548" />
+		<node X="140565" Y="113280" />
+	</zone>
+	<!-- giran05_2421_12 -->
+	<zone name="giran05_2421_12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3808" maxZ="-3558">
+		<node X="141212" Y="112226" />
+		<node X="142017" Y="111975" />
+		<node X="142074" Y="112228" />
+		<node X="141586" Y="113035" />
+	</zone>
+	<!-- giran05_2421_13 -->
+	<zone name="giran05_2421_13m5" type="NpcSpawnTerritory" shape="NPoly" minZ="-3983" maxZ="-3783">
+		<node X="142669" Y="111556" />
+		<node X="144805" Y="112263" />
+		<node X="144361" Y="112923" />
+		<node X="143941" Y="113036" />
+		<node X="143210" Y="112701" />
+		<node X="142706" Y="112052" />
+	</zone>
+	<!-- giran05_2421_14 -->
+	<zone name="giran05_2421_14m7" type="NpcSpawnTerritory" shape="NPoly" minZ="-3990" maxZ="-3790">
+		<node X="142902" Y="108182" />
+		<node X="143467" Y="108568" />
+		<node X="143551" Y="108922" />
+		<node X="143439" Y="109045" />
+		<node X="142529" Y="108983" />
+	</zone>
+	<!-- giran05_2421_15 -->
+	<zone name="giran05_2421_15m8" type="NpcSpawnTerritory" shape="NPoly" minZ="-3984" maxZ="-3784">
+		<node X="140434" Y="107640" />
+		<node X="141249" Y="108255" />
+		<node X="141695" Y="109139" />
+		<node X="141192" Y="110593" />
+		<node X="140433" Y="111237" />
+		<node X="140016" Y="110406" />
+	</zone>
+	<!-- giran05_2421_16 -->
+	<zone name="giran05_2421_16m9" type="NpcSpawnTerritory" shape="NPoly" minZ="-3952" maxZ="-3752">
+		<node X="141599" Y="107146" />
+		<node X="142500" Y="106759" />
+		<node X="142884" Y="106865" />
+		<node X="143280" Y="107114" />
+		<node X="142595" Y="107832" />
+		<node X="141536" Y="107289" />
+	</zone>
+	<!-- giran05_2421_17 -->
+	<zone name="giran05_2421_17m10" type="NpcSpawnTerritory" shape="NPoly" minZ="-4000" maxZ="-3800">
+		<node X="143953" Y="107415" />
+		<node X="144852" Y="107172" />
+		<node X="146008" Y="108307" />
+		<node X="146087" Y="109441" />
+		<node X="145672" Y="110828" />
+	</zone>
+	<!-- giran05_2421_18 -->
+	<zone name="giran05_2421_18m11" type="NpcSpawnTerritory" shape="NPoly" minZ="-3987" maxZ="-3787">
+		<node X="147000" Y="109066" />
+		<node X="148437" Y="109324" />
+		<node X="148075" Y="110849" />
+		<node X="146813" Y="110550" />
+	</zone>
+	<!-- giran05_2421_20 -->
+	<zone name="giran05_2421_20m12" type="NpcSpawnTerritory" shape="NPoly" minZ="-3965" maxZ="-3765">
+		<node X="140047" Y="117251" />
+		<node X="141174" Y="117524" />
+		<node X="141238" Y="117933" />
+		<node X="140894" Y="119396" />
+		<node X="140351" Y="119741" />
+		<node X="139750" Y="118884" />
+		<node X="139734" Y="118074" />
+	</zone>
+	<!-- giran05_2421_21 -->
+	<zone name="giran05_2421_21m13" type="NpcSpawnTerritory" shape="NPoly" minZ="-3965" maxZ="-3765">
+		<node X="142772" Y="115884" />
+		<node X="143387" Y="116116" />
+		<node X="143764" Y="116888" />
+		<node X="143727" Y="117831" />
+		<node X="143067" Y="118221" />
+		<node X="141508" Y="117360" />
+		<node X="142074" Y="116185" />
+	</zone>
+	<!-- giran05_2421_22 -->
+	<zone name="giran05_2421_22m14" type="NpcSpawnTerritory" shape="NPoly" minZ="-3955" maxZ="-3755">
+		<node X="141619" Y="118985" />
+		<node X="142002" Y="118563" />
+		<node X="142880" Y="118427" />
+		<node X="142905" Y="119107" />
+		<node X="142454" Y="119719" />
+		<node X="141921" Y="119554" />
+		<node X="141585" Y="119246" />
+	</zone>
+	<!-- giran05_2421_23 -->
+	<zone name="giran05_2421_23m15" type="NpcSpawnTerritory" shape="NPoly" minZ="-3946" maxZ="-3746">
+		<node X="140368" Y="120325" />
+		<node X="141286" Y="120788" />
+		<node X="141491" Y="121006" />
+		<node X="140159" Y="121224" />
+	</zone>
+	<!-- giran05_2421_24 -->
+	<zone name="giran05_2421_24m16" type="NpcSpawnTerritory" shape="NPoly" minZ="-3963" maxZ="-3763">
+		<node X="140080" Y="121280" />
+		<node X="141534" Y="121907" />
+		<node X="141160" Y="122047" />
+		<node X="140158" Y="121804" />
+	</zone>
+	<!-- giran05_2421_25 -->
+	<zone name="giran05_2421_25m17" type="NpcSpawnTerritory" shape="NPoly" minZ="-3951" maxZ="-3751">
+		<node X="141016" Y="121131" />
+		<node X="141547" Y="121016" />
+		<node X="142101" Y="121659" />
+		<node X="141573" Y="121888" />
+		<node X="140939" Y="121607" />
+	</zone>
+	<!-- giran05_2421_26 -->
+	<zone name="giran05_2421_26m18" type="NpcSpawnTerritory" shape="NPoly" minZ="-3953" maxZ="-3753">
+		<node X="142657" Y="120064" />
+		<node X="143906" Y="119677" />
+		<node X="144420" Y="120127" />
+		<node X="144652" Y="121168" />
+		<node X="143516" Y="121831" />
+		<node X="142125" Y="121659" />
+	</zone>
+	<!-- giran05_2421_27 -->
+	<zone name="giran05_2421_27m19" type="NpcSpawnTerritory" shape="NPoly" minZ="-3957" maxZ="-3757">
+		<node X="144693" Y="121264" />
+		<node X="146029" Y="121932" />
+		<node X="145738" Y="122032" />
+		<node X="144334" Y="121605" />
+	</zone>
+	<!-- giran05_2421_31 -->
+	<zone name="giran05_2421_31m20" type="NpcSpawnTerritory" shape="NPoly" minZ="-3949" maxZ="-3749">
+		<node X="144727" Y="116955" />
+		<node X="145529" Y="118351" />
+		<node X="145319" Y="118715" />
+		<node X="144532" Y="119031" />
+		<node X="144440" Y="118343" />
+	</zone>
+	<!-- giran05_2421_32 -->
+	<zone name="giran05_2421_32m21" type="NpcSpawnTerritory" shape="NPoly" minZ="-3955" maxZ="-3755">
+		<node X="145036" Y="117436" />
+		<node X="145870" Y="117077" />
+		<node X="146557" Y="117728" />
+		<node X="145392" Y="118034" />
+	</zone>
+	<!-- giran05_2421_38 -->
+	<zone name="giran05_2421_38m22" type="NpcSpawnTerritory" shape="NPoly" minZ="-4924" maxZ="-4724">
+		<node X="147860" Y="121476" />
+		<node X="148592" Y="119509" />
+		<node X="149382" Y="119327" />
+		<node X="150252" Y="120945" />
+		<node X="150285" Y="121532" />
+		<node X="149645" Y="121765" />
+		<node X="148420" Y="121804" />
+	</zone>
+	<!-- giran05_2421_45 -->
+	<zone name="giran05_2421_45m23" type="NpcSpawnTerritory" shape="NPoly" minZ="-5295" maxZ="-5095">
+		<node X="152697" Y="116626" />
+		<node X="154680" Y="116602" />
+		<node X="154528" Y="117127" />
+		<node X="153749" Y="117341" />
+		<node X="152905" Y="116946" />
+	</zone>
+	<!-- giran05_2421_46 -->
+	<zone name="giran05_2421_46m24" type="NpcSpawnTerritory" shape="NPoly" minZ="-5296" maxZ="-5096">
+		<node X="152925" Y="115015" />
+		<node X="153414" Y="114614" />
+		<node X="153643" Y="115711" />
+		<node X="153343" Y="116581" />
+		<node X="153051" Y="116597" />
+	</zone>
+	<!-- giran05_2421_47 -->
+	<zone name="giran05_2421_47m25" type="NpcSpawnTerritory" shape="NPoly" minZ="-5288" maxZ="-5088">
+		<node X="153475" Y="114604" />
+		<node X="153890" Y="114271" />
+		<node X="154512" Y="114246" />
+		<node X="154845" Y="114729" />
+		<node X="154878" Y="115346" />
+		<node X="153540" Y="114897" />
+	</zone>
+	<!-- giran05_2421_48 -->
+	<zone name="giran05_2421_48m26" type="NpcSpawnTerritory" shape="NPoly" minZ="-5304" maxZ="-5104">
+		<node X="154518" Y="115269" />
+		<node X="154920" Y="115422" />
+		<node X="154739" Y="116550" />
+		<node X="154440" Y="116574" />
+	</zone>
+	<!-- giran05_2421_50 -->
+	<zone name="giran05_2421_50m27" type="NpcSpawnTerritory" shape="NPoly" minZ="-5519" maxZ="-5319">
+		<node X="150694" Y="114119" />
+		<node X="151755" Y="114876" />
+		<node X="151878" Y="115383" />
+		<node X="151158" Y="115993" />
+		<node X="150340" Y="116049" />
+		<node X="149924" Y="115430" />
+		<node X="149834" Y="114597" />
+		<node X="150161" Y="114144" />
+	</zone>
+	<!-- giran05_2421_51 -->
+	<zone name="giran05_2421_51m28" type="NpcSpawnTerritory" shape="NPoly" minZ="-5517" maxZ="-5317">
+		<node X="148817" Y="114409" />
+		<node X="149761" Y="114698" />
+		<node X="149798" Y="115429" />
+		<node X="148817" Y="115417" />
+		<node X="148365" Y="115148" />
+		<node X="148374" Y="114764" />
+	</zone>
+	<!-- giran05_2421_53 -->
+	<zone name="giran05_2421_53m29" type="NpcSpawnTerritory" shape="NPoly" minZ="-5567" maxZ="-5367">
+		<node X="152883" Y="113396" />
+		<node X="153240" Y="111220" />
+		<node X="154421" Y="111087" />
+		<node X="154545" Y="112097" />
+		<node X="154350" Y="112773" />
+	</zone>
+	<!-- giran05_2421_56 -->
+	<zone name="giran05_2421_56m30" type="NpcSpawnTerritory" shape="NPoly" minZ="-5555" maxZ="-5355">
+		<node X="150201" Y="110811" />
+		<node X="150824" Y="110698" />
+		<node X="151386" Y="111087" />
+		<node X="151087" Y="112418" />
+		<node X="150373" Y="112776" />
+		<node X="150027" Y="112646" />
+		<node X="149825" Y="112048" />
+		<node X="149816" Y="111212" />
+	</zone>
+	<!-- giran05_2421_58 -->
+	<zone name="giran05_2421_58m31" type="NpcSpawnTerritory" shape="NPoly" minZ="-5485" maxZ="-5035">
+		<node X="149699" Y="109067" />
+		<node X="150187" Y="109493" />
+		<node X="150233" Y="109819" />
+		<node X="149526" Y="110699" />
+		<node X="149292" Y="110568" />
+		<node X="149189" Y="109374" />
+	</zone>
+	<!-- giran05_2421_59 -->
+	<zone name="giran05_2421_59m32" type="NpcSpawnTerritory" shape="NPoly" minZ="-5198" maxZ="-4998">
+		<node X="150914" Y="108889" />
+		<node X="151874" Y="109030" />
+		<node X="151887" Y="109401" />
+		<node X="151445" Y="109629" />
+		<node X="150742" Y="109683" />
+		<node X="150325" Y="109573" />
+	</zone>
+	<!-- giran05_2421_61 -->
+	<zone name="giran05_2421_61m33" type="NpcSpawnTerritory" shape="NPoly" minZ="-5194" maxZ="-4994">
+		<node X="152780" Y="109452" />
+		<node X="153899" Y="109404" />
+		<node X="153824" Y="109664" />
+		<node X="153307" Y="109754" />
+	</zone>
+	<!-- giran05_2421_62 -->
+	<zone name="giran05_2421_62m34" type="NpcSpawnTerritory" shape="NPoly" minZ="-5204" maxZ="-5004">
+		<node X="153080" Y="108720" />
+		<node X="153471" Y="108931" />
+		<node X="153138" Y="109392" />
+		<node X="152822" Y="109414" />
+	</zone>
+	<!-- giran05_2421_63 -->
+	<zone name="giran05_2421_63m35" type="NpcSpawnTerritory" shape="NPoly" minZ="-5187" maxZ="-4987">
+		<node X="153618" Y="108942" />
+		<node X="153839" Y="108895" />
+		<node X="153896" Y="109368" />
+		<node X="153583" Y="109389" />
+	</zone>
+	<!-- giran05_2421_64 -->
+	<zone name="giran05_2421_64m36" type="NpcSpawnTerritory" shape="NPoly" minZ="-5194" maxZ="-4994">
+		<node X="152999" Y="108159" />
+		<node X="153800" Y="107970" />
+		<node X="154200" Y="108228" />
+		<node X="154238" Y="108659" />
+		<node X="153676" Y="108871" />
+		<node X="153153" Y="108686" />
+	</zone>
+	<!-- giran05_2421_65 -->
+	<zone name="giran05_2421_65m37" type="NpcSpawnTerritory" shape="NPoly" minZ="-5196" maxZ="-4996">
+		<node X="154251" Y="108261" />
+		<node X="154590" Y="108011" />
+		<node X="154811" Y="108139" />
+		<node X="154936" Y="108620" />
+		<node X="154751" Y="108975" />
+		<node X="154751" Y="108975" />
+		<node X="154313" Y="108659" />
+	</zone>
+	<!-- giran05_2421_66 -->
+	<zone name="giran05_2421_66m38" type="NpcSpawnTerritory" shape="NPoly" minZ="-5190" maxZ="-4990">
+		<node X="152211" Y="107439" />
+		<node X="153831" Y="107018" />
+		<node X="153984" Y="107203" />
+		<node X="153790" Y="107939" />
+		<node X="153001" Y="108121" />
+		<node X="152116" Y="107818" />
+	</zone>
+	<!-- giran05_2421_68 -->
+	<zone name="giran05_2421_68m39" type="NpcSpawnTerritory" shape="NPoly" minZ="-4873" maxZ="-4603">
+		<node X="150504" Y="107210" />
+		<node X="151009" Y="107125" />
+		<node X="151007" Y="107437" />
+		<node X="150380" Y="107747" />
+		<node X="150132" Y="107486" />
+	</zone>
+	<!-- giran05_2421_69 -->
+	<zone name="giran05_2421_69m40" type="NpcSpawnTerritory" shape="NPoly" minZ="-4673" maxZ="-4403">
+		<node X="150099" Y="107502" />
+		<node X="150401" Y="107819" />
+		<node X="150235" Y="108262" />
+		<node X="149547" Y="108656" />
+		<node X="149378" Y="108230" />
+		<node X="149666" Y="108130" />
+	</zone>
+	<!-- giran05_2421_70 -->
+	<zone name="giran05_2421_70m41" type="NpcSpawnTerritory" shape="NPoly" minZ="-4473" maxZ="-4153">
+		<node X="148600" Y="107741" />
+		<node X="149286" Y="108238" />
+		<node X="149353" Y="108613" />
+		<node X="148769" Y="108413" />
+		<node X="148412" Y="108053" />
+	</zone>
+	<!-- giran05_2421_72 -->
+	<zone name="giran05_2421_72m42" type="NpcSpawnTerritory" shape="NPoly" minZ="-4056" maxZ="-3686">
+		<node X="146530" Y="107840" />
+		<node X="147431" Y="107196" />
+		<node X="147431" Y="107550" />
+		<node X="147053" Y="108064" />
+	</zone>
+	<!-- giran05_2421_73 -->
+	<zone name="giran05_2421_73m43" type="NpcSpawnTerritory" shape="NPoly" minZ="-4150" maxZ="-3850">
+		<node X="147654" Y="107470" />
+		<node X="147633" Y="107105" />
+		<node X="148394" Y="107173" />
+		<node X="148654" Y="107585" />
+		<node X="148289" Y="107896" />
+		<node X="147939" Y="107489" />
+	</zone>
+	<!-- giran05_2421_80 -->
+	<zone name="giran05_2421_80m45" type="NpcSpawnTerritory" shape="NPoly" minZ="-3783" maxZ="-3583">
+		<node X="149204" Y="116216" />
+		<node X="149491" Y="115894" />
+		<node X="150549" Y="117214" />
+		<node X="150361" Y="117493" />
+		<node X="150346" Y="117565" />
+	</zone>
+	<!-- giran05_2421_81 -->
+	<zone name="giran05_2421_81m46" type="NpcSpawnTerritory" shape="NPoly" minZ="-4150" maxZ="-3850">
+		<node X="147654" Y="107470" />
+		<node X="147633" Y="107105" />
+		<node X="148394" Y="107173" />
+		<node X="148654" Y="107585" />
+		<node X="148289" Y="107896" />
+		<node X="147939" Y="107489" />
+	</zone>
+	<!-- giran05_2421_82 -->
+	<zone name="giran05_2421_82m47" type="NpcSpawnTerritory" shape="NPoly" minZ="-3938" maxZ="-3688">
+		<node X="151133" Y="118070" />
+		<node X="151653" Y="118352" />
+		<node X="151472" Y="118519" />
+		<node X="150887" Y="118188" />
+	</zone>
+	<!-- giran05_2421_83 -->
+	<zone name="giran05_2421_83m48" type="NpcSpawnTerritory" shape="NPoly" minZ="-3949" maxZ="-3729">
+		<node X="151506" Y="118542" />
+		<node X="151683" Y="118378" />
+		<node X="152058" Y="118826" />
+		<node X="151818" Y="118983" />
+	</zone>
+	<!-- giran05_2421_84 -->
+	<zone name="giran05_2421_84m49" type="NpcSpawnTerritory" shape="NPoly" minZ="-3856" maxZ="-3656">
+		<node X="152089" Y="118903" />
+		<node X="152612" Y="118856" />
+		<node X="153373" Y="119626" />
+		<node X="152929" Y="120295" />
+		<node X="152550" Y="120512" />
+		<node X="151894" Y="119967" />
+		<node X="151669" Y="119444" />
+	</zone>
+	<!-- giran05_2421_85 -->
+	<zone name="giran05_2421_85m50" type="NpcSpawnTerritory" shape="NPoly" minZ="-3845" maxZ="-3645">
+		<node X="153046" Y="119224" />
+		<node X="153687" Y="118400" />
+		<node X="154203" Y="118239" />
+		<node X="154685" Y="118572" />
+		<node X="154271" Y="119391" />
+		<node X="153403" Y="119559" />
+	</zone>
+	<!-- giran05_2421_86 -->
+	<zone name="giran05_2421_86m51" type="NpcSpawnTerritory" shape="NPoly" minZ="-4000" maxZ="-3000">
+		<node X="151553" Y="120179" />
+		<node X="151553" Y="121102" />
+		<node X="152458" Y="121102" />
+		<node X="152458" Y="120179" />
+	</zone>
+	<!-- giran05_2421_87 -->
+	<zone name="giran05_2421_87m52" type="NpcSpawnTerritory" shape="NPoly" minZ="-3870" maxZ="-3670">
+		<node X="151538" Y="121126" />
+		<node X="151961" Y="121171" />
+		<node X="152634" Y="121608" />
+		<node X="152665" Y="122140" />
+		<node X="151924" Y="121881" />
+	</zone>
+	<!-- giran05_2421_p87 -->
+	<zone name="giran05_2421_p87m53" type="NpcSpawnTerritory" shape="NPoly" minZ="-3851" maxZ="-3651">
+		<node X="143078" Y="109729" />
+		<node X="143015" Y="110319" />
+		<node X="143628" Y="110856" />
+		<node X="144148" Y="110717" />
+		<node X="144292" Y="110219" />
+		<node X="143734" Y="109734" />
+	</zone>
+	<!-- giran05_2421_p88 -->
+	<zone name="giran05_2421_p88m54" type="NpcSpawnTerritory" shape="NPoly" minZ="-3840" maxZ="-3600">
+		<node X="143398" Y="114020" />
+		<node X="142594" Y="113252" />
+		<node X="142139" Y="113602" />
+		<node X="141618" Y="114240" />
+		<node X="141487" Y="114718" />
+		<node X="142100" Y="114694" />
+	</zone>
+	<!-- giran05_round1 -->
+	<zone name="giran05_round1m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3920" maxZ="-3520">
+		<node X="147079" Y="112170" />
+		<node X="147079" Y="112570" />
+		<node X="147479" Y="112570" />
+		<node X="147479" Y="112170" />
+	</zone>
+	<!-- giran05_round2 -->
+	<zone name="giran05_round2m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3775" maxZ="-3575">
+		<node X="143160" Y="114314" />
+		<node X="145237" Y="114008" />
+		<node X="145249" Y="114660" />
+		<node X="144549" Y="115282" />
+		<node X="143585" Y="114947" />
+	</zone>
+	<!-- giran05_round3 -->
+	<zone name="giran05_round3m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3760" maxZ="-3560">
+		<node X="147079" Y="112170" />
+		<node X="147079" Y="112570" />
+		<node X="147479" Y="112570" />
+		<node X="147479" Y="112170" />
+		<node X="147479" Y="112570" />
+		<node X="147479" Y="112170" />
+	</zone>
+	<!-- giran05_round4 -->
+	<zone name="giran05_round4m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3758" maxZ="-3558">
+		<node X="146594" Y="116155" />
+		<node X="147532" Y="115986" />
+		<node X="148343" Y="115715" />
+		<node X="148385" Y="115660" />
+		<node X="148660" Y="116089" />
+		<node X="147396" Y="116946" />
+		<node X="146927" Y="117084" />
+	</zone>
+	<!-- giran05_round5 -->
+	<zone name="giran05_round5m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="149028" Y="114639" />
+		<node X="149447" Y="114703" />
+		<node X="149407" Y="115857" />
+		<node X="149074" Y="116145" />
+		<node X="148660" Y="116089" />
+		<node X="148398" Y="115654" />
+		<node X="148865" Y="115129" />
+	</zone>
+	<!-- giran05_round6 -->
+	<zone name="giran05_round6m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="145874" Y="112406" />
+		<node X="144838" Y="113361" />
+		<node X="144903" Y="113885" />
+		<node X="144204" Y="114128" />
+		<node X="145249" Y="113965" />
+		<node X="145293" Y="113609" />
+		<node X="145293" Y="113609" />
+		<node X="145870" Y="112937" />
+		<node X="146114" Y="112939" />
+	</zone>
+	<!-- giran05_round7 -->
+	<zone name="giran05_round7m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="148237" Y="111548" />
+		<node X="148237" Y="111948" />
+		<node X="148637" Y="111948" />
+		<node X="148637" Y="111548" />
+	</zone>
+	<!-- giran05_round8 -->
+	<zone name="giran05_round8m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="148787" Y="111926" />
+		<node X="148787" Y="112326" />
+		<node X="149187" Y="112326" />
+		<node X="149187" Y="111926" />
+	</zone>
+	<!-- giran05_round9 -->
+	<zone name="giran05_round9m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="148774" Y="112827" />
+		<node X="148774" Y="113227" />
+		<node X="149174" Y="113227" />
+		<node X="149174" Y="112827" />
+	</zone>
+	<!-- giran05_round10 -->
+	<zone name="giran05_round10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="149161" Y="113759" />
+		<node X="149161" Y="114159" />
+		<node X="149561" Y="114159" />
+		<node X="149561" Y="113759" />
+	</zone>
+	<!-- giran05_round11 -->
+	<zone name="giran05_round11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="148992" Y="114858" />
+		<node X="148992" Y="115258" />
+		<node X="149392" Y="115258" />
+		<node X="149392" Y="114858" />
+	</zone>
+	<!-- giran05_round12 -->
+	<zone name="giran05_round12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="146587" Y="116199" />
+		<node X="146587" Y="116599" />
+		<node X="146987" Y="116599" />
+		<node X="146987" Y="116199" />
+	</zone>
+	<!-- giran05_round13 -->
+	<zone name="giran05_round13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="145305" Y="115606" />
+		<node X="145305" Y="116006" />
+		<node X="145705" Y="116006" />
+		<node X="145705" Y="115606" />
+	</zone>
+	<!-- giran05_round14 -->
+	<zone name="giran05_round14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="144879" Y="114894" />
+		<node X="144879" Y="115294" />
+		<node X="145279" Y="115294" />
+		<node X="145279" Y="114894" />
+	</zone>
+	<!-- giran05_round15 -->
+	<zone name="giran05_round15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="146678" Y="112225" />
+		<node X="146678" Y="112625" />
+		<node X="147078" Y="112625" />
+		<node X="147078" Y="112225" />
+	</zone>
+	<!-- giran05_round16 -->
+	<zone name="giran05_round16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3762" maxZ="-3562">
+		<node X="145629" Y="112533" />
+		<node X="145629" Y="112933" />
+		<node X="146029" Y="112933" />
+		<node X="146029" Y="112533" />
+	</zone>
+	<!-- giran05_dragon01 -->
+	<zone name="giran05_dragon01m61" type="NpcSpawnTerritory" shape="NPoly" minZ="-4200" maxZ="-4000">
+		<node X="147254" Y="118670" />
+		<node X="146727" Y="118862" />
+		<node X="146751" Y="119039" />
+		<node X="147277" Y="118846" />
+	</zone>
+	<!-- giran05_dragon02 -->
+	<zone name="giran05_dragon01m62" type="NpcSpawnTerritory" shape="NPoly" minZ="-4700" maxZ="-4600">
+		<node X="147449" Y="120730" />
+		<node X="147017" Y="120885" />
+		<node X="147092" Y="121074" />
+		<node X="147638" Y="120906" />
+	</zone>
+	<!-- giran05_dragon03 -->
+	<zone name="giran05_dragon01m63" type="NpcSpawnTerritory" shape="NPoly" minZ="-5100" maxZ="-5000">
+		<node X="150933" Y="117890" />
+		<node X="151086" Y="118091" />
+		<node X="151296" Y="117919" />
+		<node X="151117" Y="117735" />
+	</zone>
+	<!-- giran05_dragon04 -->
+	<zone name="giran05_dragon01m64" type="NpcSpawnTerritory" shape="NPoly" minZ="-5300" maxZ="-5200">
+		<node X="152236" Y="117509" />
+		<node X="151797" Y="117030" />
+		<node X="151641" Y="117267" />
+		<node X="152007" Y="117621" />
+	</zone>
+	<!-- giran05_dragon05 -->
+	<zone name="giran05_dragon01m65" type="NpcSpawnTerritory" shape="NPoly" minZ="-5600" maxZ="-5500">
+		<node X="151658" Y="113682" />
+		<node X="152345" Y="113999" />
+		<node X="152503" Y="113843" />
+		<node X="152142" Y="113513" />
+		<node X="151673" Y="113433" />
+	</zone>
+	<!-- giran05_2421_p88 -->
+	<zone name="giran05_2421_p88m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4151" maxZ="-3651">
+		<node X="146109" Y="109168" />
+		<node X="146109" Y="109568" />
+		<node X="146509" Y="109568" />
+		<node X="146509" Y="109168" />
+	</zone>
+	<!-- giran05_2421_p89 -->
+	<zone name="giran05_2421_p89m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3851" maxZ="-3651">
+		<node X="140387" Y="114308" />
+		<node X="140387" Y="114708" />
+		<node X="140787" Y="114708" />
+		<node X="140787" Y="114308" />
+	</zone>
+	<!-- giran05_2421_p90 -->
+	<zone name="giran05_2421_p90m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4151" maxZ="-3651">
+		<node X="142444" Y="119575" />
+		<node X="142444" Y="119975" />
+		<node X="142844" Y="119975" />
+		<node X="142844" Y="119575" />
+	</zone>
+	<!-- giran05_2421_p91 -->
+	<zone name="giran05_2421_p91m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4151" maxZ="-3651">
+		<node X="146040" Y="121139" />
+		<node X="146040" Y="121539" />
+		<node X="146640" Y="121539" />
+		<node X="146640" Y="121139" />
+	</zone>
+	<!-- giran05_2421_p92 -->
+	<zone name="giran05_2421_p92m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4151" maxZ="-3651">
+		<node X="141570" Y="121328" />
+		<node X="141570" Y="121728" />
+		<node X="141970" Y="121728" />
+		<node X="141970" Y="121328" />
+	</zone>
+	<!-- giran05_2421_p93 -->
+	<zone name="giran05_2421_p93m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5720" maxZ="-5320">
+		<node X="152190" Y="110241" />
+		<node X="152190" Y="110641" />
+		<node X="152590" Y="110641" />
+		<node X="152590" Y="110241" />
+	</zone>
+	<!-- giran05_2421_p94 -->
+	<zone name="giran05_2421_p94m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5720" maxZ="-4000">
+		<node X="151086" Y="107057" />
+		<node X="151086" Y="107457" />
+		<node X="151486" Y="107457" />
+		<node X="151486" Y="107057" />
+	</zone>
+	<!-- giran05_2421_p95 -->
+	<zone name="giran05_2421_p95m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3851" maxZ="-3651">
+		<node X="149053" Y="114641" />
+		<node X="149053" Y="115041" />
+		<node X="149453" Y="115041" />
+		<node X="149053" Y="114641" />
+	</zone>
+	<!-- giran05_2421_p96 -->
+	<zone name="giran05_2421_p96m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3851" maxZ="-3651">
+		<node X="148458" Y="112084" />
+		<node X="148458" Y="112484" />
+		<node X="148858" Y="112484" />
+		<node X="148858" Y="112084" />
+	</zone>
+	<!-- giran05_2421_p97 -->
+	<zone name="giran05_2421_p97m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4151" maxZ="-3651">
+		<node X="140699" Y="112726" />
+		<node X="140699" Y="113126" />
+		<node X="141099" Y="113126" />
+		<node X="141099" Y="112726" />
+	</zone>
+	<!-- giran05_2421_p98 -->
+	<zone name="giran05_2421_p98m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4151" maxZ="-3651">
+		<node X="144635" Y="108397" />
+		<node X="144635" Y="108797" />
+		<node X="145035" Y="108797" />
+		<node X="145035" Y="108397" />
+	</zone>
+	<!-- giran05_2421_p99 -->
+	<zone name="giran05_2421_p99m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5424" maxZ="-5024">
+		<node X="149374" Y="109563" />
+		<node X="149374" Y="109963" />
+		<node X="149774" Y="109963" />
+		<node X="149774" Y="109563" />
+	</zone>
+	<!-- giran05_tb2421_01 -->
+	<zone name="giran05_tb2421_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3748" maxZ="-3548">
+		<node X="135505" Y="113767" />
+		<node X="135809" Y="113732" />
+		<node X="135719" Y="115107" />
+		<node X="135385" Y="114998" />
+		<node X="135133" Y="114652" />
+		<node X="135107" Y="114176" />
+		<node X="141349" Y="114106" />
+		<node X="141762" Y="114300" />
+		<node X="142202" Y="114564" />
+		<node X="141943" Y="114737" />
+		<node X="141353" Y="114698" />
+		<node X="140554" Y="112461" />
+		<node X="141593" Y="113080" />
+		<node X="140765" Y="113548" />
+		<node X="140565" Y="113280" />
+		<node X="143268" Y="109776" />
+		<node X="143900" Y="109724" />
+		<node X="144196" Y="109900" />
+		<node X="144288" Y="110328" />
+		<node X="144148" Y="110708" />
+		<node X="143808" Y="110852" />
+		<node X="143524" Y="110828" />
+		<node X="143072" Y="110368" />
+		<node X="140080" Y="121280" />
+		<node X="141534" Y="121907" />
+		<node X="141160" Y="122047" />
+		<node X="140158" Y="121804" />
+		<node X="141016" Y="121131" />
+		<node X="141547" Y="121016" />
+		<node X="142101" Y="121659" />
+		<node X="141573" Y="121888" />
+		<node X="140939" Y="121607" />
+		<node X="144693" Y="121264" />
+		<node X="146029" Y="121932" />
+		<node X="145738" Y="122032" />
+		<node X="144334" Y="121605" />
+	</zone>
+</list>

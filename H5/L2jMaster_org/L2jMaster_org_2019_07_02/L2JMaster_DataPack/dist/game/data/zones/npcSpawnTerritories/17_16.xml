@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- etc09_1716_036 -->
+	<zone name="etc09_1716_036m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-10384" maxZ="-10184">
+		<node X="-82285" Y="49517" />
+		<node X="-81445" Y="49475" />
+		<node X="-81444" Y="48872" />
+		<node X="-82284" Y="48876" />
+	</zone>
+</list>

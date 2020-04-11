@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio32_npc1624_001 -->
+	<spawn name="gludio32_npc1624_001m1">
+		<npc id="30405" x="-115080" y="222168" z="-2930" heading="42000" respawnDelay="60" />	<!-- Marius -->
+	</spawn>
+	<!-- gludio32_npc1624_002 -->
+	<spawn name="gludio32_npc1624_002m1">
+		<npc id="30407" x="-104240" y="222064" z="-3437" heading="16384" respawnDelay="60" />	<!-- Mesella -->
+	</spawn>
+	<!-- gludio32_npc1624_002 -->
+	<spawn name="gludio32_npc1624_002m1">
+		<npc id="30497" x="-114685" y="222291" z="-2925" heading="44000" respawnDelay="60" />	<!-- Edmond -->
+	</spawn>
+	<!-- gludio31_1624_01 -->
+	<spawn zone="gludio31_1624_01m1">
+		<npc id="20098" count="8" respawnDelay="20" respawnRandom="0" /> <!-- Orc Fighter Leader -->
+		<npc id="20342" count="8" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Chieftain -->
+		<npc id="20016" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Stone Golem -->
+	</spawn>
+	<!-- gludio31_1624_02 -->
+	<spawn zone="gludio31_1624_02m1">
+		<npc id="20342" count="9" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Chieftain -->
+		<npc id="20016" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Stone Golem -->
+	</spawn>
+	<!-- gludio31_1624_03 -->
+	<spawn zone="gludio31_1624_03m1">
+		<npc id="20016" count="7" respawnDelay="20" respawnRandom="0" /> <!-- Stone Golem -->
+		<npc id="20101" count="5" respawnDelay="20" respawnRandom="0" /> <!-- Crasher -->
+	</spawn>
+	<!-- gludio31_1624_04 -->
+	<spawn zone="gludio31_1624_04m1">
+		<npc id="20016" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Stone Golem -->
+		<npc id="20101" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Crasher -->
+	</spawn>
+	<!-- gludio31_1624_05 -->
+	<spawn zone="gludio31_1624_05m1">
+		<npc id="20101" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Crasher -->
+		<npc id="20103" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Giant Spider -->
+	</spawn>
+	<!-- gludio31_1624_06 -->
+	<spawn zone="gludio31_1624_06m1">
+		<npc id="20101" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Crasher -->
+		<npc id="20103" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Giant Spider -->
+	</spawn>
+	<!-- gludio31_1624_07 -->
+	<spawn zone="gludio31_1624_07m1">
+		<npc id="20101" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Crasher -->
+		<npc id="20103" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Giant Spider -->
+	</spawn>
+	<!-- gludio31_1624_08 -->
+	<spawn zone="gludio31_1624_08m1">
+		<npc id="20103" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Giant Spider -->
+		<npc id="20106" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Talon Spider -->
+	</spawn>
+	<!-- gludio31_1624_09 -->
+	<spawn zone="gludio31_1624_09m1">
+		<npc id="20101" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Crasher -->
+		<npc id="20103" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Giant Spider -->
+		<npc id="20106" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Talon Spider -->
+	</spawn>
+	<!-- gludio31_1624_10s -->
+	<spawn zone="gludio31_1624_10sm1">
+		<npc id="20101" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Crasher -->
+		<npc id="20103" count="1" respawnDelay="20" respawnRandom="0" /> <!-- Giant Spider -->
+	</spawn>
+	<!-- gludio31_1624_11s -->
+	<spawn zone="gludio31_1624_11sm1">
+		<npc id="20016" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Stone Golem -->
+		<npc id="20101" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Crasher -->
+	</spawn>
+	<!-- gludio01_qm1624_01 -->
+	<spawn zone="gludio01_qm1624_01m1">
+		<npc id="27102" count="1" respawnDelay="180" respawnRandom="0" /> <!-- Pako the Cat -->
+	</spawn>
+</list>

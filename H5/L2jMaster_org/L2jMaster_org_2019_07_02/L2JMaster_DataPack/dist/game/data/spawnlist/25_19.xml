@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- aden07_npc2519_01 -->
+	<spawn zone="aden07_npc2519_0101">
+		<npc id="31147" x="174473" y="52854" z="-4360" heading="48500" respawnDelay="60" /> <!-- Sobling -->
+	</spawn>
+	<!-- aden22_npc2519_02 -->
+	<spawn zone="aden22_npc2519_02m1">
+		<npc id="31658" x="181264" y="36640" z="-4789" heading="25000" respawnDelay="60" /> <!-- Tablet of Vision -->
+	</spawn>
+	<!-- aden22_tb2519_02 -->
+	<spawn zone="aden22_tb02_m1">
+		<npc id="18277" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden22_tb2519_10 -->
+	<spawn zone="aden22_tb10_m1">
+		<npc id="18278" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden07_tb2519_01 -->
+	<spawn zone="aden07_tb01_m1">
+		<npc id="18284" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden07_tb2519_14 -->
+	<spawn zone="aden07_tb14_m1">
+		<npc id="18285" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden22_2519_01 -->
+	<spawn zone="aden22_2519_01m1">
+		<npc id="20679" count="1" respawnDelay="27" /> <!-- Marsh Stalker -->
+		<npc id="20680" count="1" respawnDelay="27" /> <!-- Marsh Drake -->
+		<npc id="21017" count="1" respawnDelay="27" /> <!-- Fallen Orc -->
+	</spawn>
+	<!-- aden22_2519_02 -->
+	<spawn zone="aden22_2519_02m1">
+		<npc id="20679" count="3" respawnDelay="27" /> <!-- Marsh Stalker -->
+		<npc id="20680" count="3" respawnDelay="27" /> <!-- Marsh Drake -->
+		<npc id="21017" count="3" respawnDelay="27" /> <!-- Fallen Orc -->
+	</spawn>
+	<!-- aden22_2519_03 -->
+	<spawn zone="aden22_2519_03m1">
+		<npc id="20679" count="3" respawnDelay="27" /> <!-- Marsh Stalker -->
+		<npc id="20680" count="3" respawnDelay="27" /> <!-- Marsh Drake -->
+		<npc id="21017" count="3" respawnDelay="27" /> <!-- Fallen Orc -->
+	</spawn>
+	<!-- aden22_2519_04 -->
+	<spawn zone="aden22_2519_04m1">
+		<npc id="20679" count="2" respawnDelay="27" /> <!-- Marsh Stalker -->
+		<npc id="20680" count="3" respawnDelay="27" /> <!-- Marsh Drake -->
+		<npc id="21017" count="3" respawnDelay="27" /> <!-- Fallen Orc -->
+	</spawn>
+	<!-- aden22_2519_05 -->
+	<spawn zone="aden22_2519_05m1">
+		<npc id="20679" count="2" respawnDelay="27" /> <!-- Marsh Stalker -->
+		<npc id="20680" count="2" respawnDelay="27" /> <!-- Marsh Drake -->
+		<npc id="21017" count="3" respawnDelay="27" /> <!-- Fallen Orc -->
+	</spawn>
+	<!-- aden22_2519_07 -->
+	<spawn zone="aden22_2519_07m1">
+		<npc id="20679" count="1" respawnDelay="27" /> <!-- Marsh Stalker -->
+		<npc id="20680" count="1" respawnDelay="27" /> <!-- Marsh Drake -->
+		<npc id="21017" count="1" respawnDelay="27" /> <!-- Fallen Orc -->
+	</spawn>
+	<!-- aden22_2519_08 -->
+	<spawn zone="aden22_2519_08m1">
+		<npc id="20679" count="1" respawnDelay="27" /> <!-- Marsh Stalker -->
+		<npc id="20680" count="1" respawnDelay="27" /> <!-- Marsh Drake -->
+		<npc id="21017" count="1" respawnDelay="27" /> <!-- Fallen Orc -->
+	</spawn>
+	<!-- aden22_2519_09 -->
+	<spawn zone="aden22_2519_09m1">
+		<npc id="21021" count="4" respawnDelay="27" /> <!-- Sharp Talon Tiger -->
+		<npc id="21022" count="3" respawnDelay="27" /> <!-- Fallen Orc Captain -->
+	</spawn>
+	<!-- aden22_2519_10 -->
+	<spawn zone="aden22_2519_10m1">
+		<npc id="21021" count="4" respawnDelay="27" /> <!-- Sharp Talon Tiger -->
+		<npc id="21022" count="3" respawnDelay="27" /> <!-- Fallen Orc Captain -->
+	</spawn>
+	<!-- aden22_2519_11 -->
+	<spawn zone="aden22_2519_11m1">
+		<npc id="21018" count="2" respawnDelay="27" /> <!-- Ancient Gargoyle -->
+		<npc id="21019" count="2" respawnDelay="27" /> <!-- Fallen Orc Archer -->
+		<npc id="21020" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+		<npc id="21258" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+	</spawn>
+	<!-- aden22_2519_12 -->
+	<spawn zone="aden22_2519_12m1">
+		<npc id="21018" count="3" respawnDelay="27" /> <!-- Ancient Gargoyle -->
+		<npc id="21019" count="3" respawnDelay="27" /> <!-- Fallen Orc Archer -->
+		<npc id="21020" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+		<npc id="21258" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+	</spawn>
+	<!-- aden22_2519_13 -->
+	<spawn zone="aden22_2519_13m1">
+		<npc id="21018" count="1" respawnDelay="27" /> <!-- Ancient Gargoyle -->
+		<npc id="21019" count="1" respawnDelay="27" /> <!-- Fallen Orc Archer -->
+		<npc id="21020" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+	</spawn>
+	<!-- aden22_2519_14 -->
+	<spawn zone="aden22_2519_14m1">
+		<npc id="21018" count="1" respawnDelay="27" /> <!-- Ancient Gargoyle -->
+		<npc id="21019" count="1" respawnDelay="27" /> <!-- Fallen Orc Archer -->
+		<npc id="21258" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+	</spawn>
+	<!-- aden22_2519_15 -->
+	<spawn zone="aden22_2519_15m1">
+		<npc id="21018" count="1" respawnDelay="27" /> <!-- Ancient Gargoyle -->
+		<npc id="21019" count="1" respawnDelay="27" /> <!-- Fallen Orc Archer -->
+		<npc id="21020" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+	</spawn>
+	<!-- aden22_2519_16 -->
+	<spawn zone="aden22_2519_16m1">
+		<npc id="21018" count="1" respawnDelay="27" /> <!-- Ancient Gargoyle -->
+		<npc id="21019" count="1" respawnDelay="27" /> <!-- Fallen Orc Archer -->
+		<npc id="21258" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+	</spawn>
+	<!-- aden22_2519_17 -->
+	<spawn zone="aden22_2519_17m1">
+		<npc id="21018" count="1" respawnDelay="27" /> <!-- Ancient Gargoyle -->
+		<npc id="21019" count="1" respawnDelay="27" /> <!-- Fallen Orc Archer -->
+		<npc id="21020" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+	</spawn>
+	<!-- aden22_2519_20 -->
+	<spawn zone="aden22_2519_20m1">
+		<npc id="21018" count="2" respawnDelay="27" /> <!-- Ancient Gargoyle -->
+		<npc id="21019" count="2" respawnDelay="27" /> <!-- Fallen Orc Archer -->
+		<npc id="21020" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+		<npc id="21258" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+	</spawn>
+	<!-- aden22_2519_21 -->
+	<spawn zone="aden22_2519_21m1">
+		<npc id="21018" count="4" respawnDelay="27" /> <!-- Ancient Gargoyle -->
+		<npc id="21019" count="4" respawnDelay="27" /> <!-- Fallen Orc Archer -->
+		<npc id="21020" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+		<npc id="21258" count="2" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+	</spawn>
+	<!-- aden22_2519_22 -->
+	<spawn zone="aden22_2519_22m1">
+		<npc id="21020" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+		<npc id="21021" count="1" respawnDelay="27" /> <!-- Sharp Talon Tiger -->
+		<npc id="21022" count="1" respawnDelay="27" /> <!-- Fallen Orc Captain -->
+	</spawn>
+	<!-- aden22_2519_23 -->
+	<spawn zone="aden22_2519_23m1">
+		<npc id="21021" count="1" respawnDelay="27" /> <!-- Sharp Talon Tiger -->
+		<npc id="21022" count="1" respawnDelay="27" /> <!-- Fallen Orc Captain -->
+		<npc id="21258" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+	</spawn>
+	<!-- aden22_2519_24 -->
+	<spawn zone="aden22_2519_24m1">
+		<npc id="21020" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+		<npc id="21021" count="1" respawnDelay="27" /> <!-- Sharp Talon Tiger -->
+		<npc id="21022" count="1" respawnDelay="27" /> <!-- Fallen Orc Captain -->
+	</spawn>
+	<!-- aden22_2519_25 -->
+	<spawn zone="aden22_2519_25m1">
+		<npc id="21020" count="1" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+		<npc id="21021" count="3" respawnDelay="27" /> <!-- Sharp Talon Tiger -->
+		<npc id="21022" count="2" respawnDelay="27" /> <!-- Fallen Orc Captain -->
+		<npc id="21258" count="2" respawnDelay="27" /> <!-- Fallen Orc Shaman -->
+	</spawn>
+	<!-- aden23_2519_01 -->
+	<spawn zone="aden23_2519_01m1">
+		<npc id="20965" count="18" respawnDelay="70" respawnRandom="15" /> <!-- Chimera Piece -->
+		<npc id="20966" count="16" respawnDelay="70" respawnRandom="15" /> <!-- Changed Creation -->
+		<npc id="20970" count="16" respawnDelay="70" respawnRandom="15" /> <!-- Soldier of Ancient Times -->
+	</spawn>
+	<!-- aden23_2519_02 -->
+	<spawn zone="aden23_2519_02m1">
+		<npc id="20965" count="6" respawnDelay="70" respawnRandom="15" /> <!-- Chimera Piece -->
+		<npc id="20966" count="6" respawnDelay="70" respawnRandom="15" /> <!-- Changed Creation -->
+		<npc id="20967" count="12" respawnDelay="70" respawnRandom="15" /> <!-- Ancient Creature -->
+		<npc id="20970" count="6" respawnDelay="70" respawnRandom="15" /> <!-- Soldier of Ancient Times -->
+		<npc id="20971" count="6" respawnDelay="70" respawnRandom="15" /> <!-- Warrior of Ancient Times -->
+		<npc id="20972" count="12" respawnDelay="70" respawnRandom="15" /> <!-- Shaman of Ancient Times -->
+	</spawn>
+	<!-- aden23_2519_03 -->
+	<spawn zone="aden23_2519_03m1">
+		<npc id="20967" count="10" respawnDelay="70" respawnRandom="15" /> <!-- Ancient Creature -->
+		<npc id="20968" count="6" respawnDelay="70" respawnRandom="15" /> <!-- Forgotten Face -->
+		<npc id="20969" count="6" respawnDelay="70" respawnRandom="15" /> <!-- Giant's Shadow -->
+		<npc id="20971" count="10" respawnDelay="70" respawnRandom="15" /> <!-- Warrior of Ancient Times -->
+		<npc id="20972" count="10" respawnDelay="70" respawnRandom="15" /> <!-- Shaman of Ancient Times -->
+		<npc id="20973" count="8" respawnDelay="70" respawnRandom="15" /> <!-- Forgotten Ancient People -->
+	</spawn>
+	<!-- aden23_2519_04 -->
+	<spawn zone="aden23_2519_04m1">
+		<npc id="20968" count="16" respawnDelay="70" respawnRandom="15" /> <!-- Forgotten Face -->
+		<npc id="20969" count="16" respawnDelay="70" respawnRandom="15" /> <!-- Giant's Shadow -->
+		<npc id="20971" count="6" respawnDelay="70" respawnRandom="15" /> <!-- Warrior of Ancient Times -->
+		<npc id="20973" count="14" respawnDelay="70" respawnRandom="15" /> <!-- Forgotten Ancient People -->
+	</spawn>
+	<!-- aden07_2519_01 -->
+	<spawn zone="aden07_2519_01m1">
+		<npc id="22673" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Hirokai -->
+		<npc id="22674" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Imagro -->
+		<npc id="22675" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Palit -->
+	</spawn>
+	<!-- aden07_2519_02 -->
+	<spawn zone="aden07_2519_02m1">
+		<npc id="22674" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Imagro -->
+		<npc id="22675" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Palit -->
+		<npc id="22676" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Hamlet -->
+	</spawn>
+	<!-- aden07_2519_03 -->
+	<spawn zone="aden07_2519_03m1">
+		<npc id="22677" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Klennot -->
+	</spawn>
+	<!-- aden07_2519_04 -->
+	<spawn zone="aden07_2519_04m1">
+		<npc id="22677" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Klennot -->
+	</spawn>
+	<!-- aden07_2519_05-->
+	<spawn zone="aden07_2519_05m1">
+		<npc id="22673" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Hirokai -->
+		<npc id="22674" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Imagro -->
+		<npc id="22676" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Hamlet -->
+	</spawn>
+	<!-- aden07_2519_06 -->
+	<spawn zone="aden07_2519_06m1">
+		<npc id="22673" count="7" respawnDelay="20" respawnRandom="5" /> <!-- Hirokai -->
+		<npc id="22674" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Imagro -->
+		<npc id="22676" count="8" respawnDelay="20" respawnRandom="5" /> <!-- Hamlet -->
+	</spawn>
+	<!-- aden07_2519_07 -->
+	<spawn zone="aden07_2519_07m1">
+		<npc id="22673" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Hirokai -->
+		<npc id="22674" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Imagro -->
+		<npc id="22675" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Palit -->
+	</spawn>
+	<!-- aden07_2519_09 -->
+	<spawn zone="aden07_2519_09m1">
+		<npc id="22673" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Hirokai -->
+		<npc id="22674" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Imagro -->
+		<npc id="22675" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Palit -->
+	</spawn>
+	<!-- aden07_2519_10 -->
+	<spawn zone="aden07_2519_10m1">
+		<npc id="22673" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Hirokai -->
+		<npc id="22674" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Imagro -->
+		<npc id="22676" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Hamlet -->
+	</spawn>
+	<!-- aden07_2519_11 -->
+	<spawn zone="aden07_2519_11m1">
+		<npc id="22673" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Hirokai -->
+		<npc id="22674" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Imagro -->
+		<npc id="22676" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Hamlet -->
+	</spawn>
+	<!-- aden07_2519_12 -->
+	<spawn zone="aden07_2519_12m1">
+		<npc id="22673" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Hirokai -->
+		<npc id="22674" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Imagro -->
+		<npc id="22676" count="4" respawnDelay="20" respawnRandom="5" /> <!-- Hamlet -->
+	</spawn>
+	<!-- aden07_2519_13 -->
+	<spawn zone="aden07_2519_13m1">
+		<npc id="22673" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Hirokai -->
+		<npc id="22676" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Hamlet -->
+	</spawn>
+	<!-- aden07_2519_14 -->
+	<spawn zone="aden07_2519_14m1">
+		<npc id="22673" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Hirokai -->
+		<npc id="22676" count="10" respawnDelay="20" respawnRandom="5" /> <!-- Hamlet -->
+	</spawn>
+	<!-- aden07_2519_16 -->
+	<spawn zone="aden07_2519_16m1">
+		<npc id="22677" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Klennot -->
+	</spawn>
+	<!-- aden07_2519_17 -->
+	<spawn zone="aden07_2519_17m1">
+		<npc id="22677" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Klennot -->
+	</spawn>
+	<!-- aden07_2519_18 -->
+	<spawn zone="aden07_2519_18m1">
+		<npc id="22668" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Gamlin -->
+	</spawn>
+	<!-- aden07_2519_19 -->
+	<spawn zone="aden07_2519_19m1">
+		<npc id="22661" count="5" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22663" count="5" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22668" count="3" respawnDelay="82" respawnRandom="20" /> <!-- Gamlin -->
+	</spawn>
+	<!-- aden07_2519_20 -->
+	<spawn zone="aden07_2519_20m1">
+		<npc id="22661" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22663" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22668" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Gamlin -->
+	</spawn>
+	<!-- aden07_2519_21 -->
+	<spawn zone="aden07_2519_21m1">
+		<npc id="22661" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22663" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22668" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Gamlin -->
+	</spawn>
+	<!-- aden07_2519_22 -->
+	<spawn zone="aden07_2519_22m1">
+		<npc id="22661" x="186725" y="62759" z="-4944" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="186776" y="62345" z="-4944" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="187908" y="62756" z="-4944" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="188527" y="62744" z="-4944" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22663" x="186182" y="62352" z="-4944" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22668" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Gamlin -->
+	</spawn>
+	<!-- aden07_2519_24 -->
+	<spawn zone="aden07_2519_24m1">
+		<npc id="22661" x="192660" y="60635" z="-6032" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="193413" y="60655" z="-6032" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="193399" y="61399" z="-6032" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="193381" y="61854" z="-6032" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="192236" y="61381" z="-6032" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="193392" y="62696" z="-6039" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="192242" y="61971" z="-6032" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="192622" y="62688" z="-6032" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22663" x="193052" y="62265" z="-6063" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22663" x="193028" y="60952" z="-6063" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22669" x="192391" y="60460" z="-6096" heading="0" respawnDelay="20" respawnRandom="20" /> <!-- Leogul -->
+	</spawn>
+	<!-- aden07_2519_25 -->
+	<spawn zone="aden07_2519_25m1">
+		<npc id="22661" x="190691" y="61934" z="-6039" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22663" x="191414" y="61658" z="-6039" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22664" x="190649" y="61363" z="-6038" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+	</spawn>
+	<!-- aden07_2519_26 -->
+	<spawn zone="aden07_2519_26m1">
+		<npc id="22665" x="189202" y="61654" z="-6038" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+	</spawn>
+	<!-- aden07_2519_27 -->
+	<spawn zone="aden07_2519_27m1">
+		<npc id="22664" x="187490" y="62694" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="187010" y="62192" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="187006" y="61237" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="188007" y="62753" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="188069" y="61632" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="187936" y="59968" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22665" x="187002" y="62694" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="187022" y="61696" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="187034" y="60756" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="188016" y="62112" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="187958" y="60466" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="187504" y="59961" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22669" x="187126" y="62637" z="-7232" heading="0" respawnDelay="20" respawnRandom="20" /> <!-- Leogul -->
+	</spawn>
+	<!-- aden07_2519_28 -->
+	<spawn zone="aden07_2519_28m1">
+		<npc id="22662" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Shooter -->
+		<npc id="22664" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22665" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22669" x="186348" y="60158" z="-7239" heading="0" respawnDelay="20" respawnRandom="20" /> <!-- Leogul -->
+	</spawn>
+	<!-- aden07_2519_29 -->
+	<spawn zone="aden07_2519_29m1">
+		<npc id="22662" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Shooter -->
+		<npc id="22664" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22665" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+	</spawn>
+	<!-- aden07_2519_30 -->
+	<spawn zone="aden07_2519_30m1">
+		<npc id="22662" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Shooter -->
+		<npc id="22664" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22665" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+	</spawn>
+	<!-- aden07_2519_31 -->
+	<spawn zone="aden07_2519_31m1">
+		<npc id="22662" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Shooter -->
+		<npc id="22664" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22665" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+	</spawn>
+	<!-- aden07_2519_32 -->
+	<spawn zone="aden07_2519_32m1">
+		<npc id="22662" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Shooter -->
+		<npc id="22664" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22665" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+	</spawn>
+	<!-- aden07_2519_33 -->
+	<spawn zone="aden07_2519_33m1">
+		<npc id="22662" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Shooter -->
+		<npc id="22664" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22665" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+	</spawn>
+	<!-- aden07_2519_34 -->
+	<spawn zone="aden07_2519_34m1">
+		<npc id="22662" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Shooter -->
+		<npc id="22664" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22665" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+	</spawn>
+	<!-- aden07_2519_35 -->
+	<spawn zone="aden07_2519_35m1">
+		<npc id="22662" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Shooter -->
+		<npc id="22664" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22665" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+	</spawn>
+	<!-- aden07_2519_36 -->
+	<spawn zone="aden07_2519_36m1">
+		<npc id="22662" x="191011" y="61005" z="-7199" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Shooter -->
+		<npc id="22662" x="192865" y="60996" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Shooter -->
+		<npc id="22664" x="192486" y="60549" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="193280" y="60592" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="193321" y="61433" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="192435" y="61458" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="191416" y="61431" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="191420" y="60590" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="190567" y="60580" z="-7212" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="190629" y="61409" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22665" x="193664" y="62041" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="193760" y="61344" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="193760" y="60768" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="193776" y="60240" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="193776" y="59488" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="193222" y="59531" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="192719" y="59499" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="193165" y="61963" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="192656" y="61975" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="191940" y="61982" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="191279" y="61971" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="190496" y="61949" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="190224" y="60178" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="190287" y="59524" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="191408" y="59501" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="190809" y="59535" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22669" x="190221" y="60035" z="-7232" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Leogul -->
+	</spawn>
+	<!-- aden07_2519_38 -->
+	<spawn zone="aden07_2519_38m1">
+		<npc id="22662" x="186882" y="56272" z="-7199" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Shooter -->
+		<npc id="22664" x="187319" y="56736" z="-7199" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="187336" y="55822" z="-7199" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="186451" y="56732" z="-7199" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22664" x="186450" y="55812" z="-7199" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Mage -->
+		<npc id="22665" x="188320" y="56128" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="188347" y="56688" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="188171" y="57322" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="187657" y="57593" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="187008" y="57712" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="186384" y="57728" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="185802" y="57614" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="185408" y="56976" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="185422" y="56332" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="185461" y="55679" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="185744" y="55168" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="186416" y="54944" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="187024" y="54880" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="187664" y="54848" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="188128" y="55216" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22665" x="188355" y="55617" z="-7200" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Elder -->
+		<npc id="22669" x="187740" y="55516" z="-7232" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Leogul -->
+	</spawn>
+	<!-- aden07_2519_37 -->
+	<spawn zone="aden07_2519_37m1">
+		<npc id="32711" x="191391" y="57074" z="-7616" heading="59404" respawnDelay="0" /> <!-- Droph -->
+	</spawn>
+	<!-- aden07_2519_39 -->
+	<spawn zone="aden07_2519_39m1">
+		<npc id="22661" x="185712" y="55137" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="186048" y="54930" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="186409" y="54916" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="186813" y="54888" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="187477" y="54859" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="187861" y="54869" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="188128" y="55056" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="188176" y="55456" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="188208" y="55840" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="188177" y="56261" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="188192" y="56608" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="188208" y="57024" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="188192" y="57408" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="187108" y="57703" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="187934" y="57662" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="185632" y="55536" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="185600" y="55936" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="185600" y="56592" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="185626" y="57008" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="185610" y="57412" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22661" x="186784" y="57674" z="-4528" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22663" x="186236" y="56907" z="-4544" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22663" x="186256" y="55599" z="-4557" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22663" x="187562" y="56978" z="-4557" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22663" x="187540" y="55561" z="-4544" heading="0" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22669" count="1" respawnDelay="82" respawnRandom="20" /> <!-- Leogul -->
+	</spawn>
+	<!-- aden07_2519_40 -->
+	<spawn zone="aden07_2519_40m1">
+		<npc id="32649" x="184458" y="61446" z="-3992" heading="33661" respawnDelay="0" /> <!-- Dwyph -->
+	</spawn>
+	<!-- aden07_2519_41 -->
+	<spawn zone="aden07_2519_41m1">
+		<npc id="22661" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Soldier -->
+		<npc id="22663" count="2" respawnDelay="82" respawnRandom="20" /> <!-- Lesser Giant Scout -->
+		<npc id="22668" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Gamlin -->
+	</spawn>
+	<!-- aden07_2519_p01 -->
+	<spawn zone="aden07_2519_p01m1">
+		<npc id="22670" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Cursed Lord -->
+	</spawn>
+	<!-- aden07_2519_p02 -->
+	<spawn zone="aden07_2519_p02m1">
+		<npc id="22670" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Cursed Lord -->
+	</spawn>
+	<!-- aden07_2519_p05 -->
+	<spawn zone="aden07_2519_p05m1">
+		<npc id="22670" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Cursed Lord -->
+	</spawn>
+	<!-- aden07_2519_p06 -->
+	<spawn zone="aden07_2519_p06m1">
+		<npc id="22670" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Cursed Lord -->
+	</spawn>
+	<!-- aden07_2519_p07 -->
+	<spawn zone="aden07_2519_p07m1">
+		<npc id="22670" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Cursed Lord -->
+	</spawn>
+	<!-- aden07_2519_p09 -->
+	<spawn zone="aden07_2519_p09m1">
+		<npc id="22670" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Cursed Lord -->
+	</spawn>
+	<!-- aden07_2519_p10 -->
+	<spawn zone="aden07_2519_p10m1">
+		<npc id="22670" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Cursed Lord -->
+	</spawn>
+	<!-- aden07_2519_p11 -->
+	<spawn zone="aden07_2519_p11m1">
+		<npc id="22670" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Cursed Lord -->
+	</spawn>
+	<!-- aden07_2519_p13 -->
+	<spawn zone="aden07_2519_p13m1">
+		<npc id="22670" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Cursed Lord -->
+	</spawn>
+	<!-- aden07_2519_p14 -->
+	<spawn zone="aden07_2519_p14m1">
+		<npc id="22670" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Cursed Lord -->
+	</spawn>
+	<!-- aden07_2519_p27 -->
+	<spawn zone="aden07_2519_p27m1">
+		<npc id="22666" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Barif -->
+	</spawn>
+	<!-- aden07_2519_p36 -->
+	<spawn zone="aden07_2519_p36m1">
+		<npc id="22666" count="3" respawnDelay="150" respawnRandom="50" /> <!-- Barif -->
+	</spawn>
+	<!-- aden07_2519_p38 -->
+	<spawn zone="aden07_2519_p38m1">
+		<npc id="22666" count="3" respawnDelay="150" respawnRandom="50" /> <!-- Barif -->
+	</spawn>
+	<!-- aden07_2519_p41 -->
+	<spawn zone="aden07_2519_p41m1">
+		<npc id="22666" count="1" respawnDelay="150" respawnRandom="50" /> <!-- Barif -->
+	</spawn>
+	<!-- aden07_2519_o01 -->
+	<spawn zone="aden07_2519_o01m1">
+		<npc id="20650" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Kranrot -->
+		<npc id="20648" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Paliote -->
+		<npc id="20647" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Yintzu -->
+		<npc id="20649" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Hamrut -->
+	</spawn>
+	<!-- aden07_2519_o02 -->
+	<spawn zone="aden07_2519_o02m1">
+		<npc id="20650" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Kranrot -->
+		<npc id="20648" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Paliote -->
+		<npc id="20647" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Yintzu -->
+		<npc id="20649" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Hamrut -->
+	</spawn>
+	<!-- aden22_qm2519_01 -->
+	<spawn zone="aden22_qm2519_01m1">
+		<npc id="27316" count="1" respawnDelay="300" respawnRandom="5" /> <!-- Fallen Chieftain Vegus -->
+	</spawn>
+</list>

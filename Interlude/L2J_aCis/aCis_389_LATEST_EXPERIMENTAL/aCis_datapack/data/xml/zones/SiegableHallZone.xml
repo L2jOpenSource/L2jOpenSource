@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- Siegable Hall Zones -->
+	<zone name="partisan_agit001" type="SiegableHallZone" shape="NPoly" minZ="-2104" maxZ="-1104">
+		<stat name="clanHallId" val="21"/>
+		<!-- residence_territory -->
+		<node x="43048" y="108832"/>
+		<node x="43692" y="108204"/>
+		<node x="44052" y="108604"/>
+		<node x="43976" y="109180"/>
+		<node x="43684" y="109496"/>
+	</zone>
+	<zone name="devastated_castle" type="SiegableHallZone" shape="NPoly" minZ="-2514" maxZ="486">
+		<stat name="clanHallId" val="34"/>
+		<!-- residence_territory -->
+		<node x="176793" y="-19176"/>
+		<node x="179892" y="-19176"/>
+		<node x="179892" y="-15276"/>
+		<node x="179417" y="-14511"/>
+		<node x="177270" y="-14511"/>
+		<node x="176793" y="-15276"/>
+	</zone>
+	<zone name="bandits_stronghold" type="SiegableHallZone" shape="NPoly" minZ="-2920" maxZ="80">
+		<stat name="clanHallId" val="35"/>
+		<!-- residence_territory -->
+		<node x="79028" y="-17588"/>
+		<node x="84640" y="-19528"/>
+		<node x="86952" y="-16888"/>
+		<node x="83636" y="-13448"/>
+		<node x="79196" y="-13584"/>
+	</zone>
+	<zone name="rainbow_spring" type="SiegableHallZone" shape="NPoly" minZ="-1930" maxZ="-1680">
+		<stat name="clanHallId" val="62"/>
+		<!-- residence_territory -->
+		<node x="141073" y="-125043"/>
+		<node x="140574" y="-124709"/>
+		<node x="140933" y="-124171"/>
+		<node x="141432" y="-124505"/>
+	</zone>
+	<zone name="wild_beast_reserve" type="SiegableHallZone" shape="NPoly" minZ="-1407" maxZ="-907">
+		<stat name="clanHallId" val="63"/>
+		<!-- residence_territory -->
+		<node x="59997" y="-96111"/>
+		<node x="61969" y="-92430"/>
+		<node x="58303" y="-89937"/>
+		<node x="55402" y="-91364"/>
+		<node x="55254" y="-92999"/>
+		<node x="55344" y="-93295"/>
+		<node x="56049" y="-94619"/>
+	</zone>
+	<zone name="fortress_the_dead" type="SiegableHallZone" shape="NPoly" minZ="305" maxZ="1685">
+		<stat name="clanHallId" val="64"/>
+		<!-- residence_territory -->
+		<node x="58672" y="-30158"/>
+		<node x="59478" y="-29345"/>
+		<node x="59477" y="-25636"/>
+		<node x="56445" y="-25638"/>
+		<node x="56445" y="-29326"/>
+		<node x="57277" y="-30154"/>
+	</zone>
+</list>

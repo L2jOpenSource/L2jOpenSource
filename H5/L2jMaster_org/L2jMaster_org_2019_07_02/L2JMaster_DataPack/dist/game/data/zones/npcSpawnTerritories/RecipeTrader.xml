@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- recipe_trader_001 -->
+	<zone name="recipe_trader_001_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-3500" maxZ="-3000">
+		<node X="-83104" Y="155152" />
+		<node X="-83104" Y="155552" />
+		<node X="-82704" Y="155552" />
+		<node X="-82704" Y="155152" />
+	</zone>
+	<!-- recipe_trader_002 -->
+	<zone name="recipe_trader_002_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-3340" maxZ="-3040">
+		<node X="-15360" Y="124416" />
+		<node X="-15360" Y="124816" />
+		<node X="-14960" Y="124816" />
+		<node X="-14960" Y="124416" />
+	</zone>
+	<!-- recipe_trader_003 -->
+	<zone name="recipe_trader_003_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-3500" maxZ="-2500">
+		<node X="-19440" Y="142896" />
+		<node X="-19440" Y="143296" />
+		<node X="-19840" Y="143296" />
+		<node X="-19840" Y="142896" />
+	</zone>
+	<!-- recipe_trader_004 -->
+	<zone name="recipe_trader_004_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-4000" maxZ="-3000">
+		<node X="-77264" Y="148064" />
+		<node X="-77264" Y="148464" />
+		<node X="-77664" Y="148464" />
+		<node X="-77664" Y="148064" />
+	</zone>
+	<!-- recipe_trader_005 -->
+	<zone name="recipe_trader_005_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-4000" maxZ="-3000">
+		<node X="-107648" Y="218784" />
+		<node X="-107648" Y="219184" />
+		<node X="-108048" Y="219184" />
+		<node X="-108048" Y="218784" />
+	</zone>
+	<!-- recipe_trader_006 -->
+	<zone name="recipe_trader_006_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-2000" maxZ="-1000">
+		<node X="-83552" Y="55344" />
+		<node X="-83552" Y="55744" />
+		<node X="-83952" Y="55744" />
+		<node X="-83952" Y="55344" />
+	</zone>
+	<!-- recipe_trader_007 -->
+	<zone name="recipe_trader_007_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-2500" maxZ="-2000">
+		<node X="-150704" Y="28128" />
+		<node X="-150704" Y="28528" />
+		<node X="-151104" Y="28528" />
+		<node X="-151104" Y="28128" />
+	</zone>
+	<!-- recipe_trader_008 -->
+	<zone name="recipe_trader_008_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-3500" maxZ="-2500">
+		<node X="-146544" Y="-59136" />
+		<node X="-146544" Y="-58736" />
+		<node X="-146944" Y="-58736" />
+		<node X="-146944" Y="-59136" />
+	</zone>
+	<!-- recipe_trader_009 -->
+	<zone name="recipe_trader_009_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-2000" maxZ="-1000">
+		<node X="-88048" Y="-139808" />
+		<node X="-88048" Y="-139408" />
+		<node X="-88448" Y="-139408" />
+		<node X="-88448" Y="-139808" />
+	</zone>
+	<!-- recipe_trader_010 -->
+	<zone name="recipe_trader_010_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-4230" maxZ="-500">
+		<node X="-45360" Y="-48672" />
+		<node X="-45360" Y="-48272" />
+		<node X="-45760" Y="-48272" />
+		<node X="-45760" Y="-48672" />
+	</zone>
+	<!-- recipe_trader_011 -->
+	<zone name="recipe_trader_011_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-3000" maxZ="-2000">
+		<node X="-116976" Y="75008" />
+		<node X="-116976" Y="75408" />
+		<node X="-117376" Y="75408" />
+		<node X="-117376" Y="75008" />
+	</zone>
+</list>

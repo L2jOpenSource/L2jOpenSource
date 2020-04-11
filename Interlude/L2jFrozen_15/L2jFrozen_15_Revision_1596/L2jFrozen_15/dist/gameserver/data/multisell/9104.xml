@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Misc Items -->
+
+<list>
+
+  <!-- Greater CP Potion -->
+  <item id="12">
+    <ingredient id="4037" count="5000"/>
+    <production id="5592" count="150"/>
+  </item>
+
+</list>

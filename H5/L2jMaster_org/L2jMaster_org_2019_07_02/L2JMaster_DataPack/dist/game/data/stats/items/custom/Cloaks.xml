@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/items.xsd">
+	<item id="24000" type="Armor" name="Saint Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<for>
+			<add stat="darkRes" val="30" />
+			<add stat="windRes" val="30" />
+			<add stat="waterRes" val="30" />
+			<add stat="earthRes" val="30" />
+			<add stat="holyRes" val="30" />
+			<add stat="darkRes" val="30" />
+		</for>
+	</item>
+	<item id="24001" type="Armor" name="Pagan Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="true" />
+		<for>
+			<add stat="darkRes" val="30" />
+			<add stat="windRes" val="30" />
+			<add stat="waterRes" val="30" />
+			<add stat="earthRes" val="30" />
+			<add stat="holyRes" val="30" />
+			<add stat="darkRes" val="30" />
+		</for>
+	</item>
+	<item id="24002" type="Armor" name="Heroic Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="true" />
+		<for>
+			<add stat="darkRes" val="30" />
+			<add stat="windRes" val="30" />
+			<add stat="waterRes" val="30" />
+			<add stat="earthRes" val="30" />
+			<add stat="holyRes" val="30" />
+			<add stat="darkRes" val="30" />
+		</for>
+	</item>
+	<item id="24003" type="Armor" name="Dragon Fire Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="true" />
+		<for>
+			<add stat="darkRes" val="30" />
+			<add stat="windRes" val="30" />
+			<add stat="waterRes" val="30" />
+			<add stat="earthRes" val="30" />
+			<add stat="holyRes" val="30" />
+			<add stat="darkRes" val="30" />
+		</for>
+	</item>
+	<item id="24004" type="Armor" name="Aqua Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="true" />
+		<for>
+			<add stat="darkRes" val="30" />
+			<add stat="windRes" val="30" />
+			<add stat="waterRes" val="30" />
+			<add stat="earthRes" val="30" />
+			<add stat="holyRes" val="30" />
+			<add stat="darkRes" val="30" />
+		</for>
+	</item>
+	<item id="24005" type="Armor" name="Evil Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="true" />
+		<for>
+			<add stat="darkRes" val="30" />
+			<add stat="windRes" val="30" />
+			<add stat="waterRes" val="30" />
+			<add stat="earthRes" val="30" />
+			<add stat="holyRes" val="30" />
+			<add stat="darkRes" val="30" />
+		</for>
+	</item>
+	<item id="24006" type="Armor" name="Red Dragon Fire Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="true" />
+		<for>
+			<add stat="darkRes" val="30" />
+			<add stat="windRes" val="30" />
+			<add stat="waterRes" val="30" />
+			<add stat="earthRes" val="30" />
+			<add stat="holyRes" val="30" />
+			<add stat="darkRes" val="30" />
+		</for>
+	</item>
+	<item id="24007" type="Armor" name="Reptile Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="true" />
+		<for>
+			<add stat="darkRes" val="30" />
+			<add stat="windRes" val="30" />
+			<add stat="waterRes" val="30" />
+			<add stat="earthRes" val="30" />
+			<add stat="holyRes" val="30" />
+			<add stat="darkRes" val="30" />
+		</for>
+	</item>
+	<item id="24008" type="Armor" name="Silverstorm Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="true" />
+		<for>
+			<add stat="darkRes" val="30" />
+			<add stat="windRes" val="30" />
+			<add stat="waterRes" val="30" />
+			<add stat="earthRes" val="30" />
+			<add stat="holyRes" val="30" />
+			<add stat="darkRes" val="30" />
+		</for>
+	</item>
+	<item id="24009" type="Armor" name="Crystal Cloak">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="true" />
+		<for>
+			<add stat="darkRes" val="30" />
+			<add stat="windRes" val="30" />
+			<add stat="waterRes" val="30" />
+			<add stat="earthRes" val="30" />
+			<add stat="holyRes" val="30" />
+			<add stat="darkRes" val="30" />
+		</for>
+	</item>
+	<item id="24010" type="Armor" name="Knight's Cloak">
+		<set name="icon" val="BranchSys2.Icon.br_frintessa_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="False" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<cond msgId="113" addName="1">
+			<player class_id_restriction="90, 91, 99, 106" />
+		</cond>
+		<for>
+			<add stat="darkRes" val="5" />
+			<add stat="earthRes" val="5" />
+			<add stat="fireRes" val="5" />
+			<add stat="holyRes" val="5" />
+			<add stat="waterRes" val="5" />
+			<add stat="windRes" val="5" />
+		</for>
+	</item>
+	<item id="24011" type="Armor" name="Archer's Cloak">
+		<set name="icon" val="BranchSys2.Icon.7anni_cloack_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="True" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<cond msgId="113" addName="1">
+			<player class_id_restriction="92, 102, 109, 134" />
+		</cond>
+		<for>
+			<add stat="accCombat" val="5" />
+		</for>
+	</item>
+	<item id="24012" type="Armor" name="Enchanter's Cloak">
+		<set name="icon" val="BranchSys2.Icon.7anni_cloack_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="True" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<cond msgId="113" addName="1">
+			<player class_id_restriction="98, 100, 107, 115, 116" />
+		</cond>
+		<for>
+			<mul stat="maxMp" val="1.5" />
+		</for>
+	</item>
+	<item id="24013" type="Armor" name="Healer's Cloak">
+		<set name="icon" val="BranchSys2.Icon.br_freya_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="True" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<cond msgId="113" addName="1">
+			<player class_id_restriction="97, 105, 112" />
+		</cond>
+		<for>
+			<mul stat="maxMp" val="1.2" />
+		</for>
+	</item>
+	<item id="24014" type="Armor" name="Rouge's Cloak">
+		<set name="icon" val="BranchSys2.Icon.br_frintessa_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="True" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<cond msgId="113" addName="1">
+			<player class_id_restriction="93, 101, 108, 117" />
+		</cond>
+		<for>
+			<add stat="rEvas" val="5" />
+		</for>
+	</item>
+	<item id="24015" type="Armor" name="Warrior's Cloak">
+		<set name="icon" val="BranchSys2.Icon.br_frintessa_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="True" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<cond msgId="113" addName="1">
+			<player class_id_restriction="88, 89, 113, 114, 118, 131" />
+		</cond>
+		<for>
+				<add stat="pAtk" val="10" />
+		</for>
+	</item>
+	<item id="24016" type="Armor" name="Summoner's Cloak">
+		<set name="icon" val="BranchSys2.Icon.br_freya_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="True" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<cond msgId="113" addName="1">
+			<player class_id_restriction="96, 104, 111" />
+		</cond>
+		<for>
+			<add stat="pDef" val="50" />
+		</for>
+	</item>
+	<item id="24017" type="Armor" name="Wizard's Cloak">
+		<set name="icon" val="BranchSys2.Icon.br_freya_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="True" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<cond msgId="113" addName="1">
+			<player class_id_restriction="94, 95, 103, 110, 132, 133" />
+		</cond>
+		<for>
+			<add stat="pDef" val="50" />
+		</for>
+	</item>
+	<item id="24018" type="Armor" name="Cloak of Heroes Blood Red">
+		<set name="icon" val="icon.amor_evilness_cloak" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="40" />
+			<add stat="fireRes" val="10" />
+			<add stat="waterRes" val="10" />
+			<add stat="windRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="holyRes" val="10" />
+			<add stat="darkRes" val="10" />
+		</for>
+	</item>
+	<item id="24019" type="Armor" name="Cloak of Heroes	Grass Green">
+		<set name="icon" val="icon.amor_evilness_cloak" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="40" />
+			<add stat="fireRes" val="10" />
+			<add stat="waterRes" val="10" />
+			<add stat="windRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="holyRes" val="10" />
+			<add stat="darkRes" val="10" />
+		</for>
+	</item>
+	<item id="24020" type="Armor" name="Cloak of Heroes	Water Blue">
+		<set name="icon" val="icon.amor_evilness_cloak" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="40" />
+			<add stat="fireRes" val="10" />
+			<add stat="waterRes" val="10" />
+			<add stat="windRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="holyRes" val="10" />
+			<add stat="darkRes" val="10" />
+		</for>
+	</item>
+	<item id="24021" type="Armor" name="Radiant Cloak of Light">
+		<set name="icon" val="icon.amor_evilness_cloak" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="False" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="40" />
+			<add stat="fireRes" val="10" />
+			<add stat="waterRes" val="10" />
+			<add stat="windRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="holyRes" val="10" />
+			<add stat="darkRes" val="10" />
+		</for>
+	</item>
+	<item id="24022" type="Armor" name="Radiant Cloak of Darkness">
+		<set name="icon" val="icon.amor_evilness_cloak" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="40" />
+			<add stat="fireRes" val="10" />
+			<add stat="waterRes" val="10" />
+			<add stat="windRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="holyRes" val="10" />
+			<add stat="darkRes" val="10" />
+		</for>
+	</item>
+	<item id="24023" type="Armor" name="Cloak of Light">
+		<set name="icon" val="icon.amor_evilness_cloak" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="40" />
+			<add stat="fireRes" val="10" />
+			<add stat="waterRes" val="10" />
+			<add stat="windRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="holyRes" val="10" />
+			<add stat="darkRes" val="10" />
+		</for>
+	</item>
+	<item id="24024" type="Armor" name="Cloak of Darkness">
+		<set name="icon" val="icon.amor_evilness_cloak" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="40" />
+			<add stat="fireRes" val="10" />
+			<add stat="waterRes" val="10" />
+			<add stat="windRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="holyRes" val="10" />
+			<add stat="darkRes" val="10" />
+		</for>
+	</item>
+	<item id="24025" type="Armor" name="Cloak of Aden">
+		<set name="icon" val="icon.vesper_cloack_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1440" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_clan_leader;1}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="-1" />
+				<player pledgeClass="-1" />
+				<!-- Clan Leader -->
+			</and>
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add stat="pDef" val="100" />
+		</for>
+	</item>
+	<item id="24026" type="Armor" name="Cloak of Dion">
+		<set name="icon" val="icon.vesper_cloack_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1440" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_clan_leader;1}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="-1" />
+				<player pledgeClass="-1" />
+				<!-- Clan Leader -->
+			</and>
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add stat="pDef" val="100" />
+		</for>
+	</item>
+	<item id="24027" type="Armor" name="Cloak of Giran">
+		<set name="icon" val="icon.vesper_cloack_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1440" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_clan_leader;1}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="-1" />
+				<player pledgeClass="-1" />
+				<!-- Clan Leader -->
+			</and>
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add stat="pDef" val="100" />
+		</for>
+	</item>
+	<item id="24028" type="Armor" name="Cloak of Gludio">
+		<set name="icon" val="icon.vesper_cloack_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1440" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_clan_leader;1}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="-1" />
+				<player pledgeClass="-1" />
+				<!-- Clan Leader -->
+			</and>
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add stat="pDef" val="100" />
+		</for>
+	</item>
+	<item id="24029" type="Armor" name="Cloak of Goddard">
+		<set name="icon" val="icon.vesper_cloack_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1440" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_clan_leader;1}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="-1" />
+				<player pledgeClass="-1" />
+				<!-- Clan Leader -->
+			</and>
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add stat="pDef" val="100" />
+		</for>
+	</item>
+	<item id="24030" type="Armor" name="Cloak of Innadril">
+		<set name="icon" val="icon.vesper_cloack_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1440" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_clan_leader;1}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="-1" />
+				<player pledgeClass="-1" />
+				<!-- Clan Leader -->
+			</and>
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add stat="pDef" val="100" />
+		</for>
+	</item>
+	<item id="24031" type="Armor" name="Cloak of Oren">
+		<set name="icon" val="icon.vesper_cloack_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1440" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_clan_leader;1}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="-1" />
+				<player pledgeClass="-1" />
+				<!-- Clan Leader -->
+			</and>
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add stat="pDef" val="100" />
+		</for>
+	</item>
+	<item id="24032" type="Armor" name="Cloak of Rune">
+		<set name="icon" val="icon.vesper_cloack_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1440" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_clan_leader;1}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="-1" />
+				<player pledgeClass="-1" />
+				<!-- Clan Leader -->
+			</and>
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add stat="pDef" val="100" />
+		</for>
+	</item>
+	<item id="24033" type="Armor" name="Cloak of Schuttgart">
+		<set name="icon" val="icon.vesper_cloack_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1440" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_clan_leader;1}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="-1" />
+				<player pledgeClass="-1" />
+				<!-- Clan Leader -->
+			</and>
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add stat="pDef" val="100" />
+		</for>
+	</item>
+</list>

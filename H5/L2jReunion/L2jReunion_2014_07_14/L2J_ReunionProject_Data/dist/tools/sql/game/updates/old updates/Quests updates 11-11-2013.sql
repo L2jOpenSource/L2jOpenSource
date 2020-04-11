@@ -1,0 +1,10 @@
+UPDATE character_quests SET name='Q00111_ElrokianHuntersProof' WHERE name='111_Elrokian_Hunters_Proof';
+UPDATE character_quests SET name='Q00283_TheFewTheProudTheBrave' WHERE name='283_TheFewTheProudTheBrave';
+UPDATE character_quests SET name='Q00284_MuertosFeather' WHERE name='284_MuertosFeather'; 
+UPDATE character_quests SET name='Q00286_FabulousFeathers' WHERE name='286_FabulousFeathers'; 
+UPDATE character_quests SET name='Q00291_RevengeOfTheRedbonnet' WHERE name='291_RedBonnetsRevenge';
+UPDATE character_quests SET name='Q00354_ConquestOfAlligatorIsland' WHERE name='354_ConquestOfAlligatorIsland';
+UPDATE character_quests SET name='Q00365_DevilsLegacy' WHERE name='365_DevilsLegacy';
+UPDATE character_quests SET name='Q00619_RelicsOfTheOldEmpire' WHERE name='619_RelicsOfTheOldEmpire';
+UPDATE character_quests SET name='Q00628_HuntGoldenRam' WHERE name='628_HuntGoldenRam';
+UPDATE character_quests SET name='Q00629_CleanUpTheSwampOfScreams' WHERE name='629_CleanUpTheSwampOfScreams';

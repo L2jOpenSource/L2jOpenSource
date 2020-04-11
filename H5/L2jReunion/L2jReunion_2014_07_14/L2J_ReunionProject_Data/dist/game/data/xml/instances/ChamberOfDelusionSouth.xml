@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Chamber of Delusion (Southern Seal)" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
+	<activityTime val="40" />
+	<allowSummon val="false" />
+	<emptyDestroyTime val="1200" />
+	<spawnPoint spawnX="-114592" spawnY="-152509" spawnZ="-6723" />
+	<spawnlist>
+	<group name="general">
+		<!-- Room 1 -->
+		<spawn npcId="22708" x="-122263" y="-208129" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22708" x="-122602" y="-207637" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22709" x="-122536" y="-208049" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22710" x="-122277" y="-207829" z="-6747" heading="0" respawn="25" />
+		<!-- Room 2 -->
+		<spawn npcId="22708" x="-122141" y="-207152" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22710" x="-122286" y="-207070" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22710" x="-122597" y="-206876" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22712" x="-122507" y="-207233" z="-6747" heading="0" respawn="25" />
+		<!-- Room 3 -->
+		<spawn npcId="18817" x="-122368" y="-209064" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22708" x="-122328" y="-209482" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22708" x="-122533" y="-208964" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22708" x="-122166" y="-209179" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22709" x="-122099" y="-209284" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22712" x="-122586" y="-209070" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22712" x="-122328" y="-209620" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22717" x="-122156" y="-209668" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22717" x="-122615" y="-209656" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22718" x="-122582" y="-209530" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22718" x="-122471" y="-208993" z="-6747" heading="0" respawn="30" />
+		<!-- Room 4 -->
+		<spawn npcId="22708" x="-121474" y="-207448" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22708" x="-121238" y="-206920" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22709" x="-121398" y="-207631" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22711" x="-121429" y="-207218" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22712" x="-121666" y="-207674" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22715" x="-121202" y="-206870" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22715" x="-121429" y="-206783" z="-6747" heading="0" respawn="30" />
+	</group>
+	</spawnlist>
+</instance>

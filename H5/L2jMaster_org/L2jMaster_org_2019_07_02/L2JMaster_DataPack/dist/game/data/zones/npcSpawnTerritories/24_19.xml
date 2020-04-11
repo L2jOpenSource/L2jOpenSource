@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- aden18_npc2419_01 -->
+	<zone name="aden18_npc2419_0101" type="NpcSpawnTerritory" shape="NPoly" minZ="-3452" maxZ="-3252">
+		<node X="147404" Y="46940" />
+		<node X="147604" Y="46940" />
+		<node X="147604" Y="47140" />
+		<node X="147404" Y="47140" />
+	</zone>
+	<!-- aden18_npc2419_02 -->
+	<zone name="aden18_npc2419_0201" type="NpcSpawnTerritory" shape="NPoly" minZ="-3444" maxZ="-3244">
+		<node X="151356" Y="46268" />
+		<node X="151556" Y="46268" />
+		<node X="151556" Y="46468" />
+		<node X="151356" Y="46468" />
+	</zone>
+	<!-- aden19_npc2419_01 -->
+	<zone name="aden19_npc2419_0101" type="NpcSpawnTerritory" shape="NPoly" minZ="-3128" maxZ="-2928">
+		<node X="143116" Y="43884" />
+		<node X="143316" Y="43884" />
+		<node X="143316" Y="44084" />
+		<node X="143116" Y="44084" />
+	</zone>
+	<!-- ssq_npc2419_01 -->
+	<zone name="ssq_npc2419_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3736" maxZ="-3536">
+		<node X="138379" Y="61171" />
+		<node X="138579" Y="61171" />
+		<node X="138579" Y="61371" />
+		<node X="138379" Y="61371" />
+	</zone>
+	<!-- ssq_npc2419_02 -->
+	<zone name="ssq_npc2419_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3440" maxZ="-3240">
+		<node X="142709" Y="46391" />
+		<node X="142909" Y="46391" />
+		<node X="142909" Y="46591" />
+		<node X="142709" Y="46591" />
+	</zone>
+</list>

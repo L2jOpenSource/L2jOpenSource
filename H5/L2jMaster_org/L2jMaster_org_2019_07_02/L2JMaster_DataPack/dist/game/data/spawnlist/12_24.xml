@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- rumwarsha01_1224_1009 -->
+	<!-- <spawn zone="rumwarsha01_1224_1009m1"> -->
+		<!-- <npc id="18687" count="6" respawnDelay="600" respawnRandom="0" /> Blue Star Stone -->
+		<!-- <npc id="18688" count="7" respawnDelay="600" respawnRandom="0" /> Blue Star Stone -->
+		<!-- <npc id="18689" count="6" respawnDelay="600" respawnRandom="0" /> Blue Star Stone -->
+	<!-- </spawn> -->
+	<!-- rumwarsha01_1224_1010 -->
+	<spawn zone="rumwarsha01_1224_1010m1">
+		<npc id="18690" x="-233159" y="208943" z="4962" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18691" x="-233159" y="208539" z="5007" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18691" x="-233723" y="209347" z="4907" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18691" x="-253796" y="227892" z="2893" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18692" x="-237107" y="207327" z="5257" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18692" x="-236543" y="208539" z="5307" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18692" x="-239927" y="208539" z="4875" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18692" x="-232595" y="208943" z="5296" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<!-- <npc id="18690" count="6" respawnDelay="600" respawnRandom="0" />  Green Star Stone -->
+		<!-- <npc id="18691" count="7" respawnDelay="600" respawnRandom="0" /> Green Star Stone -->
+		<!-- <npc id="18692" count="6" respawnDelay="600" respawnRandom="0" /> Green Star Stone -->
+	</spawn>
+	<!-- rumwarsha01_1224_1011 -->
+	<spawn zone="rumwarsha01_1224_1011m1">
+		<npc id="18684" x="-246875" y="219422" z="5187" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-244980" y="217986" z="4050" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-247254" y="219422" z="5221" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-246875" y="219422" z="5187" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-246496" y="218704" z="5302" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-245738" y="219422" z="3517" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-248012" y="215114" z="4357" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-248770" y="217986" z="4858" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<!-- <npc id="18684" count="6" respawnDelay="600" respawnRandom="0" /> Red Star Stone -->
+		<!-- <npc id="18685" count="7" respawnDelay="600" respawnRandom="0" /> Red Star Stone -->
+		<!-- <npc id="18686" count="7" respawnDelay="600" respawnRandom="0" /> Red Star Stone -->
+	</spawn>
+	<!-- rumwarsha01_1224_1012 -->
+	<!-- <spawn zone="rumwarsha01_1224_1012m1"> -->
+		<!-- <npc id="18690" count="6" respawnDelay="600" respawnRandom="0" /> Green Star Stone -->
+		<!-- <npc id="18691" count="7" respawnDelay="600" respawnRandom="0" /> Green Star Stone -->
+		<!-- <npc id="18692" count="6" respawnDelay="600" respawnRandom="0" /> Green Star Stone -->
+	<!-- </spawn> -->
+	<!-- rumwarsha01_1224_1013 -->
+	<!-- <spawn zone="rumwarsha01_1224_1013m1"> -->
+		<!-- <npc id="18687" count="6" respawnDelay="600" respawnRandom="0" /> Blue Star Stone -->
+		<!-- <npc id="18688" count="7" respawnDelay="600" respawnRandom="0" /> Blue Star Stone -->
+		<!-- <npc id="18689" count="6" respawnDelay="600" respawnRandom="0" /> Blue Star Stone -->
+	<!-- </spawn> -->
+</list>

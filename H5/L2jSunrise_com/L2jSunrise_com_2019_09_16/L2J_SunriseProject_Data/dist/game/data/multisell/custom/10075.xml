@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- safe scrols -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- safe armor -->
+	<item>
+		<ingredient id="40006" count="200" />
+		<production id="40108" count="1" />
+	</item>
+	<!-- safe weapon -->
+	<item>
+		<ingredient id="40006" count="200" />
+		<production id="40103" count="1" />
+	</item>
+</list>

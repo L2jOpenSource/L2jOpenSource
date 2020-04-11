@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- lyonn06_npc2013_001 -->
+	<zone name="lyonn_npc2013_00101" type="NpcSpawnTerritory" shape="NPoly" minZ="-1926" maxZ="-1726">
+		<node X="12332" Y="-141892" />
+		<node X="12532" Y="-141892" />
+		<node X="12532" Y="-141692" />
+		<node X="12332" Y="-141692" />
+	</zone>
+	<!-- lyonn08_2013_01 -->
+	<zone name="lyonn08_2013_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3448" maxZ="-2248">
+		<node X="252" Y="-133644" />
+		<node X="8360" Y="-132800" />
+		<node X="9432" Y="-131350" />
+		<node X="176" Y="-131360" />
+	</zone>
+	<!-- lyonn08_2013_02 -->
+	<zone name="lyonn08_2013_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1272" maxZ="-372">
+		<node X="7716" Y="-138436" />
+		<node X="10452" Y="-136140" />
+		<node X="8764" Y="-134760" />
+		<node X="5340" Y="-135256" />
+		<node X="6256" Y="-137512" />
+	</zone>
+	<!-- lyonn08_2013_03 -->
+	<zone name="lyonn08_2013_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1928" maxZ="-1078">
+		<node X="10992" Y="-135132" />
+		<node X="12372" Y="-135076" />
+		<node X="14204" Y="-131388" />
+		<node X="10796" Y="-131464" />
+		<node X="9276" Y="-134068" />
+	</zone>
+	<!-- lyonn08_2013_04 -->
+	<zone name="lyonn08_2013_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1892" maxZ="-692">
+		<node X="14640" Y="-138080" />
+		<node X="15816" Y="-138192" />
+		<node X="18508" Y="-135324" />
+		<node X="16076" Y="-134756" />
+		<node X="14788" Y="-135196" />
+		<node X="12892" Y="-137140" />
+	</zone>
+	<!-- lyonn08_2013_05 -->
+	<zone name="lyonn08_2013_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1888" maxZ="-1088">
+		<node X="19796" Y="-132792" />
+		<node X="22504" Y="-132144" />
+		<node X="22440" Y="-131416" />
+		<node X="18620" Y="-131452" />
+		<node X="18432" Y="-132368" />
+	</zone>
+	<!-- lyonn08_2013_06 -->
+	<zone name="lyonn08_2013_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1908" maxZ="-1508">
+		<node X="10096" Y="-141852" />
+		<node X="10896" Y="-142592" />
+		<node X="13404" Y="-142056" />
+		<node X="15244" Y="-140060" />
+		<node X="12020" Y="-137648" />
+		<node X="10112" Y="-139972" />
+	</zone>
+</list>

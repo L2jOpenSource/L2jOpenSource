@@ -1,0 +1,41 @@
+<html><title>NPC Info</title><body>
+	<center>
+		<table width=260>
+			<tr>
+				<td><button value="General" action="bypass -h admin_npcinfo" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="AI" action="bypass -h admin_npcinfo ai" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="Spawn" action="bypass -h admin_npcinfo spawn" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="Stat" action="bypass -h admin_npcinfo stat" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+			</tr>
+		</table>
+		<img src="l2ui.SquareWhite" width=275 height=1><br>
+		
+		<font color="LEVEL">Actions</font>
+		<table width="100%">
+			<tr>
+				<td><button value="Kill" action="bypass -h admin_kill" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="Delete" action="bypass -h admin_delete" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="Skills" action="bypass -h admin_npcinfo skill" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="Buffs" action="bypass -h admin_getbuffs" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+			</tr><tr>
+				<td><button value="Spawns" action="bypass -h admin_list_spawns %id%" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="Drops" action="bypass -h admin_npcinfo drop" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="Spoils" action="bypass -h admin_npcinfo spoil" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td>%shop%</td>
+			</tr>
+		</table><br>
+		
+		<font color="LEVEL">General Informations</font>
+		<table width="100%">
+			<tr><td><font color="LEVEL">Name:</font></td><td>%name%</td><td><font color="LEVEL">Level:</font></td><td>%lvl%</td></tr>
+			<tr><td><font color="LEVEL">NpcId:</font></td><td>%id%</td><td><font color="LEVEL">CustomId:</font></td><td>%tmplid%</td></tr>
+			<tr><td><font color="LEVEL">Type:</font></td><td>%class%</td><td><font color="LEVEL">scriptValue:</font></td><td>%script%</td></tr>
+			<tr><td><font color="LEVEL">Race:</font></td><td>%race%</td><td></td><td></td></tr>
+		</table><br>
+		<table width="100%">
+			<tr><td><font color="LEVEL">Castle:</font></td><td>%castle%</td></tr>
+			<tr><td><font color="LEVEL">C.Hall:</font></td><td>%clanhall%</td></tr>
+			<tr><td><font color="LEVEL">S.Hall:</font></td><td>%siegablehall%</td></tr>
+		<br><img src="L2UI.SquareWhite" width=260 height=1><br>
+	</center>
+</body></html>

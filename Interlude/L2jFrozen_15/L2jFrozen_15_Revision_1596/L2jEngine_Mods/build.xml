@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="L2J_EngineMods" default="dist" basedir=".">
+
+	<property name="workspace" location="${ant.file}/../.." />
+	
+	<target name="dist" depends="jar">
+		<copy todir="build/dist">
+			<fileset dir="dist">
+			</fileset>
+		</copy>
+		
+		<delete dir="build/classes"/>
+	</target>
+
+	<target name="jar" depends="compile" description="Create the jar file.">
+		<jar destfile="build/L2J_EngineMods.jar">
+			<fileset dir="build/classes" />
+			<manifest>
+				<attribute name="Main-Class" value="main.EngineModsManager" />
+				<attribute name="Class-Path" value="${manifest.libs}" />
+			</manifest>
+		</jar>
+	
+		<copy todir="build/lib">
+			<fileset dir="build">
+				<include name="L2J_EngineMods.jar" />
+			</fileset>
+		</copy>
+	</target>
+
+	<target name="compile" depends="init" description="Compile the source.">
+		<javac srcdir="src" classpathref="classpath" destdir="build/classes" compiler="javac1.8" debug="true" debuglevel="lines,vars,source" includeantruntime="false" source="1.8" target="1.8" />
+	</target>
+	
+	<target name="init" depends="clean,checkRequirements" description="Create the output directories.">
+		<mkdir dir="build" />
+		<mkdir dir="build/classes" />
+		<mkdir dir="build/dist" />
+		<mkdir dir="build/dist/gameserver" />
+		<mkdir dir="build/lib" />
+	</target>	
+	
+	<target name="clean" description="Remove the output directories.">
+		<delete dir="build" />
+	</target>
+
+	<target name="checkRequirements" description="Check requirements.">
+		<echo message="Verification of your JDK version."/>
+		<available classname="java.util.stream.Stream" property="JDK8.present" />
+		<fail unless="JDK8.present" message="Java 1.8 is required, but your version is Java ${ant.java.version}. Install latest JDK." />
+	</target>
+	
+	<path id="L2jFrozen_15.classpath">
+		<pathelement location="${workspace}/L2jFrozen_15/bin"/>
+		<pathelement location="${workspace}/L2jFrozen_15/lib/mariadb-java-client-2.4.4.jar"/>
+	</path>
+
+	<path id="classpath">
+		<pathelement location="bin"/>
+		<path refid="L2jFrozen_15.classpath"/>
+	</path>
+
+	<pathconvert property="manifest.libs" pathsep=" ">
+		<path refid="classpath" />
+		<mapper>
+			<chainedmapper>
+				<flattenmapper />
+				<globmapper from="*.jar" to="*.jar" />
+			</chainedmapper>
+		</mapper>
+	</pathconvert>	
+	
+</project>

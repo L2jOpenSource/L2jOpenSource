@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- ssqteleport1_1612_31 -->
+	<spawn zone="dimension_gap_00">
+		<npc id="31865" x="-111971" y="-182437" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_32 -->
+	<spawn zone="dimension_gap_01">
+		<npc id="31866" x="-111098" y="-182451" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_33 -->
+	<spawn zone="dimension_gap_02">
+		<npc id="31867" x="-110274" y="-180570" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_34 -->
+	<spawn zone="dimension_gap_03">
+		<npc id="31868" x="-109391" y="-180543" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_35 -->
+	<spawn zone="dimension_gap_04">
+		<npc id="31869" x="-113276" y="-181523" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_36 -->
+	<spawn zone="dimension_gap_05">
+		<npc id="31870" x="-111564" y="-180548" z="-6753" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_37 -->
+	<spawn zone="dimension_gap_06">
+		<npc id="31871" x="-109782" y="-182443" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_38 -->
+	<spawn zone="dimension_gap_07">
+		<npc id="31872" x="-111571" y="-181523" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_39 -->
+	<spawn zone="dimension_gap_08">
+		<npc id="31873" x="-109884" y="-181517" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_41 -->
+	<spawn zone="dimension_gap_10">
+		<npc id="31874" x="-111974" y="-179611" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_42 -->
+	<spawn zone="dimension_gap_11">
+		<npc id="31875" x="-111102" y="-179625" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_43 -->
+	<spawn zone="dimension_gap_12">
+		<npc id="31876" x="-110277" y="-177744" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_44 -->
+	<spawn zone="dimension_gap_13">
+		<npc id="31877" x="-109395" y="-177716" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_45 -->
+	<spawn zone="dimension_gap_14">
+		<npc id="31878" x="-113280" y="-178697" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_46 -->
+	<spawn zone="dimension_gap_15">
+		<npc id="31879" x="-111567" y="-177721" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_47 -->
+	<spawn zone="dimension_gap_16">
+		<npc id="31880" x="-109785" y="-179617" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_48 -->
+	<spawn zone="dimension_gap_17">
+		<npc id="31881" x="-111574" y="-178697" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_49 -->
+	<spawn zone="dimension_gap_18">
+		<npc id="31882" x="-109888" y="-178691" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_51 -->
+	<spawn zone="dimension_gap_20">
+		<npc id="31883" x="-113797" y="-175816" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_52 -->
+	<spawn zone="dimension_gap_21">
+		<npc id="31884" x="-114077" y="-174938" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_53 -->
+	<spawn zone="dimension_gap_22">
+		<npc id="31885" x="-115705" y="-174147" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_54 -->
+	<spawn zone="dimension_gap_23">
+		<npc id="31886" x="-115681" y="-173229" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_55 -->
+	<spawn zone="dimension_gap_24">
+		<npc id="31887" x="-114751" y="-177066" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_56 -->
+	<spawn zone="dimension_gap_25">
+		<npc id="31888" x="-115690" y="-175409" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_57 -->
+	<spawn zone="dimension_gap_26">
+		<npc id="31889" x="-113805" y="-173604" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_58 -->
+	<spawn zone="dimension_gap_27">
+		<npc id="31890" x="-114724" y="-175385" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_59 -->
+	<spawn zone="dimension_gap_28">
+		<npc id="31891" x="-114723" y="-173724" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_61 -->
+	<spawn zone="dimension_gap_30">
+		<npc id="31892" x="-117634" y="-177784" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_62 -->
+	<spawn zone="dimension_gap_31">
+		<npc id="31893" x="-118465" y="-177758" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_63 -->
+	<spawn zone="dimension_gap_32">
+		<npc id="31894" x="-119262" y="-179660" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_64 -->
+	<spawn zone="dimension_gap_33">
+		<npc id="31895" x="-120151" y="-179668" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_65 -->
+	<spawn zone="dimension_gap_34">
+		<npc id="31896" x="-116326" y="-178729" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_66 -->
+	<spawn zone="dimension_gap_35">
+		<npc id="31897" x="-117973" y="-179667" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_67 -->
+	<spawn zone="dimension_gap_36">
+		<npc id="31898" x="-119753" y="-177759" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_68 -->
+	<spawn zone="dimension_gap_37">
+		<npc id="31899" x="-117976" y="-178724" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_69 -->
+	<spawn zone="dimension_gap_38">
+		<npc id="31900" x="-119679" y="-178707" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_71 -->
+	<spawn zone="dimension_gap_40">
+		<npc id="31901" x="-117676" y="-180613" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_72 -->
+	<spawn zone="dimension_gap_41">
+		<npc id="31902" x="-118506" y="-180587" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_73 -->
+	<spawn zone="dimension_gap_42">
+		<npc id="31903" x="-119304" y="-182488" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_74 -->
+	<spawn zone="dimension_gap_43">
+		<npc id="31904" x="-120193" y="-182497" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_75 -->
+	<spawn zone="dimension_gap_44">
+		<npc id="31905" x="-116367" y="-181558" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_76 -->
+	<spawn zone="dimension_gap_45">
+		<npc id="31906" x="-118015" y="-182496" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_77 -->
+	<spawn zone="dimension_gap_46">
+		<npc id="31907" x="-119795" y="-180588" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_78 -->
+	<spawn zone="dimension_gap_47">
+		<npc id="31908" x="-118017" y="-181553" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_79 -->
+	<spawn zone="dimension_gap_48">
+		<npc id="31909" x="-119720" y="-181536" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_81 -->
+	<spawn zone="ssqteleport1_1612_81m1">
+		<npc id="31910" x="-115717" y="-184381" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_82 -->
+	<spawn zone="ssqteleport1_1612_82m1">
+		<npc id="31911" x="-115716" y="-185264" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_83 -->
+	<spawn zone="ssqteleport1_1612_83m1">
+		<npc id="31912" x="-113839" y="-186055" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_84 -->
+	<spawn zone="ssqteleport1_1612_84m1">
+		<npc id="31913" x="-113838" y="-186937" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_85 -->
+	<spawn zone="ssqteleport1_1612_85m1">
+		<npc id="31914" x="-114796" y="-183090" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_86 -->
+	<spawn zone="ssqteleport1_1612_86m1">
+		<npc id="31915" x="-113833" y="-184759" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_87 -->
+	<spawn zone="ssqteleport1_1612_87m1">
+		<npc id="31916" x="-115721" y="-186554" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_88 -->
+	<spawn zone="ssqteleport1_1612_88m1">
+		<npc id="31917" x="-114792" y="-184764" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+	<!-- ssqteleport1_1612_89 -->
+	<spawn zone="ssqteleport1_mb1612_89m1">
+		<npc id="31918" x="-114792" y="-186438" z="-6755" heading="0" respawnDelay="60" /> <!-- Guardian of Border -->
+	</spawn>
+</list>

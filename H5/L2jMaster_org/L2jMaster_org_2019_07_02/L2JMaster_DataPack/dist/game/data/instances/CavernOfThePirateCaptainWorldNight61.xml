@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Cavern of the Pirate Captain (nightmare)" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/instance.xsd">
+	<activityTime val="60"/>
+	<allowSummon val="false"/>
+	<showTimer val="true" increase="true" text="Elapsed Time :" />
+	<spawnPoint spawnX="52241" spawnY="218775" spawnZ="-3224" />
+	<reenter additionStyle="ON_INSTANCE_FINISH" >
+	<reset day="Monday" hour="6" minute="30" />
+	<reset day="Wednesday" hour="6" minute="30" />
+	<reset day="Friday" hour="6" minute="30" />
+	</reenter>
+</instance>

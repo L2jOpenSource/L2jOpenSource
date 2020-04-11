@@ -1,0 +1,31 @@
+Informations about L2jSunrise vote managers.
+There are 2 vote reward managers implemented on l2jsunrise.
+Every user is free to use what he likes or even both vote engines at the same time!
+We will leave below some basic information about how vote systems works and how to make them work.
+
+No.1 Individual Vote reward system
+---------------------------------------
+
+This system can be configurated from IndividualVoteSystem.ini file located at game/config/sunrise/votesystems.
+On this vote system players have to open the vote panel from community board services(needs to be enabled also) and vote on all topsites
+before counter ends. If they succeeded, rewards are spawned automatically on their inventory.
+Everything is configurable and the only thing you have to do, is to set up the required things in configs.
+
+No.2 Individual Vote reward system
+--------------------------------------- 
+This vote reward system works like the well known .getreward command which is used by populated servers but includes a few improvements.
+It can be configurated from GetRewardVoteSystem.ini file located at game/config/sunrise/votesystems.
+
+There's a voting panel, with basic information about the voting process and the rewards
+It's possible to give unlimited rewards and each of them to have its own chance.
+It can now check up to 5 topsite's using API connections. API connections are more safe, not CPU consuming and returns in real time if the player voted.
+
+The main advantage of this system is that players will not known which topsites we check to validate that they really voted.
+This means we can add as many voting banners as we like and in addition we will only check >5 of them.
+Our vote reward can check if a player voted on gamebytes.net, topzone , hopzone, l2network and l2top.co
+You can only use 1 of them or all of them.
+
+Preview->
+http://prntscr.com/dzyqyg
+http://prntscr.com/dzyr2w
+http://prntscr.com/dzyr5y

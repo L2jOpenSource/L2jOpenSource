@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Ancient Adena -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="5575" count="100000"/>
+	</item>
+	<!-- Dualsword Craft Stamp -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="5126" count="1"/>
+	</item>
+	<!-- Battle Symbol -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8875" count="1"/>
+	</item>
+	<!-- Magic Symbol -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8876" count="1"/>
+	</item>
+	<!-- Phoenix Blood -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8873" count="1"/>
+	</item>
+	<!-- Einhasad's Holy Water -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8874" count="1"/>
+	</item>
+	<!-- Cursed Bone -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="2508" count="1000"/>
+	</item>
+	<!-- Scroll: Recovery (Grade D) -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8595" count="1"/>
+	</item>
+	<!-- Scroll: Recovery (Grade C) -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8596" count="1"/>
+	</item>
+	<!-- Scroll: Recovery (Grade A) -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8598" count="1"/>
+	</item>
+	<!-- Scroll: Recovery (Grade S) -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8599" count="1"/>
+	</item>
+	<!-- Soul Ore-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="1785" count="1000"/>
+	</item>
+	<!-- Spirit Ore -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="3031" count="1000"/>
+	</item>
+	<!-- Energy Stone -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="5589" count="1000"/>
+	</item>
+	<!-- Summoning Crystal -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8615" count="10"/>
+	</item>
+	<!-- Charm of Courage: D-Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8516" count="1"/>
+	</item>
+	<!-- Charm of Courage: C-Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8517" count="1"/>
+	</item>
+	<!-- Charm of Courage: B-Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8518" count="1"/>
+	</item>
+	<!-- Charm of Courage: A-Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8519" count="1"/>
+	</item>
+	<!-- Charm of Courage: S-Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8520" count="1"/>
+	</item>
+	<!-- Dice Heart -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="4625" count="1"/>
+	</item>
+	<!-- Dice Spade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="4626" count="1"/>
+	</item>
+	<!-- Dice Clover -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="4627" count="1"/>
+	</item>
+	<!-- Dice Diamond -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="4628" count="1"/>
+	</item>
+	<!--  Bone Arrow  -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="1341" count="1000"/>
+	</item>
+	<!--  Steel Arrow  -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22068" count="1000"/>
+	</item>
+	<!-- Silver Arrow  -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="1343" count="1000"/>
+	</item>
+	<!-- Mithril Arrow -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="1344" count="1000"/>
+	</item>
+	<!-- Light Arrow -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22071" count="1000"/>
+	</item>
+	<!--  Bone Quiver  -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22089" count="1"/>
+	</item>
+	<!--  Steel Quiver  -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22090" count="1"/>
+	</item>
+	<!-- Silver Quiver  -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22091" count="1"/>
+	</item>
+	<!-- Mithril Quiver -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22092" count="1"/>
+	</item>
+	<!-- Light Quiver -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22093" count="1"/>
+	</item>
+	<!-- Bone Bolt -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="9633" count="1000"/>
+	</item>
+	<!-- Steel Bolt -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="9634" count="1000"/>
+	</item>
+	<!-- Silver Bolt -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="9635" count="1000"/>
+	</item>
+	<!-- Mithril Bolt -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="9636" count="1000"/>
+	</item>
+	<!-- Shining Bolt -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="9637" count="1000"/>
+	</item>
+	<!-- Bone Bolt Container -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22149" count="1"/>
+	</item>
+	<!-- Steel Bolt Container -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22150" count="1"/>
+	</item>
+	<!-- Silver Bolt Container -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22151" count="1"/>
+	</item>
+	<!-- Mithril Bolt Container -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22152" count="1"/>
+	</item>
+	<!-- Shining Bolt Container -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22153" count="1"/>
+	</item>
+	<!-- Soulshot: S-grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="1467" count="1000"/>
+	</item>
+	<!-- Soulshot: A-grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="1466" count="1000"/>
+	</item>
+	<!-- Soulshot: B-grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="1465" count="1000"/>
+	</item>
+	<!-- Soulshot: C-grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="1464" count="1000"/>
+	</item>
+	<!-- Soulshot: D-grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="1463" count="1000"/>
+	</item>
+	<!-- Soulshot: No Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="1835" count="1000"/>
+	</item>
+	<!-- Blessed Spiritshot: S Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="3952" count="1000"/>
+	</item>
+	<!-- Blessed Spiritshot: A-Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="3951" count="1000"/>
+	</item>
+	<!-- Blessed Spiritshot: B-Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="3950" count="1000"/>
+	</item>
+	<!-- Blessed Spiritshot: C-Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="3949" count="1000"/>
+	</item>
+	<!-- Blessed Spiritshot: D-Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="3948" count="1000"/>
+	</item>
+	<!-- Blessed Spiritshot: No Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="3947" count="1000"/>
+	</item>
+	<!-- Spiritshot: S-grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="2514" count="1000"/>
+	</item>
+	<!-- Spiritshot: A-grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="2513" count="1000"/>
+	</item>
+	<!-- Spiritshot: B-grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="2512" count="1000"/>
+	</item>
+	<!-- Spiritshot: C-grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="2511" count="1000"/>
+	</item>
+	<!-- Spiritshot: D-grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="2510" count="1000"/>
+	</item>
+	<!-- Spiritshot: No Grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="2509" count="1000"/>
+	</item>
+	<!-- Soulshot Large Pack - S grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22123" count="1"/>
+	</item>
+	<!-- Soulshot Large Pack - A grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22122" count="1"/>
+	</item>
+	<!-- Soulshot Large Pack - B grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22121" count="1"/>
+	</item>
+	<!-- Soulshot Large Pack - C grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22120" count="1"/>
+	</item>
+	<!-- Soulshot Large Pack - D grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22119" count="1"/>
+	</item>
+	<!-- Beast Soulshot -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="6645" count="1000"/>
+	</item>
+	<!-- Blessed Spiritshot Large Pack - S grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22113" count="1"/>
+	</item>
+	<!-- Blessed Spiritshot Large Pack - A grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22112" count="1"/>
+	</item>
+	<!-- Blessed Spiritshot Large Pack - B grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22111" count="1"/>
+	</item>
+	<!-- Blessed Spiritshot Large Pack - C grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22110" count="1"/>
+	</item>
+	<!-- Blessed Spiritshot Large Pack - D grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22109" count="1"/>
+	</item>
+	<!-- Blessed Beast Spiritshot -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="6647" count="1000"/>
+	</item>
+	<!-- Spiritshot Large Pack - S grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22118" count="1"/>
+	</item>
+	<!-- Spiritshot Large Pack - A grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22117" count="1"/>
+	</item>
+	<!-- Spiritshot Large Pack - B grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22116" count="1"/>
+	</item>
+	<!-- Spiritshot Large Pack - C grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22115" count="1"/>
+	</item>
+	<!-- Spiritshot Large Pack - D grade -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="22114" count="1"/>
+	</item>
+</list>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37616</npc> <!-- Medal Shop -->
+	</npcs>
+
+	<!-- Pets -->
+	
+	<!-- Improved Buffalo Panpipe -->
+	<item>     
+		<ingredient id="6392" count="250"/>
+		<production id="10311" count="1"/>
+	</item>
+	<!-- Improved Cougar Chime -->
+	<item>    
+		<ingredient id="6392" count="250"/>
+		<production id="10312" count="1"/> 
+	</item>
+	<!-- Improved Kookaburra Ocarina -->
+	<item>    
+		<ingredient id="6392" count="250"/>
+		<production id="10313" count="1"/> 
+	</item>
+	<!-- Wolf Collar -->
+	<item>    
+		<ingredient id="6393" count="250"/>
+		<production id="2375" count="1"/> 
+	</item>
+	<!-- Fenrir Necklace -->
+	<item>     
+		<ingredient id="6393" count="500"/>
+		<production id="10426" count="1"/>
+	</item>
+	<!-- Dragon Bugle of Star -->
+	<item>   
+		<ingredient id="6393" count="500"/>
+		<production id="4423" count="1"/>  
+	</item>
+	<!-- Dragon Bugle of Twilight -->
+	<item>   
+		<ingredient id="6393" count="500"/>
+		<production id="4424" count="1"/>  
+	</item>
+	<!-- Dragon Bugle of Wind -->
+	<item>    
+		<ingredient id="6393" count="500"/>
+		<production id="4422" count="1"/> 
+	</item>
+</list>

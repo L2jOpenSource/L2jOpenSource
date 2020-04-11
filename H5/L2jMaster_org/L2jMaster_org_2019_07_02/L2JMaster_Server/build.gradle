@@ -1,0 +1,165 @@
+apply plugin: 'java'
+apply plugin: 'distribution'
+apply plugin: 'eclipse'
+
+defaultTasks('clean', 'build')
+
+sourceCompatibility = JavaVersion.VERSION_1_8
+
+repositories {
+    mavenCentral()
+}
+
+configurations.all {
+    transitive = false
+}
+
+dependencies {
+	compile 'c3p0:c3p0:0.9.1.2'
+	compile 'com.jolbox:bonecp:0.8.0.RELEASE'
+	compile 'com.sun.mail:javax.mail:1.5.4'
+	compile 'com.zaxxer:HikariCP:2.4.1'
+	compile 'mysql:mysql-connector-java:5.1.37'
+	compile 'org.bitlet:weupnp:0.1.4'
+	compile 'org.eclipse.jdt.core.compiler:ecj:4.4.2'
+	compile 'com.google.guava:guava:19.0-rc2'
+	compile 'org.python:jython:2.2.1'
+	compile 'org.slf4j:slf4j-api:1.7.12'
+	compile 'org.slf4j:slf4j-jdk14:1.7.12'
+	compile fileTree(dir: 'dist/libs', include: '*.jar')
+	testCompile 'org.testng:testng:6.9.6'
+}
+
+def generalManifest = manifest {
+	attributes('Built-By': System.getProperty('user.name'),
+			'Built-Date': new Date().format("yyyy-MM-dd HH:mm:ss"),
+			'Implementation-URL': 'http://www.l2jserver.com/',
+			'Class-Path': configurations.runtime.collect({ '../libs/' + it.getName() }).join(' '))
+}
+
+jar {
+	archiveName = 'core.jar'
+	exclude('**/dbinstaller/**')
+	exclude('**/loginserver/**')
+	exclude('**/accountmanager/**')
+	exclude('**/gsregistering/**')
+	manifest {
+		from(generalManifest)
+		attributes ('Main-Class': 'com.l2jserver.gameserver.GameServer')
+	}
+}
+
+task loginJar(type: Jar, dependsOn: classes) {
+	from(sourceSets.main.output)
+	archiveName = 'login.jar'
+	exclude('**/dbinstaller/**')
+	exclude('**/gameserver/**')
+	manifest {
+		from(generalManifest)
+		attributes('Main-Class': 'com.l2jserver.loginserver.L2LoginServer')
+	}
+}
+
+task configuratorJar(type: Jar, dependsOn: classes) {
+	from(sourceSets.main.output)
+	archiveName = 'Configurator.jar'
+	include('**/configurator/**')
+	include('**/i18n/**')
+	include('**/images/**')
+	exclude('**/accountmanager/**')
+	exclude('**/dbinstaller/**')
+	exclude('**/gameserver/**')
+	exclude('**/gsregistering/**')
+	exclude('**/log/**')
+	exclude('**/loginserver/**')
+	exclude('**/status/**')
+	exclude('**/util/**')
+	exclude('**/Config/**')
+	exclude('**/ConnectionFactory/**')
+	exclude('**/Server/**')
+	manifest {
+		from(generalManifest)
+		attributes('Main-Class': 'com.l2jserver.tools.configurator.ConfigUserInterface')
+	}
+}
+
+task dbInstLsJar(type: Jar, dependsOn: classes) {
+	from(sourceSets.main.output)
+	archiveName = 'dbinst_ls.jar'
+	include '**/tools/*'
+	include '**/dbinstaller/**'
+	include '**/images/**'
+	include '**/util/**'
+	include '**/SQLFilter**'
+	exclude '**/LauncherGS*'
+	manifest {
+		from(generalManifest)
+		attributes('Main-Class': 'com.l2jserver.tools.dbinstaller.LauncherLS')
+	}
+}
+
+task dbInstGsJar(type: Jar, dependsOn: classes) {
+	from(sourceSets.main.output)
+	archiveName = 'dbinst_gs.jar'
+	include '**/tools/*'
+	include('**/dbinstaller/**')
+	include('**/images/**')
+	include('**/util/**')
+	include('**/SQLFilter**')
+	exclude('**/LauncherLS*')
+	manifest {
+		from(generalManifest)
+		attributes 'Main-Class': 'com.l2jserver.tools.dbinstaller.LauncherGS'
+	}
+}
+
+artifacts {
+	archives loginJar, configuratorJar, dbInstLsJar, dbInstGsJar
+}
+
+task zip(type: Zip, dependsOn: build) {
+	from('dist') {
+		exclude('libs')
+	}
+	into('libs') {
+		from(configurations.runtime)
+	}
+	into('game') {
+		from(jar)
+		from(configuratorJar)
+	}
+	into('login') {
+		from(loginJar)
+	}
+	into('tools') {
+		from(dbInstLsJar)
+		from(dbInstGsJar)
+	}
+	
+	def fileName = 'L2JMaster_Server_' + new Date().format("yyyy-MM-dd")
+	baseName = fileName
+	println 'Build in build/distributions/' + fileName + '.zip'
+}
+
+build.finalizedBy(zip)
+
+task wrapper(type: Wrapper) {
+	gradleVersion = '2.8'
+}
+
+eclipse {
+	project {
+		comment 'L2J Master Project'
+		natures 'org.eclipse.buildship.core.gradleprojectbuilde'
+	}
+	jdt {
+		file {
+			whenMerged {jdt ->
+				def propertiesField = org.gradle.plugins.ide.internal.generator.PropertiesPersistableConfigurationObject.getDeclaredField('properties')
+				propertiesField.accessible = true
+				Properties properties = propertiesField.get(jdt)
+				properties.setProperty 'org.eclipse.jdt.core.compiler.problem.incompleteEnumSwitch', 'ignore'
+			}
+		}
+	}
+}

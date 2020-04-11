@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- rune07_azit2115_21 -->
+	<zone name="rune07_azit2115_21" type="NpcSpawnTerritory" shape="NPoly" minZ="-1411" maxZ="-1161">
+		<node X="55637" Y="-92003" />
+		<node X="56109" Y="-92234" />
+		<node X="56488" Y="-91496" />
+		<node X="56025" Y="-91234" />
+	</zone>
+	<!-- rune07_azit2115_22 -->
+	<zone name="rune07_azit2115_22" type="NpcSpawnTerritory" shape="NPoly" minZ="-1411" maxZ="-1161">
+		<node X="57776" Y="-90824" />
+		<node X="58661" Y="-90991" />
+		<node X="58744" Y="-90480" />
+		<node X="57877" Y="-90328" />
+	</zone>
+	<!-- rune07_azit2115_23 -->
+	<zone name="rune07_azit2115_23" type="NpcSpawnTerritory" shape="NPoly" minZ="-1411" maxZ="-1161">
+		<node X="59692" Y="-92880" />
+		<node X="60266" Y="-92822" />
+		<node X="60137" Y="-91954" />
+		<node X="59587" Y="-92030" />
+	</zone>
+	<!-- rune07_azit2115_24 -->
+	<zone name="rune07_azit2115_24" type="NpcSpawnTerritory" shape="NPoly" minZ="-1411" maxZ="-1161">
+		<node X="58512" Y="-94948" />
+		<node X="59304" Y="-94541" />
+		<node X="59054" Y="-94076" />
+		<node X="58283" Y="-94470" />
+	</zone>
+	<!-- rune07_azit2115_25 -->
+	<zone name="rune07_azit2115_25" type="NpcSpawnTerritory" shape="NPoly" minZ="-1411" maxZ="-1161">
+		<node X="56568" Y="-94629" />
+		<node X="56946" Y="-94223" />
+		<node X="56324" Y="-93610" />
+		<node X="55943" Y="-93987" />
+	</zone>
+	<!-- rune07_azit2115_11 -->
+	<zone name="rune07_azit2115_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1407" maxZ="-907">
+		<node X="59997" Y="-96111" />
+		<node X="61969" Y="-92430" />
+		<node X="58303" Y="-89937" />
+		<node X="55402" Y="-91364" />
+		<node X="55254" Y="-92999" />
+		<node X="55344" Y="-93295" />
+		<node X="56049" Y="-94619" />
+		<node X="53402" Y="-93885" />
+		<node X="53602" Y="-93885" />
+		<node X="53602" Y="-93685" />
+		<node X="53402" Y="-93685" />
+	</zone>
+	<!-- rune06_npc2115_01 -->
+	<zone name="rune06_npc2115_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2776" maxZ="-2576">
+		<node X="53564" Y="-84020" />
+		<node X="53764" Y="-84020" />
+		<node X="53764" Y="-83820" />
+		<node X="53564" Y="-83820" />
+	</zone>
+	<!-- rune06_npc2115_02 -->
+	<zone name="rune06_npc2115_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3524" maxZ="-3324">
+		<node X="47852" Y="-78340" />
+		<node X="48052" Y="-78340" />
+		<node X="48052" Y="-78140" />
+		<node X="47852" Y="-78140" />
+	</zone>
+	<!-- rune06_npc2115_03 -->
+	<zone name="rune06_npc2115_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2772" maxZ="-2572">
+		<node X="49228" Y="-87796" />
+		<node X="49428" Y="-87796" />
+		<node X="49428" Y="-87596" />
+		<node X="49228" Y="-87596" />
+	</zone>
+	<!-- rune06_npc2115_04 -->
+	<zone name="rune06_npc2115_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2172" maxZ="-1972">
+		<node X="55356" Y="-88804" />
+		<node X="55556" Y="-88804" />
+		<node X="55556" Y="-88604" />
+		<node X="55356" Y="-88604" />
+	</zone>
+	<!-- rune06_npc2115_05 -->
+	<zone name="rune06_npc2115_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2825" maxZ="-2525">
+		<node X="53625" Y="-82320" />
+		<node X="54289" Y="-81990" />
+		<node X="53944" Y="-81424" />
+		<node X="53265" Y="-81772" />
+	</zone>
+	<!-- rune06_npc2115_06 -->
+	<zone name="rune06_npc2115_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2776" maxZ="-2576">
+		<node X="53564" Y="-84020" />
+		<node X="53764" Y="-84020" />
+		<node X="53764" Y="-83820" />
+		<node X="53564" Y="-83820" />
+	</zone>
+	<!-- rune06_npc2115_07 -->
+	<zone name="rune06_npc2115_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3621" maxZ="-3421">
+		<node X="56707" Y="-76351" />
+		<node X="56907" Y="-76351" />
+		<node X="56907" Y="-76151" />
+		<node X="56707" Y="-76151" />
+	</zone>
+	<!-- rune06_npc2115_08 -->
+	<zone name="rune06_npc2115_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2825" maxZ="-2525">
+		<node X="53625" Y="-82320" />
+		<node X="54289" Y="-81990" />
+		<node X="53944" Y="-81424" />
+		<node X="53265" Y="-81772" />
+	</zone>
+	<!-- rune07_npc2115_01 -->
+	<zone name="rune07_npc2115_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1444" maxZ="-1244">
+		<node X="55140" Y="-93108" />
+		<node X="55488" Y="-93088" />
+		<node X="55452" Y="-92864" />
+		<node X="55140" Y="-92908" />
+	</zone>
+	<!-- rune07_npc2115_02 -->
+	<zone name="rune07_npc2115_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1404" maxZ="-1204">
+		<node X="59804" Y="-94416" />
+		<node X="60004" Y="-94416" />
+		<node X="60004" Y="-94116" />
+		<node X="59804" Y="-94116" />
+	</zone>
+	<!-- rune07_npc2115_04 -->
+	<zone name="rune07_npc2115_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1388" maxZ="-1188">
+		<node X="60780" Y="-94420" />
+		<node X="60980" Y="-94420" />
+		<node X="60980" Y="-94220" />
+		<node X="60780" Y="-94220" />
+	</zone>
+	<!-- luckpy_luckpy_80_2115_01 -->
+	<zone name="luckpy_80_2115_jackpot001m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2429" maxZ="-2013">
+		<node X="50766" Y="-83820" />
+		<node X="51710" Y="-83144" />
+		<node X="51630" Y="-82540" />
+		<node X="50474" Y="-82724" />
+		<node X="50414" Y="-83348" />
+		<node X="50662" Y="-82655" />
+		<node X="51634" Y="-82511" />
+		<node X="51846" Y="-82231" />
+		<node X="50766" Y="-82315" />
+		<node X="50493" Y="-82166" />
+		<node X="51673" Y="-82210" />
+		<node X="52133" Y="-81826" />
+		<node X="51869" Y="-80954" />
+		<node X="50865" Y="-81498" />
+		<node X="53506" Y="-82043" />
+		<node X="54002" Y="-81563" />
+		<node X="52982" Y="-80955" />
+		<node X="51878" Y="-80911" />
+		<node X="52202" Y="-82011" />
+		<node X="54118" Y="-83977" />
+		<node X="54402" Y="-83229" />
+		<node X="54290" Y="-82013" />
+		<node X="53386" Y="-82593" />
+		<node X="53118" Y="-83213" />
+		<node X="52847" Y="-83508" />
+		<node X="53451" Y="-84224" />
+		<node X="53875" Y="-83844" />
+		<node X="53111" Y="-83244" />
+		<node X="52827" Y="-84671" />
+		<node X="53423" Y="-84235" />
+		<node X="52827" Y="-83487" />
+		<node X="52375" Y="-83607" />
+		<node X="52139" Y="-84719" />
+		<node X="51292" Y="-84509" />
+		<node X="52124" Y="-84741" />
+		<node X="52340" Y="-83613" />
+		<node X="51956" Y="-83425" />
+		<node X="50753" Y="-83825" />
+		<node X="51289" Y="-84497" />
+		<node X="51833" Y="-83605" />
+		<node X="51529" Y="-83281" />
+		<node X="46054" Y="-82814" />
+		<node X="47738" Y="-82694" />
+		<node X="47742" Y="-81018" />
+		<node X="46178" Y="-81002" />
+		<node X="48382" Y="-83582" />
+		<node X="50158" Y="-83434" />
+		<node X="50466" Y="-81354" />
+		<node X="49406" Y="-80342" />
+		<node X="48494" Y="-81530" />
+		<node X="50970" Y="-81273" />
+		<node X="51866" Y="-80729" />
+		<node X="51478" Y="-79149" />
+		<node X="50702" Y="-79389" />
+		<node X="49774" Y="-80053" />
+		<node X="52066" Y="-80740" />
+		<node X="52914" Y="-80724" />
+		<node X="53678" Y="-78236" />
+		<node X="51534" Y="-78384" />
+		<node X="53341" Y="-80791" />
+		<node X="54465" Y="-81651" />
+		<node X="56257" Y="-80019" />
+		<node X="54249" Y="-78367" />
+		<node X="56294" Y="-82914" />
+		<node X="56714" Y="-82334" />
+		<node X="55686" Y="-80966" />
+		<node X="54502" Y="-81878" />
+		<node X="54674" Y="-83242" />
+		<node X="55045" Y="-85522" />
+		<node X="57409" Y="-85298" />
+		<node X="57013" Y="-83306" />
+		<node X="54809" Y="-83822" />
+		<node X="52423" Y="-87065" />
+		<node X="54595" Y="-85769" />
+		<node X="53495" Y="-84653" />
+		<node X="52415" Y="-84941" />
+		<node X="52251" Y="-88676" />
+		<node X="54215" Y="-88756" />
+		<node X="54479" Y="-87720" />
+		<node X="54067" Y="-87204" />
+		<node X="52299" Y="-87376" />
+		<node X="50099" Y="-88455" />
+		<node X="51723" Y="-88691" />
+		<node X="51811" Y="-87395" />
+		<node X="50451" Y="-87167" />
+		<node X="49920" Y="-86767" />
+		<node X="51848" Y="-86551" />
+		<node X="51996" Y="-84951" />
+		<node X="51116" Y="-84583" />
+		<node X="49584" Y="-86387" />
+		<node X="48739" Y="-87172" />
+		<node X="49831" Y="-88004" />
+		<node X="50027" Y="-87188" />
+		<node X="49247" Y="-86636" />
+		<node X="48679" Y="-86006" />
+		<node X="49567" Y="-84798" />
+		<node X="49803" Y="-83994" />
+		<node X="47447" Y="-84426" />
+		<node X="47567" Y="-84898" />
+		<node X="52302" Y="-90953" />
+		<node X="52918" Y="-90945" />
+		<node X="53998" Y="-89541" />
+		<node X="52274" Y="-89413" />
+		<node X="51169" Y="-93088" />
+		<node X="52241" Y="-93656" />
+		<node X="53409" Y="-91964" />
+		<node X="51297" Y="-92504" />
+		<node X="48689" Y="-91413" />
+		<node X="51285" Y="-91445" />
+		<node X="51317" Y="-88757" />
+		<node X="48549" Y="-88849" />
+		<node X="45432" Y="-90970" />
+		<node X="46608" Y="-92050" />
+		<node X="47548" Y="-91674" />
+		<node X="47072" Y="-90342" />
+		<node X="45796" Y="-90230" />
+		<node X="44087" Y="-93439" />
+		<node X="45539" Y="-94279" />
+		<node X="45999" Y="-93423" />
+		<node X="45927" Y="-92951" />
+		<node X="44415" Y="-91911" />
+		<node X="43839" Y="-91943" />
+		<node X="47011" Y="-88806" />
+		<node X="47779" Y="-87318" />
+		<node X="47563" Y="-86754" />
+		<node X="46619" Y="-85946" />
+		<node X="45131" Y="-86946" />
+		<node X="45439" Y="-88234" />
+		<node X="52862" Y="-76747" />
+		<node X="54218" Y="-76727" />
+		<node X="54894" Y="-75195" />
+		<node X="54522" Y="-74767" />
+		<node X="52726" Y="-74807" />
+		<node X="50483" Y="-77693" />
+		<node X="51779" Y="-77393" />
+		<node X="51559" Y="-75785" />
+		<node X="49995" Y="-76245" />
+		<node X="50723" Y="-76012" />
+		<node X="51551" Y="-75760" />
+		<node X="51431" Y="-75228" />
+		<node X="50595" Y="-75376" />
+		<node X="48825" Y="-76661" />
+		<node X="49353" Y="-76429" />
+		<node X="49165" Y="-75973" />
+		<node X="48701" Y="-76121" />
+		<node X="48762" Y="-78785" />
+		<node X="49866" Y="-77889" />
+		<node X="49474" Y="-76897" />
+		<node X="48982" Y="-77029" />
+		<node X="48254" Y="-78109" />
+		<node X="54324" Y="-78291" />
+		<node X="55036" Y="-78799" />
+		<node X="57280" Y="-75647" />
+		<node X="56452" Y="-75163" />
+		<node X="56315" Y="-77041" />
+		<node X="56511" Y="-77213" />
+		<node X="57043" Y="-76417" />
+		<node X="56835" Y="-76261" />
+		<node X="58468" Y="-78063" />
+		<node X="59168" Y="-77559" />
+		<node X="58436" Y="-76487" />
+		<node X="57556" Y="-75923" />
+		<node X="57144" Y="-76467" />
+		<node X="57434" Y="-81220" />
+		<node X="58462" Y="-80008" />
+		<node X="57390" Y="-78580" />
+		<node X="56174" Y="-79840" />
+		<node X="56864" Y="-81598" />
+		<node X="57392" Y="-81214" />
+		<node X="56448" Y="-80170" />
+		<node X="56024" Y="-80582" />
+		<node X="58021" Y="-84387" />
+		<node X="59765" Y="-84307" />
+		<node X="59621" Y="-82547" />
+		<node X="57645" Y="-83183" />
+		<node X="56430" Y="-87707" />
+		<node X="58482" Y="-87727" />
+		<node X="59786" Y="-86343" />
+		<node X="57766" Y="-86295" />
+		<node X="45090" Y="-79702" />
+		<node X="45562" Y="-80298" />
+		<node X="47342" Y="-80270" />
+		<node X="48186" Y="-79274" />
+		<node X="47122" Y="-78094" />
+		<node X="45898" Y="-77878" />
+		<node X="45090" Y="-78454" />
+	</zone>
+	<!-- rune06_2115_01 -->
+	<zone name="rune06_2115_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2990" maxZ="-2590">
+		<node X="50766" Y="-83820" />
+		<node X="51710" Y="-83144" />
+		<node X="51630" Y="-82540" />
+		<node X="50474" Y="-82724" />
+		<node X="50414" Y="-83348" />
+	</zone>
+	<!-- rune06_2115_02 -->
+	<zone name="rune06_2115_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2967" maxZ="-2567">
+		<node X="50662" Y="-82655" />
+		<node X="51634" Y="-82511" />
+		<node X="51846" Y="-82231" />
+		<node X="50766" Y="-82315" />
+	</zone>
+	<!-- rune06_2115_03 -->
+	<zone name="rune06_2115_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2964" maxZ="-2664">
+		<node X="50493" Y="-82166" />
+		<node X="51673" Y="-82210" />
+		<node X="52133" Y="-81826" />
+		<node X="51869" Y="-80954" />
+		<node X="50865" Y="-81498" />
+	</zone>
+	<!-- rune06_2115_04 -->
+	<zone name="rune06_2115_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2870" maxZ="-2670">
+		<node X="53506" Y="-82043" />
+		<node X="54002" Y="-81563" />
+		<node X="52982" Y="-80955" />
+		<node X="51878" Y="-80911" />
+		<node X="52202" Y="-82011" />
+	</zone>
+	<!-- rune06_2115_05 -->
+	<zone name="rune06_2115_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2830" maxZ="-2530">
+		<node X="54118" Y="-83977" />
+		<node X="54402" Y="-83229" />
+		<node X="54290" Y="-82013" />
+		<node X="53386" Y="-82593" />
+		<node X="53118" Y="-83213" />
+	</zone>
+	<!-- rune06_2115_06 -->
+	<zone name="rune06_2115_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2805" maxZ="-2605">
+		<node X="52847" Y="-83508" />
+		<node X="53451" Y="-84224" />
+		<node X="53875" Y="-83844" />
+		<node X="53111" Y="-83244" />
+	</zone>
+	<!-- rune06_2115_07 -->
+	<zone name="rune06_2115_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2773" maxZ="-2573">
+		<node X="52827" Y="-84671" />
+		<node X="53423" Y="-84235" />
+		<node X="52827" Y="-83487" />
+		<node X="52375" Y="-83607" />
+		<node X="52139" Y="-84719" />
+	</zone>
+	<!-- rune06_2115_08 -->
+	<zone name="rune06_2115_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2815" maxZ="-2615">
+		<node X="51292" Y="-84509" />
+		<node X="52124" Y="-84741" />
+		<node X="52340" Y="-83613" />
+		<node X="51956" Y="-83425" />
+	</zone>
+	<!-- rune06_2115_09 -->
+	<zone name="rune06_2115_09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2863" maxZ="-2663">
+		<node X="50753" Y="-83825" />
+		<node X="51289" Y="-84497" />
+		<node X="51833" Y="-83605" />
+		<node X="51529" Y="-83281" />
+	</zone>
+	<!-- rune06_2115_10 -->
+	<zone name="rune06_2115_10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3488" maxZ="-3188">
+		<node X="46054" Y="-82814" />
+		<node X="47738" Y="-82694" />
+		<node X="47742" Y="-81018" />
+		<node X="46178" Y="-81002" />
+	</zone>
+	<!-- rune06_2115_11 -->
+	<zone name="rune06_2115_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3368" maxZ="-2868">
+		<node X="48382" Y="-83582" />
+		<node X="50158" Y="-83434" />
+		<node X="50466" Y="-81354" />
+		<node X="49406" Y="-80342" />
+		<node X="48494" Y="-81530" />
+	</zone>
+	<!-- rune06_2115_12 -->
+	<zone name="rune06_2115_12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3261" maxZ="-2861">
+		<node X="50970" Y="-81273" />
+		<node X="51866" Y="-80729" />
+		<node X="51478" Y="-79149" />
+		<node X="50702" Y="-79389" />
+		<node X="49774" Y="-80053" />
+	</zone>
+	<!-- rune06_2115_13 -->
+	<zone name="rune06_2115_13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3513" maxZ="-2713">
+		<node X="52066" Y="-80740" />
+		<node X="52914" Y="-80724" />
+		<node X="53678" Y="-78236" />
+		<node X="51534" Y="-78384" />
+	</zone>
+	<!-- rune06_2115_14 -->
+	<zone name="rune06_2115_14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3451" maxZ="-2751">
+		<node X="53341" Y="-80791" />
+		<node X="54465" Y="-81651" />
+		<node X="56257" Y="-80019" />
+		<node X="54249" Y="-78367" />
+	</zone>
+	<!-- rune06_2115_15 -->
+	<zone name="rune06_2115_15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3045" maxZ="-2645">
+		<node X="56294" Y="-82914" />
+		<node X="56714" Y="-82334" />
+		<node X="55686" Y="-80966" />
+		<node X="54502" Y="-81878" />
+		<node X="54674" Y="-83242" />
+	</zone>
+	<!-- rune06_2115_16 -->
+	<zone name="rune06_2115_16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2826" maxZ="-2426">
+		<node X="55045" Y="-85522" />
+		<node X="57409" Y="-85298" />
+		<node X="57013" Y="-83306" />
+		<node X="54809" Y="-83822" />
+	</zone>
+	<!-- rune06_2115_17 -->
+	<zone name="rune06_2115_17m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2775" maxZ="-2475">
+		<node X="52423" Y="-87065" />
+		<node X="54595" Y="-85769" />
+		<node X="53495" Y="-84653" />
+		<node X="52415" Y="-84941" />
+	</zone>
+	<!-- rune06_2115_18 -->
+	<zone name="rune06_2115_18m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2515" maxZ="-2315">
+		<node X="52251" Y="-88676" />
+		<node X="54215" Y="-88756" />
+		<node X="54479" Y="-87720" />
+		<node X="54067" Y="-87204" />
+		<node X="52299" Y="-87376" />
+	</zone>
+	<!-- rune06_2115_19 -->
+	<zone name="rune06_2115_19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2575" maxZ="-2375">
+		<node X="50099" Y="-88455" />
+		<node X="51723" Y="-88691" />
+		<node X="51811" Y="-87395" />
+		<node X="50451" Y="-87167" />
+	</zone>
+	<!-- rune06_2115_20 -->
+	<zone name="rune06_2115_20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2894" maxZ="-2494">
+		<node X="49920" Y="-86767" />
+		<node X="51848" Y="-86551" />
+		<node X="51996" Y="-84951" />
+		<node X="51116" Y="-84583" />
+		<node X="49584" Y="-86387" />
+	</zone>
+	<!-- rune06_2115_21 -->
+	<zone name="rune06_2115_21m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2802" maxZ="-2502">
+		<node X="48739" Y="-87172" />
+		<node X="49831" Y="-88004" />
+		<node X="50027" Y="-87188" />
+		<node X="49247" Y="-86636" />
+	</zone>
+	<!-- rune06_2115_22 -->
+	<zone name="rune06_2115_22m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3110" maxZ="-2910">
+		<node X="48679" Y="-86006" />
+		<node X="49567" Y="-84798" />
+		<node X="49803" Y="-83994" />
+		<node X="47447" Y="-84426" />
+		<node X="47567" Y="-84898" />
+	</zone>
+	<!-- rune06_2115_23 -->
+	<zone name="rune06_2115_23m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2213" maxZ="-2013">
+		<node X="52302" Y="-90953" />
+		<node X="52918" Y="-90945" />
+		<node X="53998" Y="-89541" />
+		<node X="52274" Y="-89413" />
+	</zone>
+	<!-- rune06_2115_24 -->
+	<zone name="rune06_2115_24m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2223" maxZ="-2023">
+		<node X="51169" Y="-93088" />
+		<node X="52241" Y="-93656" />
+		<node X="53409" Y="-91964" />
+		<node X="51297" Y="-92504" />
+	</zone>
+	<!-- rune06_2115_25 -->
+	<zone name="rune06_2115_25m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2525" maxZ="-2125">
+		<node X="48689" Y="-91413" />
+		<node X="51285" Y="-91445" />
+		<node X="51317" Y="-88757" />
+		<node X="48549" Y="-88849" />
+	</zone>
+	<!-- rune06_2115_26 -->
+	<zone name="rune06_2115_26m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2728" maxZ="-2528">
+		<node X="45432" Y="-90970" />
+		<node X="46608" Y="-92050" />
+		<node X="47548" Y="-91674" />
+		<node X="47072" Y="-90342" />
+		<node X="45796" Y="-90230" />
+	</zone>
+	<!-- rune06_2115_27 -->
+	<zone name="rune06_2115_27m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2429" maxZ="-2229">
+		<node X="44087" Y="-93439" />
+		<node X="45539" Y="-94279" />
+		<node X="45999" Y="-93423" />
+		<node X="45927" Y="-92951" />
+		<node X="44415" Y="-91911" />
+		<node X="43839" Y="-91943" />
+	</zone>
+	<!-- rune06_2115_28 -->
+	<zone name="rune06_2115_28m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2681" maxZ="-2481">
+		<node X="47011" Y="-88806" />
+		<node X="47779" Y="-87318" />
+		<node X="47563" Y="-86754" />
+		<node X="46619" Y="-85946" />
+		<node X="45131" Y="-86946" />
+		<node X="45439" Y="-88234" />
+	</zone>
+	<!-- rune06_2115_29 -->
+	<zone name="rune06_2115_29m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3548" maxZ="-3248">
+		<node X="52862" Y="-76747" />
+		<node X="54218" Y="-76727" />
+		<node X="54894" Y="-75195" />
+		<node X="54522" Y="-74767" />
+		<node X="52726" Y="-74807" />
+	</zone>
+	<!-- rune06_2115_30 -->
+	<zone name="rune06_2115_30m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3505" maxZ="-3205">
+		<node X="50483" Y="-77693" />
+		<node X="51779" Y="-77393" />
+		<node X="51559" Y="-75785" />
+		<node X="49995" Y="-76245" />
+	</zone>
+	<!-- rune06_2115_31 -->
+	<zone name="rune06_2115_31m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3441" maxZ="-3241">
+		<node X="50723" Y="-76012" />
+		<node X="51551" Y="-75760" />
+		<node X="51431" Y="-75228" />
+		<node X="50595" Y="-75376" />
+	</zone>
+	<!-- rune06_2115_32 -->
+	<zone name="rune06_2115_32m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3567" maxZ="-3367">
+		<node X="48825" Y="-76661" />
+		<node X="49353" Y="-76429" />
+		<node X="49165" Y="-75973" />
+		<node X="48701" Y="-76121" />
+	</zone>
+	<!-- rune06_2115_33 -->
+	<zone name="rune06_2115_33m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3564" maxZ="-3364">
+		<node X="48762" Y="-78785" />
+		<node X="49866" Y="-77889" />
+		<node X="49474" Y="-76897" />
+		<node X="48982" Y="-77029" />
+		<node X="48254" Y="-78109" />
+	</zone>
+	<!-- rune06_2115_34 -->
+	<zone name="rune06_2115_34m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3622" maxZ="-3272">
+		<node X="54324" Y="-78291" />
+		<node X="55036" Y="-78799" />
+		<node X="57280" Y="-75647" />
+		<node X="56452" Y="-75163" />
+	</zone>
+	<!-- rune06_2115_35 -->
+	<zone name="rune06_2115_35m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3637" maxZ="-3437">
+		<node X="56315" Y="-77041" />
+		<node X="56511" Y="-77213" />
+		<node X="57043" Y="-76417" />
+		<node X="56835" Y="-76261" />
+	</zone>
+	<!-- rune06_2115_36 -->
+	<zone name="rune06_2115_36m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3574" maxZ="-3174">
+		<node X="58468" Y="-78063" />
+		<node X="59168" Y="-77559" />
+		<node X="58436" Y="-76487" />
+		<node X="57556" Y="-75923" />
+		<node X="57144" Y="-76467" />
+	</zone>
+	<!-- rune06_2115_37 -->
+	<zone name="rune06_2115_37m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3412" maxZ="-3012">
+		<node X="57434" Y="-81220" />
+		<node X="58462" Y="-80008" />
+		<node X="57390" Y="-78580" />
+		<node X="56174" Y="-79840" />
+	</zone>
+	<!-- rune06_2115_38 -->
+	<zone name="rune06_2115_38m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3236" maxZ="-3036">
+		<node X="56864" Y="-81598" />
+		<node X="57392" Y="-81214" />
+		<node X="56448" Y="-80170" />
+		<node X="56024" Y="-80582" />
+	</zone>
+	<!-- rune06_2115_39 -->
+	<zone name="rune06_2115_39m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2781" maxZ="-2581">
+		<node X="58021" Y="-84387" />
+		<node X="59765" Y="-84307" />
+		<node X="59621" Y="-82547" />
+		<node X="57645" Y="-83183" />
+	</zone>
+	<!-- rune06_2115_40 -->
+	<zone name="rune06_2115_40m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2345" maxZ="-2145">
+		<node X="56430" Y="-87707" />
+		<node X="58482" Y="-87727" />
+		<node X="59786" Y="-86343" />
+		<node X="57766" Y="-86295" />
+	</zone>
+	<!-- rune06_2115_41 -->
+	<zone name="rune06_2115_41m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3591" maxZ="-3391">
+		<node X="45090" Y="-79702" />
+		<node X="45562" Y="-80298" />
+		<node X="47342" Y="-80270" />
+		<node X="48186" Y="-79274" />
+		<node X="47122" Y="-78094" />
+		<node X="45898" Y="-77878" />
+		<node X="45090" Y="-78454" />
+	</zone>
+	<!-- rune06_tb2115_01 -->
+	<zone name="rune06_tb2115_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2345" maxZ="-2145">
+		<node X="50766" Y="-83820" />
+		<node X="51710" Y="-83144" />
+		<node X="51630" Y="-82540" />
+		<node X="50474" Y="-82724" />
+		<node X="50414" Y="-83348" />
+		<node X="53506" Y="-82043" />
+		<node X="54002" Y="-81563" />
+		<node X="52982" Y="-80955" />
+		<node X="51878" Y="-80911" />
+		<node X="52202" Y="-82011" />
+		<node X="52827" Y="-84671" />
+		<node X="53423" Y="-84235" />
+		<node X="52827" Y="-83487" />
+		<node X="52375" Y="-83607" />
+		<node X="52139" Y="-84719" />
+		<node X="46054" Y="-82814" />
+		<node X="47738" Y="-82694" />
+		<node X="47742" Y="-81018" />
+		<node X="46178" Y="-81002" />
+		<node X="52066" Y="-80740" />
+		<node X="52914" Y="-80724" />
+		<node X="53678" Y="-78236" />
+		<node X="51534" Y="-78384" />
+		<node X="55045" Y="-85522" />
+		<node X="57409" Y="-85298" />
+		<node X="57013" Y="-83306" />
+		<node X="54809" Y="-83822" />
+		<node X="50099" Y="-88455" />
+		<node X="51723" Y="-88691" />
+		<node X="51811" Y="-87395" />
+		<node X="50451" Y="-87167" />
+		<node X="48679" Y="-86006" />
+		<node X="49567" Y="-84798" />
+		<node X="49803" Y="-83994" />
+		<node X="47447" Y="-84426" />
+		<node X="47567" Y="-84898" />
+		<node X="48689" Y="-91413" />
+		<node X="51285" Y="-91445" />
+		<node X="51317" Y="-88757" />
+		<node X="48549" Y="-88849" />
+		<node X="47011" Y="-88806" />
+		<node X="47779" Y="-87318" />
+		<node X="47563" Y="-86754" />
+		<node X="46619" Y="-85946" />
+		<node X="45131" Y="-86946" />
+		<node X="45439" Y="-88234" />
+		<node X="50723" Y="-76012" />
+		<node X="51551" Y="-75760" />
+		<node X="51431" Y="-75228" />
+		<node X="50595" Y="-75376" />
+		<node X="54324" Y="-78291" />
+		<node X="55036" Y="-78799" />
+		<node X="57280" Y="-75647" />
+		<node X="56452" Y="-75163" />
+		<node X="57434" Y="-81220" />
+		<node X="58462" Y="-80008" />
+		<node X="57390" Y="-78580" />
+		<node X="56174" Y="-79840" />
+		<node X="56430" Y="-87707" />
+		<node X="58482" Y="-87727" />
+		<node X="59786" Y="-86343" />
+		<node X="57766" Y="-86295" />
+	</zone>
+	<!-- ssq2_door_2115_01 -->
+	<zone name="ssq2_door_2115_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3042" maxZ="-2642">
+		<node X="43168" Y="-87712" />
+		<node X="43168" Y="-87712" />
+		<node X="43568" Y="-86343" />
+		<node X="43568" Y="-88112" />
+	</zone>
+</list>

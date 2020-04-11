@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- rumwarsha01_1224_1009 -->
+	<zone name="rumwarsha01_1224_1009m1" type="NpcSpawnTerritory" shape="NPoly" minZ="3147" maxZ="6090">
+		<node X="-239293" Y="217571" />
+		<node X="-231529" Y="216067" />
+		<node X="-231796" Y="225977" />
+		<node X="-243592" Y="225594" />
+		<!-- rumwarsha01_1224_1009_b1 -->
+		<node X="-235122" Y="217261" />
+		<node X="-233320" Y="217331" />
+		<node X="-233315" Y="218656" />
+		<node X="-235113" Y="218647" />
+		<!-- rumwarsha01_1224_1009_b2 -->
+		<node X="-232615" Y="223619" />
+		<node X="-230813" Y="223689" />
+		<node X="-230861" Y="225504" />
+		<node X="-232513" Y="225455" />
+	</zone>
+	<!-- rumwarsha01_1224_1010 -->
+	<zone name="rumwarsha01_1224_1010m1" type="NpcSpawnTerritory" shape="NPoly" minZ="4873" maxZ="6873">
+		<node X="-243311" Y="201671" />
+		<node X="-232023" Y="201954" />
+		<node X="-232187" Y="209766" />
+		<node X="-243260" Y="208073" />
+	</zone>
+	<!-- rumwarsha01_1224_1011 -->
+	<zone name="rumwarsha01_1224_1011m1" type="NpcSpawnTerritory" shape="NPoly" minZ="5954" maxZ="5954">
+		<node X="-251423" Y="207415" />
+		<node X="-249195" Y="206498" />
+		<node X="-243842" Y="220129" />
+		<node X="-248523" Y="220877" />
+	</zone>
+	<!-- rumwarsha01_1224_1012 -->
+	<zone name="rumwarsha01_1224_1012m1" type="NpcSpawnTerritory" shape="NPoly" minZ="2529" maxZ="4529">
+		<node X="-258675" Y="221137" />
+		<node X="-256416" Y="220224" />
+		<node X="-252922" Y="228756" />
+		<node X="-258291" Y="228659" />
+	</zone>
+	<!-- rumwarsha01_1224_1013 -->
+	<zone name="rumwarsha01_1224_1013m1" type="NpcSpawnTerritory" shape="NPoly" minZ="4987" maxZ="6987">
+		<node X="-257088" Y="212331" />
+		<node X="-252326" Y="208314" />
+		<node X="-250706" Y="217702" />
+		<node X="-259314" Y="220831" />
+	</zone>
+</list>

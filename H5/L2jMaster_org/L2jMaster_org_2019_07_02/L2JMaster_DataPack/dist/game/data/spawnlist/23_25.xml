@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- innadrile_chamberlain_etc -->
+	<spawn zone="innadrile_chamberlain_etc">
+		<npc id="35316" x="116123" y="249702" z="-762" heading="49152" respawnDelay="60" /> <!-- Neurath -->
+		<npc id="35320" x="117136" y="241763" z="-1280" heading="49152" respawnDelay="60" /> <!-- Raybell -->
+		<npc id="35312" x="116363" y="245268" z="-1040" heading="49152" respawnDelay="60" /> <!-- Outer Doorman -->
+		<npc id="35312" x="116417" y="245616" z="-1040" heading="0" respawnDelay="60" /> <!-- Outer Doorman -->
+		<npc id="35313" x="116190" y="247827" z="-750" heading="49152" respawnDelay="60" /> <!-- Inner Doorman -->
+		<npc id="35313" x="116256" y="248182" z="-790" heading="0" respawnDelay="60" /> <!-- Inner Doorman -->
+	</spawn>
+	<!-- innadrile_m_teleporter -->
+	<spawn zone="innadrile_m_teleporter">
+		<npc id="35311" x="114443" y="249142" z="-74" heading="0" respawnDelay="60" /> <!-- Mass Gatekeeper -->
+	</spawn>
+	<!-- innadril12_npc2325_01 -->
+	<spawn zone="innadril12_npc2325_0101">
+		<npc id="35318" x="115787" y="249585" z="-775" heading="49152" respawnDelay="60" /> <!-- Solinus -->
+	</spawn>
+	<!-- innadril12_npc2325_02 -->
+	<spawn zone="innadril12_npc2325_0201">
+		<npc id="35314" x="115660" y="249265" z="-946" heading="0" respawnDelay="60" /> <!-- Blacksmith -->
+	</spawn>
+	<!-- innadril12_npc2325_03 -->
+	<spawn zone="innadril12_npc2325_0301">
+		<npc id="35315" x="116062" y="248523" z="-953" heading="16384" respawnDelay="60" /> <!-- Warehouse Keeper -->
+	</spawn>
+	<!-- innadril12_npc2325_04 -->
+	<spawn zone="innadril12_npc2325_0401">
+		<npc id="35317" x="115863" y="250387" z="-322" heading="0" respawnDelay="60" /> <!-- Tate -->
+	</spawn>
+	<!-- innadril12_npc2325_05 -->
+	<spawn zone="innadril12_npc2325_0501">
+		<npc id="35653" x="116256" y="249600" z="-785" heading="49152" respawnDelay="60" /> <!-- Court Magician -->
+	</spawn>
+	<!-- innadril12_npc2325_06 -->
+	<spawn zone="innadril12_npc2325_0601">
+		<npc id="36408" x="116065" y="249450" z="-945" heading="49151" respawnDelay="60" /> <!-- Warden -->
+	</spawn>
+	<!-- heine_holy_artifact -->
+	<spawn zone="heine_holy_artifact">
+		<npc id="35279" x="116024" y="250557" z="-798" heading="-16384" respawnDelay="60" /> <!-- Innadril Holy Artifact -->
+	</spawn>
+</list>

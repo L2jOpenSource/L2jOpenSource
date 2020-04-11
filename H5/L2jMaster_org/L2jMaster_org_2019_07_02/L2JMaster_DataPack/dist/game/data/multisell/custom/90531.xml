@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Accessory Life Stone - Level 46 -->
+	<item>
+		<ingredient id="8723" count="5"/>
+		<production id="12754" count="1"/>
+	</item>
+	<!-- Accesory Life Stone - Level 49 -->
+	<item>
+		<ingredient id="8724" count="5"/>
+		<production id="12755" count="1"/>
+	</item>
+	<!-- Accesory Life Stone - Level 52 -->
+	<item>
+		<ingredient id="8725" count="5"/>
+		<production id="12756" count="1"/>
+	</item>
+	<!-- Accesory Life Stone - Level 55 -->
+	<item>
+		<ingredient id="8726" count="5"/>
+		<production id="12757" count="1"/>
+	</item>
+	<!-- Accesory Life Stone - Level 58 -->
+	<item>
+		<ingredient id="8727" count="5"/>
+		<production id="12758" count="1"/>
+	</item>
+	<!-- Accesory Life Stone - Level 61 -->
+	<item>
+		<ingredient id="8728" count="5"/>
+		<production id="12759" count="1"/>
+	</item>
+	<!-- Accesory Life Stone - Level 64 -->
+	<item>
+		<ingredient id="8729" count="5"/>
+		<production id="12760" count="1"/>
+	</item>
+	<!-- Accesory Life Stone - Level 67 -->
+	<item>
+		<ingredient id="8730" count="5"/>
+		<production id="12761" count="1"/>
+	</item>
+	<!-- Accesory Life Stone - Level 76 -->
+	<item>
+		<ingredient id="8732" count="5"/>
+		<production id="12763" count="1"/>
+	</item>
+	<!-- Accesory Life Stone - Level 80 -->
+	<item>
+		<ingredient id="9573" count="5"/>
+		<production id="12821" count="1"/>
+	</item>
+	<!-- Accesory Type Life Stone - Level 84 -->
+	<item>
+		<ingredient id="14166" count="5"/>
+		<production id="14008" count="1"/>
+	</item>
+	<!-- Accesory Type Life Stone - Level 85 -->
+	<item>
+		<ingredient id="16160" count="5"/>
+		<production id="16177" count="1"/>
+	</item>
+	<!-- Accesory Type Life Stone - Level 86 -->
+	<item>
+		<ingredient id="16164" count="5"/>
+		<production id="16178" count="1"/>
+	</item>
+</list>

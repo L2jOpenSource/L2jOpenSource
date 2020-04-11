@@ -1,0 +1,1 @@
+ALTER TABLE `characters` ADD `prime_points` bigint(13) unsigned NOT NULL DEFAULT '0'; 

@@ -1,0 +1,94 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Fire Stone -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9546" count="200"/>
+	</item>
+	<!-- Water Stone -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9547" count="200"/>
+	</item>
+	<!-- Earth Stone -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9548" count="200"/>
+	</item>
+	<!-- Wind Stone -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9549" count="200"/>
+	</item>
+	<!-- Dark Stone -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9550" count="200"/>
+	</item>
+	<!-- Divine Stone -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9551" count="200"/>
+	</item>
+	<!-- Fire Crystal -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9552" count="50"/>
+	</item>
+	<!-- Water Crystal -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9553" count="50"/>
+	</item>
+	<!-- Earth Crystal -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9554" count="50"/>
+	</item>
+	<!-- Wind Crystal -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9555" count="50"/>
+	</item>
+	<!-- Dark Crystal -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9556" count="50"/>
+	</item>
+	<!-- Divine Crystal -->
+	<item>
+		<ingredient id="3470" count="500" />
+		<production id="9557" count="50"/>
+	</item>
+	<!-- Fire Potion -->
+	<item>
+		<ingredient id="3470" count="10" />
+		<production id="9997" count="1"/>
+	</item>
+	<!-- Water Potion -->
+	<item>
+		<ingredient id="3470" count="10" />
+		<production id="9998" count="1"/>
+	</item>
+	<!-- Earth Potion -->
+	<item>
+		<ingredient id="3470" count="10" />
+		<production id="9999" count="1"/>
+	</item>
+	<!-- Wind Potion -->
+	<item>
+		<ingredient id="3470" count="10" />
+		<production id="10000" count="1"/>
+	</item>
+	<!-- Dark Potion -->
+	<item>
+		<ingredient id="3470" count="10" />
+		<production id="10001" count="1"/>
+	</item>
+	<!-- Divine Potion -->
+	<item>
+		<ingredient id="3470" count="10" />
+		<production id="10002" count="1"/>
+	</item>
+</list>

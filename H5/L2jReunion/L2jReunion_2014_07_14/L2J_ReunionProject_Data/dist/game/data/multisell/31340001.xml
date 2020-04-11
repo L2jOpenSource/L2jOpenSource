@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- L2Emu Project -->
+<!-- Item Creation of the Blacksmiths -->
+<list maintainEnchantment="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+  <!-- Pablo's Box -->
+  <item>
+    <ingredient id="21750" count="40"/>
+    <production id="21753" count="1"/>
+  </item>
+  <!-- Bronze Bracelet -->
+  <item>
+    <ingredient id="21750" count="10"/>
+    <production id="9590" count="1"/>
+  </item>
+   <!-- Steel Bracelet -->
+  <item>
+    <ingredient id="21750" count="23"/>
+    <production id="9591" count="1"/>
+  </item>
+   <!-- Mithril Bracelet -->
+  <item>
+    <ingredient id="21750" count="70"/>
+    <production id="9592" count="1"/>
+  </item>
+   <!-- Rune Jewelry Box - Talisman -->
+  <item>
+    <ingredient id="21750" count="2"/>
+    <production id="21752" count="1"/>
+  </item>
+   <!-- Memento Mori -->
+  <item>
+    <ingredient id="21750" count="1"/>
+    <production id="9814" count="10"/>
+  </item>
+   <!-- Dragon Heart -->
+  <item>
+    <ingredient id="21750" count="1"/>
+    <production id="9815" count="10"/>
+  </item>
+   <!-- Earth Egg -->
+  <item>
+    <ingredient id="21750" count="1"/>
+    <production id="9816" count="10"/>
+  </item>
+   <!-- Nonliving Nucleus -->
+  <item>
+    <ingredient id="21750" count="1"/>
+    <production id="9817" count="10"/>
+  </item>
+   <!-- Angelic Essence -->
+  <item>
+    <ingredient id="21750" count="1"/>
+    <production id="9818" count="10"/>
+  </item>
+</list>

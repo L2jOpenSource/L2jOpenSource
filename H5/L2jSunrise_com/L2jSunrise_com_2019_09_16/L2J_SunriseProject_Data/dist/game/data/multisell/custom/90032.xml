@@ -1,0 +1,197 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2011 by NeverMore -->
+
+<list maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Vesper Breastplate -->
+	<item>
+		<ingredient id="3483" count="25000" />
+		<production id="13432" count="1" />
+		<production id="13438" count="1" />
+		<production id="13439" count="1" />
+		<production id="13137" count="1" />
+		<production id="13440" count="1" />
+	</item>
+
+	<!-- Vesper Leather Breastplate -->
+	<item>
+		<ingredient id="3483" count="25000" />
+		<production id="13433" count="1" />
+		<production id="13442" count="1" />
+		<production id="13138" count="1" />
+		<production id="13441" count="1" />
+		<production id="13443" count="1" />
+	</item>
+
+	<!-- Vesper Tunic -->
+	<item>
+		<ingredient id="3483" count="25000" />
+		<production id="13434" count="1" />
+		<production id="13444" count="1" />
+		<production id="13446" count="1" />
+		<production id="13445" count="1" />
+		<production id="13139" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13137" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13138" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13139" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13432" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13433" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13434" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13438" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13439" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13440" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13441" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13442" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13443" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13444" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13445" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13446" count="1" />
+	</item>
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13140" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13141" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13142" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13435" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13436" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13437" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13448" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13451" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13454" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13449" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13452" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13455" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13450" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13453" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13456" count="1" />
+	</item>
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="13471" count="1" />
+	</item>
+	<item>
+		<ingredient id="3483" count="5000" />
+		<production id="12813" count="1" />
+	</item>
+
+</list>

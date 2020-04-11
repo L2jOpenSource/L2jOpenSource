@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<!-- Brigandine Heavy Armor -->
+	<item>
+		<ingredient count="2000000" id="57"/>
+		 <production count="1" id="352"/>
+		 <production count="1" id="2378"/>
+		 <production count="1" id="2411"/>
+		 <production count="1" id="2425"/>
+		 <production count="1" id="2449"/>
+		 <production count="1" id="2493"/>
+	</item>
+	<!-- Manticore -->
+	<item>
+		<ingredient count="2000000" id="57"/>
+		 <production count="1" id="395"/>
+		 <production count="1" id="417"/>
+		 <production count="1" id="2424"/>
+		 <production count="1" id="2448"/>
+	</item>
+	<!-- Mithril Robe -->
+	<item>
+		<ingredient count="2000000" id="57"/>
+		 <production count="1" id="437"/>
+		 <production count="1" id="470"/>
+		 <production count="1" id="2450"/>
+	</item>
+</list>

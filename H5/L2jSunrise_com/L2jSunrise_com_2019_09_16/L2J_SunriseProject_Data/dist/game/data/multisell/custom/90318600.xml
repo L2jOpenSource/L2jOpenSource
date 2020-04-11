@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list maintainEnchantment="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>31860</npc> <!-- Buzz he Cat -->
+	</npcs>
+	<!-- Squash Seed -->
+	<item>
+		<ingredient id="6391" count="10" />
+		<production id="6389" count="1" />
+	</item>
+	<!--Large Squash Seed -->
+	<item>
+		<ingredient id="6391" count="20" />
+		<production id="6390" count="1" />
+	</item>
+</list>

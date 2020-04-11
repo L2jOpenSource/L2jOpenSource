@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Disciple" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
+	<activityTime val="60" />
+	<allowSummon val="false" />
+	<emptyDestroyTime val="600" />
+	<exitPoint x="171862" y="-17607" z="-4900" />
+	<doorlist>
+		<door doorId="17240101" />
+		<door doorId="17240102" />
+		<door doorId="17240103" />
+		<door doorId="17240104" />
+		<door doorId="17240105" />
+		<door doorId="17240106" />
+		<door doorId="17240107" />
+		<door doorId="17240108" />
+		<door doorId="17240109" />
+		<door doorId="17240110" />
+		<door doorId="17240111" />
+	</doorlist>
+</instance>

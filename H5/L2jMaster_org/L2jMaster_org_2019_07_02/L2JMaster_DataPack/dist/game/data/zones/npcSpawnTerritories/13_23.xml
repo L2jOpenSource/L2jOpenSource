@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- kadif02_1323_01 -->
+	<zone name="kadif02_1323_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12640" maxZ="-12420">
+		<node X="-220263" Y="179629" />
+		<node X="-220263" Y="181215" />
+		<node X="-218588" Y="181215" />
+		<node X="-218588" Y="179629" />
+	</zone>
+	<!-- kadif02_1323_02 -->
+	<zone name="kadif02_1323_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12655" maxZ="-12455">
+		<node X="-220287" Y="175583" />
+		<node X="-219698" Y="175587" />
+		<node X="-219679" Y="178289" />
+		<node X="-220330" Y="178317" />
+	</zone>
+	<!-- kadif02_1323_03 -->
+	<zone name="kadif02_1323_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-11386" maxZ="-11186">
+		<node X="-220236" Y="174141" />
+		<node X="-218438" Y="174141" />
+		<node X="-218438" Y="175910" />
+		<node X="-220236" Y="175910" />
+	</zone>
+	<!-- kadif02_1323_04 -->
+	<zone name="kadif02_1323_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-11388" maxZ="-11188">
+		<node X="-219449" Y="177087" />
+		<node X="-218569" Y="176796" />
+		<node X="-218545" Y="180133" />
+		<node X="-219176" Y="180037" />
+	</zone>
+	<!-- kadif02_1323_05 -->
+	<zone name="kadif02_1323_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-11391" maxZ="-11191">
+		<node X="-219428" Y="180568" />
+		<node X="-218438" Y="180403" />
+		<node X="-218541" Y="181052" />
+		<node X="-220262" Y="181002" />
+		<node X="-220250" Y="178145" />
+		<node X="-219711" Y="178123" />
+	</zone>
+	<!-- kadif02_1323_06 -->
+	<zone name="kadif02_1323_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-11386" maxZ="-11186">
+		<node X="-220195" Y="182250" />
+		<node X="-218482" Y="182250" />
+		<node X="-218482" Y="183979" />
+		<node X="-220195" Y="183979" />
+	</zone>
+	<!-- kadif02_1323_07 -->
+	<zone name="kadif02_1323_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-11388" maxZ="-11188">
+		<node X="-219044" Y="185807" />
+		<node X="-217143" Y="185755" />
+		<node X="-217074" Y="186374" />
+		<node X="-218990" Y="186589" />
+	</zone>
+	<!-- kadif02_1323_08 -->
+	<zone name="kadif02_1323_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-11757" maxZ="-11557">
+		<node X="-211990" Y="181199" />
+		<node X="-210835" Y="180067" />
+		<node X="-210216" Y="180872" />
+		<node X="-211863" Y="181387" />
+	</zone>
+	<!-- kadif02_1323_09 -->
+	<zone name="kadif02_1323_09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-11064" maxZ="-10864">
+		<node X="-215475" Y="182310" />
+		<node X="-214460" Y="182073" />
+		<node X="-214327" Y="182676" />
+		<node X="-215388" Y="182686" />
+	</zone>
+	<!-- kadif02_1323_10 -->
+	<zone name="kadif02_1323_10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-11408" maxZ="-11208">
+		<node X="-208840" Y="182880" />
+		<node X="-207193" Y="182880" />
+		<node X="-207196" Y="184487" />
+		<node X="-208843" Y="184487" />
+	</zone>
+	<!-- kadif02_1323_11 -->
+	<zone name="kadif02_1323_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-11387" maxZ="-11187">
+		<node X="-206617" Y="177644" />
+		<node X="-205975" Y="177644" />
+		<node X="-205975" Y="180111" />
+		<node X="-206617" Y="180053" />
+	</zone>
+	<!-- kadif02_1323_12 -->
+	<zone name="kadif02_1323_12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12645" maxZ="-12425">
+		<node X="-220202" Y="182247" />
+		<node X="-218505" Y="182237" />
+		<node X="-218484" Y="183833" />
+		<node X="-220261" Y="183795" />
+	</zone>
+	<!-- kadif02_1323_13 -->
+	<zone name="kadif02_1323_13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-11419" maxZ="-11219">
+		<node X="-207614" Y="179028" />
+		<node X="-206972" Y="179028" />
+		<node X="-206972" Y="181495" />
+		<node X="-207614" Y="181437" />
+	</zone>
+	<!-- kadif02_1323_14 -->
+	<zone name="kadif02_1323_14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-11385" maxZ="-11185">
+		<node X="-207534" Y="174402" />
+		<node X="-205881" Y="174402" />
+		<node X="-205881" Y="176234" />
+		<node X="-207534" Y="176234" />
+	</zone>
+	<!-- kadif02_1323_15 -->
+	<zone name="kadif02_1323_15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12705" maxZ="-12505">
+		<node X="-207387" Y="180196" />
+		<node X="-205625" Y="180196" />
+		<node X="-205625" Y="181913" />
+		<node X="-207387" Y="181913" />
+	</zone>
+	<!-- kadif02_1323_16 -->
+	<zone name="kadif02_1323_16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12745" maxZ="-12545">
+		<node X="-207414" Y="174952" />
+		<node X="-205652" Y="174952" />
+		<node X="-205652" Y="176669" />
+		<node X="-207414" Y="176669" />
+	</zone>
+	<!-- kadif02_1323_17 -->
+	<zone name="kadif02_1323_17m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12718" maxZ="-12518">
+		<node X="-207410" Y="177780" />
+		<node X="-205648" Y="177780" />
+		<node X="-205648" Y="179497" />
+		<node X="-207410" Y="179497" />
+	</zone>
+	<!-- kadif02_1323_18 -->
+	<zone name="kadif02_1323_18m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12780" maxZ="-12580">
+		<node X="-214218" Y="178477" />
+		<node X="-212673" Y="179060" />
+		<node X="-212983" Y="179508" />
+		<node X="-214357" Y="179479" />
+	</zone>
+	<!-- kadif02_1323_19 -->
+	<zone name="kadif02_1323_19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12394" maxZ="-12194">
+		<node X="-211165" Y="177619" />
+		<node X="-210835" Y="178031" />
+		<node X="-211067" Y="178507" />
+		<node X="-212416" Y="178709" />
+		<node X="-212786" Y="178563" />
+		<node X="-213436" Y="177690" />
+		<node X="-214330" Y="177846" />
+		<node X="-213642" Y="177235" />
+	</zone>
+	<!-- kadif02_1323_20 -->
+	<zone name="kadif02_1323_20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12634" maxZ="-12434">
+		<node X="-219201" Y="174239" />
+		<node X="-218582" Y="174243" />
+		<node X="-218563" Y="177514" />
+		<node X="-219244" Y="177542" />
+	</zone>
+	<!-- kadif02_1323_21 -->
+	<zone name="kadif02_1323_21m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12643" maxZ="-12443">
+		<node X="-219237" Y="177774" />
+		<node X="-218445" Y="177752" />
+		<node X="-218420" Y="178540" />
+		<node X="-219242" Y="178525" />
+	</zone>
+</list>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37619</npc> <!-- Forgotten Shop -->
+	</npcs>
+	
+	<!-- Soul Taker -->
+	
+	<!-- Protection of Alignment -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10551" count="1" />
+	</item>
+	<!-- Protection of Elemental -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10550" count="1" />
+	</item>
+	<!-- Protection of Rune -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10549" count="1" />
+	</item>
+	<!-- Vampiric Mist 83 -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14190" count="1" />
+	</item>
+	<!-- Meteor -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14191" count="1" />
+	</item>
+	<!-- Enlightenment - Wizard -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14212" count="1" />
+	</item>
+	<!-- Magician's Will -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14219" count="1" />
+	</item>
+</list> 

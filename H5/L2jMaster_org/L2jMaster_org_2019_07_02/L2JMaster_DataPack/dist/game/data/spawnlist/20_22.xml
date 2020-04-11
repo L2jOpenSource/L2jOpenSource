@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- dion09_npc2022_001 -->
+	<spawn zone="dion09_npc2022_00101">
+		<npc id="30595" x="19712" y="143307" z="-3025" heading="47152" respawnDelay="60" /> <!-- Opix -->
+	</spawn>
+	<!-- dion09_npc2022_002 -->
+	<spawn zone="dion09_npc2022_00201">
+		<npc id="30594" x="21017" y="144481" z="-3065" heading="32768" respawnDelay="60" /> <!-- Ranspo -->
+	</spawn>
+	<!-- dion09_npc2022_003 -->
+	<spawn zone="dion09_npc2022_00301">
+		<npc id="30067" x="16269" y="142461" z="-2688" heading="48400" respawnDelay="60" /> <!-- Glyvka -->
+		<npc id="30068" x="16456" y="142447" z="-2688" heading="48400" respawnDelay="60" /> <!-- Shegfield -->
+		<npc id="30461" x="16427" y="142131" z="-2688" heading="15600" respawnDelay="60" /> <!-- Mirien -->
+		<npc id="30069" x="16236" y="142153" z="-2688" heading="15600" respawnDelay="60" /> <!-- Rollant -->
+	</spawn>
+	<!-- dion09_npc2022_004 -->
+	<spawn zone="dion09_npc2022_00401">
+		<npc id="30070" x="15795" y="142347" z="-2680" heading="64700" respawnDelay="60" /> <!-- Sylvain -->
+	</spawn>
+	<!-- dion09_npc2022_006 -->
+	<spawn zone="dion09_npc2022_00601">
+		<npc id="30644" x="19831" y="144514" z="-3098" heading="0" respawnDelay="60" /> <!-- Kash -->
+	</spawn>
+	<!-- dion09_npc2022_007 -->
+	<spawn zone="dion09_npc2022_00701">
+		<npc id="30654" x="17220" y="146554" z="-3084" heading="12288" respawnDelay="60" /> <!-- Sir Kiel Nighthawk -->
+	</spawn>
+	<!-- dion09_npc2022_008 -->
+	<spawn zone="dion09_npc2022_00801">
+		<npc id="30629" x="16680" y="142368" z="-2688" heading="32768" respawnDelay="60" /> <!-- Rukal -->
+	</spawn>
+	<!-- dion09_npc2022_009 -->
+	<spawn zone="dion09_npc2022_00901">
+		<npc id="30625" x="20983" y="143844" z="-3073" heading="4096" respawnDelay="60" /> <!-- Mason -->
+	</spawn>
+	<!-- dion09_npc2022_010 -->
+	<spawn zone="dion09_npc2022_01001">
+		<npc id="30620" x="20609" y="145993" z="-3123" heading="49152" respawnDelay="60" /> <!-- Emily -->
+	</spawn>
+	<!-- dion09_npc2022_011 -->
+	<spawn zone="dion09_npc2022_01101">
+		<npc id="30608" x="19041" y="145964" z="-3068" heading="8192" respawnDelay="60" /> <!-- Maria -->
+	</spawn>
+	<!-- dion09_npc2022_012 -->
+	<spawn zone="dion09_npc2022_01201">
+		<npc id="35407" x="19996" y="146216" z="-3111" heading="57344" respawnDelay="60" /> <!-- Seth -->
+	</spawn>
+	<!-- dion09_npc2022_013 -->
+	<spawn zone="dion09_npc2022_01301">
+		<npc id="35406" x="20237" y="145941" z="-3124" heading="49152" respawnDelay="60" /> <!-- Jabilo -->
+	</spawn>
+	<!-- dion09_npc2022_014 -->
+	<spawn zone="dion09_npc2022_01401">
+		<npc id="35403" x="17621" y="144920" z="-3037" heading="12288" respawnDelay="60" /> <!-- Ron -->
+	</spawn>
+	<!-- dion09_npc2022_015 -->
+	<spawn zone="dion09_npc2022_01501">
+		<npc id="35402" x="17677" y="145282" z="-3047" heading="22500" respawnDelay="60" /> <!-- Borna -->
+	</spawn>
+	<!-- dion09_npc2022_016 -->
+	<spawn zone="dion09_npc2022_01601">
+		<npc id="35405" x="18634" y="143342" z="-3010" heading="64500" respawnDelay="60" /> <!-- Flynn -->
+	</spawn>
+	<!-- dion09_npc2022_017 -->
+	<spawn zone="dion09_npc2022_01701">
+		<npc id="35404" x="18928" y="143391" z="-3025" heading="0" respawnDelay="60" /> <!-- Jamal -->
+	</spawn>
+	<!-- dion09_npc2022_018 -->
+	<spawn zone="dion09_npc2022_01801">
+		<npc id="30735" x="19264" y="144672" z="-3098" heading="32768" respawnDelay="60" /> <!-- Sophya -->
+	</spawn>
+	<!-- dion09_npc2022_019 -->
+	<spawn zone="dion09_npc2022_01901">
+		<npc id="30736" x="16955" y="146303" z="-3106" heading="28672" respawnDelay="60" /> <!-- Redfoot -->
+	</spawn>
+	<!-- dion09_npc2022_020 -->
+	<spawn zone="dion09_npc2022_02001">
+		<npc id="30737" x="19079" y="145762" z="-3080" heading="49152" respawnDelay="60" /> <!-- Morgan -->
+	</spawn>
+	<!-- dion09_npc2022_021 -->
+	<spawn zone="dion09_npc2022_02101">
+		<npc id="30828" x="19276" y="142864" z="-3032" heading="32768" respawnDelay="60" /> <!-- Waters -->
+		<npc id="31204" x="19276" y="142864" z="-3032" heading="32768" respawnDelay="60" /> <!-- Georgio -->
+	</spawn>
+	<!-- dion09_npc2022_023 -->
+	<spawn zone="dion09_npc2022_02301">
+		<npc id="30956" x="17025" y="146070" z="-3074" heading="35523" respawnDelay="60" /> <!-- Nanarin -->
+	</spawn>
+	<!-- dion09_npc2022_024 -->
+	<spawn zone="dion09_npc2022_02401">
+		<npc id="30957" x="18378" y="145052" z="-3074" heading="64312" respawnDelay="60" /> <!-- Swan -->
+	</spawn>
+	<!-- dion09_npc2022_025 -->
+	<spawn zone="dion09_npc2022_02501">
+		<npc id="30959" x="20175" y="145480" z="-3114" heading="16384" respawnDelay="60" /> <!-- Barbado -->
+	</spawn>
+	<!-- dion09_npc2022_026 -->
+	<spawn zone="dion09_npc2022_02601">
+		<npc id="31048" x="19505" y="146220" z="-3071" heading="42568" respawnDelay="60" /> <!-- McDermott -->
+		<npc id="30961" x="19490" y="145930" z="-3072" heading="0" respawnDelay="60" /> <!-- Cloth Chest -->
+		<npc id="31043" x="19034" y="146249" z="-3072" heading="55264" respawnDelay="60" /> <!-- Octavis -->
+	</spawn>
+	<!-- dion09_npc2022_027 -->
+	<spawn zone="dion09_npc2022_02701">
+		<npc id="30960" x="21025" y="144931" z="-3070" heading="40960" respawnDelay="60" /> <!-- Beer Chest -->
+	</spawn>
+	<!-- dion09_npc2022_028 -->
+	<spawn zone="dion09_npc2022_02801">
+		<npc id="35145" x="19342" y="145105" z="-3106" heading="30304" respawnDelay="60" /> <!-- Manor Manager -->
+	</spawn>
+	<!-- dion09_npc2022_029 -->
+	<spawn zone="dion09_npc2022_02901">
+		<npc id="35145" x="17882" y="144184" z="-3051" heading="54112" respawnDelay="60" /> <!-- Manor Manager -->
+	</spawn>
+	<!-- dion09_npc2022_030 -->
+	<spawn zone="dion09_npc2022_03001">
+		<npc id="31080" x="16354" y="142870" z="-2696" heading="15000" respawnDelay="60" /> <!-- Priest of Dawn -->
+	</spawn>
+	<!-- dion09_npc2022_031 -->
+	<spawn zone="dion09_npc2022_03101">
+		<npc id="31087" x="18482" y="144626" z="-3056" heading="7000" respawnDelay="60" /> <!-- Dusk Priestess -->
+	</spawn>
+	<!-- dion09_npc2022_032 -->
+	<spawn zone="dion09_npc2022_03201">
+		<npc id="31092" x="16393" y="144916" z="-3016" heading="30000" respawnDelay="60" /> <!-- Black Marketeer of Mammon -->
+	</spawn>
+	<!-- dion09_npc2022_033 -->
+	<spawn zone="dion09_npc2022_03301">
+		<npc id="30508" x="19932" y="143232" z="-3040" heading="63000" respawnDelay="60" /> <!-- Castor -->
+		<npc id="30510" x="19924" y="143196" z="-3040" heading="63000" respawnDelay="60" /> <!-- Somak -->
+		<npc id="30509" x="20040" y="143308" z="-3047" heading="63000" respawnDelay="60" /> <!-- Dowki -->
+		<npc id="30642" x="20000" y="143108" z="-3045" heading="63000" respawnDelay="60" /> <!-- Chianta -->
+	</spawn>
+	<!-- dion09_npc2022_034 -->
+	<spawn zone="dion09_npc2022_03401">
+		<npc id="31434" x="19600" y="143344" z="-3026" heading="56000" respawnDelay="60" /> <!-- Shaling -->
+		<npc id="31441" x="19536" y="143072" z="-3026" heading="13000" respawnDelay="60" /> <!-- Gordo -->
+	</spawn>
+	<!-- dion09_npc2022_035 -->
+	<spawn zone="dion09_npc2022_03501">
+		<npc id="31418" x="16694" y="142336" z="-2691" heading="32000" respawnDelay="60" /> <!-- Rouke -->
+	</spawn>
+	<!-- dion09_npc2022_036 -->
+	<spawn zone="dion09_npc2022_03601">
+		<npc id="31570" x="19539" y="145987" z="-3068" heading="32500" respawnDelay="60" /> <!-- Lanosco -->
+	</spawn>
+	<!-- dion09_npc2022_037 -->
+	<spawn zone="dion09_npc2022_03701">
+		<npc id="31688" x="16304" y="144288" z="-2992" heading="55000" respawnDelay="60" /> <!-- Grand Olympiad Manager -->
+		<npc id="31690" x="16256" y="144256" z="-2992" heading="55000" respawnDelay="60" /> <!-- Monument of Heroes  -->
+	</spawn>
+	<!-- dion09_npc2022_037_ -->
+	<spawn zone="dion09_npc2022_03702">
+		<npc id="31688" x="11758" y="183932" z="-3560" heading="55000" respawnDelay="60" /> <!-- Grand Olympiad Manager -->
+		<npc id="31690" x="11760" y="184097" z="-3560" heading="55000" respawnDelay="60" /> <!-- Monument of Heroes  -->
+	</spawn>
+	<!-- dion09_npc2022_038 -->
+	<spawn zone="dion09_npc2022_03801">
+		<npc id="31797" x="15856" y="142816" z="-2704" heading="15000" respawnDelay="60" /> <!-- Adventure Guildsman  -->
+	</spawn>
+	<!-- dion09_npc2022_039 -->
+	<spawn zone="dion09_npc2022_03901">
+		<npc id="31798" x="17388" y="146912" z="-3104" heading="3000" respawnDelay="60" /> <!-- Adventure Guildsman  -->
+	</spawn>
+	<!-- dion09_npc2022_040 -->
+	<spawn zone="dion09_npc2022_04001">
+		<npc id="31799" x="21088" y="145424" z="-3088" heading="16500" respawnDelay="60" /> <!-- Adventure Guildsman  -->
+	</spawn>
+	<!-- dion09_npc2022_041 -->
+	<spawn zone="dion09_npc2022_04101">
+		<npc id="31800" x="19248" y="143040" z="-3040" heading="31000" respawnDelay="60" /> <!-- Adventure Guildsman  -->
+	</spawn>
+	<!-- dion09_npc2022_042 -->
+	<spawn zone="dion09_npc2022_04201">
+		<npc id="30767" x="18853" y="145939" z="-3075" heading="49152" respawnDelay="60" /> <!-- Auctioneer  -->
+	</spawn>
+	<!-- dion09_npc2022_043 -->
+	<spawn zone="dion09_npc2022_04301">
+		<npc id="30057" x="20777" y="144971" z="-3068" heading="53248" respawnDelay="60" /> <!-- Aldo  -->
+		<npc id="30058" x="20750" y="144432" z="-3068" heading="8192" respawnDelay="60" /> <!-- Holvas  -->
+		<npc id="30469" x="21040" y="144608" z="-3069" heading="32768" respawnDelay="60" /> <!-- Jonas  -->
+	</spawn>
+	<!-- dion09_npc2022_044 -->
+	<spawn zone="dion09_npc2022_04401">
+		<npc id="30064" x="19708" y="144780" z="-3088" heading="40960" respawnDelay="60" /> <!-- Terry  -->
+		<npc id="30066" x="19516" y="144772" z="-3088" heading="49152" respawnDelay="60" /> <!-- Pabris  -->
+		<npc id="30459" x="19696" y="144336" z="-3088" heading="24576" respawnDelay="60" /> <!-- Wandius  -->
+		<npc id="30065" x="19725" y="144567" z="-3088" heading="32768" respawnDelay="60" /> <!-- Arne  -->
+		<npc id="30460" x="19472" y="144334" z="-3088" heading="8192" respawnDelay="60" /> <!-- Cardien  -->
+	</spawn>
+	<!-- dion09_npc2022_045 -->
+	<spawn zone="dion09_npc2022_04501">
+		<npc id="30062" x="19313" y="146229" z="-3069" heading="49152" respawnDelay="60" /> <!-- Sonia  -->
+		<npc id="30063" x="19223" y="146228" z="-3069" heading="49152" respawnDelay="60" /> <!-- Lara  -->
+	</spawn>
+	<!-- dion09_npc2022_046 -->
+	<spawn zone="dion09_npc2022_04601">
+		<npc id="30060" x="17999" y="144484" z="-3046" heading="6000" respawnDelay="60" /> <!-- Sabrin  -->
+		<npc id="30061" x="17948" y="144560" z="-3046" heading="6000" respawnDelay="60" /> <!-- Casey  -->
+	</spawn>
+	<!-- dion09_npc2022_047 -->
+	<spawn zone="dion09_npc2022_04701">
+		<npc id="30463" x="17384" y="146605" z="-3085" heading="28672" respawnDelay="60" /> <!-- Ixia  -->
+		<npc id="30464" x="17280" y="146944" z="-3085" heading="45056" respawnDelay="60" /> <!-- Clayton  -->
+		<npc id="30462" x="17168" y="146720" z="-3085" heading="2500" respawnDelay="60" /> <!-- Tronix  -->
+	</spawn>
+	<!-- dion09_npc2022_048 -->
+	<spawn zone="dion09_npc2022_04801">
+		<npc id="30059" x="15631" y="142885" z="-2704" heading="16000" respawnDelay="60" /> <!-- Trisha  -->
+	</spawn>
+	<!-- dion09_npc2022_049 -->
+	<spawn zone="dion09_npc2022_04901">
+		<npc id="30072" x="17503" y="147575" z="-3124" heading="20480" respawnDelay="60" /> <!-- Metty  -->
+		<npc id="32480" x="17282" y="147500" z="-3119" heading="20480" respawnDelay="60" /> <!-- Ronde  -->
+	</spawn>
+	<!-- dion09_npc2022_050 -->
+	<spawn zone="dion09_npc2022_05001">
+		<npc id="30466" x="21491" y="145968" z="-3155" heading="0" respawnDelay="60" /> <!-- Bright  -->
+		<npc id="30465" x="21545" y="145728" z="-3145" heading="0" respawnDelay="60" /> <!-- Herven  -->
+	</spawn>
+	<!-- dion09_npc2022_051 -->
+	<spawn zone="dion09_npc2022_05101">
+		<npc id="30075" x="18813" y="142439" z="-3046" heading="47500" respawnDelay="60" /> <!-- Xaber  -->
+		<npc id="30076" x="19044" y="142392" z="-3057" heading="47500" respawnDelay="60" /> <!-- Liam  -->
+	</spawn>
+	<!-- dion09_npc2022_052 -->
+	<spawn zone="dion09_npc2022_05201">
+		<npc id="30074" x="16937" y="144041" z="-3014" heading="36864" respawnDelay="60" /> <!-- Harlan  -->
+	</spawn>
+	<!-- dion09_npc2022_053 -->
+	<spawn zone="dion09_npc2022_05301">
+		<npc id="30073" x="15757" y="144638" z="-3079" heading="36864" respawnDelay="60" /> <!-- Jacob  -->
+	</spawn>
+	<!-- dion09_npc2022_054 -->
+	<spawn zone="dion09_npc2022_05401">
+		<npc id="30458" x="19737" y="143122" z="-3028" heading="29500" respawnDelay="60" /> <!-- Poitan  -->
+	</spawn>
+	<!-- dion09_npc2022_055 -->
+	<spawn zone="dion09_npc2022_05501">
+		<npc id="30071" x="18199" y="146081" z="-3080" heading="-23992" respawnDelay="60" /> <!-- Lucas  -->
+		<npc id="32484" x="18228" y="146030" z="-3059" heading="-23684" respawnDelay="60" /> <!-- Pathfinder Worker  -->
+	</spawn>
+	<!-- dion11_npc2022_14 -->
+	<spawn zone="dion11_npc2022_1401">
+		<npc id="35140" x="21595" y="160208" z="-2877" heading="0" respawnDelay="60" /> <!-- Blacksmith  -->
+	</spawn>
+	<!-- dion11_npc2022_15 -->
+	<spawn zone="dion11_npc2022_1501">
+		<npc id="35141" x="22110" y="159744" z="-2856" heading="16384" respawnDelay="60" /> <!-- Warehouse Keeper  -->
+	</spawn>
+	<!-- dion11_npc2022_16 -->
+	<spawn zone="dion11_npc2022_1601">
+		<npc id="35143" x="21912" y="161608" z="-2226" heading="0" respawnDelay="60" /> <!-- Hodler  -->
+	</spawn>
+	<!-- dion11_npc2022_17 -->
+	<spawn zone="dion11_npc2022_1701">
+		<npc id="35144" x="21836" y="160806" z="-2679" heading="49152" respawnDelay="60" /> <!-- Mercenary Manager Sanford  -->
+	</spawn>
+	<!-- dion11_npc2022_18 -->
+	<spawn zone="dion11_npc2022_1801">
+		<npc id="35649" x="22304" y="160808" z="-2689" heading="49152" respawnDelay="60" /> <!-- Court Magician -->
+	</spawn>
+	<!-- dion11_npc2022_19 -->
+	<spawn zone="dion11_npc2022_1901">
+		<npc id="36404" x="22110" y="160690" z="-2856" heading="49151" respawnDelay="60" /> <!-- Warden -->
+	</spawn>
+	<!-- dion09_npc2022_102 -->
+	<spawn zone="dion09_npc2022_102m1">
+		<npc id="32327" x="17136" y="144896" z="-3003" heading="26624" respawnDelay="60" /> <!-- Adventurers' Guide -->
+	</spawn>
+	<!-- dion09_npc2022_km1 -->
+	<spawn zone="dion09_npc2022_km1m1">
+		<npc id="32199" x="16259" y="146282" z="-3104" heading="63319" respawnDelay="60" /> <!-- Holst -->
+		<npc id="32200" x="16279" y="146242" z="-3104" heading="63319" respawnDelay="60" /> <!-- Entien -->
+		<npc id="32201" x="16292" y="146310" z="-3104" heading="63319" respawnDelay="60" /> <!-- Rindy -->
+	</spawn>
+	<!-- dion09_npc2022_9876 -->
+	<spawn zone="dion09_npc2022_9876m1">
+		<npc id="32632" x="16132" y="142821" z="-2696" heading="16384" respawnDelay="60" /> <!-- Gracian Survivor -->
+	</spawn>
+	<!-- dion09_npc2022_premium01 -->
+	<spawn zone="dion09_npc2022_premium01m1">
+		<npc id="32478" x="20560" y="144768" z="-3081" heading="33000" respawnDelay="60" /> <!-- Dimensional Merchant -->
+	</spawn>
+	<!-- dion_chamberlain_etc -->
+	<spawn zone="dion_chamberlain_etc">
+		<npc id="35142" x="22172" y="160923" z="-2666" heading="49152" respawnDelay="60" /> <!-- Crosby -->
+		<npc id="35146" x="19132" y="153027" z="-3120" heading="49152" respawnDelay="60" /> <!-- Gibbson -->
+		<npc id="35138" x="22412" y="156489" z="-2944" heading="49152" respawnDelay="10800" /> <!-- Outer Doorman -->
+		<npc id="35138" x="22466" y="156837" z="-2944" heading="0" respawnDelay="10800" /> <!-- Outer Doorman -->
+		<npc id="35139" x="22239" y="159048" z="-2654" heading="49152" respawnDelay="10800" /> <!-- Inner Doorman -->
+		<npc id="35139" x="22305" y="159403" z="-2694" heading="0" respawnDelay="10800" /> <!-- Inner Doorman -->
+	</spawn>
+	<!-- dion_mass_teleporter -->
+	<spawn zone="dion_mass_teleporter">
+		<npc id="35137" x="20492" y="160363" z="-1978" heading="0" respawnDelay="60" /> <!-- Mass Gatekeeper -->
+	</spawn>
+	<!-- dion09_npc2022_tk01 -->
+	<spawn zone="dion09_npc2022_tk01m1">
+		<npc id="30990" x="15693" y="142886" z="-2696" heading="16000" respawnDelay="60" /> <!-- Lottery Ticket Seller -->
+	</spawn>
+	<!-- broadcasting_tower_dion -->
+	<spawn zone="broadcasting_tower_dion">
+		<npc id="31031" x="20368" y="144912" z="-3088" heading="16384" respawnDelay="60" /> <!-- Broadcasting Tower -->
+	</spawn>
+	<!-- dion_holything -->
+	<spawn zone="dion_holything">
+		<npc id="35105" x="22073" y="161778" z="-2672" heading="49152" respawnDelay="60" /> <!-- Dion Holy Artifact -->
+	</spawn>
+	<!-- dion15_2022_01 -->
+	<spawn zone="dion15_2022_01">
+		<npc id="20292" count="4" respawnDelay="24" /> <!-- Enku Orc Shaman -->
+		<npc id="20291" count="3" respawnDelay="24" /> <!-- Enku Orc Champion -->
+	</spawn>
+	<!-- dion15_2022_02 -->
+	<spawn zone="dion15_2022_02">
+		<npc id="20292" count="5" respawnDelay="24" /> <!-- Enku Orc Shaman -->
+		<npc id="20291" count="2" respawnDelay="24" /> <!-- Enku Orc Champion -->
+	</spawn>
+	<!-- dion15_2022_03 -->
+	<spawn zone="dion15_2022_03">
+		<npc id="20292" count="2" respawnDelay="24" /> <!-- Enku Orc Shaman -->
+		<npc id="20291" count="2" respawnDelay="24" /> <!-- Enku Orc Champion -->
+		<npc id="20224" count="1" respawnDelay="24" /> <!-- Ol Mahum Ranger -->
+	</spawn>
+	<!-- dion15_2022_04 -->
+	<spawn zone="dion15_2022_04">
+		<npc id="20292" count="3" respawnDelay="24" /> <!-- Enku Orc Shaman -->
+		<npc id="20291" count="2" respawnDelay="24" /> <!-- Enku Orc Champion -->
+		<npc id="20224" count="2" respawnDelay="24" /> <!-- Ol Mahum Ranger -->
+	</spawn>
+	<!-- dion15_2022_05 -->
+	<spawn zone="dion15_2022_0">
+		<npc id="20224" count="2" respawnDelay="24" /> <!-- Ol Mahum Ranger -->
+		<npc id="20265" count="4" respawnDelay="24" /> <!-- Monster Eye Searcher -->
+		<npc id="20062" count="4" respawnDelay="24" /> <!-- Tumran Bugbear -->
+	</spawn>
+	<!-- dion15_2022_06 -->
+	<spawn zone="dion15_2022_06">
+		<npc id="20265" count="4" respawnDelay="24" /> <!-- Monster Eye Searcher -->
+		<npc id="20062" count="4" respawnDelay="24" /> <!-- Tumran Bugbear -->
+	</spawn>
+	<!-- dion15_2022_07 -->
+	<spawn zone="dion15_2022_07">
+		<npc id="20062" count="3" respawnDelay="24" /> <!-- Tumran Bugbear -->
+		<npc id="20205" count="4" respawnDelay="24" /> <!-- Dire Wolf -->
+	</spawn>
+	<!-- dion15_2022_08 -->
+	<spawn zone="dion15_2022_08">
+		<npc id="20062" count="2" respawnDelay="24" /> <!-- Tumran Bugbear -->
+		<npc id="20205" count="3" respawnDelay="24" /> <!-- Dire Wolf -->
+	</spawn>
+	<!-- dion15_2022_09 -->
+	<spawn zone="dion15_2022_09">
+		<npc id="20062" count="3" respawnDelay="24" /> <!-- Tumran Bugbear -->
+		<npc id="20205" count="4" respawnDelay="24" /> <!-- Dire Wolf -->
+	</spawn>
+	<!-- dion15_2022_10 -->
+	<spawn zone="dion15_2022_10">
+		<npc id="20205" count="2" respawnDelay="24" /> <!-- Dire Wolf -->
+		<npc id="20266" count="5" respawnDelay="24" /> <!-- Monster Eye Gazer -->
+	</spawn>
+	<!-- dion15_2022_11 -->
+	<spawn zone="dion15_2022_11">
+		<npc id="20062" count="4" respawnDelay="24" /> <!-- Tumran Bugbear -->
+		<npc id="20205" count="4" respawnDelay="24" /> <!-- Dire Wolf -->
+	</spawn>
+	<!-- dion15_2022_12 -->
+	<spawn zone="dion15_2022_12">
+		<npc id="20062" count="4" respawnDelay="24" /> <!-- Tumran Bugbear -->
+		<npc id="20205" count="4" respawnDelay="24" /> <!-- Dire Wolf -->
+	</spawn>
+	<!-- dion15_2022_13 -->
+	<spawn zone="dion15_2022_13">
+		<npc id="20291" count="5" respawnDelay="24" /> <!-- Enku Orc Champion -->
+		<npc id="20265" count="5" respawnDelay="24" /> <!-- Monster Eye Searcher -->
+	</spawn>
+	<!-- dion15_2022_14 -->
+	<spawn zone="dion15_2022_14">
+		<npc id="20062" count="6" respawnDelay="24" /> <!-- Tumran Bugbear -->
+	</spawn>
+	<!-- dion15_2022_15 -->
+	<spawn zone="dion15_2022_15">
+		<npc id="20203" count="4" respawnDelay="24" /> <!-- Dion Grizzly -->
+		<npc id="20291" count="3" respawnDelay="24" /> <!-- Enku Orc Champion -->
+		<npc id="20224" count="1" respawnDelay="24" /> <!-- Ol Mahum Ranger -->
+	</spawn>
+	<!-- dion15_2022_16 -->
+	<spawn zone="dion15_2022_16">
+		<npc id="20203" count="4" respawnDelay="24" /> <!-- Dion Grizzly -->
+		<npc id="20147" count="3" respawnDelay="24" /> <!-- Hobgoblin -->
+	</spawn>
+	<!-- dion15_2022_17 -->
+	<spawn zone="dion15_2022_17">
+		<npc id="20203" count="1" respawnDelay="24" /> <!-- Dion Grizzly -->
+		<npc id="20147" count="2" respawnDelay="24" /> <!-- Hobgoblin -->
+		<npc id="20224" count="2" respawnDelay="24" /> <!-- Ol Mahum Ranger -->
+	</spawn>
+	<!-- dion15_2022_18 -->
+	<spawn zone="dion15_2022_18">
+		<npc id="20224" count="4" respawnDelay="24" /> <!-- Ol Mahum Ranger -->
+		<npc id="20265" count="5" respawnDelay="24" /> <!-- Monster Eye Searcher -->
+		<npc id="20062" count="6" respawnDelay="24" /> <!-- Tumran Bugbear -->
+	</spawn>
+	<!-- dion15_2022_19 -->
+	<spawn zone="dion15_2022_19">
+		<npc id="20062" count="8" respawnDelay="24" /> <!-- Tumran Bugbear -->
+		<npc id="20205" count="7" respawnDelay="24" /> <!-- Dire Wolf -->
+	</spawn>
+	<!-- dion15_2022_20 -->
+	<spawn zone="dion15_2022_20">
+		<npc id="20205" count="6" respawnDelay="24" /> <!-- Dire Wolf -->
+		<npc id="20266" count="9" respawnDelay="24" /> <!-- Monster Eye Gazer -->
+	</spawn>
+	<!-- dion16_2022_01 -->
+	<spawn zone="dion16_2022_01">
+		<npc id="21102" count="2" respawnDelay="30" /> <!-- Monster Eye Gazer -->
+		<npc id="21103" count="2" respawnDelay="30" /> <!-- Roughly Hewn Rock Golem -->
+		<npc id="21104" count="2" respawnDelay="30" /> <!-- Delu Lizardman Supplier -->
+	</spawn>
+	<!-- dion16_2022_05 -->
+	<spawn zone="dion16_2022_05">
+		<npc id="21103" count="4" respawnDelay="30" /> <!-- Roughly Hewn Rock Golem -->
+		<npc id="21104" count="2" respawnDelay="30" /> <!-- Delu Lizardman Supplier -->
+	</spawn>
+	<!-- dion16_2022_08 -->
+	<spawn zone="dion16_2022_08">
+		<npc id="21103" count="3" respawnDelay="30" /> <!-- Roughly Hewn Rock Golem -->
+		<npc id="21104" count="3" respawnDelay="30" /> <!-- Delu Lizardman Supplier -->
+		<npc id="21105" count="3" respawnDelay="30" /> <!-- Delu Lizardman Special Agent -->
+		<npc id="21106" count="3" respawnDelay="30" /> <!-- Cursed Seer -->
+	</spawn>
+	<!-- dion16_2022_09 -->
+	<spawn zone="dion16_2022_09">
+		<npc id="21102" count="4" respawnDelay="30" /> <!-- Monster Eye Gazer -->
+		<npc id="21104" count="3" respawnDelay="30" /> <!-- Delu Lizardman Supplier -->
+		<npc id="21105" count="2" respawnDelay="30" /> <!-- Delu Lizardman Special Agent -->
+	</spawn>
+	<!-- dion16_2022_10 -->
+	<spawn zone="dion16_2022_10">
+		<npc id="21102" count="2" respawnDelay="30" /> <!-- Monster Eye Gazer -->
+		<npc id="21103" count="2" respawnDelay="30" /> <!-- Roughly Hewn Rock Golem -->
+		<npc id="21104" count="4" respawnDelay="30" /> <!-- Delu Lizardman Supplier -->
+		<npc id="21105" count="2" respawnDelay="30" /> <!-- Delu Lizardman Special Agent -->
+	</spawn>
+	<!-- dion16_2022_11 -->
+	<spawn zone="dion16_2022_11">
+		<npc id="21102" count="2" respawnDelay="30" /> <!-- Monster Eye Gazer -->
+		<npc id="21103" count="3" respawnDelay="30" /> <!-- Roughly Hewn Rock Golem -->
+		<npc id="21104" count="4" respawnDelay="30" /> <!-- Delu Lizardman Supplier -->
+	</spawn>
+	<!-- dion16_2022_12 -->
+	<spawn zone="dion16_2022_12">
+		<npc id="21103" count="3" respawnDelay="30" /> <!-- Roughly Hewn Rock Golem -->
+		<npc id="21104" count="7" respawnDelay="30" /> <!-- Delu Lizardman Supplier -->
+		<npc id="21105" count="4" respawnDelay="30" /> <!-- Delu Lizardman Special Agent -->
+		<npc id="21106" count="4" respawnDelay="30" /> <!-- Cursed Seer -->
+	</spawn>
+	<!-- dion16_2022_13 -->
+	<spawn zone="dion16_2022_13">
+		<npc id="21103" count="4" respawnDelay="30" /> <!-- Roughly Hewn Rock Golem -->
+		<npc id="21105" count="2" respawnDelay="30" /> <!-- Delu Lizardman Special Agent -->
+	</spawn>
+	<!-- dion16_2022_14 -->
+	<spawn zone="dion16_2022_14">
+		<npc id="21103" count="2" respawnDelay="30" /> <!-- Roughly Hewn Rock Golem -->
+		<npc id="21104" count="3" respawnDelay="30" /> <!-- Delu Lizardman Supplier -->
+	</spawn>
+	<!-- dion15_tb2022_13 -->
+	<spawn zone="dion15_tb13_m1">
+		<npc id="18265" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- dion15_tb2022_09 -->
+	<spawn zone="dion15_tb09_m1">
+		<npc id="18266" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- dion16_tb2022_05 -->
+	<spawn zone="dion16_tb05_m1">
+		<npc id="18268" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- aden02_npc2318_01 -->
+	<spawn zone="aden02_npc2318_0101">
+		<npc id="30949" x="114217" y="13428" z="-5096" heading="412" respawnDelay="60" /> <!-- Keplon -->
+		<npc id="30952" x="114188" y="13337" z="-5096" heading="228" respawnDelay="60" /> <!-- Dimensional Vortex 1 -->
+	</spawn>
+	<!-- aden02_npc2318_02 -->
+	<spawn zone="aden02_npc2318_0201">
+		<npc id="30950" x="114112" y="20042" z="944" heading="50148" respawnDelay="60" /> <!-- Euclie -->
+		<npc id="30953" x="114048" y="20048" z="928" heading="49444" respawnDelay="60" /> <!-- Dimensional Vortex 2 -->
+	</spawn>
+	<!-- aden02_npc2318_03 -->
+	<spawn zone="aden02_npc2318_0301">
+		<npc id="30951" x="118644" y="16680" z="6000" heading="42000" respawnDelay="60" /> <!-- Pithgon -->
+		<npc id="30954" x="118600" y="16724" z="5984" heading="42000" respawnDelay="60" /> <!-- Dimensional Vortex 3 -->
+	</spawn>
+	<!-- aden02_npc2318_04 -->
+	<spawn zone="aden02_npc2318_0401">
+		<npc id="31862" x="112624" y="14032" z="10080" heading="0" respawnDelay="60" /> <!-- Angelic Vortex -->
+	</spawn>
+	<!-- aden01_npc2318_05 -->
+	<spawn zone="aden01_npc2318_0501">
+		<npc id="31646" x="120112" y="30912" z="-3616" heading="49000" respawnDelay="60" /> <!-- Tablet of Vision -->
+	</spawn>
+	<!-- oren32_p2318_01 -->
+	<spawn zone="oren32_p2318_01m1">
+		<npc id="20956" count="5" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+	</spawn>
+	<!-- oren32_p2318_01s -->
+	<spawn zone="oren32_p2318_01sm1">
+		<npc id="20956" count="3" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+	</spawn>
+	<!-- oren32_p2318_02 -->
+	<spawn zone="oren32_p2318_02m1">
+		<npc id="20956" count="5" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+	</spawn>
+	<!-- oren32_p2318_021s -->
+	<spawn zone="oren32_p2318_021sm1">
+		<npc id="20956" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+	</spawn>
+	<!-- oren32_p2318_022s -->
+	<spawn zone="oren32_p2318_022sm1">
+		<npc id="20956" count="3" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+	</spawn>
+	<!-- oren32_p2318_03 -->
+	<spawn zone="oren32_p2318_03m1">
+		<npc id="20956" count="3" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+	</spawn>
+	<!-- aden33_2318_01 -->
+	<spawn zone="aden33_2318_01m1">
+		<npc id="20809" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Ghost of the Tower -->
+		<npc id="20811" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Ghastly Warrior -->
+		<npc id="20814" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Blader of Despair -->
+		<npc id="20810" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Hallate's Seer -->
+	</spawn>
+	<!-- aden33_2318_02 -->
+	<spawn zone="aden33_2318_02m1">
+		<npc id="20809" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Ghost of the Tower -->
+		<npc id="20811" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Ghastly Warrior -->
+		<npc id="20814" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Blader of Despair -->
+		<npc id="20810" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Hallate's Seer -->
+	</spawn>
+	<!-- aden33_2318_03 -->
+	<spawn zone="aden33_2318_03m1">
+		<npc id="20809" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Ghost of the Tower -->
+		<npc id="20811" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Ghastly Warrior -->
+		<npc id="20814" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Blader of Despair -->
+		<npc id="20810" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Hallate's Seer -->
+	</spawn>
+	<!-- aden33_2318_04 -->
+	<spawn zone="aden33_2318_04m1">
+		<npc id="20809" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Ghost of the Tower -->
+		<npc id="20811" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Ghastly Warrior -->
+		<npc id="20814" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Blader of Despair -->
+		<npc id="20810" count="3" respawnDelay="148" respawnRandom="20" /> <!-- Hallate's Seer -->
+	</spawn>
+	<!-- aden34_2318_01 -->
+	<spawn zone="aden34_2318_01m1">
+		<npc id="20810" count="2" respawnDelay="165" respawnRandom="30" /> <!-- Hallate's Seer -->
+		<npc id="20812" count="2" respawnDelay="165" respawnRandom="30" /> <!-- Archer of Despair -->
+		<npc id="20813" count="2" respawnDelay="165" respawnRandom="30" /> <!-- Crendion -->
+		<npc id="20815" count="2" respawnDelay="165" respawnRandom="30" /> <!-- Hound Dog of Hallate -->
+	</spawn>
+	<!-- aden34_2318_02 -->
+	<spawn zone="aden34_2318_02m1">
+		<npc id="20810" count="3" respawnDelay="165" respawnRandom="30" /> <!-- Hallate's Seer -->
+		<npc id="20812" count="3" respawnDelay="165" respawnRandom="30" /> <!-- Archer of Despair -->
+		<npc id="20813" count="3" respawnDelay="165" respawnRandom="30" /> <!-- Crendion -->
+		<npc id="20815" count="4" respawnDelay="165" respawnRandom="30" /> <!-- Hound Dog of Hallate -->
+		<npc id="21075" count="1" respawnDelay="200" respawnRandom="40" /> <!-- Slaughter Bathin -->
+	</spawn>
+	<!-- aden34_2318_03 -->
+	<spawn zone="aden34_2318_03m1">
+		<npc id="20810" count="4" respawnDelay="165" respawnRandom="30" /> <!-- Hallate's Seer -->
+		<npc id="20812" count="3" respawnDelay="165" respawnRandom="30" /> <!-- Archer of Despair -->
+		<npc id="20813" count="3" respawnDelay="165" respawnRandom="30" /> <!-- Crendion -->
+		<npc id="20815" count="3" respawnDelay="165" respawnRandom="30" /> <!-- Hound Dog of Hallate -->
+		<npc id="21075" count="1" respawnDelay="200" respawnRandom="40" /> <!-- Slaughter Bathin -->
+	</spawn>
+	<!-- aden34_2318_04 -->
+	<spawn zone="aden34_2318_04m1">
+		<npc id="20810" count="3" respawnDelay="165" respawnRandom="30" /> <!-- Hallate's Seer -->
+		<npc id="20812" count="3" respawnDelay="165" respawnRandom="30" /> <!-- Archer of Despair -->
+		<npc id="20813" count="3" respawnDelay="165" respawnRandom="30" /> <!-- Crendion -->
+		<npc id="20815" count="4" respawnDelay="165" respawnRandom="30" /> <!-- Hound Dog of Hallate -->
+		<npc id="21075" count="2" respawnDelay="200" respawnRandom="40" /> <!-- Slaughter Bathin -->
+	</spawn>
+	<!-- aden34_2318_05 -->
+	<spawn zone="aden34_2318_05m1">
+		<npc id="20810" count="4" respawnDelay="165" respawnRandom="30" /> <!-- Hallate's Seer -->
+		<npc id="20812" count="3" respawnDelay="165" respawnRandom="30" /> <!-- Archer of Despair -->
+		<npc id="20813" count="3" respawnDelay="165" respawnRandom="30" /> <!-- Crendion -->
+		<npc id="20815" count="3" respawnDelay="252" respawnRandom="30" /> <!-- Hound Dog of Hallate -->
+		<npc id="21075" count="1" respawnDelay="200" respawnRandom="40" /> <!-- Slaughter Bathin -->
+	</spawn>
+	<!-- aden35_2318_01 -->
+	<spawn zone="aden35_2318_01m1">
+		<npc id="20816" count="5" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Royal Guard -->
+		<npc id="20817" count="5" respawnDelay="180" respawnRandom="40" /> <!-- Corrupt Sage -->
+		<npc id="20820" count="6" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Knight -->
+		<npc id="20822" count="5" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Maid -->	
+	</spawn>
+	<!-- aden35_2318_02 -->
+	<spawn zone="aden35_2318_02m1">
+		<npc id="20816" count="4" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Royal Guard -->
+		<npc id="20817" count="3" respawnDelay="180" respawnRandom="40" /> <!-- Corrupt Sage -->
+		<npc id="20820" count="3" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Knight -->
+		<npc id="20822" count="3" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Maid -->	
+	</spawn>
+	<!-- aden35_2318_03 -->
+	<spawn zone="aden35_2318_03m1">
+		<npc id="20816" count="3" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Royal Guard -->
+		<npc id="20817" count="3" respawnDelay="180" respawnRandom="40" /> <!-- Corrupt Sage -->
+		<npc id="20820" count="4" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Knight -->
+		<npc id="20822" count="3" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Maid -->	
+	</spawn>
+	<!-- aden35_2318_04 -->
+	<spawn zone="aden35_2318_04m1">
+		<npc id="20816" count="4" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Royal Guard -->
+		<npc id="20817" count="3" respawnDelay="180" respawnRandom="40" /> <!-- Corrupt Sage -->
+		<npc id="20820" count="3" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Knight -->
+		<npc id="20822" count="3" respawnDelay="180" respawnRandom="40" /> <!-- Hallate's Maid -->	
+	</spawn>
+	<!-- aden36_2318_01 -->
+	<spawn zone="aden36_2318_01m1">
+		<npc id="20815" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hound Dog of Hallate -->
+		<npc id="20818" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20819" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Archer of Abyss -->
+		<npc id="20821" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->	
+	</spawn>
+	<!-- aden36_2318_02 -->
+	<spawn zone="aden36_2318_02m1">
+		<npc id="20815" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hound Dog of Hallate -->
+		<npc id="20818" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20819" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Archer of Abyss -->
+		<npc id="20821" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->
+	</spawn>
+	<!-- aden36_2318_03 -->
+	<spawn zone="aden36_2318_03m1">
+		<npc id="20815" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hound Dog of Hallate -->
+		<npc id="20818" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20819" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Archer of Abyss -->
+		<npc id="20821" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->
+	</spawn>
+	<!-- aden36_2318_04 -->
+	<spawn zone="aden36_2318_04m1">
+		<npc id="20815" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hound Dog of Hallate -->
+		<npc id="20818" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20819" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Archer of Abyss -->
+		<npc id="20821" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->
+	</spawn>
+	<!-- aden36_2318_05 -->
+	<spawn zone="aden36_2318_05m1">
+		<npc id="20815" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hound Dog of Hallate -->
+		<npc id="20818" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20819" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Archer of Abyss -->
+		<npc id="20821" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->
+	</spawn>
+	<!-- aden36_2318_06 -->
+	<spawn zone="aden36_2318_06m1">
+		<npc id="20815" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hound Dog of Hallate -->
+		<npc id="20818" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20819" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Archer of Abyss -->
+		<npc id="20821" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->
+	</spawn>
+	<!-- aden36_2318_07 -->
+	<spawn zone="aden36_2318_07m1">
+		<npc id="20815" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Hound Dog of Hallate -->
+		<npc id="20818" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20819" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Archer of Abyss -->
+		<npc id="20821" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->
+	</spawn>
+	<!-- aden36_2318_08 -->
+	<spawn zone="aden36_2318_08m1">
+		<npc id="20815" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Hound Dog of Hallate -->
+		<npc id="20818" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20819" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Archer of Abyss -->
+		<npc id="20821" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->
+	</spawn>
+	<!-- aden36_2318_09 -->
+	<spawn zone="aden36_2318_09m1">
+		<npc id="20815" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hound Dog of Hallate -->
+		<npc id="20818" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20819" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Archer of Abyss -->
+		<npc id="20821" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->
+	</spawn>
+	<!-- aden36_2318_10 -->
+	<spawn zone="aden36_2318_10m1">
+		<npc id="20815" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hound Dog of Hallate -->
+		<npc id="20818" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20819" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Archer of Abyss -->
+		<npc id="20821" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->
+	</spawn>
+	<!-- aden36_2318_11 -->
+	<spawn zone="aden36_2318_11m1">
+		<npc id="20818" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20821" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->
+	</spawn>
+	<!-- aden36_2318_12 -->
+	<spawn zone="aden36_2318_12m1">
+		<npc id="20818" count="2" respawnDelay="165" respawnRandom="50" /> <!-- Hallate's Warrior -->
+		<npc id="20821" count="1" respawnDelay="165" respawnRandom="50" /> <!-- Erin Ediunce -->
+	</spawn>
+	<!-- aden36_2318_p05 -->
+	<spawn zone="aden36_2318_p05m1">
+		<npc id="20977" count="1" respawnDelay="200" respawnRandom="40" /> <!-- Elmoreden's Lady -->
+	</spawn>
+	<!-- aden36_2318_p10 -->
+	<spawn zone="aden36_2318_p10m1">
+		<npc id="20977" count="1" respawnDelay="200" respawnRandom="40" /> <!-- Elmoreden's Lady -->
+	</spawn>
+	<!-- aden37_2318_01 -->
+	<spawn zone="aden37_2318_01m1">
+		<npc id="20824" count="3" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Commander -->
+		<npc id="20825" count="3" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Inspector -->
+		<npc id="21061" count="3" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Guardian -->
+	</spawn>
+	<!-- aden37_2318_02 -->
+	<spawn zone="aden37_2318_02m1">
+		<npc id="20824" count="3" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Commander -->
+		<npc id="20825" count="2" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Inspector -->
+		<npc id="21061" count="2" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Guardian -->
+	</spawn>
+	<!-- aden37_2318_03 -->
+	<spawn zone="aden37_2318_03m1">
+		<npc id="20824" count="3" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Commander -->
+		<npc id="20825" count="3" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Inspector -->
+		<npc id="21061" count="3" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Guardian -->
+	</spawn>
+	<!-- aden37_2318_04 -->
+	<spawn zone="aden37_2318_04m1">
+		<npc id="20824" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Commander -->
+		<npc id="20825" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Inspector -->
+		<npc id="21061" count="2" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Guardian -->
+	</spawn>
+	<!-- aden37_2318_05 -->
+	<spawn zone="aden37_2318_05m1">
+		<npc id="20824" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Commander -->
+		<npc id="20825" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Inspector -->
+		<npc id="21061" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Guardian -->
+	</spawn>
+	<!-- aden37_2318_06 -->
+	<spawn zone="aden37_2318_06m1">
+		<npc id="20824" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Commander -->
+		<npc id="20825" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Inspector -->
+		<npc id="21061" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Guardian -->
+	</spawn>
+	<!-- aden37_2318_07 -->
+	<spawn zone="aden37_2318_07m1">
+		<npc id="20824" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Commander -->
+		<npc id="20825" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Inspector -->
+		<npc id="21061" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Guardian -->
+	</spawn>
+	<!-- aden37_2318_08 -->
+	<spawn zone="aden37_2318_08m1">
+		<npc id="20824" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Commander -->
+		<npc id="20825" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Inspector -->
+		<npc id="21061" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Guardian -->
+	</spawn>
+	<!-- aden37_2318_09 -->
+	<spawn zone="aden37_2318_09m1">
+		<npc id="20824" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Commander -->
+		<npc id="20825" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Inspector -->
+		<npc id="21061" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Guardian -->
+	</spawn>
+	<!-- aden37_2318_10 -->
+	<spawn zone="aden37_2318_10m1">
+		<npc id="20824" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Commander -->
+		<npc id="20825" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Inspector -->
+		<npc id="21061" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Guardian -->
+	</spawn>
+	<!-- aden37_2318_11 -->
+	<spawn zone="aden37_2318_11m1">
+		<npc id="20824" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Commander -->
+		<npc id="20825" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Inspector -->
+		<npc id="21061" count="1" respawnDelay="190" respawnRandom="60" /> <!-- Hallate's Guardian -->
+	</spawn>
+	<!-- aden37_2318_p01 -->
+	<spawn zone="aden37_2318_p01m1">
+		<npc id="20980" count="1" respawnDelay="220" respawnRandom="50" /> <!-- Hallate's Follower Mul -->
+	</spawn>
+	<!-- aden37_2318_p03 -->
+	<spawn zone="aden37_2318_p03m1">
+		<npc id="20980" count="1" respawnDelay="220" respawnRandom="50" /> <!-- Hallate's Follower Mul -->
+	</spawn>
+	<!-- aden38_2318_01 -->
+	<spawn zone="aden38_2318_01m1">
+		<npc id="20823" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Soldier -->
+		<npc id="20826" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Archer -->
+		<npc id="20827" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Warrior -->
+	</spawn>
+	<!-- aden38_2318_02 -->
+	<spawn zone="aden38_2318_02m1">
+		<npc id="20823" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Soldier -->
+		<npc id="20826" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Archer -->
+		<npc id="20827" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Warrior -->
+	</spawn>
+	<!-- aden38_2318_03 -->
+	<spawn zone="aden38_2318_03m1">
+		<npc id="20823" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Soldier -->
+		<npc id="20826" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Archer -->
+		<npc id="20827" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Warrior -->
+	</spawn>
+	<!-- aden38_2318_04 -->
+	<spawn zone="aden38_2318_04m1">
+		<npc id="20823" count="3" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Soldier -->
+		<npc id="20826" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Archer -->
+		<npc id="20827" count="3" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Warrior -->
+	</spawn>
+	<!-- aden38_2318_05 -->
+	<spawn zone="aden38_2318_05m1">
+		<npc id="20823" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Soldier -->
+		<npc id="20826" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Archer -->
+		<npc id="20827" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Warrior -->
+	</spawn>
+	<!-- aden38_2318_06 -->
+	<spawn zone="aden38_2318_06m1">
+		<npc id="20823" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Soldier -->
+		<npc id="20826" count="2" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Archer -->
+		<npc id="20827" count="3" respawnDelay="210" respawnRandom="70" /> <!-- Platinum Tribe Warrior -->
+	</spawn>
+	<!-- aden39_2318_01 -->
+	<spawn zone="aden39_2318_01m1">
+		<npc id="20828" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Shaman -->
+		<npc id="20829" count="2" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Overlord -->
+		<npc id="20830" count="2" respawnDelay="249" respawnRandom="80" /> <!-- Guardian Angel -->
+	</spawn>
+	<!-- aden39_2318_02 -->
+	<spawn zone="aden39_2318_02m1">
+		<npc id="20828" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Shaman -->
+		<npc id="20830" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Guardian Angel -->
+	</spawn>
+	<!-- aden39_2318_03 -->
+	<spawn zone="aden39_2318_03m1">
+		<npc id="20828" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Shaman -->
+		<npc id="20829" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Overlord -->
+		<npc id="20830" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Guardian Angel -->
+	</spawn>
+	<!-- aden39_2318_04 -->
+	<spawn zone="aden39_2318_04m1">
+		<npc id="20828" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Shaman -->
+		<npc id="20829" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Overlord -->
+	</spawn>
+	<!-- aden39_2318_05 -->
+	<spawn zone="aden39_2318_05m1">
+		<npc id="20828" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Shaman -->
+		<npc id="20829" count="2" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Overlord -->
+		<npc id="20830" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Guardian Angel -->
+	</spawn>
+	<!-- aden39_2318_06 -->
+	<spawn zone="aden39_2318_06m1">
+		<npc id="20828" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Shaman -->
+		<npc id="20829" count="2" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Overlord -->
+		<npc id="20830" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Guardian Angel -->
+	</spawn>
+	<!-- aden39_2318_07 -->
+	<spawn zone="aden39_2318_07m1">
+		<npc id="20828" count="2" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Shaman -->
+		<npc id="20829" count="1" respawnDelay="249" respawnRandom="80" /> <!-- Platinum Tribe Overlord -->
+		<npc id="20830" count="2" respawnDelay="249" respawnRandom="80" /> <!-- Guardian Angel -->
+	</spawn>
+	<!-- aden39_2318_p01 -->
+	<spawn zone="aden39_2318_p01m1">
+		<npc id="21078" count="1" respawnDelay="300" respawnRandom="80" /> <!-- Magus Valac -->
+	</spawn>
+	<!-- aden39_2318_p05 -->
+	<spawn zone="aden39_2318_p05m1">
+		<npc id="21078" count="1" respawnDelay="300" respawnRandom="80" /> <!-- Magus Valac -->
+	</spawn>
+	<!-- aden39_2318_p06 -->
+	<spawn zone="aden39_2318_p06m1">
+		<npc id="21078" count="1" respawnDelay="300" respawnRandom="80" /> <!-- Magus Valac -->
+	</spawn>
+	<!-- aden40_2318_02 -->
+	<spawn zone="aden40_2318_02m1">
+		<npc id="21062" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Messenger Angel -->
+		<npc id="21064" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Archer -->
+		<npc id="21065" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Warrior -->
+	</spawn>
+	<!-- aden40_2318_03 -->
+	<spawn zone="aden40_2318_03m1">
+		<npc id="21062" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Messenger Angel -->
+		<npc id="21064" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Archer -->
+		<npc id="21065" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Warrior -->
+	</spawn>
+	<!-- aden40_2318_04 -->
+	<spawn zone="aden40_2318_04m1">
+		<npc id="21062" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Messenger Angel -->
+		<npc id="21064" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Archer -->
+		<npc id="21065" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Warrior -->
+	</spawn>
+	<!-- aden40_2318_05 -->
+	<spawn zone="aden40_2318_05m1">
+		<npc id="21062" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Messenger Angel -->
+		<npc id="21064" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Archer -->
+		<npc id="21065" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Warrior -->
+	</spawn>
+	<!-- aden40_2318_06 -->
+	<spawn zone="aden40_2318_06m1">
+		<npc id="21062" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Messenger Angel -->
+		<npc id="21064" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Archer -->
+		<npc id="21065" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Warrior -->
+	</spawn>
+	<!-- aden40_2318_07 -->
+	<spawn zone="aden40_2318_07m1">
+		<npc id="21062" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Messenger Angel -->
+		<npc id="21064" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Archer -->
+		<npc id="21065" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Warrior -->
+	</spawn>
+	<!-- aden41_2318_01 -->
+	<spawn zone="aden41_2318_01m1">
+		<npc id="20830" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Guardian Angel -->
+		<npc id="21066" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21069" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Prefect -->
+	</spawn>
+	<!-- aden41_2318_02 -->
+	<spawn zone="aden41_2318_02m1">
+		<npc id="20830" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Guardian Angel -->
+		<npc id="21069" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Prefect -->
+	</spawn>
+	<!-- aden41_2318_03 -->
+	<spawn zone="aden41_2318_03m1">
+		<npc id="20830" count="3" respawnDelay="230" respawnRandom="75" /> <!-- Guardian Angel -->
+		<npc id="21066" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21069" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Prefect -->
+	</spawn>
+	<!-- aden41_2318_04 -->
+	<spawn zone="aden41_2318_04m1">
+		<npc id="20830" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Guardian Angel -->
+		<npc id="21066" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Shaman -->
+	</spawn>
+	<!-- aden41_2318_05 -->
+	<spawn zone="aden41_2318_05m1">
+		<npc id="20830" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Guardian Angel -->
+		<npc id="21066" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21069" count="3" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Prefect -->
+	</spawn>
+	<!-- aden41_2318_06 -->
+	<spawn zone="aden41_2318_06m1">
+		<npc id="21066" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21069" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Prefect -->
+	</spawn>
+	<!-- aden41_2318_07 -->
+	<spawn zone="aden41_2318_07m1">
+		<npc id="20830" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Guardian Angel -->
+		<npc id="21066" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21069" count="2" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Prefect -->
+	</spawn>
+	<!-- aden41_2318_08 -->
+	<spawn zone="aden41_2318_08m1">
+		<npc id="20830" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Guardian Angel -->
+		<npc id="21069" count="1" respawnDelay="230" respawnRandom="75" /> <!-- Platinum Guardian Prefect -->
+	</spawn>
+	<!-- aden41_2318_p01 -->
+	<spawn zone="aden41_2318_p01m1">
+		<npc id="20983" count="1" respawnDelay="300" respawnRandom="80" /> <!-- Binder -->
+	</spawn>
+	<!-- aden41_2318_p03 -->
+	<spawn zone="aden41_2318_p03m1">
+		<npc id="20983" count="1" respawnDelay="300" respawnRandom="80" /> <!-- Binder -->
+	</spawn>
+	<!-- aden41_2318_p05 -->
+	<spawn zone="aden41_2318_p05m1">
+		<npc id="20983" count="1" respawnDelay="300" respawnRandom="80" /> <!-- Binder -->
+	</spawn>
+	<!-- aden28_2318_01 -->
+	<spawn zone="aden28_2318_01m1">
+		<npc id="20831" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Angel -->
+		<npc id="21069" count="2" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Prefect -->
+		<npc id="21070" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Archangel -->
+	</spawn>
+	<!-- aden28_2318_06 -->
+	<spawn zone="aden28_2318_06m1">
+		<npc id="20831" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Angel -->
+		<npc id="21069" count="2" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Prefect -->
+		<npc id="21070" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Archangel -->
+	</spawn>
+	<!-- aden28_2318_07 -->
+	<spawn zone="aden28_2318_07m1">
+		<npc id="20831" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Angel -->
+		<npc id="21069" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Prefect -->
+		<npc id="21070" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Archangel -->
+	</spawn>
+	<!-- aden28_2318_08 -->
+	<spawn zone="aden28_2318_08m1">
+		<npc id="20831" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Angel -->
+		<npc id="21070" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Archangel -->
+	</spawn>
+	<!-- aden28_2318_09 -->
+	<spawn zone="aden28_2318_09m1">
+		<npc id="20831" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Angel -->
+		<npc id="21069" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Prefect -->
+		<npc id="21070" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Archangel -->
+	</spawn>
+	<!-- aden28_2318_10 -->
+	<spawn zone="aden28_2318_10m1">
+		<npc id="20831" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Angel -->
+		<npc id="21069" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Prefect -->
+		<npc id="21070" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Archangel -->
+	</spawn>
+	<!-- aden28_2318_11 -->
+	<spawn zone="aden28_2318_11m1">
+		<npc id="20831" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Angel -->
+		<npc id="21069" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Prefect -->
+		<npc id="21070" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Archangel -->
+	</spawn>
+	<!-- aden28_2318_12 -->
+	<spawn zone="aden28_2318_12m1">
+		<npc id="20831" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Angel -->
+		<npc id="21070" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Archangel -->
+	</spawn>
+	<!-- aden28_2318_13 -->
+	<spawn zone="aden28_2318_13m1">
+		<npc id="20831" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Angel -->
+		<npc id="21069" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Prefect -->
+		<npc id="21070" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Archangel -->
+	</spawn>
+	<!-- aden28_2318_14 -->
+	<spawn zone="aden28_2318_14m1">
+		<npc id="20831" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Angel -->
+		<npc id="21069" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Prefect -->
+		<npc id="21070" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Seal Archangel -->
+	</spawn>
+	<!-- aden29_2318_02 -->
+	<spawn zone="aden29_2318_02m1">
+		<npc id="21066" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21067" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Guardian Archangel -->
+		<npc id="21072" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Chief -->
+	</spawn>
+	<!-- aden29_2318_04 -->
+	<spawn zone="aden29_2318_04m1">
+		<npc id="21066" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21067" count="2" respawnDelay="250" respawnRandom="80" /> <!-- Guardian Archangel -->
+		<npc id="21072" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Chief -->
+	</spawn>
+	<!-- aden29_2318_05 -->
+	<spawn zone="aden29_2318_05m1">
+		<npc id="21066" count="2" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21067" count="2" respawnDelay="250" respawnRandom="80" /> <!-- Guardian Archangel -->
+		<npc id="21072" count="2" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Chief -->
+	</spawn>
+	<!-- aden29_2318_06 -->
+	<spawn zone="aden29_2318_06m1">
+		<npc id="21066" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21067" count="2" respawnDelay="250" respawnRandom="80" /> <!-- Guardian Archangel -->
+		<npc id="21072" count="1" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Chief -->
+	</spawn>
+	<!-- aden29_2318_07 -->
+	<spawn zone="aden29_2318_07m1">
+		<npc id="21066" count="2" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21067" count="2" respawnDelay="250" respawnRandom="80" /> <!-- Guardian Archangel -->
+		<npc id="21072" count="2" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Chief -->
+	</spawn>
+	<!-- aden29_2318_08 -->
+	<spawn zone="aden29_2318_08m1">
+		<npc id="21066" count="2" respawnDelay="250" respawnRandom="80" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21067" count="3" respawnDelay="250" respawnRandom="80" /> <!-- Guardian Archangel -->
+		<npc id="21072" count="2" respawnDelay="320" respawnRandom="120" /> <!-- Platinum Guardian Chief -->
+	</spawn>
+	<!-- aden29_2318_p02 -->
+	<spawn zone="aden29_2318_p02m1">
+		<npc id="21081" count="1" respawnDelay="300" respawnRandom="80" /> <!-- Power Angel Amon -->
+	</spawn>
+	<!-- aden29_2318_p09 -->
+	<spawn zone="aden29_2318_p09m1">
+		<npc id="21081" count="1" respawnDelay="300" respawnRandom="80" /> <!-- Power Angel Amon -->
+	</spawn>
+	<!-- aden30_2318_01 -->
+	<spawn zone="aden30_2318_01m1">
+		<npc id="21066" count="1" respawnDelay="300" respawnRandom="90" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21067" count="2" respawnDelay="300" respawnRandom="90" /> <!-- Guardian Archangel -->
+		<npc id="21072" count="2" respawnDelay="300" respawnRandom="90" /> <!-- Platinum Guardian Chief -->
+	</spawn>
+	<!-- aden30_2318_02 -->
+	<spawn zone="aden30_2318_02m1">
+		<npc id="21066" count="1" respawnDelay="300" respawnRandom="90" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21067" count="2" respawnDelay="300" respawnRandom="90" /> <!-- Guardian Archangel -->
+	</spawn>
+	<!-- aden30_2318_03 -->
+	<spawn zone="aden30_2318_03m1">
+		<npc id="21066" count="1" respawnDelay="300" respawnRandom="90" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21072" count="1" respawnDelay="300" respawnRandom="90" /> <!-- Platinum Guardian Chief -->
+	</spawn>
+	<!-- aden30_2318_04 -->
+	<spawn zone="aden30_2318_04m1">
+		<npc id="21067" count="2" respawnDelay="300" respawnRandom="90" /> <!-- Guardian Archangel -->
+		<npc id="21072" count="1" respawnDelay="300" respawnRandom="90" /> <!-- Platinum Guardian Chief -->
+	</spawn>
+	<!-- aden30_2318_05 -->
+	<spawn zone="aden30_2318_05m1">
+		<npc id="21066" count="1" respawnDelay="300" respawnRandom="90" /> <!-- Platinum Guardian Shaman -->
+		<npc id="21067" count="1" respawnDelay="300" respawnRandom="90" /> <!-- Guardian Archangel -->
+	</spawn>
+	<!-- aden08_mb2318_14 -->
+	<spawn zone="aden08_mb2318_14">
+		<npc id="21797" count="20" respawnDelay="80" respawnRandom="10" /> <!-- Spirit of Timiniel -->
+	</spawn>
+	<!-- aden33_tb2318_01 -->
+	<spawn zone="aden33_tb01_m1">
+		<npc id="18278" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden34_tb2318_01 -->
+	<spawn zone="aden34_tb01_m1">
+		<npc id="18278" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden35_tb2318_01 -->
+	<spawn zone="aden35_tb01_m1">
+		<npc id="18279" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden36_tb2318_01 -->
+	<spawn zone="aden36_tb01_m1">
+		<npc id="18279" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden37_tb2318_01 -->
+	<spawn zone="aden37_tb01_m1">
+		<npc id="18280" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden38_tb2318_01 -->
+	<spawn zone="aden38_tb01_m1">
+		<npc id="18280" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden39_tb2318_01 -->
+	<spawn zone="aden39_tb01_m1">
+		<npc id="18281" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden40_tb2318_02 -->
+	<spawn zone="aden40_tb02_m1">
+		<npc id="18281" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden41_tb2318_01 -->
+	<spawn zone="aden41_tb01_m1">
+		<npc id="18282" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden28_tb2318_01 -->
+	<spawn zone="aden28_tb01_m1">
+		<npc id="18282" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden29_tb2318_02 -->
+	<spawn zone="aden29_tb02_m1">
+		<npc id="18283" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden30_tb2318_01 -->
+	<spawn zone="aden30_tb01_m1">
+		<npc id="18283" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

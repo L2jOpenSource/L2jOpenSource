@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/JavaBuffer.xsd">
+	<buffs id="1" name="Magic Barrier" category="PROPHET" buff_id="1036" buff_level="2" custom_level="0" description="Increases M. Def. by 30%"/>
+	<buffs id="2" name="Shield" category="PROPHET" buff_id="1040" buff_level="3" custom_level="0" description="Increases P. Def. by 15%"/>
+	<buffs id="3" name="Holy Weapon" category="PROPHET" buff_id="1043" buff_level="1" custom_level="0" description="Increases divine P. Atk. by 20"/>
+	<buffs id="4" name="Regeneration" category="PROPHET" buff_id="1044" buff_level="3" custom_level="0" description="Increases HP Regeneration by 20%"/>
+	<buffs id="5" name="Bless the Body" category="PROPHET" buff_id="1045" buff_level="6" custom_level="0" description="Increases Max HP by 35%"/>
+	<buffs id="6" name="Bless the Soul" category="PROPHET" buff_id="1048" buff_level="6" custom_level="0" description="Increases Max MP by 35%"/>
+	<buffs id="7" name="CounterCritical" category="PROPHET" buff_id="1542" buff_level="1" custom_level="0" description="Increases P. Def. against criticals"/>
+	<buffs id="8" name="Might" category="PROPHET" buff_id="1068" buff_level="3" custom_level="0" description="Increases P. Atk. by 15%"/>
+	<buffs id="9" name="Focus" category="PROPHET" buff_id="1077" buff_level="3" custom_level="0" description="Increases critical rate by 30%"/>
+	<buffs id="10" name="Acumen" category="PROPHET" buff_id="1085" buff_level="3" custom_level="0" description="Increases Casting Spd. by 30%"/>
+	<buffs id="11" name="Haste" category="PROPHET" buff_id="1086" buff_level="2" custom_level="0" description="Increases Atk. Spd. by 33%"/>
+	<buffs id="12" name="Wind Walk" category="PROPHET" buff_id="1204" buff_level="2" custom_level="0" description="Increases movement speed by 20"/>
+	<buffs id="13" name="Guidance" category="PROPHET" buff_id="1240" buff_level="3" custom_level="0" description="Increases accuracy by 4"/>
+	<buffs id="14" name="Death Whisper" category="PROPHET" buff_id="1242" buff_level="3" custom_level="0" description="Increases critical power by 35%"/>
+	<buffs id="15" name="Bless Shield" category="PROPHET" buff_id="1243" buff_level="6" custom_level="0" description="Increases shield def. rate by 15%"/>
+	<buffs id="16" name="Greater Might" category="PROPHET" buff_id="1388" buff_level="3" custom_level="0" description="Increases P. Atk. by 10%"/>
+	<buffs id="17" name="Greater Shield" category="PROPHET" buff_id="1389" buff_level="3" custom_level="0" description="Increases P. Def. by 15%"/>
+	<buffs id="18" name="Improved Combat" category="PROPHET" buff_id="1499" buff_level="1" custom_level="0" description="Increases P. Att. and P.Def. by 15%"/>
+	<buffs id="19" name="Improved Condition" category="PROPHET" buff_id="1501" buff_level="1" custom_level="0" description="Increases Max HP and MP by 35%"/>
+	<buffs id="20" name="Berserker Spirit" category="PROPHET" buff_id="1062" buff_level="2" custom_level="0" description="A powerful spirit acts"/>
+	<buffs id="21" name="Prophecy of Fire" category="PROPHET" buff_id="1356" buff_level="1" custom_level="315" description="A powerful spirit acts"/>
+	<buffs id="22" name="Invigor" category="PROPHET" buff_id="1032" buff_level="3" custom_level="0" description="Increases resistance to bleed by 50%"/>
+	<buffs id="23" name="Resist Poison" category="PROPHET" buff_id="1033" buff_level="3" custom_level="330" description="Increases resist to poison by 50%"/>
+	<buffs id="24" name="Mental Shield" category="PROPHET" buff_id="1035" buff_level="4" custom_level="0" description="Increases resist to hold/sleep"/>
+	<buffs id="25" name="Concentration" category="PROPHET" buff_id="1078" buff_level="6" custom_level="0" description="Decrases magic cancel dmg. by 53"/>
+	<buffs id="26" name="ResistAqua" category="PROPHET" buff_id="1182" buff_level="3" custom_level="330" description="Increases resistance to water by 20"/>
+	<buffs id="27" name="Resist Aqua" category="PROPHET" buff_id="1189" buff_level="3" custom_level="330" description="Increases resistance to wind by 20"/>
+	<buffs id="28" name="Resist Fire" category="PROPHET" buff_id="1191" buff_level="3" custom_level="330" description="Increases resistance to fire by 20"/>
+	<buffs id="29" name="Elemental Protection" category="PROPHET" buff_id="1352" buff_level="1" custom_level="0" description="Resist to fire/water/wind/earth"/>
+	<buffs id="30" name="Holy Resistance" category="PROPHET" buff_id="1392" buff_level="3" custom_level="130" description="Increases resistance to divine by 30"/>
+	<buffs id="31" name="Unholy Resistance" category="PROPHET" buff_id="1393" buff_level="3" custom_level="130" description="Increases resistance to dark by 30"/>
+	<buffs id="32" name="Earth Resistance" category="PROPHET" buff_id="1548" buff_level="3" custom_level="330" description="Increases resistance to earth by 30"/>
+	<buffs id="33" name="Empower" category="ELDER" buff_id="1059" buff_level="3" custom_level="0" description="Increases M. Atk. by 75%"/>
+	<buffs id="34" name="Agility" category="ELDER" buff_id="1087" buff_level="3" custom_level="0" description="Increases evasion by 4"/>
+	<buffs id="35" name="Vampiric Rage" category="ELDER" buff_id="1268" buff_level="4" custom_level="0" description="Drain 9% enemy HP by hit"/>
+	<buffs id="36" name="Wild Magic" category="ELDER" buff_id="1303" buff_level="2" custom_level="0" description="Increases magic dmg rate by 2"/>
+	<buffs id="37" name="Advance Block" category="ELDER" buff_id="1304" buff_level="3" custom_level="0" description="Increases shield defence by 50%"/>
+	<buffs id="38" name="Clarity" category="ELDER" buff_id="1397" buff_level="3" custom_level="0" description="Decreases MP consumption"/>
+	<buffs id="39" name="Mana Gain" category="ELDER" buff_id="1460" buff_level="1" custom_level="0" description="Increases recharge power by 85"/>
+	<buffs id="40" name="Improved Magic" category="ELDER" buff_id="1500" buff_level="1" custom_level="0" description="Increases M. Att. and M. Def."/>
+	<buffs id="41" name="Improved Critical Attack" category="ELDER" buff_id="1502" buff_level="1" custom_level="0" description="Increases critical rate and dmg"/>
+	<buffs id="42" name="Improved Shield Defence" category="ELDER" buff_id="1503" buff_level="1" custom_level="0" description="Increases shield defence"/>
+	<buffs id="43" name="Improved Movement" category="ELDER" buff_id="1504" buff_level="1" custom_level="0" description="Increases speed and evasion"/>
+	<buffs id="44" name="Prophecy of Water" category="ELDER" buff_id="1355" buff_level="1" custom_level="315" description="A powerful spirit acts"/>
+	<buffs id="45" name="Prophecy of Wind" category="ELDER" buff_id="1357" buff_level="1" custom_level="315" description="A powerful spirit acts"/>
+	<buffs id="46" name="Resist Shock" category="ELDER" buff_id="1259" buff_level="4" custom_level="330" description="Increases resistance to stun by 20"/>
+	<buffs id="47" name="Divine Protection" category="ELDER" buff_id="1353" buff_level="1" custom_level="0" description="Increases resistance to divine by 30"/>
+	<buffs id="48" name="Arcane Protection" category="ELDER" buff_id="1354" buff_level="1" custom_level="0" description="Increases resist to cancel by 30"/>
+	<buffs id="49" name="Song of Earth" category="SONG" buff_id="264" buff_level="1" custom_level="0" description="Increases the P. Def. by 25%"/>
+	<buffs id="50" name="Song of Life" category="SONG" buff_id="265" buff_level="1" custom_level="0" description="Increases HP Regeneration by 20%"/>
+	<buffs id="51" name="Song of Water" category="SONG" buff_id="266" buff_level="1" custom_level="0" description="Increases evasion by 3"/>
+	<buffs id="52" name="Song of Warding" category="SONG" buff_id="267" buff_level="1" custom_level="0" description="Increases M. Def. by 30%"/>
+	<buffs id="53" name="Song of Wind" category="SONG" buff_id="268" buff_level="1" custom_level="0" description="Increases movement speed by 20"/>
+	<buffs id="54" name="Song of Hunter" category="SONG" buff_id="269" buff_level="1" custom_level="0" description="Increases critical rate by 100%"/>
+	<buffs id="55" name="Song of Invocation" category="SONG" buff_id="270" buff_level="1" custom_level="0" description="Increases resistance to dark by 20"/>
+	<buffs id="56" name="Song of Vitality" category="SONG" buff_id="304" buff_level="1" custom_level="0" description="Increases Max HP by 30%"/>
+	<buffs id="57" name="Song of Vengeance" category="SONG" buff_id="305" buff_level="1" custom_level="0" description="Abillity to transfer 20% dmg back"/>
+	<buffs id="58" name="Song of Flame Guard" category="SONG" buff_id="306" buff_level="1" custom_level="0" description="Increases resistance to fire by 30"/>
+	<buffs id="59" name="Song of Storm Guard" category="SONG" buff_id="308" buff_level="1" custom_level="0" description="Increases resistance to wind by 30"/>
+	<buffs id="60" name="Song of Renewa" category="SONG" buff_id="349" buff_level="1" custom_level="0" description="Decreases re-use time by 20%"/>
+	<buffs id="61" name="Song of Meditation" category="SONG" buff_id="363" buff_level="1" custom_level="0" description="Increases MP Regeneration by 20%"/>
+	<buffs id="62" name="Song of Champion" category="SONG" buff_id="364" buff_level="1" custom_level="0" description="Increases physical re-use by 10%"/>
+	<buffs id="63" name="Song of Elemental" category="SONG" buff_id="529" buff_level="1" custom_level="0" description="Resistance to fire/water/wind/earth"/>
+	<buffs id="64" name="Song of Purification" category="SONG" buff_id="914" buff_level="1" custom_level="0" description="Resistance to de-buff attacks by 80%"/>
+	<buffs id="65" name="Dance of Warrior" category="DANCE" buff_id="271" buff_level="1" custom_level="0" description="Increases the P. Atk. by 12%"/>
+	<buffs id="66" name="Dance of Inspiration" category="DANCE" buff_id="272" buff_level="1" custom_level="0" description="Increases the accuracy by 4"/>
+	<buffs id="67" name="Dance of the Mystic" category="DANCE" buff_id="273" buff_level="1" custom_level="0" description="Increases the M. Atk. by 20%"/>
+	<buffs id="68" name="Dance of Fire" category="DANCE" buff_id="274" buff_level="1" custom_level="0" description="Increases the critical by 35%"/>
+	<buffs id="69" name="Dance of Fury" category="DANCE" buff_id="275" buff_level="1" custom_level="0" description="Increases the Atk. Spd. by 15%"/>
+	<buffs id="70" name="Dance of Concentration" category="DANCE" buff_id="276" buff_level="1" custom_level="0" description="Increases the Cast. Spd. by 30%"/>
+	<buffs id="71" name="Dance of Light" category="DANCE" buff_id="277" buff_level="1" custom_level="0" description="Increases divine P. Atk. by 20"/>
+	<buffs id="72" name="Dance of Aqua Guard" category="DANCE" buff_id="307" buff_level="1" custom_level="0" description="Icreases resist to water by 30"/>
+	<buffs id="73" name="Dance of Earth Guard" category="DANCE" buff_id="309" buff_level="1" custom_level="0" description="Increases resist to earth by 30"/>
+	<buffs id="74" name="Dance of Vampire" category="DANCE" buff_id="310" buff_level="1" custom_level="0" description="Drain 8% enemy HP by hit"/>
+	<buffs id="75" name="Dance of Protection" category="DANCE" buff_id="311" buff_level="1" custom_level="0" description="Increases resist to cancel by 30"/>
+	<buffs id="76" name="Dance of Siren" category="DANCE" buff_id="365" buff_level="1" custom_level="0" description="Increases magic critical rate"/>
+	<buffs id="77" name="Dance of Shadows" category="DANCE" buff_id="366" buff_level="1" custom_level="0" description="Prevents from being attacked"/>
+	<buffs id="78" name="Dance of Alignment" category="DANCE" buff_id="530" buff_level="1" custom_level="0" description="Increases resist to dark/divine by 30"/>
+	<buffs id="79" name="Dance of Berserker" category="DANCE" buff_id="915" buff_level="1" custom_level="0" description="A powerfull spirit acts"/>
+	<buffs id="80" name="Chant of Protection" category="CHANT" buff_id="1461" buff_level="1" custom_level="0" description="Decreases critical dmg received"/>
+	<buffs id="81" name="Flame Chant" category="CHANT" buff_id="1002" buff_level="3" custom_level="0" description="Increases Casting Spd. by 30%"/>
+	<buffs id="82" name="Chant of Fire" category="CHANT" buff_id="1006" buff_level="3" custom_level="0" description="Increases M. Def. by 30%"/>
+	<buffs id="83" name="Chant of Battle" category="CHANT" buff_id="1007" buff_level="3" custom_level="0" description="Increases P. Atk. by 15%"/>
+	<buffs id="84" name="Chant of Shielding" category="CHANT" buff_id="1009" buff_level="3" custom_level="0" description="Increases P. Def. by 15%"/>
+	<buffs id="85" name="Chant of Fury" category="CHANT" buff_id="1251" buff_level="2" custom_level="0" description="Increases Atk. Spd. by 33%"/>
+	<buffs id="86" name="Chant of Evasion" category="CHANT" buff_id="1252" buff_level="3" custom_level="0" description="Increases evasion by 4"/>
+	<buffs id="87" name="Chant of Rage" category="CHANT" buff_id="1253" buff_level="3" custom_level="0" description="Increases critical power by 35%"/>
+	<buffs id="88" name="Chant of Revange" category="CHANT" buff_id="1284" buff_level="3" custom_level="0" description="Transfer 20% received damage"/>
+	<buffs id="89" name="Chant of Predator" category="CHANT" buff_id="1308" buff_level="3" custom_level="0" description="Increases critical rate by 30%"/>
+	<buffs id="90" name="Chant of Eagle" category="CHANT" buff_id="1309" buff_level="3" custom_level="0" description="Increases accuracy by 4"/>
+	<buffs id="91" name="Chant of Vampire" category="CHANT" buff_id="1310" buff_level="4" custom_level="0" description="Drain 9% enemy HP by hit"/>
+	<buffs id="92" name="Chant of Spirit" category="CHANT" buff_id="1362" buff_level="1" custom_level="0" description="Resist to cancel/de-buffs by 20/30"/>
+	<buffs id="93" name="Chant of Blood Awakening" category="CHANT" buff_id="1519" buff_level="1" custom_level="0" description="Increases Atk.Spd 33% and drain 9%"/>
+	<buffs id="94" name="Chant of Victory" category="CHANT" buff_id="1363" buff_level="1" custom_level="315" description="A powerful spirit acts"/>
+	<buffs id="95" name="Magnus' Chant" category="CHANT" buff_id="1413" buff_level="1" custom_level="0" description="A powerful spirit acts"/>
+	<buffs id="96" name="Chant of Elements" category="CHANT" buff_id="1549" buff_level="1" custom_level="0" description="Increases Attribute Resistance by 20"/>
+	<buffs id="97" name="Chant of Berserker" category="CHANT" buff_id="1562" buff_level="2" custom_level="0" description="A powerful spirit acts"/>
+	<buffs id="98" name="Chant of Movement" category="CHANT" buff_id="1535" buff_level="1" custom_level="0" description="Increases Speed and Evasion"/>
+	<buffs id="99" name="Earth Chant" category="CHANT" buff_id="1391" buff_level="3" custom_level="0" description="Increases P. Def. by 15%"/>
+	<buffs id="100" name="War Chant" category="CHANT" buff_id="1390" buff_level="3" custom_level="0" description="Increases P. Atk. by 10%"/>
+	<buffs id="101" name="Sharp Edge" category="DWARF" buff_id="825" buff_level="1" custom_level="0" description="Increases P. Atk. and critical rate"/>
+	<buffs id="102" name="Spike" category="DWARF" buff_id="826" buff_level="1" custom_level="0" description="Increases P. Atk. and shock weight"/>
+	<buffs id="103" name="Restring" category="DWARF" buff_id="827" buff_level="1" custom_level="0" description="Increases P. Atk. and shoot range"/>
+	<buffs id="104" name="Case Harden" category="DWARF" buff_id="828" buff_level="1" custom_level="0" description="Increases P. Def. by 10%"/>
+	<buffs id="105" name="Hard Training" category="DWARF" buff_id="829" buff_level="1" custom_level="0" description="Increases P. Def. and evasion"/>
+	<buffs id="106" name="Embroider" category="DWARF" buff_id="830" buff_level="1" custom_level="0" description="Increases P. Def. and MP recov.rate"/>
+	<buffs id="107" name="Blessing of Queen" category="MISC" buff_id="4699" buff_level="13" custom_level="0" description="Increases crit. rate and power"/>
+	<buffs id="108" name="Gift of Queen" category="MISC" buff_id="4700" buff_level="13" custom_level="0" description="Increases P. Atk. and accuracy"/>
+	<buffs id="109" name="Blessing of Seraphim" category="MISC" buff_id="4702" buff_level="13" custom_level="0" description="Increases MP regeneration"/>
+	<buffs id="110" name="Gift of Seraphim" category="MISC" buff_id="4703" buff_level="13" custom_level="0" description="Reduces magic skill recovery time"/>
+	<buffs id="111" name="Prayer" category="MISC" buff_id="1307" buff_level="3" custom_level="0" description="Increases HP Recovery magic by 12%"/>
+	<buffs id="112" name="Body of Avatar" category="MISC" buff_id="1311" buff_level="6" custom_level="0" description="Increases Max Hp by 35%"/>
+	<buffs id="113" name="Blazing Skin" category="MISC" buff_id="1232" buff_level="3" custom_level="330" description="Transfer 20% of receive damage"/>
+	<buffs id="114" name="Freezing Skin" category="MISC" buff_id="1238" buff_level="3" custom_level="330" description="Transfer 20% of receive damage"/>
+	<buffs id="115" name="Noblesse Blessing" category="MISC" buff_id="1323" buff_level="1" custom_level="0" description="The blessing of noblesse"/>
+	<buffs id="116"	name="Combat Aura" category="MISC" buff_id="982" buff_level="3" custom_level="0" description="Increases P. Atk. and Atk. Spd by 5%"/>
+	<buffs id="117" name="Pa'agrian Gift" category="OVERLORD" buff_id="1003" buff_level="3" custom_level="0" description="Increases P. Atk. by 15%"/>
+	<buffs id="118" name="The Wisdom of Pa'agrio" category="OVERLORD" buff_id="1004" buff_level="3" custom_level="0" description="Increases Cast. Spd. by 30%"/>
+	<buffs id="119" name="Blessings of Pa'agrio" category="OVERLORD" buff_id="1005" buff_level="3" custom_level="0" description="Increases P. Def. by 15%"/>
+	<buffs id="120" name="The Glory of Pa'agrio" category="OVERLORD" buff_id="1008" buff_level="3" custom_level="0" description="Increases M. Def. by 30%"/>
+	<buffs id="121" name="The Vision of Pa'agrio" category="OVERLORD" buff_id="1249" buff_level="3" custom_level="0" description="Increases accuracy by 4"/>
+	<buffs id="122" name="Shield of Pa'agrio" category="OVERLORD" buff_id="1250" buff_level="3" custom_level="0" description="Increases shield def. rate by 50%"/>
+	<buffs id="123" name="The Tact of Pa'agrio" category="OVERLORD" buff_id="1260" buff_level="3" custom_level="0" description="Increases evasion by 4"/>
+	<buffs id="124" name="Rage of Pa'agrio" category="OVERLORD" buff_id="1261" buff_level="2" custom_level="0" description="A powerful spirit acts"/>
+	<buffs id="125" name="Pa'agrian Haste" category="OVERLORD" buff_id="1282" buff_level="2" custom_level="0" description="Increases movement speed by 20"/>
+	<buffs id="126" name="Eye of Pa'agrio" category="OVERLORD" buff_id="1364" buff_level="1" custom_level="0" description="Increases accuracy by 4"/>
+	<buffs id="127" name="Soul of Pa'agrio" category="OVERLORD" buff_id="1365" buff_level="1" custom_level="0" description="Increases M. Atk. by 75%"/>
+	<buffs id="128" name="Pa'agrio's Emblem" category="OVERLORD" buff_id="1415" buff_level="1" custom_level="0" description="Increases resist to cancel by 30%"/>
+	<buffs id="129" name="Pa'agrio's Fist" category="OVERLORD" buff_id="1416" buff_level="1" custom_level="115" description="Increases Max CP by 800"/>
+	<buffs id="130" name="Victory of Pa'agrio" category="OVERLORD" buff_id="1414" buff_level="1" custom_level="0" description="A powerful spirit acts"/>
+	<buffs id="131" name="Combat of Pa'agrio" category="OVERLORD" buff_id="1536" buff_level="1" custom_level="0" description="Increases P. Att. and P. Def. by 15%"/>
+	<buffs id="132" name="Critical of Pa'agrio" category="OVERLORD" buff_id="1537" buff_level="1" custom_level="0" description="Increases Critical Rate and Damage"/>
+	<buffs id="133" name="Condition of Pa'agrio" category="OVERLORD" buff_id="1538" buff_level="1" custom_level="0" description="Increases Max HP and MP by 35%"/>
+</list>

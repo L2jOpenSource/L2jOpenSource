@@ -1,0 +1,4 @@
+INSERT INTO `npc` VALUES
+(32892,32871,'Dragon Vortex',0,'',0,'LineageNPC.collision_dummy_dragon',120,50,80,'male','L2Npc',40,2444,2444,0,0,10,10,10,10,10,10,0,0,500,500,500,500,278,1,333,0,0,0,60,160,0,1), -- custom dravon valley npc
+(32893,32871,'Dragon Vortex',0,'',0,'LineageNPC.collision_dummy_dragon',120,50,80,'male','L2Npc',40,2444,2444,0,0,10,10,10,10,10,10,0,0,500,500,500,500,278,1,333,0,0,0,60,160,0,1), -- custom dravon valley npc
+(32894,32871,'Dragon Vortex',0,'',0,'LineageNPC.collision_dummy_dragon',120,50,80,'male','L2Npc',40,2444,2444,0,0,10,10,10,10,10,10,0,0,500,500,500,500,278,1,333,0,0,0,60,160,0,1); -- custom dravon valley npc

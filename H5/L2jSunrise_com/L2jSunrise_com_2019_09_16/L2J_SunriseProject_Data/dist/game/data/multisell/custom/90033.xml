@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Dynasty Earrings -->
+	<item>
+		<ingredient id="40002" count="55" />
+		<production id="9455" count="1" />
+	</item>
+
+	<!-- Dynasty Earrings -->
+	<item>
+		<ingredient id="40002" count="55" />
+		<production id="9458" count="1" />
+	</item>
+
+	<!-- Dynasty Earrings -->
+	<item>
+		<ingredient id="40002" count="55" />
+		<production id="9461" count="1" />
+	</item>
+
+	<!-- Dynasty Earrings -->
+	<item>
+		<ingredient id="40002" count="55" />
+		<production id="9464" count="1" />
+	</item>
+
+	<!-- Dynasty Earrings -->
+	<item>
+		<ingredient id="40002" count="55" />
+		<production id="9467" count="1" />
+	</item>
+
+	<!-- Dynasty Earrings -->
+	<item>
+		<ingredient id="40002" count="55" />
+		<production id="9470" count="1" />
+	</item>
+
+	<!-- Dynasty Earrings -->
+	<item>
+		<ingredient id="40002" count="55" />
+		<production id="9473" count="1" />
+	</item>
+
+	<!-- Dynasty Earrings -->
+	<item>
+		<ingredient id="40002" count="55" />
+		<production id="9476" count="1" />
+	</item>
+
+	<!-- Dynasty Earrings -->
+	<item>
+		<ingredient id="40002" count="55" />
+		<production id="9479" count="1" />
+	</item>
+
+	<!-- Dynasty Ring -->
+	<item>
+		<ingredient id="40002" count="45" />
+		<production id="9460" count="1" />
+	</item>
+
+	<!-- Dynasty Ring -->
+	<item>
+		<ingredient id="40002" count="45" />
+		<production id="9463" count="1" />
+	</item>
+
+	<!-- Dynasty Ring -->
+	<item>
+		<ingredient id="40002" count="45" />
+		<production id="9466" count="1" />
+	</item>
+
+	<!-- Dynasty Ring -->
+	<item>
+		<ingredient id="40002" count="45" />
+		<production id="9469" count="1" />
+	</item>
+
+	<!-- Dynasty Ring -->
+	<item>
+		<ingredient id="40002" count="45" />
+		<production id="9472" count="1" />
+	</item>
+
+	<!-- Dynasty Ring -->
+	<item>
+		<ingredient id="40002" count="45" />
+		<production id="9475" count="1" />
+	</item>
+
+	<!-- Dynasty Ring -->
+	<item>
+		<ingredient id="40002" count="45" />
+		<production id="9478" count="1" />
+	</item>
+
+	<!-- Dynasty Ring -->
+	<item>
+		<ingredient id="40002" count="45" />
+		<production id="9481" count="1" />
+	</item>
+
+	<!-- Dynasty Ring -->
+	<item>
+		<ingredient id="40002" count="45" />
+		<production id="9457" count="1" />
+	</item>
+
+	<!-- Dynasty Necklace -->
+	<item>
+		<ingredient id="40002" count="65" />
+		<production id="9459" count="1" />
+	</item>
+
+	<!-- Dynasty Necklace -->
+	<item>
+		<ingredient id="40002" count="65" />
+		<production id="9462" count="1" />
+	</item>
+
+	<!-- Dynasty Necklace -->
+	<item>
+		<ingredient id="40002" count="65" />
+		<production id="9456" count="1" />
+	</item>
+
+
+	<!-- Moirai Necklace -->
+	<item>
+		<ingredient id="40002" count="65" />
+		<production id="15725" count="1" />
+	</item>
+
+	<!-- Moirai Earring -->
+	<item>
+		<ingredient id="40002" count="55" />
+		<production id="15724" count="1" />
+	</item>
+
+	<!-- Moirai Ring -->
+	<item>
+		<ingredient id="40002" count="45" />
+		<production id="15723" count="1" />
+	</item>
+</list>

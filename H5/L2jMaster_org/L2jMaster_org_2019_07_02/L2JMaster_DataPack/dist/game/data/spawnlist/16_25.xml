@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio31_npc1625_001 -->
+	<spawn name="gludio_npc1625_00101">
+		<npc id="30667" x="-112206" y="244303" z="-3450" heading="16384" respawnDelay="60" /> <!-- Ramus -->
+	</spawn>
+	<!-- gludio31_npc1625_002 -->
+	<spawn name="gludio_npc1625_00201">
+		<npc id="30635" x="-118618" y="233239" z="-2910" heading="32768" respawnDelay="60" /> <!-- Almors -->
+	</spawn>
+	<!-- gludio31_npc1625_003 -->
+	<spawn name="gludio_npc1625_00301">
+		<npc id="30408" x="-106485" y="233377" z="-3629" heading="12288" respawnDelay="60" /> <!-- Lionel -->
+	</spawn>
+	<!-- gludio31_npc1625_004 -->
+	<spawn name="gludio_npc1625_00401">
+		<npc id="30311" x="-100332" y="238019" z="-3573" heading="36864" respawnDelay="60" /> <!-- Sir Collin Windawood -->
+	</spawn>
+	<!-- gludio29_npc_1625_010 -->
+	<spawn name="gludio_npc1625_01001">
+		<npc id="30427" x="-113490" y="235526" z="-3646" heading="57800" respawnDelay="60" /> <!-- Siff -->
+	</spawn>
+	<!-- gludio29_npc_1625_010 -->
+	<spawn name="gludio_npc1625_01001">
+		<npc id="30429" x="49328" y="248416" z="-5952" heading="24576" respawnDelay="60" /> <!-- Tiramisa -->
+	</spawn>
+	<!-- gludio28_npc1625_bow01 -->
+	<spawn name="gludio_npc1625_bow01m1">
+		<npc id="30733" x="100536" y="237822" z="-3572" heading="24576" respawnDelay="60" /> <!-- Guard -->
+		<npc id="30733" x="99843" y="237523" z="-3568" heading="0" respawnDelay="60" /> <!-- Guard -->
+	</spawn>
+	<!-- gludio31_1625_01 -->
+	<spawn zone="gludio31_1625_01m1">
+		<npc id="20326" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Goblin Scout -->
+		<npc id="20093" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Orc Fighter -->
+		<npc id="20096" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Orc Lieutenant -->
+	</spawn>
+	<!-- gludio31_1625_02 -->
+	<spawn zone="gludio31_1625_02m1">
+		<npc id="20093" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Orc Fighter -->
+		<npc id="20096" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Orc Lieutenant -->
+		<npc id="20098" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Orc Fighter Leader -->
+	</spawn>
+	<!-- gludio31_1625_03 -->
+	<spawn zone="gludio31_1625_03m1">
+		<npc id="20006" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Orc Archer -->
+		<npc id="20132" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf -->
+		<npc id="20093" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Orc Fighter -->
+	</spawn>
+	<!-- gludio31_1625_04 -->
+	<spawn zone="gludio31_1625_04m1">
+		<npc id="20093" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Orc Fighter -->
+		<npc id="20096" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Orc Lieutenant -->
+	</spawn>
+	<!-- gludio31_1625_05 -->
+	<spawn zone="gludio31_1625_05m1">
+		<npc id="20096" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Orc Lieutenant -->
+		<npc id="20098" count="5" respawnDelay="20" respawnRandom="0" /> <!-- Orc Fighter Leader -->
+	</spawn>
+	<!-- gludio31_1625_06 -->
+	<spawn zone="gludio31_1625_06m1">
+		<npc id="20096" count="5" respawnDelay="20" respawnRandom="0" /> <!-- Orc Lieutenant -->
+		<npc id="20098" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Orc Fighter Leader -->
+	</spawn>
+	<!-- gludio31_1625_07 -->
+	<spawn zone="gludio31_1625_07m1">
+		<npc id="20326" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Goblin Scout -->
+		<npc id="20132" count="5" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf -->
+		<npc id="20343" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Hunter -->
+	</spawn>
+	<!-- gludio31_1625_08 -->
+	<spawn zone="gludio31_1625_08m1">
+		<npc id="20132" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf -->
+		<npc id="20343" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Hunter -->
+		<npc id="20342" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Chieftain -->
+	</spawn>
+	<!-- gludio31_1625_09 -->
+	<spawn zone="gludio31_1625_09m1">
+		<npc id="20132" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf -->
+	</spawn>
+	<!-- gludio31_1625_10 -->
+	<spawn zone="gludio31_1625_10m1">
+		<npc id="20343" count="5" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Hunter -->
+		<npc id="20342" count="5" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Chieftain -->
+	</spawn>
+	<!-- gludio31_1625_11 -->
+	<spawn zone="gludio31_1625_11m1">
+		<npc id="20343" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Hunter -->
+		<npc id="20342" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Chieftain -->
+		<npc id="20016" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Stone Golem -->
+	</spawn>
+	<!-- gludio31_1625_12 -->
+	<spawn zone="gludio31_1625_12m1">
+		<npc id="20343" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Hunter -->
+		<npc id="20342" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Chieftain -->
+		<npc id="20016" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Stone Golem -->
+	</spawn>
+	<!-- gludio31_1625_13 -->
+	<spawn zone="gludio31_1625_13m1">
+		<npc id="20342" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Werewolf Chieftain -->
+		<npc id="20016" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Stone Golem -->
+	</spawn>
+	<!-- gludio31_1625_14 -->
+	<spawn zone="gludio31_1625_14m1">
+		<npc id="20106" count="4" respawnDelay="20" respawnRandom="0" /> <!-- Talon Spider -->
+		<npc id="20108" count="6" respawnDelay="20" respawnRandom="0" /> <!-- Blade Spider -->
+	</spawn>
+	<!-- gludio31_1625_15 -->
+	<spawn zone="gludio31_1625_15m1">
+		<npc id="20101" count="5" respawnDelay="20" respawnRandom="0" /> <!-- Crasher -->
+		<npc id="20106" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Talon Spider -->
+		<npc id="20108" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Blade Spider -->
+	</spawn>
+	<!-- gludio31_1625_16 -->
+	<spawn zone="gludio31_1625_16m1">
+		<npc id="20106" count="5" respawnDelay="20" respawnRandom="0" /> <!-- Talon Spider -->
+		<npc id="20108" count="5" respawnDelay="20" respawnRandom="0" /> <!-- Blade Spider -->
+	</spawn>
+	<!-- gludio31_1625_17 -->
+	<spawn zone="gludio31_1625_17m1">
+		<npc id="20101" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Crasher -->
+		<npc id="20106" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Talon Spider -->
+		<npc id="20108" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Blade Spider -->
+	</spawn>
+	<!-- gludio31_1625_18 -->
+	<spawn zone="gludio31_1625_18m1">
+		<npc id="20103" count="2" respawnDelay="20" respawnRandom="0" /> <!-- Giant Spider -->
+		<npc id="20106" count="3" respawnDelay="20" respawnRandom="0" /> <!-- Talon Spider -->
+	</spawn>
+	<!-- gludio01_qm1625_01 -->
+	<spawn zone="gludio01_qm1625_01m1">
+		<npc id="27003" count="1" respawnDelay="180" respawnRandom="0" /> <!-- Spirit of Mirrors (frog) -->
+	</spawn>
+	<!-- gludio01_qm1625_02 -->
+	<spawn zone="gludio01_qm1625_02m1">
+		<npc id="27005" count="1" respawnDelay="180" respawnRandom="0" /> <!-- Spirit of Mirrors (wolf) -->
+	</spawn>
+	<!-- gludio01_qm1625_03 -->
+	<spawn zone="gludio01_qm1625_03m1">
+		<npc id="27004" count="1" respawnDelay="180" respawnRandom="0" /> <!-- Spirit of Mirrors (orc) -->
+	</spawn>
+</list>

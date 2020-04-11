@@ -1,0 +1,2 @@
+ALTER TABLE `custom_npc_buffer` CHANGE COLUMN `npc_id` `npc_id` INT(10) NOT NULL FIRST;
+ALTER TABLE `custom_spawnlist` CHANGE COLUMN `npc_templateid` `npc_templateid` INT UNSIGNED NOT NULL DEFAULT '0' AFTER `count`;

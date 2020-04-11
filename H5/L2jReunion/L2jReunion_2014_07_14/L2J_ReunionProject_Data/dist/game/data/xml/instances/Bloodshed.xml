@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Bloodshed" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
+	<activityTime val="25" />
+	<allowSummon val="false" />
+	<emptyDestroyTime val="30" />
+	<doorlist>
+		<door doorId="12240001" />
+		<door doorId="12240002" />
+	</doorlist>
+	<spawnlist>
+		<group name="general">
+			<spawn npcId="40003" x="-238685" y="220544" z="-10135" heading="49277" respawn="0" />
+			<spawn npcId="40004" x="-238685" y="219424" z="-10135" heading="16337" respawn="0" />
+			<spawn npcId="40005" x="-240449" y="219983" z="-10144" heading="65268" respawn="0" />
+		</group>
+	</spawnlist>
+</instance>

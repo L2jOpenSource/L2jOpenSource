@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Adena -->
+	<item>
+		<ingredient id="3481" count="1" />
+		<production id="57" count="50000000" />
+	</item>
+
+	<!-- Gold Bar -->
+	<item>
+		<ingredient id="57" count="500000000" />
+		<production id="3481" count="1" />
+	</item>
+
+
+</list>

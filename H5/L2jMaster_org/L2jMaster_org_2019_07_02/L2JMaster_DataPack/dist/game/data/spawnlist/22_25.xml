@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- innadrill05_2225_01 -->
+	<spawn zone="innadrill05_01w">
+		<npc id="20849" count="3" respawnDelay="94" /> <!-- Light Worm -->
+	</spawn>
+	<!-- innadrill05_2225_02 -->
+	<spawn zone="innadrill05_02w">
+		<npc id="20849" count="1" respawnDelay="94" /> <!-- Light Worm -->
+		<npc id="20314" count="2" respawnDelay="94" /> <!-- Great White Shark -->
+	</spawn>
+	<!-- innadrill05_2225_03 -->
+	<spawn zone="innadrill05_03">
+		<npc id="20793" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Nos -->
+	</spawn>
+	<!-- innadrill05_2225_04 -->
+	<spawn zone="innadrill05_04">
+		<npc id="20794" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+	</spawn>
+	<!-- innadrill05_2225_05 -->
+	<spawn zone="innadrill05_05">
+		<npc id="20793" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Nos -->
+	</spawn>
+	<!-- innadrill05_2225_06 -->
+	<spawn zone="innadrill05_06">
+		<npc id="20794" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+	</spawn>
+	<!-- innadrill05_2225_07 -->
+	<spawn zone="innadrill05_07">
+		<npc id="20793" x="87614" y="247555" z="-8816" heading="3624" respawnDelay="94" respawnRandom="30" /> <!-- Nos -->
+		<npc id="20793" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Nos -->
+		<npc id="20794" x="85271" y="245759" z="-8816" heading="44036" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20794" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+	</spawn>
+	<!-- innadrill05_2225_08 -->
+	<spawn zone="innadrill05_08">
+		<npc id="20793" x="89304" y="251382" z="-8816" heading="4452" respawnDelay="94" respawnRandom="30" /> <!-- Nos -->
+		<npc id="20793" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Nos -->
+		<npc id="20794" x="88413" y="248643" z="-8816" heading="21432" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20794" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20795" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Worker -->
+		<npc id="20796" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+	</spawn>
+	<!-- innadrill05_2225_09 -->
+	<spawn zone="innadrill05_09">
+		<npc id="20794" x="88262" y="255699" z="-8816" heading="14224" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20794" x="89314" y="252605" z="-8816" heading="-4452" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20795" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Worker -->
+		<npc id="20796" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+	</spawn>
+	<!-- innadrill05_2225_10 -->
+	<spawn zone="innadrill05_10">
+		<npc id="20794" x="84929" y="258539" z="-8816" heading="-29032" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20794" x="87765" y="256394" z="-8816" heading="-4452" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+	</spawn>
+	<!-- innadrill05_2225_11 -->
+	<spawn zone="innadrill05_11">
+		<npc id="20849" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Light Worm -->
+	</spawn>
+	<!-- innadrill05_2225_12 -->
+	<spawn zone="innadrill05_12">
+		<npc id="20794" x="77685" y="256580" z="-8816" heading="-29032" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20794" x="79407" y="257818" z="-8816" heading="-29032" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20795" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Worker -->
+		<npc id="20796" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+	</spawn>
+	<!-- innadrill05_2225_13 -->
+	<spawn zone="innadrill05_13">
+		<npc id="20794" x="75854" y="252561" z="-8816" heading="13576" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20794" x="76807" y="255374" z="-8816" heading="-29032" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20795" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Worker -->
+		<npc id="20796" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+	</spawn>
+	<!-- innadrill05_2225_14 -->
+	<spawn zone="innadrill05_14">
+		<npc id="20793" x="76833" y="248412" z="-8816" heading="13576" respawnDelay="94" respawnRandom="30" /> <!-- Nos -->
+		<npc id="20793" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Nos -->
+		<npc id="20794" x="75910" y="251361" z="-8816" heading="13576" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20794" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+	</spawn>
+	<!-- innadrill05_2225_15 -->
+	<spawn zone="innadrill05_15">
+		<npc id="20793" x="78831" y="246914" z="-8816" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Nos -->
+		<npc id="20793" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Nos -->
+		<npc id="20794" x="77368" y="247715" z="-8816" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20794" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato -->
+		<npc id="20796" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+	</spawn>
+	<!-- innadrill05_2225_16 -->
+	<spawn zone="innadrill05_16">
+		<npc id="20796" x="82730" y="246396" z="-9328" heading="-14780" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20796" x="84245" y="246215" z="-9328" heading="-29548" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20797" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20798" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+	</spawn>
+	<!-- innadrill05_2225_18 -->
+	<spawn zone="innadrill05_18">
+		<npc id="20796" x="84800" y="246504" z="-9328" heading="-29548" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20796" x="86891" y="247954" z="-9328" heading="-29548" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20797" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20798" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+	</spawn>
+	<!-- innadrill05_2225_19 -->
+	<spawn zone="innadrill05_19">
+		<npc id="20796" x="88139" y="250291" z="-9328" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20796" x="88551" y="251596" z="-9328" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20797" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20798" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+	</spawn>
+	<!-- innadrill05_2225_20 -->
+	<spawn zone="innadrill05_20">
+		<npc id="20796" x="88527" y="252525" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20797" x="87697" y="255057" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20797" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20798" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+	</spawn>
+	<!-- innadrill05_2225_21 -->
+	<spawn zone="innadrill05_21">
+		<npc id="20796" x="87174" y="255856" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20796" x="84908" y="257498" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20797" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20798" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+	</spawn>
+	<!-- innadrill05_2225_22 -->
+	<spawn zone="innadrill05_22">
+		<npc id="20796" x="83914" y="257741" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20797" x="81425" y="257716" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20797" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20798" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+	</spawn>
+	<!-- innadrill05_2225_23-->
+	<spawn zone="innadrill05_23">
+		<npc id="20796" x="79427" y="256504" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20796" x="77925" y="255745" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20797" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20798" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+	</spawn>
+	<!-- innadrill05_2225_24 -->
+	<spawn zone="innadrill05_24">
+		<npc id="20796" x="77577" y="254829" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20797" x="77025" y="252737" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20797" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20798" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+	</spawn>
+	<!-- innadrill05_2225_25 -->
+	<spawn zone="innadrill05_25">
+		<npc id="20796" x="76740" y="251732" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20796" x="77636" y="249320" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20797" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20798" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+	</spawn>
+	<!-- innadrill05_2225_26 -->
+	<spawn zone="innadrill05_26">
+		<npc id="20796" x="78153" y="248249" z="-9328" heading="-6076" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20796" x="80197" y="246759" z="-9328" heading="-29548" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Warrior -->
+		<npc id="20797" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Blade Stakato Drone -->
+		<npc id="20798" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20799" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+	</spawn>
+	<!-- innadrill05_2225_27 -->
+	<spawn zone="innadrill05_27">
+		<npc id="20798" x="79980" y="248153" z="-9840" heading="-22600" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20798" x="78789" y="248640" z="-9840" heading="15232" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20800" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+	</spawn>
+	<!-- innadrill05_2225_28 -->
+	<spawn zone="innadrill05_28">
+		<npc id="20798" x="82736" y="247214" z="-9840" heading="225524" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20798" x="81547" y="246962" z="-9840" heading="225524" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20799" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20800" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+	</spawn>
+	<!-- innadrill05_2225_29 -->
+	<spawn zone="innadrill05_29">
+		<npc id="20798" x="85515" y="248149" z="-9840" heading="183844" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20798" x="84550" y="247053" z="-9840" heading="209060" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20799" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20800" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+	</spawn>
+	<!-- innadrill05_2225_30 -->
+	<spawn zone="innadrill05_30">
+		<npc id="20798" x="87790" y="251528" z="-9840" heading="177284" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20798" x="87123" y="249676" z="-9840" heading="183844" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20799" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20800" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+	</spawn>
+	<!-- innadrill05_2225_31 -->
+	<spawn zone="innadrill05_31">
+		<npc id="20798" x="87227" y="253482" z="-9840" heading="177284" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20798" x="87955" y="252311" z="-9840" heading="177284" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20799" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20800" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+	</spawn>
+	<!-- innadrill05_2225_32 -->
+	<spawn zone="innadrill05_32">
+		<npc id="20798" x="84914" y="256645" z="-9840" heading="209548" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20798" x="86430" y="255345" z="-9840" heading="209548" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20799" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20800" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+	</spawn>
+	<!-- innadrill05_2225_33 -->
+	<spawn zone="innadrill05_33">
+		<npc id="20798" x="82524" y="256720" z="-9840" heading="209548" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20799" x="84085" y="256778" z="-9840" heading="209548" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20799" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20800" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+	</spawn>
+	<!-- innadrill05_2225_34 -->
+	<spawn zone="innadrill05_34">
+		<npc id="20798" x="79116" y="255225" z="-9840" heading="148008" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20799" x="80589" y="256629" z="-9840" heading="148008" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20799" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20800" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+	</spawn>
+	<!-- innadrill05_2225_35 -->
+	<spawn zone="innadrill05_35">
+		<npc id="20798" x="78231" y="253507" z="-9840" heading="94952" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20799" x="78378" y="254843" z="-9840" heading="113596" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20799" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20800" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+	</spawn>
+	<!-- innadrill05_2225_36 -->
+	<spawn zone="innadrill05_36">
+		<npc id="20798" x="77985" y="250562" z="-9840" heading="15232" respawnDelay="94" respawnRandom="30" /> <!-- Water Giant -->
+		<npc id="20799" x="77594" y="251689" z="-9840" heading="44904" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20799" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Queen Undine Lad -->
+		<npc id="20800" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+	</spawn>
+	<!-- innadrill05_2225_37 -->
+	<spawn zone="innadrill05_37">
+		<npc id="20800" x="79178" y="250328" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20800" x="78576" y="251501" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20801" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+	</spawn>
+	<!-- innadrill05_2225_38 -->
+	<spawn zone="innadrill05_38">
+		<npc id="20800" x="81286" y="248039" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20800" x="79669" y="249385" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20801" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+	</spawn>
+	<!-- innadrill05_2225_39 -->
+	<spawn zone="innadrill05_39">
+		<npc id="20800" x="83823" y="247824" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20800" x="82332" y="248089" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20801" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+	</spawn>
+	<!-- innadrill05_2225_40 -->
+	<spawn zone="innadrill05_40">
+		<npc id="20800" x="85699" y="249307" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20800" x="84329" y="248338" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20801" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+	</spawn>
+	<!-- innadrill05_2225_41 -->
+	<spawn zone="innadrill05_41">
+		<npc id="20800" x="87037" y="251712" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20800" x="86336" y="250472" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20801" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+	</spawn>
+	<!-- innadrill05_2225_42 -->
+	<spawn zone="innadrill05_42">
+		<npc id="20800" x="86373" y="254151" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20801" x="86681" y="252426" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20801" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+	</spawn>
+	<!-- innadrill05_2225_43 -->
+	<spawn zone="innadrill05_43">
+		<npc id="20800" x="84605" y="255799" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20801" x="85425" y="254873" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20801" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+	</spawn>
+	<!-- innadrill05_2225_44 -->
+	<spawn zone="innadrill05_44">
+		<npc id="20800" x="82054" y="256115" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20801" x="83174" y="255876" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20801" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+	</spawn>
+	<!-- innadrill05_2225_45 -->
+	<spawn zone="innadrill05_45">
+		<npc id="20800" x="79675" y="254618" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20801" x="80633" y="255284" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20801" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+	</spawn>
+	<!-- innadrill05_2225_46 -->
+	<spawn zone="innadrill05_46">
+		<npc id="20800" x="78801" y="252643" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Eva's Seeker -->
+		<npc id="20801" x="79202" y="254304" z="-10352" heading="0" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20801" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+	</spawn>
+	<!-- innadrill05_2225_47 -->
+	<spawn zone="innadrill05_47">
+		<npc id="20801" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+		<npc id="20803" count="3" respawnDelay="94" respawnRandom="30" /> <!-- Doll Master -->
+		<npc id="20994" count="1" respawnDelay="110" respawnRandom="30" /> <!-- Garden Guard Leader -->
+	</spawn>
+	<!-- innadrill05_2225_48 -->
+	<spawn zone="innadrill05_48">
+		<npc id="20801" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+		<npc id="20803" count="3" respawnDelay="94" respawnRandom="30" /> <!-- Doll Master -->
+		<npc id="20994" count="1" respawnDelay="110" respawnRandom="30" /> <!-- Garden Guard Leader -->
+	</spawn>
+	<!-- innadrill05_2225_49 -->
+	<spawn zone="innadrill05_49">
+		<npc id="20802" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+		<npc id="20803" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Doll Master -->
+		<npc id="20994" count="2" respawnDelay="110" respawnRandom="30" /> <!-- Garden Guard Leader -->
+	</spawn>
+	<!-- innadrill05_2225_50 -->
+	<spawn zone="innadrill05_50">
+		<npc id="20801" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Piker -->
+		<npc id="20802" count="3" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+		<npc id="20803" count="3" respawnDelay="94" respawnRandom="30" /> <!-- Doll Master -->
+		<npc id="20994" count="1" respawnDelay="110" respawnRandom="30" /> <!-- Garden Guard Leader -->
+	</spawn>
+	<!-- innadrill05_2225_51 -->
+	<spawn zone="innadrill05_51">
+		<npc id="20803" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Doll Master -->
+		<npc id="20994" count="2" respawnDelay="110" respawnRandom="30" /> <!-- Garden Guard Leader -->
+	</spawn>
+	<!-- innadrill05_2225_52 -->
+	<spawn zone="innadrill05_52">
+		<npc id="20802" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+		<npc id="20803" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Doll Master -->
+		<npc id="20994" count="2" respawnDelay="110" respawnRandom="30" /> <!-- Garden Guard Leader -->
+	</spawn>
+	<!-- innadrill05_2225_53 -->
+	<spawn zone="innadrill05_53">
+		<npc id="20803" count="2" respawnDelay="94" respawnRandom="30" /> <!-- Doll Master -->
+		<npc id="20994" count="2" respawnDelay="110" respawnRandom="30" /> <!-- Garden Guard Leader -->
+	</spawn>
+	<!-- innadrill05_2225_54 -->
+	<spawn zone="innadrill05_54">
+		<npc id="20802" count="3" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+		<npc id="20803" count="4" respawnDelay="94" respawnRandom="30" /> <!-- Doll Master -->
+		<npc id="20994" count="1" respawnDelay="110" respawnRandom="30" /> <!-- Garden Guard Leader -->
+	</spawn>
+	<!-- innadrill05_2225_55 -->
+	<spawn zone="innadrill05_55">
+		<npc id="20802" count="4" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+		<npc id="20803" count="3" respawnDelay="94" respawnRandom="30" /> <!-- Doll Master -->
+		<npc id="20994" count="1" respawnDelay="110" respawnRandom="30" /> <!-- Garden Guard Leader -->
+	</spawn>
+	<!-- innadrill05_2225_56 -->
+	<spawn zone="innadrill05_56">
+		<npc id="20802" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Theeder Mage -->
+		<npc id="20803" count="1" respawnDelay="94" respawnRandom="30" /> <!-- Doll Master -->
+		<npc id="20994" count="2" respawnDelay="110" respawnRandom="30" /> <!-- Garden Guard Leader -->
+	</spawn>
+	<!-- innadrill05_tb2225_11 -->
+	<spawn zone="innadrill05_tb11_m1">
+		<npc id="18272" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- innadrill05_tb2225_37 -->
+	<spawn zone="innadrill05_tb37_m1">
+		<npc id="18273" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- innadrill05_tb2225_47 -->
+	<spawn zone="innadrill05_tb47_m1">
+		<npc id="18274" count="2" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

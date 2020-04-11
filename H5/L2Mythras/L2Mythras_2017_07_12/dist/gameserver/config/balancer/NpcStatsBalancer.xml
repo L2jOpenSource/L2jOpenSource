@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- For better results put on formulas the alt settings to 1.0 Example: NpcMaxHpModifier = 1.0 -->
+<!-- The fValue working for add stats and pValue is for multiply stats -->
+<!-- Example maxHp 10 1.1 result = 10*1.1 => result = 11 -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/monsterstatbalance.xsd">
+    <npc id="14918"> <!-- Gremlin Only for test :D -->
+		<stat name="pAtk" fValue="1" pValue="1" />
+        <stat name="maxHp" fValue="1" pValue="0.75" />
+		<stat name="runSpd" fValue="1" pValue="0.95" />
+    </npc>
+</list>

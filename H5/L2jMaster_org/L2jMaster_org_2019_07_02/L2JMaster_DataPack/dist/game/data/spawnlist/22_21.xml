@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- giran03_npc2221_01 -->
+	<spawn zone="giran03_npc2221_0101">
+		<npc id="30754" x="73211" y="118492" z="-3693" heading="40960" respawnDelay="60" /> <!-- Gilmore -->
+	</spawn>
+	<!-- giran06_npc2221_02 -->
+	<spawn zone="giran06_npc2221_0201">
+		<npc id="30630" x="69976" y="109692" z="-3702" heading="0" respawnDelay="60" /> <!-- Orim -->
+	</spawn>
+	<!-- giran06_npc2221_03 -->
+	<spawn zone="giran16_npc2221_0301">
+		<npc id="30615" x="80100" y="119991" z="-2264" heading="19000" respawnDelay="60" /> <!-- Voltar -->
+	</spawn>
+	<!-- giran06_npc2221_04 -->
+	<spawn zone="giran06_npc2221_0401">
+		<npc id="30557" x="70932" y="124558" z="-3560" heading="32768" respawnDelay="60" /> <!-- Torai -->
+	</spawn>
+	<!-- giran06_npc2221_05 -->
+	<spawn zone="dion03_npc2121_0201">
+		<npc id="30751" x="62008" y="107589" z="-1893" heading="0" respawnDelay="60" /> <!-- Suzet -->
+	</spawn>
+	<!-- giran06_npc2221_06 -->
+	<spawn zone="giran03_npc2221_06m1">
+		<npc id="30761" x="64819" y="115911" z="-3632" heading="0" respawnDelay="60" /> <!-- Corpse Of Fritz -->
+	</spawn>
+	<!-- giran06_npc2221_07 -->
+	<spawn zone="giran03_npc2221_07m1">
+		<npc id="30762" x="65205" y="109495" z="-3664" heading="0" respawnDelay="60" /> <!-- Corpse Of Lutz -->
+	</spawn>
+	<!-- giran06_npc2221_08 -->
+	<spawn zone="giran03_npc2221_08m1">
+		<npc id="30763" x="64113" y="103060" z="-3544" heading="0" respawnDelay="60" /> <!-- Corpse Of Kurtz -->
+	</spawn>
+	<!-- luckpy_80_2221_02 -->
+	<spawn zone="luckpy_luckpy_80_2221_001m1">
+		<npc id="2501" count="6" respawnDelay="20400" respawnRandom="18000" randRate="51" /> <!-- Lucky Pig -->
+	</spawn>
+	<!-- giran03_2221_02 -->
+	<spawn zone="giran03_2221_02m1">
+		<npc id="22815" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Drakos -->
+		<npc id="22858" count="2" respawnDelay="80" respawnRandom="20" /> <!-- Necromancer of the Valley -->
+	</spawn>
+	<!-- giran03_2221_03 -->
+	<spawn zone="giran03_2221_03m1">
+		<npc id="22815" count="2" respawnDelay="80" respawnRandom="20" /> <!-- Drakos -->
+		<npc id="22858" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Necromancer of the Valley -->
+	</spawn>
+	<!-- giran03_2221_04 -->
+	<spawn zone="giran03_2221_04m1">
+		<npc id="22815" count="2" respawnDelay="80" respawnRandom="20" /> <!-- Drakos -->
+		<npc id="22858" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Necromancer of the Valley -->
+	</spawn>
+	<!-- giran03_2221_05 -->
+	<spawn zone="giran03_2221_05m1">
+		<npc id="22815" count="7" respawnDelay="36" respawnRandom="20" /> <!-- Drakos -->
+		<npc id="22858" count="6" respawnDelay="36" respawnRandom="20" /> <!-- Necromancer of the Valley -->
+	</spawn>
+	<!-- giran03_2221_05_1 -->
+	<spawn zone="giran03_2221_05_1m1">
+		<npc id="22815" count="4" respawnDelay="36" respawnRandom="20" /> <!-- Drakos -->
+		<npc id="22858" count="4" respawnDelay="60" /> <!-- Necromancer of the Valley -->
+	</spawn>
+	<!-- giran03_2221_05_2 -->
+	<spawn zone="giran03_2221_05_2m1">
+		<npc id="22858" count="3" respawnDelay="36" respawnRandom="20" /> <!-- Drakos -->
+		<npc id="22815" count="3" respawnDelay="60" /> <!-- Necromancer of the Valley -->
+	</spawn>
+	<!-- giran03_2221_05_3 -->
+	<spawn zone="giran03_2221_05_3m1">
+		<npc id="22815" count="1" respawnDelay="60" /> <!-- Necromancer of the Valley -->
+		<npc id="22858" count="1" respawnDelay="36" respawnRandom="20" /> <!-- Drakos -->
+	</spawn>
+	<!-- giran03_2221_06 -->
+	<spawn zone="giran03_2221_06m1">
+		<npc id="22815" count="1" respawnDelay="36" /> <!-- Necromancer of the Valley -->
+		<npc id="22858" count="1" respawnDelay="36" respawnRandom="20" /> <!-- Drakos -->
+	</spawn>
+	<!-- giran03_2221_08 -->
+	<spawn zone="giran03_2221_08m1">
+		<npc id="22815" count="6" respawnDelay="36" respawnRandom="20" /> <!-- Drakos -->
+		<npc id="22858" count="7" respawnDelay="36" /> <!-- Necromancer of the Valley -->
+	</spawn>
+	<!-- giran03_2221_19_raid -->
+	<spawn zone="giran03_2221_19_raidm1">
+		<npc id="32871" x="92225" y="113873" z="-3062" heading="0" respawnDelay="60" /> <!-- Dragon Vortex -->
+	</spawn>
+	<!-- giran03_2221_21 -->
+	<spawn zone="giran03_2221_21m1">
+		<npc id="22815" count="8" respawnDelay="60" /> <!-- Drakos -->
+	</spawn>
+	<!-- giran03_2221_22 -->
+	<spawn zone="giran03_2221_22m1">
+		<npc id="22815" count="8" respawnDelay="36" respawnRandom="20" /> <!-- Drakos -->
+	</spawn>
+	<!-- giran03_2221_23 -->
+	<spawn zone="giran03_2221_23m1">
+		<npc id="22815" count="8" respawnDelay="60" /> <!-- Drakos -->
+	</spawn>
+	<!-- giran03_2221_26 -->
+	<spawn zone="giran03_2221_26m1">
+		<npc id="22815" count="2" respawnDelay="80" /> <!-- Necromancer of the Valley -->
+		<npc id="22858" count="1" respawnDelay="80" /> <!-- Drakos -->
+	</spawn>
+	<!-- giran03_2221_25 -->
+	<spawn zone="giran03_2221_25m1">
+		<npc id="22815" count="4" respawnDelay="60" /> <!-- Drakos -->
+	</spawn>
+	<!-- giran03_2221_27 -->
+	<spawn zone="giran03_2221_27m1">
+		<npc id="22815" count="8" respawnDelay="36" respawnRandom="20" /> <!-- Necromancer of the Valley -->
+	</spawn>
+	<!-- giran03_2221_28 -->
+	<spawn zone="giran03_2221_28m1">
+		<npc id="22815" count="9" respawnDelay="36" respawnRandom="20" /> <!-- Necromancer of the Valley -->
+	</spawn>
+	<!-- giran03_2221_29 -->
+	<spawn zone="giran03_2221_29m1">
+		<npc id="22815" count="8" respawnDelay="36" respawnRandom="20" /> <!-- Necromancer of the Valley -->
+	</spawn>
+	<!-- giran03_2221_30 -->
+	<spawn zone="giran03_2221_30m1">
+		<npc id="22815" count="8" respawnDelay="36" respawnRandom="20" /> <!-- Necromancer of the Valley -->
+	</spawn>
+	<!-- giran03_2221_44 -->
+	<spawn zone="giran03_2221_44m1">
+		<npc id="22815" count="9" respawnDelay="36" respawnRandom="20" /> <!-- Drakos -->
+	</spawn>
+	<!-- giran03_2221_45 -->
+	<spawn zone="giran03_2221_45m1">
+		<npc id="22815" count="9" respawnDelay="36" respawnRandom="20" /> <!-- Drakos -->
+	</spawn>
+	<!-- giran03_2221_46 -->
+	<spawn zone="giran03_2221_46m1">
+		<npc id="22830" count="7" respawnDelay="60" respawnRandom="20" /> <!-- Gem Dragon -->
+	</spawn>
+	<!-- giran03_2221_p05 -->
+	<spawn zone="giran03_2221_p05m1">
+		<npc id="22820" x="83436" y="119240" z="-2984" respawnDelay="180" respawnRandom="20" /> <!-- Mesmer Drake -->
+	</spawn>
+	<!-- giran03_2221_p08 -->
+	<spawn zone="giran03_2221_p08m1">
+		<npc id="22859" x="88316" y="120508" z="-3056" respawnDelay="240" respawnRandom="20" /> <!-- Howl -->
+	</spawn>
+	<!-- giran03_2221_p09_1 -->
+	<spawn zone="giran03_2221_p09_1m1">
+		<npc id="22860" count="5" respawnDelay="60" respawnRandom="20" /> <!-- Hungry Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2221_p09 -->
+	<spawn zone="giran03_2221_p09m1">
+		<npc id="22860" count="7" respawnDelay="60" respawnRandom="20" /> <!-- Hungry Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2221_p15 -->
+	<spawn zone="giran03_2221_p15m1">
+		<npc id="22829" count="2" respawnDelay="120" respawnRandom="20" /> <!-- Emerald Drake -->
+	</spawn>
+	<!-- giran03_2221_p19 -->
+	<spawn zone="giran03_2221_p19m1">
+		<npc id="22829" x="92960" y="111983" z="-2937" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Emerald Drake -->
+		<npc id="22829" x="91810" y="111843" z="-2918" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Emerald Drake -->
+		<npc id="22829" x="91046" y="112735" z="-3016" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Emerald Drake -->
+		<npc id="22829" x="93836" y="112387" z="-2969" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Emerald Drake -->
+		<npc id="22829" x="93888" y="113232" z="-3048" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Emerald Drake -->
+		<npc id="22829" x="92642" y="115669" z="-3163" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Emerald Drake -->
+		<npc id="22829" x="93884" y="114411" z="-3079" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Emerald Drake -->
+		<npc id="22829" x="90816" y="113896" z="-2980" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Emerald Drake -->
+	</spawn>
+	<!-- giran03_2221_p20 -->
+	<spawn zone="giran03_2221_p20m1">
+		<npc id="22860" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Hungry Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2221_p21 -->
+	<spawn zone="giran03_2221_p21m1">
+		<npc id="22859" x="88268" y="112044" z="-3272" heading="0" respawnDelay="240" respawnRandom="20" /> <!-- Howl -->
+	</spawn>
+	<!-- giran03_2221_p25 -->
+	<spawn zone="giran03_2221_p25m1">
+		<npc id="22820" x="81661" y="114385" z="-3320" respawnDelay="240" respawnRandom="20" /> <!-- Mesmer Drake -->
+	</spawn>
+	<!-- giran03_2221_p33 -->
+	<spawn zone="giran03_2221_p33m1">
+		<npc id="22830" count="9" respawnDelay="180" respawnRandom="20" /> <!-- Gem Dragon -->
+	</spawn>
+	<!-- giran03_2221_p34 -->
+	<spawn zone="giran03_2221_p34m1">
+		<npc id="22830" count="9" respawnDelay="180" respawnRandom="20" /> <!-- Gem Dragon -->
+	</spawn>
+	<!-- giran03_2221_p37 -->
+	<spawn zone="giran03_2221_p37m1">
+		<npc id="22829" count="1" respawnDelay="120" respawnRandom="20" /> <!-- Emerald Drake -->
+	</spawn>
+	<!-- giran03_2221_p38 -->
+	<spawn zone="giran03_2221_p38m1">
+		<npc id="22829" count="1" respawnDelay="120" respawnRandom="20" /> <!-- Emerald Drake -->
+	</spawn>
+	<!-- giran03_2221_p44 -->
+	<spawn zone="giran03_2221_p44m1">
+		<npc id="22859" x="80892" y="109452" z="-3056" respawnDelay="240" respawnRandom="20" /> <!-- Howl -->
+	</spawn>
+	<!-- giran03_2221_p46 -->
+	<spawn zone="giran03_2221_p46m1">
+		<npc id="22820" x="86716" y="108236" z="-3120" respawnDelay="240" respawnRandom="20" /> <!-- Mesmer Drake -->
+	</spawn>
+	<!-- giran03_2221_p47 -->
+	<spawn zone="giran03_2221_p47m1">
+		<npc id="22830" x="88932" y="107336" z="-3104" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" count="2" x="88932" y="107336" z="-3104" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" x="89764" y="105740" z="-3216" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" count="2" x="89764" y="105740" z="-3216" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" x="88784" y="105920" z="-3136" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" count="2" x="88784" y="105920" z="-3136" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" x="88016" y="106512" z="-3160" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" count="2" x="88016" y="106512" z="-3160" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" x="89832" y="107584" z="-3068" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" count="2" x="89832" y="107584" z="-3068" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" x="88144" y="108304" z="-3056" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" count="2" x="88144" y="108304" z="-3056" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" x="89008" y="108336" z="-3024" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" count="2" x="89008" y="108336" z="-3024" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" x="90208" y="108160" z="-3036" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" count="2" x="90208" y="108160" z="-3036" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" count="3" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22830" count="2" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22834" x="88040" y="106648" z="-3168" heading="0" respawnDelay="120" respawnRandom="20" /> <!-- Dust Dragon Tracker -->
+	</spawn>
+	<!-- giran03_2221_p48 -->
+	<spawn zone="giran03_2221_p48m1">
+		<npc id="22830" count="9" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+	</spawn>
+	<!-- giran03_2221_p49 -->
+	<spawn zone="giran03_2221_p49m1">
+		<npc id="22830" count="3" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+	</spawn>
+	<!-- giran03_2221_p50 -->
+	<spawn zone="giran03_2221_p50m1">
+		<npc id="22830" count="3" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+		<npc id="22834" x="94092" y="107564" z="-3024" heading="0" respawnDelay="240" respawnRandom="20" /> <!-- Dust Dragon Tracker -->
+	</spawn>
+	<!-- giran03_2221_p51-->
+	<spawn zone="giran03_2221_p51m1">
+		<npc id="22830" count="3" respawnDelay="120" respawnRandom="20" /> <!-- Gem Dragon -->
+	</spawn>
+	<!-- giran06_2221_drake -->
+	<spawn zone="giran06_2221_drakem2">
+		<npc id="20137" count="4" respawnDelay="36" /> <!-- Drake -->
+		<npc id="20243" count="4" respawnDelay="36" /> <!-- Thunder Wyrm -->
+	</spawn>
+	<!-- giran06_2221_drake2 -->
+	<spawn zone="giran06_2221_drake2m4">
+		<npc id="20137" count="5" respawnDelay="36" /> <!-- Drake -->
+		<npc id="20243" count="4" respawnDelay="36" /> <!-- Thunder Wyrm -->
+	</spawn>
+	<!-- giran06_2221_drake3 -->
+	<spawn zone="giran06_2221_drake3m5">
+		<npc id="20137" count="3" respawnDelay="36" /> <!-- Drake -->
+		<npc id="20243" count="4" respawnDelay="36" /> <!-- Thunder Wyrm -->
+	</spawn>
+	<!-- giran06_2221_01 -->
+	<spawn zone="giran06_2221_01m1">
+		<npc id="20176" count="1" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="1" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="2" respawnDelay="22" /> <!-- Road Scavenger -->
+		<npc id="20137" count="3" respawnDelay="36" /> <!-- Drake -->
+		<npc id="20243" count="3" respawnDelay="36" /> <!-- Thunder Wyrm -->
+	</spawn>
+	<!-- giran06_2221_03 -->
+	<spawn zone="giran06_2221_03m1">
+		<npc id="20176" count="1" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="1" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="1" respawnDelay="22" /> <!-- Road Scavenger -->
+	</spawn>
+	<!-- giran06_2221_04 -->
+	<spawn zone="giran06_2221_04m1">
+		<npc id="20176" count="1" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="1" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="2" respawnDelay="22" /> <!-- Road Scavenger -->
+	</spawn>
+	<!-- giran06_2221_05 -->
+	<spawn zone="giran06_2221_05m1">
+		<npc id="20176" count="1" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="2" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="1" respawnDelay="22" /> <!-- Road Scavenger -->
+	</spawn>
+	<!-- giran06_2221_06 -->
+	<spawn zone="giran06_2221_06m1">
+		<npc id="20176" count="1" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="1" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="1" respawnDelay="22" /> <!-- Road Scavenger -->
+	</spawn>
+	<!-- giran06_2221_07 -->
+	<spawn zone="giran06_2221_07m1">
+		<npc id="20176" count="1" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="2" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="1" respawnDelay="22" /> <!-- Road Scavenger -->
+		<npc id="20137" count="3" respawnDelay="36" /> <!-- Drake -->
+		<npc id="20243" count="3" respawnDelay="36" /> <!-- Thunder Wyrm -->
+	</spawn>
+	<!-- giran06_2221_08 -->
+	<spawn zone="giran06_2221_08m1">
+		<npc id="20176" count="1" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="1" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="1" respawnDelay="22" /> <!-- Road Scavenger -->
+	</spawn>
+	<!-- giran06_2221_09 -->
+	<spawn zone="giran06_2221_09m1">
+		<npc id="20176" count="3" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="2" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="3" respawnDelay="22" /> <!-- Road Scavenger -->
+	</spawn>
+	<!-- giran06_2221_10 -->
+	<spawn zone="giran06_2221_10m1">
+		<npc id="20176" count="2" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="3" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="3" respawnDelay="22" /> <!-- Road Scavenger -->
+	</spawn>
+	<!-- giran06_2221_11 -->
+	<spawn zone="giran06_2221_11m1">
+		<npc id="20176" count="3" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="3" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="2" respawnDelay="22" /> <!-- Road Scavenger -->
+	</spawn>
+	<!-- giran06_2221_12 -->
+	<spawn zone="giran06_2221_12m1">
+		<npc id="20176" count="1" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="2" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="1" respawnDelay="22" /> <!-- Road Scavenger -->
+	</spawn>
+	<!-- giran06_2221_13 -->
+	<spawn zone="giran06_2221_13m1">
+		<npc id="20176" count="1" respawnDelay="22" /> <!-- Wyrm -->
+		<npc id="20550" count="1" respawnDelay="22" /> <!-- Guardian Basilisk -->
+		<npc id="20551" count="1" respawnDelay="22" /> <!-- Road Scavenger -->
+	</spawn>
+	<!-- giran06_2221_14 -->
+	<spawn zone="giran06_2221_14m1">
+		<npc id="20552" count="2" respawnDelay="22" /> <!-- Fettered Soul -->
+		<npc id="20553" count="1" respawnDelay="22" /> <!-- Windsus -->
+		<npc id="20554" count="2" respawnDelay="22" /> <!-- Grandis -->
+	</spawn>
+	<!-- giran06_2221_15 -->
+	<spawn zone="giran06_2221_15m1">
+		<npc id="20552" count="3" respawnDelay="22" /> <!-- Fettered Soul -->
+		<npc id="20553" count="3" respawnDelay="22" /> <!-- Windsus -->
+		<npc id="20554" count="4" respawnDelay="22" /> <!-- Grandis -->
+	</spawn>
+	<!-- giran06_2221_16 -->
+	<spawn zone="giran06_2221_16m1">
+		<npc id="20552" count="2" respawnDelay="22" /> <!-- Fettered Soul -->
+		<npc id="20553" count="2" respawnDelay="22" /> <!-- Windsus -->
+		<npc id="20554" count="2" respawnDelay="22" /> <!-- Grandis -->
+	</spawn>
+	<!-- giran06_2221_17 -->
+	<spawn zone="giran06_2221_17m1">
+		<npc id="20244" count="3" respawnDelay="22" /> <!-- Maluk Succubus -->
+		<npc id="20245" count="3" respawnDelay="22" /> <!-- Maluk Succubus Turen -->
+		<npc id="20553" count="3" respawnDelay="22" /> <!-- Windsus -->
+		<npc id="20552" count="3" respawnDelay="22" /> <!-- Fettered Soul -->
+		<npc id="20554" count="4" respawnDelay="22" /> <!-- Grandis -->
+	</spawn>
+	<!-- giran06_2221_18 -->
+	<spawn zone="giran06_2221_18m1">
+		<npc id="20552" count="4" respawnDelay="22" /> <!-- Fettered Soul -->
+		<npc id="20553" count="4" respawnDelay="22" /> <!-- Windsus -->
+		<npc id="20554" count="4" respawnDelay="22" /> <!-- Grandis -->
+	</spawn>
+	<!-- giran06_2221_19 -->
+	<spawn zone="giran06_2221_19m1">
+		<npc id="20552" count="2" respawnDelay="22" /> <!-- Fettered Soul -->
+		<npc id="20553" count="2" respawnDelay="22" /> <!-- Windsus -->
+		<npc id="20554" count="2" respawnDelay="22" /> <!-- Grandis -->
+	</spawn>
+	<!-- giran06_2221_20 -->
+	<spawn zone="giran06_2221_20m1">
+		<npc id="20552" count="4" respawnDelay="22" /> <!-- Fettered Soul -->
+		<npc id="20553" count="4" respawnDelay="22" /> <!-- Windsus -->
+		<npc id="20554" count="4" respawnDelay="22" /> <!-- Grandis -->
+	</spawn>
+	<!-- giran06_2221_21 -->
+	<spawn zone="giran06_2221_21m1">
+		<npc id="20552" count="7" respawnDelay="22" /> <!-- Fettered Soul -->
+		<npc id="20553" count="7" respawnDelay="22" /> <!-- Windsus -->
+		<npc id="20554" count="8" respawnDelay="22" /> <!-- Grandis -->
+	</spawn>
+	<!-- giran06_2221_22 -->
+	<spawn zone="giran06_2221_22m1">
+		<npc id="20271" count="2" respawnDelay="33" /> <!-- Breka Orc Warrior -->
+		<npc id="20269" count="2" respawnDelay="33" /> <!-- Breka Orc Shaman -->
+		<npc id="20270" count="2" respawnDelay="33" /> <!-- Breka Orc Overlord -->
+	</spawn>
+	<!-- giran06_2221_23 -->
+	<spawn zone="giran06_2221_23m1">
+		<npc id="20271" count="3" respawnDelay="33" /> <!-- Breka Orc Warrior -->
+		<npc id="20269" count="2" respawnDelay="33" /> <!-- Breka Orc Shaman -->
+		<npc id="20270" count="3" respawnDelay="33" /> <!-- Breka Orc Overlord -->
+	</spawn>
+	<!-- giran06_2221_25 -->
+	<spawn zone="giran06_2221_25m1">
+		<npc id="20271" count="2" respawnDelay="33" /> <!-- Breka Orc Warrior -->
+		<npc id="20269" count="2" respawnDelay="33" /> <!-- Breka Orc Shaman -->
+		<npc id="20270" count="2" respawnDelay="33" /> <!-- Breka Orc Overlord -->
+	</spawn>
+	<!-- giran06_2221_26 -->
+	<spawn zone="giran06_2221_26m1">
+		<npc id="20199" count="4" respawnDelay="33" /> <!-- Amber Basilisk -->
+		<npc id="20267" count="3" respawnDelay="33" /> <!-- Breka Orc -->
+		<npc id="20268" count="4" respawnDelay="33" /> <!-- Breka Orc Archer -->
+	</spawn>
+	<!-- giran06_2221_27 -->
+	<spawn zone="giran06_2221_27m1">
+		<npc id="20271" count="1" respawnDelay="33" /> <!-- Breka Orc Warrior -->
+		<npc id="20269" count="1" respawnDelay="33" /> <!-- Breka Orc Shaman -->
+		<npc id="20270" count="1" respawnDelay="33" /> <!-- Breka Orc Overlord -->
+	</spawn>
+	<!-- giran06_2221_28 -->
+	<spawn zone="giran06_2221_28m1">
+		<npc id="20271" count="1" respawnDelay="33" /> <!-- Breka Orc Warrior -->
+		<npc id="20269" count="2" respawnDelay="33" /> <!-- Breka Orc Shaman -->
+		<npc id="20270" count="1" respawnDelay="33" /> <!-- Breka Orc Overlord -->
+	</spawn>
+	<!-- giran06_2221_29 -->
+	<spawn zone="giran06_2221_29m1">
+		<npc id="20199" count="4" respawnDelay="33" /> <!-- Amber Basilisk -->
+		<npc id="20267" count="4" respawnDelay="33" /> <!-- Breka Orc -->
+		<npc id="20268" count="3" respawnDelay="33" /> <!-- Breka Orc Archer -->
+	</spawn>
+	<!-- giran06_2221_30 -->
+	<spawn zone="giran06_2221_30m1">
+		<npc id="20199" count="4" respawnDelay="33" /> <!-- Amber Basilisk -->
+		<npc id="20267" count="4" respawnDelay="33" /> <!-- Breka Orc -->
+		<npc id="20268" count="4" respawnDelay="33" /> <!-- Breka Orc Archer -->
+	</spawn>
+	<!-- giran06_2221_31 -->
+	<spawn zone="giran06_2221_31m1">
+		<npc id="20199" count="4" respawnDelay="33" /> <!-- Amber Basilisk -->
+		<npc id="20267" count="4" respawnDelay="33" /> <!-- Breka Orc -->
+		<npc id="20268" count="3" respawnDelay="33" /> <!-- Breka Orc Archer -->
+	</spawn>
+	<!-- giran06_2221_33 -->
+	<spawn zone="giran06_2221_33m1">
+		<npc id="20271" count="4" respawnDelay="33" /> <!-- Breka Orc Warrior -->
+		<npc id="20269" count="3" respawnDelay="33" /> <!-- Breka Orc Shaman -->
+		<npc id="20270" count="4" respawnDelay="33" /> <!-- Breka Orc Overlord -->
+	</spawn>
+	<!-- giran16_tb2221_22 -->
+	<spawn zone="giran16_tb22_m1">
+		<npc id="18268" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- giran16_tb2221_31 -->
+	<spawn zone="giran16_tb31_m1">
+		<npc id="18269" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- giran06_tb2221_02 -->
+	<spawn zone="giran06_tb02_m1">
+		<npc id="18270" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- giran06_tb2221_13 -->
+	<spawn zone="giran06_tb13_m1">
+		<npc id="18271" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- giran03_tb2221_02 -->
+	<spawn zone="giran03_tb2221_02m1">
+		<npc id="18285" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- giran06_cave_01 -->
+	<spawn zone="giran06_cave_01m2">
+		<npc id="21084" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Bloody Lady -->
+		<npc id="20242" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Dustwind Gargoyle -->
+		<npc id="20134" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Cave Maiden -->
+		<npc id="20246" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Cave Keeper -->
+	</spawn>
+	<!-- giran06_cave_02 -->
+	<spawn zone="giran06_cave_01m3">
+		<npc id="20239" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Cave Servant Captain -->
+		<npc id="20238" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Cave Servant Warrior -->
+		<npc id="20236" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Cave Servant -->
+		<npc id="20235" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Shackle -->
+		<npc id="20237" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Cave Servant Archer -->
+	</spawn>
+	<!-- giran06_cave_03 -->
+	<spawn zone="giran06_cave_03m4">
+		<npc id="20146" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Headless Knight -->
+		<npc id="20240" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Royal Cave Servant -->
+		<npc id="20246" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Cave Keeper -->
+		<npc id="20134" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Cave Maiden -->
+		<npc id="20235" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Shackle -->
+	</spawn>
+	<!-- giran06_cave_04 -->
+	<spawn zone="giran06_cave_04m5">
+		<npc id="20629" count="2" respawnDelay="40" respawnRandom="10" /> <!-- karik -->
+		<npc id="20761" count="2" respawnDelay="40" respawnRandom="10" /> <!-- pytan -->
+		<npc id="20625" count="2" respawnDelay="40" respawnRandom="10" /> <!-- malruk_knight -->
+		<npc id="20626" count="2" respawnDelay="40" respawnRandom="10" /> <!-- malruk_berserker -->
+		<npc id="20627" count="2" respawnDelay="40" respawnRandom="10" /> <!-- malruk_lord -->
+		<npc id="21092" count="1" respawnDelay="40" respawnRandom="10" /> <!-- bloody_mage -->
+		<npc id="20628" count="2" respawnDelay="40" respawnRandom="10" /> <!-- limal_karinness -->
+		<npc id="21091" count="1" respawnDelay="40" respawnRandom="10" /> <!-- bloody_keeper -->
+		<npc id="21090" count="4" respawnDelay="40" respawnRandom="10" /> <!-- bloody_guardian -->
+	</spawn>
+</list>

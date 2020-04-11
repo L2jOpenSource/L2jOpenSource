@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- schuttgart12_npc2314_01 -->
+	<spawn zone="schuttgart12_npc2314_01m1">
+		<npc id="32018" x="107888" y="-120464" z="-3739" heading="24576" respawnDelay="60" periodOfDay="night" /> <!-- Misa -->
+	</spawn>
+	<!-- schuttgart12_npc2314_3 -->
+	<spawn zone="schuttgart12_npc2314_3m1">
+		<npc id="32020" x="113808" y="-109344" z="-846" heading="8192" respawnDelay="60" /> <!-- Rafforty -->
+		<npc id="32023" x="113760" y="-109264" z="-840" heading="0" respawnDelay="60" /> <!-- Ice Shelf -->
+	</spawn>
+	<!-- schuttgart12_npc2314_4 -->
+	<spawn zone="schuttgart12_npc2314_4m1">
+		<npc id="32021" x="117920" y="-126592" z="-2584" heading="8192" respawnDelay="60" /> <!-- Ice Sculpture -->
+		<npc id="32077" x="117808" y="-126768" z="-2584" heading="24576" respawnDelay="60" /> <!-- Ice Sculpture -->
+		<npc id="32078" x="117760" y="-126656" z="-2584" heading="32768" respawnDelay="60" /> <!-- Ice Sculpture -->
+		<npc id="32079" x="117840" y="-126528" z="-2584" heading="0" respawnDelay="60" /> <!-- Ice Sculpture -->
+	</spawn>
+	<!-- schuttgart12_npc2314_2 -->
+	<spawn zone="schuttgart12_npc2314_2m1">
+		<npc id="32022" x="104512" y="-107648" z="-3691" heading="28672" respawnDelay="60" /> <!-- Ice Sculpture -->
+	</spawn>
+	<!-- schuttgart12_2314_01 -->
+	<spawn zone="schuttgart12_2314_01m1">
+		<npc id="22080" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Massive Lost Bandersnatch -->
+	</spawn>
+	<!-- schuttgart12_2314_02 -->
+	<spawn zone="schuttgart12_2314_02m1">
+		<npc id="22081" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Lost Watcher -->
+		<npc id="22082" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Elder Lost Watcher -->
+	</spawn>
+	<!-- schuttgart12_2314_03 -->
+	<spawn zone="schuttgart12_2314_03m1">
+		<npc id="22080" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Massive Lost Bandersnatch -->
+	</spawn>
+	<!-- schuttgart12_2314_04 -->
+	<spawn zone="schuttgart12_2314_04m1">
+		<npc id="22080" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Massive Lost Bandersnatch -->
+		<npc id="22081" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Watcher -->
+		<npc id="22082" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Elder Lost Watcher -->
+	</spawn>
+	<!-- schuttgart12_2314_05 -->
+	<spawn zone="schuttgart12_2314_05m1">
+		<npc id="22081" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Watcher -->
+		<npc id="22082" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Elder Lost Watcher -->
+		<npc id="22084" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Panthera -->
+	</spawn>
+	<!-- schuttgart12_2314_06 -->
+	<spawn zone="schuttgart12_2314_06m1">
+		<npc id="22081" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Watcher -->
+		<npc id="22082" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Elder Lost Watcher -->
+		<npc id="22084" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Panthera -->
+	</spawn>
+	<!-- schuttgart12_2314_07 -->
+	<spawn zone="schuttgart12_2314_07m1">
+		<npc id="22084" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Panthera -->
+		<npc id="22085" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle -->
+		<npc id="22086" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle Youngling -->
+	</spawn>
+	<!-- schuttgart12_2314_08 -->
+	<spawn zone="schuttgart12_2314_08m1">
+		<npc id="22080" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Massive Lost Bandersnatch -->
+	</spawn>
+	<!-- schuttgart12_2314_09 -->
+	<spawn zone="schuttgart12_2314_09m1">
+		<npc id="22081" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Watcher -->
+		<npc id="22082" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Elder Lost Watcher -->
+	</spawn>
+	<!-- schuttgart12_2314_10 -->
+	<spawn zone="schuttgart12_2314_10m1">
+		<npc id="22084" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Panthera -->
+	</spawn>
+	<!-- schuttgart12_2314_11 -->
+	<spawn zone="schuttgart12_2314_11m1">
+		<npc id="22085" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle -->
+		<npc id="22086" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle Youngling -->
+		<npc id="22088" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle Youngling -->
+	</spawn>
+	<!-- schuttgart12_2314_12 -->
+	<spawn zone="schuttgart12_2314_12m1">
+		<npc id="22088" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Pronghorn -->
+	</spawn>
+	<!-- schuttgart12_2314_13 -->
+	<spawn zone="schuttgart12_2314_13m1">
+		<npc id="22088" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Pronghorn -->
+		<npc id="22089" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Ice Tarantula -->
+		<npc id="22090" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Frost Tarantula -->
+		<npc id="22092" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Frost Iron Golem -->
+	</spawn>
+	<!-- schuttgart12_2314_14 -->
+	<spawn zone="schuttgart12_2314_14m1">
+		<npc id="22088" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Pronghorn -->
+		<npc id="22089" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Ice Tarantula -->
+		<npc id="22090" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Frost Tarantula -->
+	</spawn>
+	<!-- schuttgart12_2314_15 -->
+	<spawn zone="schuttgart12_2314_15m1">
+		<npc id="22085" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle -->
+		<npc id="22086" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle Youngling -->
+		<npc id="22088" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Pronghorn -->
+	</spawn>
+	<!-- schuttgart12_2314_16 -->
+	<spawn zone="schuttgart12_2314_16m1">
+		<npc id="22089" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Ice Tarantula -->
+		<npc id="22090" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Frost Tarantula -->
+	</spawn>
+	<!-- schuttgart12_2314_17 -->
+	<spawn zone="schuttgart12_2314_17m1">
+		<npc id="22089" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Ice Tarantula -->
+		<npc id="22090" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Frost Tarantula -->
+		<npc id="22092" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Frost Iron Golem -->
+	</spawn>
+	<!-- schuttgart12_2314_18 -->
+	<spawn zone="schuttgart12_2314_18m1">
+		<npc id="22089" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Ice Tarantula -->
+		<npc id="22090" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Frost Tarantula -->
+		<npc id="22092" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Frost Iron Golem -->
+	</spawn>
+	<!-- schuttgart12_2314_19 -->
+	<spawn zone="schuttgart12_2314_19m1">
+		<npc id="22089" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Ice Tarantula -->
+		<npc id="22090" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Frost Tarantula -->
+		<npc id="22092" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Frost Iron Golem -->
+	</spawn>
+	<!-- schuttgart12_2314_20 -->
+	<spawn zone="schuttgart12_2314_20m1">
+		<npc id="22094" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Frost Buffalo -->
+	</spawn>
+	<!-- schuttgart12_2314_21 -->
+	<spawn zone="schuttgart12_2314_21m1">
+		<npc id="22096" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Ursus -->
+		<npc id="22097" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Yeti -->
+		<npc id="22098" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Frost Yeti -->
+	</spawn>
+	<!-- schuttgart12_2314_22 -->
+	<spawn zone="schuttgart12_2314_22m1">
+		<npc id="22096" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Ursus -->
+		<npc id="22097" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Yeti -->
+		<npc id="22098" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Frost Yeti -->
+	</spawn>
+	<!-- schuttgart12_2314_23 -->
+	<spawn zone="schuttgart12_2314_23m1">
+		<npc id="22096" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Ursus -->
+		<npc id="22097" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Yeti -->
+		<npc id="22098" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Frost Yeti -->
+	</spawn>
+	<!-- schuttgart12_2314_24 -->
+	<spawn zone="schuttgart12_2314_24m1">
+		<npc id="22096" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Ursus -->
+	</spawn>
+	<!-- schuttgart12_2314_25 -->
+	<spawn zone="schuttgart12_2314_25m1">
+		<npc id="22092" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Frost Iron Golem -->
+		<npc id="22094" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Frost Buffalo -->
+	</spawn>
+	<!-- schuttgart12_2314_26 -->
+	<spawn zone="schuttgart12_2314_26m1">
+		<npc id="22092" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Frost Iron Golem -->
+		<npc id="22096" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Ursus -->
+	</spawn>
+	<!-- schuttgart12_2314_27 -->
+	<spawn zone="schuttgart12_2314_27m1">
+		<npc id="22085" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle -->
+		<npc id="22086" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle Youngling -->
+		<npc id="22088" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Pronghorn -->
+	</spawn>
+	<!-- schuttgart12_2314_28 -->
+	<spawn zone="schuttgart12_2314_28m1">
+		<npc id="22080" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Massive Lost Bandersnatch -->
+		<npc id="22081" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Watcher -->
+		<npc id="22082" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Elder Lost Watcher -->
+		<npc id="22084" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Panthera -->
+	</spawn>
+	<!-- schuttgart12_2314_29 -->
+	<spawn zone="schuttgart12_2314_29m1">
+		<npc id="22084" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Panthera -->
+		<npc id="22085" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle -->
+		<npc id="22086" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle Youngling -->
+	</spawn>
+	<!-- schuttgart12_2314_30 -->
+	<spawn zone="schuttgart12_2314_30m1">
+		<npc id="22081" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Watcher -->
+		<npc id="22082" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Elder Lost Watcher -->
+	</spawn>
+	<!-- schuttgart12_2314_31 -->
+	<spawn zone="schuttgart12_2314_31m1">
+		<npc id="22081" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Watcher -->
+	</spawn>
+	<!-- schuttgart12_2314_32 -->
+	<spawn zone="schuttgart12_2314_32m1">
+		<npc id="22082" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Elder Lost Watcher -->
+	</spawn>
+	<!-- schuttgart12_2314_33 -->
+	<spawn zone="schuttgart12_2314_33m1">
+		<npc id="22081" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Watcher -->
+		<npc id="22082" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Elder Lost Watcher -->
+	</spawn>
+	<!-- schuttgart12_2314_34 -->
+	<spawn zone="schuttgart12_2314_34m1">
+		<npc id="22082" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Elder Lost Watcher -->
+	</spawn>
+	<!-- schuttgart12_2314_35 -->
+	<spawn zone="schuttgart12_2314_35m1">
+		<npc id="22082" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Elder Lost Watcher -->
+	</spawn>
+	<!-- schuttgart12_2314_36 -->
+	<spawn zone="schuttgart12_2314_36m1">
+		<npc id="22085" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle -->
+	</spawn>
+	<!-- schuttgart12_2314_37 -->
+	<spawn zone="schuttgart12_2314_37m1">
+		<npc id="22085" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle -->
+	</spawn>
+	<!-- schuttgart12_2314_38 -->
+	<spawn zone="schuttgart12_2314_38m1">
+		<npc id="22086" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle Youngling -->
+	</spawn>
+	<!-- schuttgart12_2314_39 -->
+	<spawn zone="schuttgart12_2314_39m1">
+		<npc id="22086" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle Youngling -->
+	</spawn>
+	<!-- schuttgart12_2314_40 -->
+	<spawn zone="schuttgart12_2314_40m1">
+		<npc id="22089" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Ice Tarantula -->
+	</spawn>
+	<!-- schuttgart12_2314_41 -->
+	<spawn zone="schuttgart12_2314_41m1">
+		<npc id="22090" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Frost Tarantula -->
+	</spawn>
+	<!-- schuttgart12_2314_42 -->
+	<spawn zone="schuttgart12_2314_42m1">
+		<npc id="22097" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Yeti -->
+	</spawn>
+	<!-- schuttgart12_2314_43 -->
+	<spawn zone="schuttgart12_2314_43m1">
+		<npc id="22097" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Yeti -->
+	</spawn>
+	<!-- schuttgart12_2314_44 -->
+	<spawn zone="schuttgart12_2314_44m1">
+		<npc id="22098" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Frost Yeti -->
+	</spawn>
+	<!-- schuttgart12_2314_45 -->
+	<spawn zone="schuttgart12_2314_45m1">
+		<npc id="22098" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Frost Yeti -->
+	</spawn>
+	<!-- schuttgart12_2314_46 -->
+	<spawn zone="schuttgart12_2314_46m1">
+		<npc id="22081" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Watcher -->
+	</spawn>
+	<!-- schuttgart12_2314_47 -->
+	<spawn zone="schuttgart12_2314_47m1">
+		<npc id="22085" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle -->
+		<npc id="22088" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Pronghorn --> 
+	</spawn>
+	<!-- schuttgart12_2314_48 -->
+	<spawn zone="schuttgart12_2314_48m1">
+		<npc id="22086" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Lost Gargoyle Youngling -->
+		<npc id="22088" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Pronghorn -->
+		<npc id="22090" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Frost Tarantula -->
+	</spawn>
+	<!-- schuttgart12_2314_49 -->
+	<spawn zone="schuttgart12_2314_49m1">
+		<npc id="22094" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Frost Buffalo -->
+	</spawn>
+	<!-- schuttgart12_2314_50 -->
+	<spawn zone="schuttgart12_2314_50m1">
+		<npc id="22094" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Frost Buffalo -->
+	</spawn>
+	<!-- schuttgart12_2314_51 -->
+	<spawn zone="schuttgart12_2314_51m1">
+		<npc id="22094" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Frost Buffalo -->
+	</spawn>
+	<!-- schuttgart12_npc2314_100 -->
+	<spawn zone="schuttgart12_npc2314_100m1">
+		<npc id="32781" x="102402" y="-124491" z="-2768" heading="-12072" /> <!-- Jinia -->
+		<npc id="32761" x="102512" y="-124416" z="-2768" heading="-11100" /> <!-- Kegor -->
+		<npc id="32777" x="102306" y="-124361" z="-2748" heading="-11564" /> <!-- Battalion Leader -->
+		<npc id="32778" x="102462" y="-124237" z="-2752" heading="-10828" /> <!-- Legionnaire -->
+	</spawn>
+	<!-- schuttgart13_npc2314_1 -->
+	<spawn zone="schuttgart13_npc2314_1m1">
+		<npc id="32029" x="115451" y="-125706" z="-3388" heading="0" /> <!-- Freya's Steward -->
+	</spawn>
+	<!-- schuttgart13_npc2314_2 -->
+	<spawn zone="schuttgart13_npc2314_2m1">
+		<npc id="32030" x="111664" y="-126304" z="-2992" heading="0" /> <!-- Garden Sculpture -->
+	</spawn>
+	<!-- schuttgart13_npc2314_3 -->
+	<spawn zone="schuttgart13_npc2314_3m1">
+		<npc id="32031" x="102384" y="-125696" z="-2848" heading="0" /> <!-- Ice Fairy Sculpture -->
+	</spawn>
+	<!-- schuttgart12_tb2314_01 -->
+	<spawn zone="schuttgart12_tb2314_01m1">
+		<npc id="18276" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- schuttgart12_tb2314_13 -->
+	<spawn zone="schuttgart12_tb2314_13m1">
+		<npc id="18277" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

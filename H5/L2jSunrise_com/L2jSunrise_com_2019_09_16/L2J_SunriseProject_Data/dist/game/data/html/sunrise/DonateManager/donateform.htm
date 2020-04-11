@@ -1,0 +1,32 @@
+<html><body><title>Donate Manager</title>
+<center><br><img src="l2ui.SquareGray" width=270 height=1><br1>
+<table width="262" cellpadding="5" bgcolor="151515">
+<tr><td valign="top">
+<center><font color="EBDF6C">L2 Sunrise</font> donate manager<br>Support our server by donating and receive special coins! Exchange here your donated coins for staff or services.</center>
+</td></tr>
+</table><br1><img src="l2ui.SquareGray" width=270 height=1><br>
+</center><br><center><img src="L2UI.SquareGray" width=270 height=1>
+<br><font color="EBDF6C">Enter <font color="EBDF6C">Paysafe-card</font> pin code.</font><br>
+<center>
+<table>
+<tr>
+<td><edit var="pin1" width=40 height=15></td>
+<td><font color=EBDF6C>-</font></td>
+<td><edit var="pin2" width=40 height=15></td>
+<td><font color=EBDF6C>-</font></td>
+<td><edit var="pin3" width=40 height=15></td>
+<td><font color=EBDF6C>-</font></td>
+<td><edit var="pin4" width=40 height=15></td>
+</tr>
+</table>
+<br><br>
+</center>
+<font color="EBDF6C">Ammount</font> (euro):<edit var="amot" width=40 height=15>
+<br><br><br><font color=FF0000>Warning:</font> Fill all boxes with real information ,fake pins and forms will cause pernament ban!<br>
+<center>
+<button value="Send Donation Form" action="bypass -h npc_%objectId%_sendDonateForm $pin1 $pin2 $pin3 $pin4 $amot" width=150 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+<br>
+<br><img src="L2UI.SquareGray" width=270 height=1><br>
+<button action="bypass -h npc_%objectId%_Chat_paysafe.htm" value="Back" width=90 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+</center>
+</body></html>

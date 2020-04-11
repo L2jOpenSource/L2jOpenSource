@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+<list maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="16168" count="1" enchantmentLevel="25" />
+	</item>
+
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15575" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15572" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15578" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15581" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15584" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="16169" count="1" enchantmentLevel="25" />
+	</item>
+
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15576" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15573" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15579" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15582" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15585" count="1" enchantmentLevel="25" />
+	</item>
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="16170" count="1" enchantmentLevel="25" />
+	</item>
+
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15577" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15574" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15580" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15583" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15586" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Elegia Sigil -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15588" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- Elegia Shield -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15587" count="1" enchantmentLevel="25" />
+	</item>
+
+</list>

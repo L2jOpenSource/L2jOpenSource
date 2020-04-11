@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- lyonn09_npc1915_001 -->
+	<spawn zone="lyonn09_npc1915_001m1">
+		<npc id="30669" x="-9563" y="-89959" z="-2319" heading="0" respawnDelay="60" /> <!-- Kakan -->
+	</spawn>
+	<!-- lyonn08_1915_01 -->
+	<spawn zone="lyonn08_1915_01m1">
+		<npc id="20426" count="3" respawnDelay="21" /> <!-- Evil Eye -->
+		<npc id="20316" count="3" respawnDelay="21" /> <!-- Darkwing Bat -->
+		<npc id="20143" count="3" respawnDelay="21" /> <!-- Grizzly -->
+	</spawn>
+	<!-- lyonn08_1915_02 -->
+	<spawn zone="lyonn08_1915_02m1">
+		<npc id="20316" count="3" respawnDelay="21" /> <!-- Darkwing Bat -->
+		<npc id="20143" count="3" respawnDelay="21" /> <!-- Grizzly -->
+		<npc id="20320" count="3" respawnDelay="21" /> <!-- Goblin Tomb Raider Leader -->
+	</spawn>
+	<!-- lyonn08_1915_03 -->
+	<spawn zone="lyonn08_1915_03m1">
+		<npc id="20428" count="4" respawnDelay="21" /> <!-- Evil Eye Patroller -->
+		<npc id="20364" count="5" respawnDelay="21" /> <!-- Maraku Werewolf Chieftain -->
+		<npc id="20479" count="5" respawnDelay="21" /> <!-- Kasha Bear -->
+	</spawn>
+	<!-- lyonn08_1915_04 -->
+	<spawn zone="lyonn08_1915_04m1">
+		<npc id="20333" count="5" respawnDelay="21" /> <!-- Greystone Golem -->
+		<npc id="20428" count="5" respawnDelay="21" /> <!-- Evil Eye Patroller -->
+		<npc id="20364" count="5" respawnDelay="21" /> <!-- Maraku Werewolf Chieftain -->
+	</spawn>
+	<!-- lyonn08_1915_07 -->
+	<spawn zone="lyonn08_1915_07m1">
+		<npc id="20479" count="4" respawnDelay="21" /> <!-- Kasha Bear -->
+		<npc id="20476" count="4" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+		<npc id="20478" count="4" respawnDelay="21" /> <!-- Kasha Blade Spider -->
+	</spawn>
+	<!-- lyonn08_1915_21 -->
+	<spawn zone="lyonn08_1915_21m1">
+		<npc id="20476" count="3" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+	</spawn>
+	<!-- lyonn08_1915_22 -->
+	<spawn zone="lyonn08_1915_22m1">
+		<npc id="20476" count="3" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+	</spawn>
+	<!-- lyonn09_1915_05 -->
+	<spawn zone="lyonn09_1915_05m1">
+		<npc id="21257" count="3" respawnDelay="15" /> <!-- Evil Eye Seer -->
+		<npc id="21117" count="2" respawnDelay="15" /> <!-- Kasha Imp -->
+		<npc id="21118" count="3" respawnDelay="15" /> <!-- Baar Dre Vanul -->
+	</spawn>
+	<!-- lyonn09_1915_06 -->
+	<spawn zone="lyonn09_1915_06m1">
+		<npc id="21257" count="3" respawnDelay="15" /> <!-- Evil Eye Seer -->
+		<npc id="21117" count="2" respawnDelay="15" /> <!-- Kasha Imp -->
+		<npc id="21118" count="3" respawnDelay="15" /> <!-- Baar Dre Vanul -->
+	</spawn>
+	<!-- lyonn09_1915_08 -->
+	<spawn zone="lyonn09_1915_08m1">
+		<npc id="21257" count="3" respawnDelay="15" /> <!-- Evil Eye Seer -->
+		<npc id="21117" count="2" respawnDelay="15" /> <!-- Kasha Imp -->
+		<npc id="21118" count="3" respawnDelay="15" /> <!-- Baar Dre Vanul -->
+	</spawn>
+	<!-- lyonn09_1915_09 -->
+	<spawn zone="lyonn09_1915_09m1">
+		<npc id="21119" count="3" respawnDelay="15" /> <!-- Hobgoblin -->
+		<npc id="21120" count="3" respawnDelay="15" /> <!-- Kasha Imp Turen -->
+		<npc id="21121" count="3" respawnDelay="15" /> <!-- Kasha Dire Wolf -->
+	</spawn>
+	<!-- lyonn09_1915_10 -->
+	<spawn zone="lyonn09_1915_10m1">
+		<npc id="21119" count="2" respawnDelay="15" /> <!-- Hobgoblin -->
+		<npc id="21120" count="2" respawnDelay="15" /> <!-- Kasha Imp Turen -->
+		<npc id="21121" count="3" respawnDelay="15" /> <!-- Kasha Dire Wolf -->
+	</spawn>
+	<!-- lyonn09_1915_11 -->
+	<spawn zone="lyonn09_1915_11m1">
+		<npc id="21257" count="4" respawnDelay="15" /> <!-- Evil Eye Seer -->
+		<npc id="21117" count="4" respawnDelay="15" /> <!-- Kasha Imp -->
+		<npc id="21119" count="4" respawnDelay="15" /> <!-- Hobgoblin -->
+	</spawn>
+	<!-- lyonn09_1915_12 -->
+	<spawn zone="lyonn09_1915_12m1">
+		<npc id="21119" count="2" respawnDelay="15" /> <!-- Hobgoblin -->
+		<npc id="21120" count="2" respawnDelay="15" /> <!-- Kasha Imp Turen -->
+		<npc id="21121" count="2" respawnDelay="15" /> <!-- Kasha Dire Wolf -->
+	</spawn>
+	<!-- lyonn09_1915_13 -->
+	<spawn zone="lyonn09_1915_13m1">
+		<npc id="21257" count="5" respawnDelay="15" /> <!-- Evil Eye Seer -->
+		<npc id="21117" count="6" respawnDelay="15" /> <!-- Kasha Imp -->
+		<npc id="21118" count="6" respawnDelay="15" /> <!-- Baar Dre Vanul -->
+	</spawn>
+	<!-- lyonn09_1915_14 -->
+	<spawn zone="lyonn09_1915_14m1">
+		<npc id="20479" count="5" respawnDelay="15" /> <!-- Kasha Bear -->
+		<npc id="20476" count="4" respawnDelay="15" /> <!-- Kasha Fang Spider -->
+		<npc id="20478" count="5" respawnDelay="15" /> <!-- Kasha Blade Spider -->
+	</spawn>
+	<!-- lyonn09_1915_17 -->
+	<spawn zone="lyonn09_1915_17m1">
+		<npc id="21119" count="3" respawnDelay="15" /> <!-- Hobgoblin -->
+		<npc id="21120" count="4" respawnDelay="15" /> <!-- Kasha Imp Turen -->
+		<npc id="21121" count="3" respawnDelay="15" /> <!-- Kasha Dire Wolf -->
+	</spawn>
+	<!-- lyonn09_1915_18 -->
+	<spawn zone="lyonn09_1915_18m1">
+		<npc id="21257" count="2" respawnDelay="15" /> <!-- Evil Eye Seer -->
+		<npc id="21117" count="3" respawnDelay="15" /> <!-- Kasha Imp -->
+		<npc id="21118" count="3" respawnDelay="15" /> <!-- Baar Dre Vanul -->
+	</spawn>
+	<!-- lyonn09_1915_19 -->
+	<spawn zone="lyonn09_1915_19m1">
+		<npc id="21119" count="7" respawnDelay="15" /> <!-- Hobgoblin -->
+		<npc id="21120" count="7" respawnDelay="15" /> <!-- Kasha Imp Turen -->
+		<npc id="21121" count="6" respawnDelay="15" /> <!-- Kasha Dire Wolf -->
+	</spawn>
+	<!-- lyonn09_1915_20 -->
+	<spawn zone="lyonn09_1915_20m1">
+		<npc id="21257" count="7" respawnDelay="15" /> <!-- Evil Eye Seer -->
+		<npc id="21117" count="8" respawnDelay="15" /> <!-- Kasha Imp -->
+		<npc id="21118" count="7" respawnDelay="15" /> <!-- Baar Dre Vanul -->
+	</spawn>
+	<!-- lyonn09_1915_23 -->
+	<spawn zone="lyonn09_1915_23m1">
+		<npc id="21117" count="2" respawnDelay="15" /> <!-- Kasha Imp -->
+	</spawn>
+	<!-- lyonn09_1915_24 -->
+	<spawn zone="lyonn09_1915_24m1">
+		<npc id="21118" count="2" respawnDelay="15" /> <!-- Baar Dre Vanul -->
+	</spawn>
+	<!-- lyonn09_1915_25 -->
+	<spawn zone="lyonn09_1915_25m1">
+		<npc id="21119" count="2" respawnDelay="15" /> <!-- Hobgoblin -->
+	</spawn>
+	<!-- lyonn01_qm1915_01 -->
+	<spawn zone="lyonn01_qm1915_01m1">
+		<npc id="27199" count="1" respawnDelay="180" /> <!-- Crimson Werewolf -->
+	</spawn>
+</list>

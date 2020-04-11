@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Pets -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<!-- Dragonflute of Wind -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="3500" count="1" />
+	</item>
+
+	<!-- Dragonflute of Twilight -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="3502" count="1" />
+	</item>
+
+	<!-- Dragonflute of Star -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="3501" count="1" />
+	</item>
+
+	<!-- Dragon Bugle of Star -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="4423" count="1" />
+	</item>
+
+	<!-- Dragon Bugle of Twilight -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="4424" count="1" />
+	</item>
+
+	<!-- Dragon Bugle of Wind -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="4422" count="1" />
+	</item>
+
+	<!-- Baby Buffalo Panpipe -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="6648" count="1" />
+	</item>
+
+	<!-- Baby Cougar Chime -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="6649" count="1" />
+	</item>
+
+	<!-- Baby Kookaburra Ocarina -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="6650" count="1" />
+	</item>
+
+	<!-- Improved Buffalo Panpipe -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="10311" count="1" />
+	</item>
+
+	<!-- Improved Cougar Chime -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="10312" count="1" />
+	</item>
+
+	<!-- Improved Kookaburra Ocarina -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="10313" count="1" />
+	</item>
+
+	<!-- Fenrir Necklace -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="10426" count="1" />
+	</item>
+
+	<!-- Snow Fenrir Necklace -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="10611" count="1" />
+	</item>
+
+	<!-- Great Snow Wolf Necklace -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="10307" count="1" />
+	</item>
+
+	<!-- Wolf Collar -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="2375" count="1" />
+	</item>
+
+	<!-- Deinonychus Mesozoic Stone -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="14828" count="1" />
+	</item>
+
+	<!-- Guardian's Dragon Bugle -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="14819" count="1" />
+	</item>
+
+	<!-- Fairy Princess Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="13018" count="1" />
+	</item>
+
+	<!-- Fox Shaman Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="13020" count="1" />
+	</item>
+
+	<!-- Owl Monk Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="13550" count="1" />
+	</item>
+
+	<!-- Soul Monk Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="13549" count="1" />
+	</item>
+
+	<!-- Toy Knight Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="13548" count="1" />
+	</item>
+
+	<!-- Turtle Ascetic Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="13551" count="1" />
+	</item>
+
+	<!-- White Weasel Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="13017" count="1" />
+	</item>
+
+	<!-- Wild Beast Fighter Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="200000000" />
+		<production id="13019" count="1" />
+	</item>
+
+
+</list>

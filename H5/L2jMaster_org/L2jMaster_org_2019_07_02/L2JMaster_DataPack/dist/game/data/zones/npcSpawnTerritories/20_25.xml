@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- gludio12_2025_001 -->
+	<zone name="gludio12_2025_001m2" type="NpcSpawnTerritory" shape="NPoly" minZ="10956" maxZ="11556">
+		<node X="22724" Y="242959" />
+		<node X="23066" Y="243500" />
+		<node X="23108" Y="244138" />
+		<node X="22849" Y="244682" />
+		<node X="22346" Y="245059" />
+		<node X="21720" Y="245103" />
+		<node X="21146" Y="244858" />
+		<node X="20792" Y="244333" />
+		<node X="20737" Y="243715" />
+		<node X="20997" Y="243134" />
+		<node X="21512" Y="242752" />
+		<node X="22136" Y="242708" />
+	</zone>
+	<!-- gludio12_2025_002 -->
+	<zone name="gludio12_2025_002m1" type="NpcSpawnTerritory" shape="NPoly" minZ="10956" maxZ="11956">
+		<node X="17887" Y="244199" />
+		<node X="20797" Y="243918" />
+		<node X="20808" Y="244101" />
+		<node X="17900" Y="244403" />
+	</zone>
+</list>

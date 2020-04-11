@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+	<item id="50030" type="Armor" name="Earring of Antharas">
+		<set name="icon" val="icon.accessory_earring_of_antaras_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="178" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="3700000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3558-1" />
+		<for>
+			<add order="0" stat="mDef" val="94" />
+			<add stat="maxMp" val="37" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="50031" type="Armor" name="Necklace of Valakas">
+		<set name="icon" val="icon.accessory_necklace_of_valakas_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="237" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3557-1" />
+		<for>
+			<add order="0" stat="mDef" val="125" />
+			<add stat="maxMp" val="50" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="50032" type="Armor" name="Ring of Baium">
+		<set name="icon" val="icon.accessory_ring_of_baium_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="83" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="1730000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3561-1" />
+		<for>
+			<add order="0" stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="50033" type="Armor" name="Earring of Zaken">
+		<set name="icon" val="icon.accessory_earring_of_zaken_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="124" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="2590000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3559-1" />
+		<for>
+			<add order="0" stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="50034" type="Armor" name="Ring of Queen Ant">
+		<set name="icon" val="icon.accessory_ring_of_queen_ant_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="82" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="616000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3562-1" />
+		<for>
+			<add order="0" stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="50035" type="Armor" name="Earring of Orfen">
+		<set name="icon" val="icon.accessory_earring_of_orfen_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="104" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="1300000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3560-1" />
+		<for>
+			<add order="0" stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="50036" type="Armor" name="Ring of Core">
+		<set name="icon" val="icon.accessory_ring_of_core_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="69" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="870000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3563-1" />
+		<for>
+			<add order="0" stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="50037" type="Armor" name="Necklace of Frintezza">
+		<set name="icon" val="icon.accessory_necklace_of_frintessa_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="230" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="3450000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3604-1" />
+		<for>
+			<add order="0" stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="50038" type="Armor" name="Ring of Beleth">
+		<set name="icon" val="icon.accessary_dynasty_ring_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="152" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="2400000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3649-1" />
+		<for>
+			<add order="0" stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="50039" type="Armor" name="Blessed Earring of Zaken">
+		<set name="icon" val="icon.accessory_earring_of_zaken_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="547" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3559-2" />
+		<for>
+			<add order="0" stat="mDef" val="94" />
+			<add stat="maxMp" val="37" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="50040" type="Armor" name="Necklace of Freya">
+		<set name="icon" val="icon.accessary_queen_of_ice_necklace_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="729" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="15192000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="8459-1" />
+		<for>
+			<add order="0" stat="mDef" val="125" />
+			<add stat="maxMp" val="50" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="50041" type="Armor" name="Blessed Necklace of Freya">
+		<set name="icon" val="icon.accessary_queen_of_ice_necklace_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="729" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="15192000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="8460-1" />
+		<for>
+			<add order="0" stat="mDef" val="132" />
+			<add stat="maxMp" val="50" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+</list>

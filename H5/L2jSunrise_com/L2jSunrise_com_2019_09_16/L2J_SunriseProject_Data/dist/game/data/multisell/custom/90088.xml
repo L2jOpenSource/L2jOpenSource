@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Skill Clan -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+
+	<item>
+		<ingredient id="57" count="50000000" />
+		<production id="1419" count="1" />
+	</item>
+
+
+	<item>
+		<ingredient id="40002" count="1000" />
+		<production id="3870" count="1" />
+	</item>
+
+
+	<item>
+		<ingredient id="40002" count="1500" />
+		<production id="3874" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="40002" count="500" />
+		<production id="9910" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="40002" count="25000" />
+		<production id="9911" count="1" />
+	</item>
+
+	<!-- Cradle of Creation -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="8175" count="10" />
+	</item>
+
+
+	<!-- Nonliving Nucleus -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="9817" count="10" />
+	</item>
+
+	<!-- Angelic Essence -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="9818" count="10" />
+	</item>
+
+	<!-- Dragon Heart -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="9815" count="10" />
+	</item>
+
+	<!-- Memento Mori -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="9814" count="10" />
+	</item>
+
+
+
+	<!-- Earth Egg -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="9816" count="10" />
+	</item>
+	<!-- Destruction Tombstone -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="8176" count="1" />
+	</item>
+	<!-- Nonliving Nucleus -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="8169" count="1" />
+	</item>
+
+	<!-- Angelic Essence -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="8172" count="1" />
+	</item>
+
+	<!-- Dragon Heart -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="8163" count="1" />
+	</item>
+
+	<!-- Memento Mori -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="8160" count="1" />
+	</item>
+
+	<!-- Earth Egg -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="8166" count="1" />
+	</item>
+
+
+
+
+</list>

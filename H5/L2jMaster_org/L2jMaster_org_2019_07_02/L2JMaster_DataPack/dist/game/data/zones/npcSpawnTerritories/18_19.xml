@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- oren10_npc1819_001 -->
+	<zone name="oren10_npc1819_00101" type="NpcSpawnTerritory" shape="NPoly" minZ="-3444" maxZ="-3244">
+		<node X="-46564" Y="59164" />
+		<node X="-46364" Y="59164" />
+		<node X="-46364" Y="59364" />
+		<node X="-46564" Y="59364" />
+	</zone>
+	<!-- oren07_npc1819_gd02 -->
+	<zone name="oren_npc1819_gd02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3340" maxZ="-2690">
+		<node X="-40552" Y="35020" />
+		<node X="-39712" Y="35000" />
+		<node X="-38524" Y="38596" />
+		<node X="-42984" Y="40240" />
+		<node X="-45592" Y="40036" />
+		<node X="-46472" Y="38704" />
+	</zone>
+	<!-- oren07_npc1819_gd05 -->
+	<zone name="oren_npc1819_gd05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3416" maxZ="-3016">
+		<node X="-38300" Y="38744" />
+		<node X="-33084" Y="38684" />
+		<node X="-33092" Y="42820" />
+		<node X="-34692" Y="43844" />
+		<node X="-39116" Y="43656" />
+		<node X="-39448" Y="39592" />
+	</zone>
+	<!-- oren07_npc1819_gd06 -->
+	<zone name="oren_npc1819_gd06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3396" maxZ="-2946">
+		<node X="-41064" Y="42064" />
+		<node X="-39836" Y="42340" />
+		<node X="-38524" Y="46708" />
+		<node X="-39104" Y="48960" />
+		<node X="-40072" Y="49736" />
+		<node X="-42892" Y="49684" />
+		<node X="-42740" Y="42924" />
+	</zone>
+	<!-- oren07_npc1819_gd09 -->
+	<zone name="oren_npc1819_gd09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3672" maxZ="-3122">
+		<node X="-39716" Y="57220" />
+		<node X="-33032" Y="56340" />
+		<node X="-33084" Y="65188" />
+		<node X="-45280" Y="65292" />
+	</zone>
+	<!-- oren07_npc1819_gd10 -->
+	<zone name="oren_npc1819_gd10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3500" maxZ="-3000">
+		<node X="-37440" Y="50772" />
+		<node X="-33072" Y="52340" />
+		<node X="-33072" Y="56232" />
+		<node X="-39740" Y="57200" />
+		<node X="-40752" Y="55912" />
+	</zone>
+	<!-- oren07_npc1819_gd14 -->
+	<zone name="oren_npc1819_gd14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3480" maxZ="-3280">
+		<node X="-59388" Y="62596" />
+		<node X="-52996" Y="59008" />
+		<node X="-52616" Y="65264" />
+		<node X="-59492" Y="65192" />
+	</zone>
+	<!-- oren24_1819_01 -->
+	<zone name="oren24_1819_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3552" maxZ="-2952">
+		<node X="-37030" Y="53223" />
+		<node X="-33126" Y="54054" />
+		<node X="-33024" Y="57527" />
+		<node X="-39611" Y="56702" />
+	</zone>
+	<!-- oren24_1819_02 -->
+	<zone name="oren24_1819_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3552" maxZ="-2952">
+		<node X="-35961" Y="57286" />
+		<node X="-33047" Y="57628" />
+		<node X="-33008" Y="61831" />
+		<node X="-36805" Y="61748" />
+		<node X="-37371" Y="60405" />
+	</zone>
+	<!-- oren24_1819_03 -->
+	<zone name="oren24_1819_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3552" maxZ="-2952">
+		<node X="-39592" Y="56845" />
+		<node X="-36075" Y="57321" />
+		<node X="-37483" Y="60331" />
+		<node X="-40036" Y="60001" />
+		<node X="-41071" Y="58816" />
+	</zone>
+	<!-- oren24_1819_04 -->
+	<zone name="oren24_1819_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3711" maxZ="-3111">
+		<node X="-36842" Y="61865" />
+		<node X="-32983" Y="61954" />
+		<node X="-32970" Y="65313" />
+		<node X="-36760" Y="65345" />
+	</zone>
+	<!-- oren24_1819_05 -->
+	<zone name="oren24_1819_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3553" maxZ="-2953">
+		<node X="-40689" Y="62884" />
+		<node X="-36912" Y="62934" />
+		<node X="-36874" Y="65323" />
+		<node X="-41152" Y="65329" />
+	</zone>
+	<!-- oren24_1819_06 -->
+	<zone name="oren24_1819_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3553" maxZ="-2953">
+		<node X="-41225" Y="58878" />
+		<node X="-40099" Y="60109" />
+		<node X="-40701" Y="62744" />
+		<node X="-43419" Y="61660" />
+		<node X="-42939" Y="59911" />
+	</zone>
+	<!-- oren24_1819_07 -->
+	<zone name="oren24_1819_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3553" maxZ="-2953">
+		<node X="-43441" Y="61755" />
+		<node X="-40793" Y="62846" />
+		<node X="-41294" Y="65278" />
+		<node X="-44995" Y="65278" />
+		<node X="-45162" Y="63396" />
+	</zone>
+	<!-- oren10_1819_01 -->
+	<zone name="oren10_1819_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4420" maxZ="-4170">
+		<node X="-47807" Y="57239" />
+		<node X="-46409" Y="57242" />
+		<node X="-46407" Y="57980" />
+		<node X="-47807" Y="57982" />
+	</zone>
+	<!-- oren10_1819_02 -->
+	<zone name="oren10_1819_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4928" maxZ="-4678">
+		<node X="-46564" Y="55460" />
+		<node X="-47962" Y="55463" />
+		<node X="-47968" Y="56771" />
+		<node X="-48963" Y="56772" />
+	</zone>
+	<!-- oren10_1819_03 -->
+	<zone name="oren10_1819_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4928" maxZ="-4678">
+		<node X="-50001" Y="54471" />
+		<node X="-47993" Y="54475" />
+		<node X="-47993" Y="55400" />
+		<node X="-49999" Y="55392" />
+	</zone>
+	<!-- oren10_1819_04 -->
+	<zone name="oren10_1819_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4929" maxZ="-4679">
+		<node X="-51168" Y="53025" />
+		<node X="-50091" Y="53034" />
+		<node X="-50090" Y="54121" />
+		<node X="-51170" Y="54134" />
+	</zone>
+	<!-- oren10_1819_05 -->
+	<zone name="oren10_1819_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4929" maxZ="-4679">
+		<node X="-49096" Y="52040" />
+		<node X="-48459" Y="52042" />
+		<node X="-48460" Y="53838" />
+		<node X="-49100" Y="53840" />
+	</zone>
+	<!-- oren10_1819_06 -->
+	<zone name="oren10_1819_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4929" maxZ="-4679">
+		<node X="-49746" Y="52032" />
+		<node X="-49121" Y="52034" />
+		<node X="-49127" Y="53136" />
+		<node X="-49747" Y="53138" />
+	</zone>
+	<!-- oren10_1819_07 -->
+	<zone name="oren10_1819_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4934" maxZ="-4684">
+		<node X="-47044" Y="52684" />
+		<node X="-45266" Y="52685" />
+		<node X="-45268" Y="53721" />
+		<node X="-47042" Y="53718" />
+	</zone>
+	<!-- oren10_1819_08 -->
+	<zone name="oren10_1819_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4934" maxZ="-4684">
+		<node X="-46277" Y="51916" />
+		<node X="-45272" Y="51916" />
+		<node X="-45270" Y="52652" />
+		<node X="-46278" Y="52657" />
+	</zone>
+	<!-- oren10_1819_09 -->
+	<zone name="oren10_1819_09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4934" maxZ="-4684">
+		<node X="-47559" Y="54355" />
+		<node X="-46321" Y="54356" />
+		<node X="-46321" Y="54977" />
+		<node X="-47556" Y="54972" />
+	</zone>
+	<!-- oren10_1819_10 -->
+	<zone name="oren10_1819_10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4934" maxZ="-4684">
+		<node X="-46257" Y="54363" />
+		<node X="-45198" Y="54366" />
+		<node X="-45196" Y="55378" />
+		<node X="-46333" Y="55391" />
+	</zone>
+	<!-- oren10_1819_11 -->
+	<zone name="oren10_1819_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4934" maxZ="-4684">
+		<node X="-44613" Y="53071" />
+		<node X="-43479" Y="53086" />
+		<node X="-43469" Y="54150" />
+		<node X="-44610" Y="54148" />
+	</zone>
+	<!-- oren10_1819_12 -->
+	<zone name="oren10_1819_12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5451" maxZ="-5201">
+		<node X="-44521" Y="47150" />
+		<node X="-44114" Y="47153" />
+		<node X="-44111" Y="47961" />
+		<node X="-44525" Y="47961" />
+	</zone>
+	<!-- oren10_1819_13 -->
+	<zone name="oren10_1819_13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5960" maxZ="-5710">
+		<node X="-44770" Y="48826" />
+		<node X="-43852" Y="48830" />
+		<node X="-43853" Y="50007" />
+		<node X="-44775" Y="50002" />
+	</zone>
+	<!-- oren10_1819_14 -->
+	<zone name="oren10_1819_14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5459" maxZ="-5209">
+		<node X="-44601" Y="44374" />
+		<node X="-43640" Y="44378" />
+		<node X="-43642" Y="45881" />
+		<node X="-44613" Y="45881" />
+	</zone>
+	<!-- oren10_1819_15 -->
+	<zone name="oren10_1819_15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5459" maxZ="-5209">
+		<node X="-45855" Y="43159" />
+		<node X="-44918" Y="43162" />
+		<node X="-44922" Y="44348" />
+		<node X="-45856" Y="44366" />
+	</zone>
+	<!-- oren10_1819_16 -->
+	<zone name="oren10_1819_16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5459" maxZ="-5209">
+		<node X="-47848" Y="42783" />
+		<node X="-46873" Y="42784" />
+		<node X="-46868" Y="44163" />
+		<node X="-47857" Y="44166" />
+	</zone>
+	<!-- oren10_1819_17 -->
+	<zone name="oren10_1819_17m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5459" maxZ="-5209">
+		<node X="-50222" Y="42720" />
+		<node X="-49511" Y="42721" />
+		<node X="-49495" Y="43973" />
+		<node X="-50217" Y="43974" />
+	</zone>
+	<!-- oren10_1819_18 -->
+	<zone name="oren10_1819_18m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5459" maxZ="-5209">
+		<node X="-51186" Y="44228" />
+		<node X="-50276" Y="44238" />
+		<node X="-50267" Y="45635" />
+		<node X="-51173" Y="45638" />
+	</zone>
+	<!-- oren10_1819_19 -->
+	<zone name="oren10_1819_19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5459" maxZ="-5209">
+		<node X="-49882" Y="44645" />
+		<node X="-48873" Y="44651" />
+		<node X="-49207" Y="46147" />
+		<node X="-49871" Y="46146" />
+	</zone>
+	<!-- oren10_1819_20 -->
+	<zone name="oren10_1819_20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5459" maxZ="-5209">
+		<node X="-48216" Y="44882" />
+		<node X="-46707" Y="44886" />
+		<node X="-46706" Y="45531" />
+		<node X="-48214" Y="45533" />
+	</zone>
+	<!-- oren10_1819_21 -->
+	<zone name="oren10_1819_21m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5459" maxZ="-5209">
+		<node X="-48214" Y="45553" />
+		<node X="-47197" Y="45555" />
+		<node X="-47206" Y="46142" />
+		<node X="-48212" Y="46149" />
+	</zone>
+	<!-- oren10_1819_22 -->
+	<zone name="oren10_1819_22m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5459" maxZ="-5209">
+		<node X="-46048" Y="45254" />
+		<node X="-45019" Y="45246" />
+		<node X="-45014" Y="46301" />
+		<node X="-46046" Y="46290" />
+	</zone>
+	<!-- oren10_1819_23 -->
+	<zone name="oren10_1819_23m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5957" maxZ="-5707">
+		<node X="-48034" Y="46586" />
+		<node X="-46782" Y="46587" />
+		<node X="-46777" Y="47819" />
+		<node X="-48034" Y="47817" />
+	</zone>
+	<!-- oren10_1819_24 -->
+	<zone name="oren10_1819_24m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5454" maxZ="-5254">
+		<node X="-50669" Y="47156" />
+		<node X="-50264" Y="47157" />
+		<node X="-50266" Y="47959" />
+		<node X="-50673" Y="47960" />
+	</zone>
+	<!-- oren10_1819_25 -->
+	<zone name="oren10_1819_25m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5975" maxZ="-5775">
+		<node X="-50930" Y="48833" />
+		<node X="-50000" Y="48831" />
+		<node X="-49999" Y="50016" />
+		<node X="-50933" Y="50016" />
+	</zone>
+	<!-- oren10_1819_26 -->
+	<zone name="oren10_1819_26m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5774" maxZ="-5494">
+		<node X="-48140" Y="48206" />
+		<node X="-46647" Y="48210" />
+		<node X="-46643" Y="50587" />
+		<node X="-48104" Y="50586" />
+	</zone>
+	<!-- oren01_qm1819_01 -->
+	<zone name="oren01_qm1819_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3476" maxZ="-2976">
+		<node X="-52264" Y="39452" />
+		<node X="-50628" Y="40272" />
+		<node X="-50824" Y="41952" />
+		<node X="-52696" Y="42072" />
+	</zone>
+	<!-- oren01_qm1819_02 -->
+	<zone name="oren01_qm1819_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5774" maxZ="-5494">
+		<node X="-48140" Y="48206" />
+		<node X="-46647" Y="48210" />
+		<node X="-46643" Y="50587" />
+		<node X="-48104" Y="50586" />
+	</zone>
+</list>

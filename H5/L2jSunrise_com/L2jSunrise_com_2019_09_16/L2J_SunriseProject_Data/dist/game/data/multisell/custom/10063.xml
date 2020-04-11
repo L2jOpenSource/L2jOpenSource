@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- belts -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- mp recovery -->
+	<item>
+		<ingredient id="40002" count="300000" />
+		<production id="14929" count="1" />
+	</item>
+	<!-- hp recovery -->
+	<item>
+		<ingredient id="40002" count="300000" />
+		<production id="14937" count="1" />
+	</item>
+	<!-- physical attack -->
+	<item>
+		<ingredient id="40002" count="300000" />
+		<production id="14953" count="1" />
+	</item>
+	<!-- skill attack -->
+	<item>
+		<ingredient id="40002" count="300000" />
+		<production id="14957" count="1" />
+	</item>
+	<!-- PvP defence -->
+	<item>
+		<ingredient id="40002" count="300000" />
+		<production id="14961" count="1" />
+	</item>
+
+</list>

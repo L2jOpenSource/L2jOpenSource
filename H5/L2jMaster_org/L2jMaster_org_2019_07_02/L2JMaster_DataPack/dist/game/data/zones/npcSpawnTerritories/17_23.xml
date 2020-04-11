@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- gludio34_1723_01 -->
+	<zone name="gludio34_1723_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3764" maxZ="-3064">
+		<node X="-78051" Y="164047" />
+		<node X="-72417" Y="163960" />
+		<node X="-69351" Y="168540" />
+		<node X="-75103" Y="169497" />
+	</zone>
+	<!-- gludio34_1723_02 -->
+	<zone name="gludio34_1723_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3879" maxZ="-2979">
+		<node X="-72204" Y="163988" />
+		<node X="-65828" Y="164053" />
+		<node X="-65850" Y="168094" />
+		<node X="-69278" Y="168439" />
+	</zone>
+	<!-- gludio34_1723_03 -->
+	<zone name="gludio34_1723_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3764" maxZ="-3064">
+		<node X="-74404" Y="169620" />
+		<node X="-65854" Y="168232" />
+		<node X="-65833" Y="172134" />
+		<node X="-70810" Y="174081" />
+	</zone>
+	<!-- gludio34_1723_04 -->
+	<zone name="gludio34_1723_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3764" maxZ="-3064">
+		<node X="-70751" Y="174144" />
+		<node X="-65817" Y="172251" />
+		<node X="-65849" Y="178207" />
+		<node X="-67684" Y="178315" />
+	</zone>
+	<!-- gludio34_1723_05s -->
+	<zone name="gludio34_1723_05sm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3764" maxZ="-3064">
+		<node X="-68365" Y="174048" />
+		<node X="-66111" Y="172916" />
+		<node X="-66030" Y="175473" />
+		<node X="-67795" Y="176370" />
+	</zone>
+	<!-- gludio34_1723_06s -->
+	<zone name="gludio34_1723_06sm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3764" maxZ="-3064">
+		<node X="-70521" Y="170043" />
+		<node X="-67872" Y="168756" />
+		<node X="-67115" Y="171426" />
+		<node X="-69289" Y="171970" />
+	</zone>
+	<!-- gludio34_1723_07s -->
+	<zone name="gludio34_1723_07sm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3764" maxZ="-3064">
+		<node X="-70675" Y="164924" />
+		<node X="-68364" Y="164342" />
+		<node X="-67508" Y="166448" />
+		<node X="-69174" Y="167754" />
+	</zone>
+	<!-- gludio34_1723_08s -->
+	<zone name="gludio34_1723_08sm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3879" maxZ="-2979">
+		<node X="-74778" Y="166929" />
+		<node X="-72707" Y="165515" />
+		<node X="-70878" Y="167465" />
+		<node X="-73235" Y="168518" />
+	</zone>
+</list>

@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- oren_chamberlain_etc -->
+	<spawn zone="oren_chamberlain_etc">
+		<npc id="35226" x="83171" y="37092" z="-2266" heading="32768" respawnDelay="60" />	<!-- Brasseur -->
+		<npc id="35232" x="75275" y="40132" z="-3150" heading="32768" respawnDelay="60" />	<!-- Sherwood -->
+		<npc id="35222" x="78737" y="36852" z="-2544" heading="32768" respawnDelay="60" />	<!-- Outer Doorman -->
+		<npc id="35222" x="79085" y="36798" z="-2544" heading="49152" respawnDelay="60" />	<!-- Outer Doorman -->
+		<npc id="35223" x="81296" y="37025" z="-2254" heading="32768" respawnDelay="60" />	<!-- Inner Doorman -->
+		<npc id="35223" x="81651" y="36959" z="-2294" heading="49152" respawnDelay="60" />	<!-- Inner Doorman -->
+		<npc id="35189" x="84026" y="37191" z="-2272" heading="32768" respawnDelay="60" />	<!-- Oren Holy Artifact -->
+	</spawn>
+	<!-- oren_mass_teleporter -->
+	<spawn zone="oren_mass_teleporter">
+		<npc id="35221" x="82611" y="38772" z="-1578" heading="49152" respawnDelay="60" />	<!-- Mass Gatekeeper -->
+	</spawn>
+	<!-- oren20_npc2219_001 -->
+	<spawn zone="oren_npc2219_00101">
+		<npc id="35228" x="83056" y="37425" z="-2280" heading="32768" respawnDelay="60" />	<!-- Morrison -->
+	</spawn>
+	<!-- oren28_npc2219_002 -->
+	<spawn zone="oren_npc2219_00201">
+		<npc id="30750" x="71569" y="44058" z="-1436" heading="0" respawnDelay="60" />	<!-- Kalibran -->
+	</spawn>
+	<!-- oren17_npc2219_003 -->
+	<spawn zone="oren_npc2219_00301">
+		<npc id="30760" x="80036" y="56568" z="-1557" heading="57344" respawnDelay="60" />	<!-- Sir Gustav Athebaldt -->
+		<npc id="31031" x="79998" y="55455" z="-1568" heading="16384" respawnDelay="5" />	<!-- Broadcasting Tower -->
+	</spawn>
+	<!-- oren17_npc2219_004 -->
+	<spawn zone="oren_npc2219_00401">
+		<npc id="30830" x="81992" y="54048" z="-1494" heading="0" respawnDelay="60" />	<!-- Joey -->
+		<npc id="31206" x="81992" y="54048" z="-1494" heading="0" respawnDelay="60" />	<!-- Ten Ten -->
+	</spawn>
+	<!-- oren17_npc2219_005 -->
+	<spawn zone="oren17_npc2219_00501">
+		<npc id="30657" x="83183" y="53715" z="-1452" heading="32768" respawnDelay="60" />	<!-- Seresin -->
+	</spawn>
+	<!-- oren17_npc2219_006 -->
+	<spawn zone="oren17_npc2219_00601">
+		<npc id="30641" x="83629" y="55957" z="-1523" heading="16384" respawnDelay="60" />	<!-- Takuna -->
+	</spawn>
+	<!-- oren17_npc2219_007 -->
+	<spawn zone="oren17_npc2219_00701">
+		<npc id="30623" x="79610" y="56717" z="-1510" heading="24576" respawnDelay="60" />	<!-- Kaien -->
+	</spawn>
+	<!-- oren17_npc2219_008 -->
+	<spawn zone="oren17_npc2219_00801">
+		<npc id="30180" x="79451" y="54973" z="-1541" heading="0" respawnDelay="60" />	<!-- Sara -->
+		<npc id="30181" x="79451" y="54877" z="-1542" heading="0" respawnDelay="60" />	<!-- Galibredo -->
+	</spawn>
+	<!-- oren17_npc2219_009 -->
+	<spawn zone="oren17_npc2219_00901">
+		<npc id="30676" x="81655" y="54736" z="-1509" heading="16384" respawnDelay="60" />	<!-- Croop -->
+		<npc id="30182" x="81315" y="54986" z="-1508" heading="57343" respawnDelay="60" />	<!-- Cliff -->
+		<npc id="30183" x="81777" y="55123" z="-1508" heading="32768" respawnDelay="60" />	<!-- Hagger -->
+	</spawn>
+	<!-- oren17_npc2219_010 -->
+	<spawn zone="oren17_npc2219_01001">
+		<npc id="30677" x="83741" y="55410" z="-1508" heading="24576" respawnDelay="60" />	<!-- Flutter -->
+		<npc id="30678" x="83684" y="55631" z="-1509" heading="45056" respawnDelay="60" />	<!-- Helton -->
+	</spawn>
+	<!-- oren17_npc2219_011 -->
+	<spawn zone="oren17_npc2219_01101">
+		<npc id="30177" x="82992" y="53171" z="-1492" heading="31000" respawnDelay="60" />	<!-- Valentina -->
+	</spawn>
+	<!-- oren17_npc2219_012 -->
+	<spawn zone="oren17_npc2219_01201">
+		<npc id="30187" x="79183" y="56947" z="-1510" heading="57344" respawnDelay="60" />	<!-- Klaus Blackbird -->
+		<npc id="30185" x="79706" y="56914" z="-1510" heading="32768" respawnDelay="60" />	<!-- Taniac Blackbird -->
+		<npc id="30186" x="79448" y="57053" z="-1510" heading="49152" respawnDelay="60" />	<!-- Bhan -->
+		<npc id="30679" x="79213" y="56423" z="-1510" heading="16384" respawnDelay="60" />	<!-- Roameria -->
+		<npc id="30184" x="79077" y="56694" z="-1510" heading="0" respawnDelay="60" />	<!-- Rigol -->
+	</spawn>
+	<!-- oren17_npc2219_013 -->
+	<spawn zone="oren17_npc2219_01301">
+		<npc id="30191" x="83634" y="52927" z="-1443" heading="16384" respawnDelay="60" />	<!-- Hollint -->
+	</spawn>
+	<!-- oren17_npc2219_014 -->
+	<spawn zone="oren17_npc2219_01401">
+		<npc id="30188" x="83469" y="53215" z="-1454" heading="0" respawnDelay="60" />	<!-- Vadin -->
+		<npc id="30189" x="83469" y="53398" z="-1454" heading="0" respawnDelay="60" />	<!-- Rovia -->
+		<npc id="30680" x="83785" y="53215" z="-1454" heading="32768" respawnDelay="60" />	<!-- Egnos -->
+		<npc id="30190" x="83785" y="53398" z="-1454" heading="32768" respawnDelay="60" />	<!-- Phanovia -->
+	</spawn>
+	<!-- oren17_npc2219_015 -->
+	<spawn zone="oren17_npc2219_01501">
+		<npc id="30195" x="83201" y="55005" z="-1508" heading="49152" respawnDelay="60" />	<!-- Brecson -->
+		<npc id="30192" x="83477" y="54912" z="-1509" heading="32768" respawnDelay="60" />	<!-- Darya -->
+		<npc id="30194" x="82930" y="54911" z="-1509" heading="0" respawnDelay="60" />	<!-- Gideon -->
+	</spawn>
+	<!-- oren17_npc2219_016 -->
+	<spawn zone="oren17_npc2219_01601">
+		<npc id="30197" x="81102" y="53053" z="-1555" heading="49152" respawnDelay="60" />	<!-- Hector -->
+		<npc id="32482" x="80913" y="53053" z="-1555" heading="49152" respawnDelay="60" />	<!-- Emdrere -->
+	</spawn>
+	<!-- oren17_npc2219_017 -->
+	<spawn zone="oren17_npc2219_01701">
+		<npc id="30199" x="79671" y="54184" z="-1555" heading="32768" respawnDelay="60" />	<!-- Yates -->
+		<npc id="30198" x="79671" y="54384" z="-1555" heading="32768" respawnDelay="60" />	<!-- Jerin -->
+	</spawn>
+	<!-- oren17_npc2219_018 -->
+	<spawn zone="oren17_npc2219_01801">
+		<npc id="30201" x="81420" y="56240" z="-1522" heading="16384" respawnDelay="60" />	<!-- Pinaps -->
+		<npc id="30200" x="81631" y="56240" z="-1522" heading="16384" respawnDelay="60" />	<!-- Stan -->
+	</spawn>
+	<!-- oren17_npc2219_019 -->
+	<spawn zone="oren17_npc2219_01901">
+		<npc id="31002" x="92743" y="55523" z="-3416" heading="32768" respawnDelay="60" />	<!-- Reorin -->
+	</spawn>
+	<!-- oren17_npc2219_020 -->
+	<spawn zone="oren17_npc2219_02001">
+		<npc id="35229" x="82682" y="55280" z="-1523" heading="27280" respawnDelay="60" />	<!-- Manor Manager -->
+	</spawn>
+	<!-- oren17_npc2219_021 -->
+	<spawn zone="oren17_npc2219_02101">
+		<npc id="31052" x="80071" y="55068" z="-1545" heading="40064" respawnDelay="60" />	<!-- Heid -->
+	</spawn>
+	<!-- oren17_npc2219_022 -->
+	<spawn zone="oren17_npc2219_02201">
+		<npc id="30178" x="79111" y="53657" z="-1548" heading="0" respawnDelay="60" />	<!-- Zenkin -->
+		<npc id="30179" x="79112" y="53602" z="-1548" heading="0" respawnDelay="60" />	<!-- Raudia -->
+		<npc id="35229" x="80091" y="53464" z="-1558" heading="57784" respawnDelay="60" />	<!-- Manor Manager -->
+	</spawn>
+	<!-- oren17_npc2219_023 -->
+	<spawn zone="oren17_npc2219_02301">
+		<npc id="30929" x="79769" y="55048" z="-1544" heading="48500" respawnDelay="60" />	<!-- Patrin -->
+	</spawn>
+	<!-- oren17_npc2219_024 -->
+	<spawn zone="oren17_npc2219_02401">
+		<npc id="31083" x="83106" y="54015" z="-1488" heading="32500" respawnDelay="60" />	<!-- Priest of Dawn -->
+	</spawn>
+	<!-- oren17_npc2219_025 -->
+	<spawn zone="oren17_npc2219_02501">
+		<npc id="31090" x="82819" y="54657" z="-1520" heading="49000" respawnDelay="60" />	<!-- Dusk Priestess -->
+	</spawn>
+	<!-- oren17_npc2219_026 -->
+	<spawn zone="oren17_npc2219_02601">
+		<npc id="31092" x="80129" y="56947" z="-1552" heading="32500" respawnDelay="60" />	<!-- Black Marketeer of Mammon -->
+	</spawn>
+	<!-- oren17_npc2219_027 -->
+	<spawn zone="oren17_npc2219_02701">
+		<npc id="30683" x="83676" y="56144" z="-1520" heading="48000" respawnDelay="60" />	<!-- Daunt -->
+		<npc id="30682" x="83712" y="56000" z="-1523" heading="32000" respawnDelay="60" />	<!-- Pekiron -->
+		<npc id="30681" x="83760" y="56096" z="-1523" heading="32500" respawnDelay="60" />	<!-- Karia -->
+	</spawn>
+	<!-- oren17_npc2219_029 -->
+	<spawn zone="oren17_npc2219_02901">
+		<npc id="31437" x="83616" y="55392" z="-1510" heading="16000" respawnDelay="60" />	<!-- Luka -->
+		<npc id="31444" x="83568" y="55696" z="-1510" heading="48000" respawnDelay="60" />	<!-- Cona -->
+	</spawn>
+	<!-- oren17_npc2219_030 -->
+	<spawn zone="oren17_npc2219_03001">
+		<npc id="31574" x="79774" y="54746" z="-1545" heading="16000" respawnDelay="60" />	<!-- Willie -->
+	</spawn>
+	<!-- oren17_npc2219_031 -->
+	<spawn zone="oren17_npc2219_03101">
+		<npc id="31688" x="82688" y="53056" z="-1494" heading="16500" respawnDelay="60" />	<!-- Grand Olympiad Manager -->
+		<npc id="31690" x="82752" y="53056" z="-1494" heading="16500" respawnDelay="60" />	<!-- Monument of Heroes -->
+	</spawn>
+	<!-- oren17_npc2219_032 -->
+	<spawn zone="oren17_npc2219_03201">
+		<npc id="31814" x="80848" y="53168" z="-1558" heading="16500" respawnDelay="60" />	<!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren17_npc2219_033 -->
+	<spawn zone="oren17_npc2219_03301">
+		<npc id="31815" x="81984" y="54256" z="-1494" heading="0" respawnDelay="60" />	<!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren17_npc2219_034 -->
+	<spawn zone="oren17_npc2219_03401">
+		<npc id="31816" x="81692" y="56128" z="-1523" heading="49000" respawnDelay="60" />	<!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren17_npc2219_035 -->
+	<spawn zone="oren17_npc2219_03501">
+		<npc id="31817" x="81136" y="54832" z="-1523" heading="33000" respawnDelay="60" />	<!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren17_npc2219_036 -->
+	<spawn zone="oren17_npc2219_03601">
+		<npc id="31818" x="79776" y="54032" z="-1558" heading="0" respawnDelay="60" />	<!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren17_npc2219_037 -->
+	<spawn zone="oren17_npc2219_03701">
+		<npc id="30196" x="81023" y="56456" z="-1552" heading="-16232" respawnDelay="60" />	<!-- Mouen -->
+		<npc id="32484" x="80960" y="56455" z="-1552" heading="-16072" respawnDelay="60" />	<!-- Pathfinder Worker -->
+	</spawn>
+	<!-- oren20_npc2219_101 -->
+	<spawn zone="oren_npc2219_10101">
+		<npc id="35224" x="82560" y="37568" z="-2449" heading="49152" respawnDelay="60" />	<!-- Blacksmith -->
+	</spawn>
+	<!-- oren20_npc2219_102 -->
+	<spawn zone="oren_npc2219_10201">
+		<npc id="35225" x="81983" y="37214" z="-2458" heading="0" respawnDelay="60" />	<!-- Warehouse Keeper -->
+	</spawn>
+	<!-- oren20_npc2219_103 -->
+	<spawn zone="oren_npc2219_10301">
+		<npc id="35227" x="83856" y="37352" z="-1826" heading="49000" respawnDelay="60" />	<!-- Finrod -->
+	</spawn>
+	<!-- oren20_npc2219_104 -->
+	<spawn zone="oren_npc2219_10401">
+		<npc id="35651" x="83056" y="36960" z="-2289" heading="32768" respawnDelay="60" />	<!-- Court Magician -->
+	</spawn>
+	<!-- oren20_npc2219_105 -->
+	<spawn zone="oren_npc2219_10501">
+		<npc id="36406" x="82909" y="37219" z="-2458" heading="32768" respawnDelay="60" />	<!-- Warden -->
+	</spawn>
+	<!-- oren17_npc2219_102 -->
+	<spawn zone="oren17_npc2219_102m1">
+		<npc id="32327" x="82385" y="53283" z="-1488" heading="16384" respawnDelay="60" />	<!-- Adventurers' Guide -->
+	</spawn>
+	<!-- oren17_npc2219_km1 -->
+	<spawn zone="oren17_npc2219_km1m1">
+		<npc id="32205" x="83680" y="54448" z="-1512" heading="32768" respawnDelay="60" />	<!-- Aetonic -->
+		<npc id="32206" x="83680" y="54480" z="-1512" heading="32768" respawnDelay="60" />	<!-- Pieche -->
+		<npc id="32207" x="83658" y="54421" z="-1512" heading="32768" respawnDelay="60" />	<!-- Orkurus -->
+		<npc id="32208" x="83658" y="54506" z="-1512" heading="32768" respawnDelay="60" />	<!-- Rasha -->
+	</spawn>
+	<!-- oren17_npc2219_9876 -->
+	<spawn zone="oren17_npc2219_9876m1">
+		<npc id="32632" x="82832" y="53088" z="-1504" heading="16384" respawnDelay="60" />	<!-- Gracian Survivor -->
+	</spawn>
+	<!-- oren17_npc2219_premium01 -->
+	<spawn zone="oren17_npc2219_premium01m1">
+		<npc id="32478" x="81792" y="55376" z="-1523" heading="16500" respawnDelay="60" />	<!-- Dimensional Merchant -->
+	</spawn>
+	<!-- ssq_npc2219_01 -->
+	<spawn zone="ssq_npc2219_01m1">
+		<npc id="32569" x="82717" y="47062" z="-3232" heading="49152" respawnDelay="60" />	<!-- Cain -->
+	</spawn>
+	<!-- ssq_npc2219_02 -->
+	<spawn zone="ssq_npc2219_02m1">
+		<npc id="32568" x="88097" y="38401" z="-3368" heading="0" respawnDelay="60" />	<!-- Unidentified Body -->
+	</spawn>
+	<!-- oren17_npc2219_tk01 -->
+	<spawn zone="oren17_npc2219_tk01m1">
+		<npc id="30990" x="83001" y="53224" z="-1488" heading="31000" respawnDelay="60" />	<!-- Lottery Ticket Seller -->
+	</spawn>
+	<!-- oren28_2219_01 -->
+	<spawn zone="oren28_2219_01m1">
+		<npc id="20587" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_02 -->
+	<spawn zone="oren28_2219_02m1">
+		<npc id="20587" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_02s -->
+	<spawn zone="oren28_2219_02sm1">
+		<npc id="20587" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_03 -->
+	<spawn zone="oren28_2219_03m1">
+		<npc id="20587" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_04 -->
+	<spawn zone="oren28_2219_04m1">
+		<npc id="20587" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_04s -->
+	<spawn zone="oren28_2219_04sm1">
+		<npc id="20587" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_05 -->
+	<spawn zone="oren28_2219_05m1">
+		<npc id="20587" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_05s -->
+	<spawn zone="oren28_2219_05sm1">
+		<npc id="20587" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_06 -->
+	<spawn zone="oren28_2219_06m1">
+		<npc id="20587" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_07 -->
+	<spawn zone="oren28_2219_07m1">
+		<npc id="20587" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_08 -->
+	<spawn zone="oren28_2219_08m1">
+		<npc id="20587" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_09 -->
+	<spawn zone="oren28_2219_09m1">
+		<npc id="20587" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="1" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_10 -->
+	<spawn zone="oren28_2219_10m1">
+		<npc id="20587" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20588" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Overlord -->
+		<npc id="20586" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_11 -->
+	<spawn zone="oren28_2219_11m1">
+		<npc id="20587" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20585" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Soldier -->
+		<npc id="20586" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_12 -->
+	<spawn zone="oren28_2219_12m1">
+		<npc id="20587" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20585" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Soldier -->
+		<npc id="20586" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_13 -->
+	<spawn zone="oren28_2219_13m1">
+		<npc id="20587" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Shaman -->
+		<npc id="20585" count="2" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Soldier -->
+		<npc id="20586" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Warrior -->
+	</spawn>
+	<!-- oren28_2219_p01 -->
+	<spawn zone="oren28_2219_p01m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p02 -->
+	<spawn zone="oren28_2219_p02m1">
+		<npc id="20767" count="4" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p03 -->
+	<spawn zone="oren28_2219_p03m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p04 -->
+	<spawn zone="oren28_2219_p04m1">
+		<npc id="20767" count="4" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p05 -->
+	<spawn zone="oren28_2219_p05m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p06 -->
+	<spawn zone="oren28_2219_p06m1">
+		<npc id="20767" count="4" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p07 -->
+	<spawn zone="oren28_2219_p07m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p08 -->
+	<spawn zone="oren28_2219_p08m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p09 -->
+	<spawn zone="oren28_2219_p09m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p10 -->
+	<spawn zone="oren28_2219_p10m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p11 -->
+	<spawn zone="oren28_2219_p11m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p12 -->
+	<spawn zone="oren28_2219_p12m1">
+		<npc id="20767" count="4" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_2219_p13 -->
+	<spawn zone="oren28_2219_p13m1">
+		<npc id="20767" count="4" respawnDelay="40" respawnRandom="10" />	<!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren22_2219_a01 -->
+	<spawn name="oren22_2219_a01m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="88347" y="56413" z="-3495" heading="49152" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="88522" y="56208" z="-3526" heading="17127" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88418" y="56206" z="-3526" heading="13868" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88305" y="56212" z="-3526" heading="19456" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88190" y="56216" z="-3526" heading="15466" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88181" y="56119" z="-3526" heading="15734" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88296" y="56111" z="-3526" heading="15128" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88417" y="56106" z="-3526" heading="14390" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88530" y="56107" z="-3526" heading="16458" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88177" y="56011" z="-3526" heading="16387" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88298" y="56002" z="-3526" heading="16785" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88420" y="55997" z="-3526" heading="14642" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88530" y="56001" z="-3526" heading="16083" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88177" y="55914" z="-3526" heading="13392" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88294" y="55905" z="-3526" heading="15411" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88424" y="55903" z="-3526" heading="15063" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88530" y="55903" z="-3526" heading="17704" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88186" y="55812" z="-3526" heading="15800" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88303" y="55809" z="-3526" heading="16097" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88421" y="55813" z="-3526" heading="15393" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="88529" y="55803" z="-3526" heading="13935" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_a02 -->
+	<spawn name="oren22_2219_a02m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="89421" y="56422" z="-3501" heading="49152" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="89261" y="56219" z="-3525" heading="16069" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89365" y="56222" z="-3527" heading="18156" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89475" y="56221" z="-3527" heading="18008" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89579" y="56223" z="-3527" heading="16805" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89262" y="56118" z="-3527" heading="15035" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89364" y="56120" z="-3527" heading="16637" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89475" y="56121" z="-3527" heading="14304" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89581" y="56123" z="-3527" heading="18984" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89265" y="56019" z="-3527" heading="19511" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89364" y="56021" z="-3527" heading="18633" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89475" y="56024" z="-3527" heading="14740" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89581" y="56026" z="-3527" heading="15548" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89268" y="55915" z="-3527" heading="15257" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89364" y="55918" z="-3527" heading="16562" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89476" y="55919" z="-3527" heading="17372" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89585" y="55922" z="-3527" heading="14490" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89270" y="55809" z="-3527" heading="16318" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89365" y="55814" z="-3527" heading="16965" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89475" y="55813" z="-3527" heading="15902" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="89587" y="55818" z="-3527" heading="17192" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_a03 -->
+	<spawn name="oren22_2219_a03m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="90443" y="56392" z="-3494" heading="49152" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="90237" y="56209" z="-3524" heading="13795" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90348" y="56203" z="-3524" heading="15173" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90447" y="56200" z="-3524" heading="15376" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90546" y="56200" z="-3524" heading="17608" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90649" y="56207" z="-3524" heading="15610" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90255" y="56102" z="-3524" heading="15788" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90369" y="56099" z="-3524" heading="16368" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90471" y="56099" z="-3524" heading="14928" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90574" y="56098" z="-3524" heading="13679" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90680" y="56101" z="-3524" heading="16988" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90651" y="55999" z="-3524" heading="15409" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90545" y="56001" z="-3524" heading="17058" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90450" y="55998" z="-3524" heading="16518" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90346" y="56001" z="-3524" heading="15320" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90231" y="55997" z="-3524" heading="19048" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90683" y="55885" z="-3524" heading="18469" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90583" y="55884" z="-3524" heading="15488" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90473" y="55881" z="-3524" heading="16889" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90371" y="55886" z="-3524" heading="15399" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="90260" y="55883" z="-3524" heading="18417" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_a04 -->
+	<spawn name="oren22_2219_a04m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22776" x="87307" y="57853" z="-3637" heading="49152" respawnDelay="90" />	<!-- Sel Mahum Training Officer -->
+		<npc id="22783" x="87352" y="57660" z="-3678" heading="16350" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87457" y="57668" z="-3678" heading="14844" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87237" y="57664" z="-3678" heading="19161" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87131" y="57665" z="-3678" heading="14055" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87130" y="57564" z="-3678" heading="18962" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87238" y="57560" z="-3678" heading="18369" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87350" y="57560" z="-3678" heading="17318" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87458" y="57565" z="-3678" heading="16645" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87132" y="57462" z="-3678" heading="14720" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87241" y="57464" z="-3678" heading="18644" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87349" y="57459" z="-3678" heading="17481" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87457" y="57460" z="-3678" heading="17763" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87134" y="57356" z="-3678" heading="13681" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87243" y="57361" z="-3678" heading="14961" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87348" y="57358" z="-3678" heading="16313" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87459" y="57358" z="-3678" heading="13590" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87130" y="57255" z="-3678" heading="19164" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87236" y="57257" z="-3678" heading="17157" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87344" y="57251" z="-3678" heading="16694" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="87455" y="57251" z="-3678" heading="14925" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+	</spawn>
+	<!-- oren22_2219_a05 -->
+	<spawn name="oren22_2219_a05m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22776" x="88368" y="57845" z="-3657" heading="49152" respawnDelay="90" />	<!-- Sel Mahum Training Officer -->
+		<npc id="22783" x="88317" y="57649" z="-3680" heading="14811" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88430" y="57648" z="-3680" heading="15183" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88534" y="57650" z="-3680" heading="15902" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88202" y="57653" z="-3680" heading="17220" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88184" y="57554" z="-3680" heading="17723" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88296" y="57553" z="-3680" heading="16434" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88409" y="57550" z="-3680" heading="15996" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88512" y="57551" z="-3680" heading="18791" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88535" y="57452" z="-3680" heading="17151" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88425" y="57451" z="-3680" heading="17843" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88313" y="57451" z="-3680" heading="16618" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88199" y="57453" z="-3680" heading="16900" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88510" y="57347" z="-3680" heading="18409" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88402" y="57347" z="-3680" heading="18816" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88290" y="57350" z="-3680" heading="20020" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88176" y="57350" z="-3680" heading="14869" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88524" y="57243" z="-3680" heading="17754" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88424" y="57240" z="-3680" heading="15873" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88313" y="57241" z="-3680" heading="14225" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="88206" y="57235" z="-3680" heading="16051" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+	</spawn>
+	<!-- oren22_2219_a06 -->
+	<spawn name="oren22_2219_a06m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22776" x="89397" y="57854" z="-3586" heading="49152" respawnDelay="90" />	<!-- Sel Mahum Training Officer -->
+		<npc id="22783" x="89345" y="57645" z="-3632" heading="14728" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89454" y="57645" z="-3632" heading="18467" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89558" y="57649" z="-3632" heading="17529" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89233" y="57652" z="-3632" heading="18447" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89207" y="57548" z="-3632" heading="18021" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89312" y="57549" z="-3632" heading="16128" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89409" y="57548" z="-3632" heading="16590" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89505" y="57547" z="-3632" heading="17434" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89607" y="57549" z="-3632" heading="15929" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89253" y="57454" z="-3632" heading="14879" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89357" y="57456" z="-3632" heading="13463" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89465" y="57454" z="-3632" heading="16410" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89556" y="57456" z="-3632" heading="15994" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89198" y="57362" z="-3632" heading="16760" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89301" y="57365" z="-3632" heading="14304" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89402" y="57370" z="-3632" heading="17462" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89500" y="57373" z="-3632" heading="16329" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89600" y="57376" z="-3632" heading="16824" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89254" y="57278" z="-3632" heading="16017" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89350" y="57279" z="-3632" heading="16773" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89453" y="57276" z="-3632" heading="17476" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+		<npc id="22783" x="89552" y="57284" z="-3632" heading="16725" respawnDelay="90" />	<!-- Sel Mahum Soldier -->
+	</spawn>
+	<!-- oren22_2219_b01 -->
+	<spawn name="oren22_2219_b01m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="85474" y="58676" z="-3367" heading="32768" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="85251" y="58503" z="-3396" heading="1823" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85236" y="58616" z="-3393" heading="3030" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85244" y="58735" z="-3393" heading="1349" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85250" y="58854" z="-3393" heading="2212" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85105" y="58501" z="-3395" heading="-2988" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85111" y="58621" z="-3393" heading="-1933" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85104" y="58735" z="-3393" heading="1255" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85109" y="58853" z="-3393" heading="-280" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84977" y="58508" z="-3400" heading="-2949" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84972" y="58629" z="-3393" heading="3358" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84963" y="58740" z="-3393" heading="-957" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84968" y="58853" z="-3393" heading="-836" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84845" y="58513" z="-3400" heading="1396" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84836" y="58633" z="-3393" heading="2039" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84837" y="58743" z="-3393" heading="33" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84829" y="58864" z="-3393" heading="-1413" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84709" y="58512" z="-3413" heading="1425" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84715" y="58635" z="-3403" heading="-1" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84706" y="58755" z="-3397" heading="-385" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84704" y="58878" z="-3398" heading="1274" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_b02 -->
+	<spawn name="oren22_2219_b02m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="85482" y="59706" z="-3397" heading="32768" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="85280" y="59498" z="-3440" heading="9" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85277" y="59604" z="-3440" heading="3751" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85280" y="59701" z="-3440" heading="535" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85276" y="59804" z="-3440" heading="139" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85174" y="59492" z="-3440" heading="2122" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85171" y="59592" z="-3440" heading="253" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85175" y="59698" z="-3440" heading="-1274" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85172" y="59805" z="-3440" heading="300" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85068" y="59489" z="-3440" heading="84" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84961" y="59491" z="-3440" heading="233" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85276" y="59914" z="-3440" heading="-1416" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85168" y="59919" z="-3440" heading="-121" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85063" y="59594" z="-3440" heading="3247" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84946" y="59601" z="-3440" heading="-313" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85061" y="59701" z="-3440" heading="-964" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84951" y="59703" z="-3440" heading="-1567" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85060" y="59806" z="-3440" heading="-1508" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84946" y="59807" z="-3440" heading="123" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85053" y="59913" z="-3440" heading="772" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84944" y="59910" z="-3440" heading="359" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_b03 -->
+	<spawn name="oren22_2219_b03m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="85484" y="60762" z="-3391" heading="32768" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="85258" y="60555" z="-3440" heading="-2001" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85259" y="60661" z="-3440" heading="-2321" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85269" y="60761" z="-3440" heading="1305" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85263" y="60869" z="-3440" heading="-299" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85259" y="60980" z="-3440" heading="806" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85152" y="60544" z="-3440" heading="3396" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85148" y="60650" z="-3440" heading="1408" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85147" y="60761" z="-3440" heading="1860" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85146" y="60867" z="-3440" heading="-1356" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85148" y="60974" z="-3440" heading="-1199" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85033" y="60545" z="-3440" heading="1583" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85036" y="60648" z="-3440" heading="2276" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85030" y="60759" z="-3440" heading="1432" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85036" y="60862" z="-3440" heading="-513" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="85035" y="60976" z="-3440" heading="-3165" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84913" y="60546" z="-3440" heading="-199" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84912" y="60656" z="-3440" heading="-233" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84904" y="60766" z="-3440" heading="132" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84902" y="60870" z="-3440" heading="188" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="84904" y="60980" z="-3440" heading="-948" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_b04 -->
+	<spawn name="oren22_2219_b04m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="84067" y="59229" z="-3455" heading="32768" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="83860" y="59045" z="-3488" heading="627" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83856" y="59161" z="-3488" heading="2501" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83858" y="59274" z="-3488" heading="-224" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83866" y="59391" z="-3488" heading="-929" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83744" y="59040" z="-3488" heading="-1600" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83738" y="59162" z="-3488" heading="-1906" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83747" y="59280" z="-3488" heading="-1525" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83744" y="59392" z="-3488" heading="-1331" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83626" y="59036" z="-3488" heading="208" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83632" y="59151" z="-3488" heading="642" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83626" y="59278" z="-3488" heading="-780" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83629" y="59395" z="-3488" heading="1639" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83495" y="59030" z="-3488" heading="-758" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83497" y="59152" z="-3488" heading="-308" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83496" y="59282" z="-3488" heading="-1649" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83493" y="59394" z="-3488" heading="-2046" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_b05 -->
+	<spawn name="oren22_2219_b05m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="84070" y="60231" z="-3452" heading="32768" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="83843" y="60393" z="-3488" heading="-1822" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83816" y="60255" z="-3488" heading="1736" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83779" y="60128" z="-3488" heading="-2976" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83765" y="60002" z="-3488" heading="1724" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83649" y="59963" z="-3488" heading="466" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83651" y="60086" z="-3488" heading="1545" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83678" y="60223" z="-3488" heading="-300" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83714" y="60345" z="-3488" heading="-1259" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83521" y="59989" z="-3488" heading="-3415" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83534" y="60114" z="-3488" heading="1434" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83568" y="60249" z="-3488" heading="-1828" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83594" y="60388" z="-3488" heading="-1878" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83394" y="59966" z="-3488" heading="3828" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83403" y="60092" z="-3488" heading="-1266" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83429" y="60215" z="-3488" heading="246" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83253" y="59961" z="-3488" heading="1120" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83257" y="60083" z="-3504" heading="1643" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83287" y="60203" z="-3504" heading="-644" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_c01 -->
+	<spawn name="oren22_2219_c01m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="79658" y="62438" z="-3638" heading="16384" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="79437" y="62677" z="-3662" heading="50435" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79572" y="62679" z="-3662" heading="50020" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79715" y="62687" z="-3662" heading="50491" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79843" y="62685" z="-3662" heading="48555" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79440" y="62785" z="-3669" heading="51565" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79577" y="62791" z="-3669" heading="48354" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79722" y="62797" z="-3669" heading="51515" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79851" y="62798" z="-3669" heading="50697" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79448" y="62913" z="-3669" heading="48587" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79583" y="62909" z="-3669" heading="48691" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79730" y="62910" z="-3669" heading="49960" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79867" y="62911" z="-3669" heading="49242" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79445" y="63031" z="-3669" heading="50056" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79590" y="63036" z="-3669" heading="48406" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79735" y="63031" z="-3669" heading="48779" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="79871" y="63031" z="-3669" heading="46955" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_c02 -->
+	<spawn name="oren22_2219_c02m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="80721" y="62436" z="-3646" heading="16384" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="80508" y="62651" z="-3670" heading="46922" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80638" y="62660" z="-3670" heading="48514" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80772" y="62665" z="-3670" heading="48933" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80909" y="62661" z="-3670" heading="51934" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80509" y="62782" z="-3670" heading="50405" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80643" y="62784" z="-3670" heading="48161" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80779" y="62788" z="-3670" heading="49284" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80913" y="62789" z="-3670" heading="49360" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80512" y="62908" z="-3670" heading="47113" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80515" y="63034" z="-3670" heading="51291" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80646" y="62908" z="-3670" heading="49325" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80651" y="63030" z="-3670" heading="49991" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80783" y="62913" z="-3670" heading="50069" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80787" y="63041" z="-3670" heading="48950" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80918" y="62923" z="-3670" heading="48835" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="80919" y="63038" z="-3670" heading="52370" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_c03 -->
+	<spawn name="oren22_2219_c03m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="81796" y="62445" z="-3547" heading="16384" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="81600" y="62674" z="-3553" heading="47415" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81743" y="62677" z="-3569" heading="50273" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81871" y="62675" z="-3569" heading="47518" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81983" y="62679" z="-3569" heading="48938" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81554" y="62790" z="-3569" heading="48619" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81681" y="62796" z="-3569" heading="48609" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81811" y="62798" z="-3569" heading="50340" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81928" y="62795" z="-3569" heading="46829" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82041" y="62793" z="-3569" heading="52574" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81615" y="62910" z="-3585" heading="47428" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81748" y="62917" z="-3569" heading="52613" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81877" y="62919" z="-3569" heading="47966" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81994" y="62920" z="-3569" heading="48367" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81611" y="63055" z="-3585" heading="47741" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81749" y="63053" z="-3569" heading="47388" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81883" y="63061" z="-3569" heading="48100" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="81997" y="63059" z="-3569" heading="52031" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_c04 -->
+	<spawn name="oren22_2219_c04m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22775" x="82825" y="62443" z="-3477" heading="16384" respawnDelay="90" />	<!-- Sel Mahum Drill Sergeant -->
+		<npc id="22782" x="82613" y="62675" z="-3501" heading="47941" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82756" y="62677" z="-3501" heading="50481" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82887" y="62678" z="-3501" heading="46535" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83024" y="62673" z="-3501" heading="49294" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82614" y="62792" z="-3501" heading="49535" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82755" y="62799" z="-3501" heading="48038" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82893" y="62798" z="-3501" heading="50288" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83029" y="62801" z="-3501" heading="49323" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82616" y="62910" z="-3501" heading="51141" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82763" y="62914" z="-3501" heading="46537" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82897" y="62914" z="-3501" heading="49527" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83035" y="62922" z="-3501" heading="52471" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82589" y="63039" z="-3501" heading="51655" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82707" y="63042" z="-3501" heading="47544" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82835" y="63040" z="-3501" heading="50904" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="82954" y="63044" z="-3501" heading="49439" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22782" x="83059" y="63052" z="-3501" heading="45871" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_d01 -->
+	<spawn name="oren22_2219_d01m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22776" x="91678" y="61528" z="-3230" heading="0" respawnDelay="90" />	<!-- Sel Mahum Training Officer -->
+		<npc id="22780" x="91867" y="61289" z="-3264" heading="31390" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91872" y="61404" z="-3264" heading="33485" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91873" y="61523" z="-3264" heading="33058" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91881" y="61653" z="-3264" heading="35075" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91879" y="61778" z="-3257" heading="32862" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91995" y="61308" z="-3255" heading="32861" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91994" y="61425" z="-3264" heading="34385" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91997" y="61549" z="-3264" heading="33501" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92002" y="61671" z="-3264" heading="34558" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92009" y="61794" z="-3264" heading="33667" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92124" y="61283" z="-3266" heading="34699" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92113" y="61406" z="-3268" heading="34448" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92121" y="61525" z="-3264" heading="34667" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92118" y="61655" z="-3264" heading="34866" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92135" y="61781" z="-3262" heading="32955" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92262" y="61283" z="-3258" heading="34729" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92250" y="61406" z="-3264" heading="31483" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92255" y="61536" z="-3263" heading="34885" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92268" y="61667" z="-3264" heading="30598" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92275" y="61789" z="-3264" heading="35240" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_d02 -->
+	<spawn name="oren22_2219_d02m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22776" x="91675" y="62592" z="-3231" heading="0" respawnDelay="90" />	<!-- Sel Mahum Training Officer -->
+		<npc id="22780" x="91885" y="62545" z="-3264" heading="34965" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91874" y="62399" z="-3264" heading="29005" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91887" y="62678" z="-3264" heading="35653" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91885" y="62817" z="-3264" heading="34352" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91978" y="62399" z="-3264" heading="32098" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92096" y="62401" z="-3264" heading="31467" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92225" y="62402" z="-3264" heading="32337" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91994" y="62539" z="-3264" heading="30033" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92103" y="62536" z="-3264" heading="36055" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92233" y="62535" z="-3264" heading="33633" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92002" y="62675" z="-3264" heading="29684" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92113" y="62683" z="-3264" heading="29813" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92241" y="62677" z="-3264" heading="33782" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92007" y="62813" z="-3264" heading="33061" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92126" y="62803" z="-3264" heading="32830" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92252" y="62802" z="-3264" heading="32643" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_d03 -->
+	<spawn name="oren22_2219_d03m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22776" x="91691" y="63622" z="-3237" heading="0" respawnDelay="90" />	<!-- Sel Mahum Training Officer -->
+		<npc id="22780" x="91858" y="63481" z="-3265" heading="30402" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91865" y="63623" z="-3265" heading="33801" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91865" y="63771" z="-3268" heading="32118" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91958" y="63482" z="-3265" heading="33982" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91967" y="63625" z="-3265" heading="32187" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91965" y="63774" z="-3268" heading="33566" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92058" y="63482" z="-3265" heading="31999" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92070" y="63626" z="-3265" heading="31921" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92067" y="63773" z="-3268" heading="34683" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92161" y="63482" z="-3265" heading="30242" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92165" y="63621" z="-3265" heading="30363" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92176" y="63773" z="-3268" heading="30972" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92266" y="63475" z="-3265" heading="30056" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92267" y="63625" z="-3265" heading="30693" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="92280" y="63770" z="-3268" heading="33965" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_d04 -->
+	<spawn name="oren22_2219_d04m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22776" x="90206" y="62016" z="-3315" heading="0" respawnDelay="90" />	<!-- Sel Mahum Training Officer -->
+		<npc id="22780" x="90450" y="61728" z="-3351" heading="32486" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90459" y="61850" z="-3351" heading="34127" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90468" y="61982" z="-3351" heading="32490" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90474" y="62142" z="-3348" heading="30770" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90471" y="62263" z="-3351" heading="32979" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90581" y="61727" z="-3328" heading="33255" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90718" y="61731" z="-3337" heading="33508" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90862" y="61727" z="-3344" heading="31435" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90591" y="61851" z="-3328" heading="35475" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90729" y="61842" z="-3337" heading="31090" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90869" y="61857" z="-3328" heading="31414" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90599" y="61976" z="-3328" heading="31624" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90731" y="61976" z="-3337" heading="32816" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90874" y="61979" z="-3337" heading="31903" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90604" y="62143" z="-3328" heading="31937" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90739" y="62127" z="-3337" heading="33882" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90877" y="62135" z="-3337" heading="34076" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90603" y="62257" z="-3328" heading="33354" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90743" y="62251" z="-3337" heading="32884" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90880" y="62258" z="-3337" heading="33890" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_d05 -->
+	<spawn name="oren22_2219_d05m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22776" x="90207" y="63082" z="-3315" heading="0" respawnDelay="90" />	<!-- Sel Mahum Training Officer -->
+		<npc id="22780" x="90388" y="62875" z="-3335" heading="34592" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90411" y="63022" z="-3335" heading="35435" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90416" y="63171" z="-3335" heading="33762" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90423" y="63305" z="-3335" heading="34538" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90529" y="62884" z="-3335" heading="32711" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90667" y="62892" z="-3335" heading="34442" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90826" y="62906" z="-3335" heading="30305" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90540" y="63029" z="-3335" heading="33025" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90689" y="63036" z="-3335" heading="33140" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90844" y="63058" z="-3335" heading="30083" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90560" y="63184" z="-3335" heading="35353" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90702" y="63185" z="-3335" heading="33092" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90851" y="63200" z="-3335" heading="33050" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90582" y="63319" z="-3335" heading="35221" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90723" y="63330" z="-3335" heading="32737" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90866" y="63338" z="-3335" heading="33169" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2219_d06 -->
+	<spawn name="oren22_2219_d06m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22776" x="90242" y="64112" z="-3378" heading="0" respawnDelay="90" />	<!-- Sel Mahum Training Officer -->
+		<npc id="22780" x="90461" y="63899" z="-3424" heading="32772" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90468" y="64048" z="-3424" heading="30449" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90469" y="64175" z="-3424" heading="33880" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90471" y="64312" z="-3424" heading="33973" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90611" y="63899" z="-3424" heading="31695" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90613" y="64040" z="-3424" heading="33320" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90615" y="64177" z="-3424" heading="33876" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90626" y="64312" z="-3424" heading="31279" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90758" y="63905" z="-3424" heading="32659" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90762" y="64040" z="-3424" heading="30128" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90775" y="64170" z="-3424" heading="32686" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90785" y="64307" z="-3424" heading="32770" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90912" y="63901" z="-3392" heading="31574" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91084" y="63899" z="-3408" heading="34184" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90920" y="64034" z="-3424" heading="31932" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90939" y="64166" z="-3424" heading="30308" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="90961" y="64296" z="-3424" heading="31075" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91103" y="64020" z="-3408" heading="32879" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91118" y="64173" z="-3408" heading="32291" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91137" y="64302" z="-3424" heading="31689" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+		<npc id="22780" x="91304" y="64290" z="-3440" heading="32582" respawnDelay="90" />	<!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_tb2219_a01 -->
+	<spawn zone="oren22_tb2219_a01m1">
+		<npc id="18286" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

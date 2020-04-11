@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- oren02_npc2020_001 -->
+	<zone name="oren02_npc2020_00101" type="NpcSpawnTerritory" shape="NPoly" minZ="-3695" maxZ="-3495">
+		<node X="17832" Y="86087" />
+		<node X="18032" Y="86087" />
+		<node X="18032" Y="86287" />
+		<node X="17832" Y="86287" />
+	</zone>
+	<!-- oren02_npc2020_002 -->
+	<zone name="oren02_npc2020_00201" type="NpcSpawnTerritory" shape="NPoly" minZ="-3921" maxZ="-3721">
+		<node X="28828" Y="74140" />
+		<node X="29028" Y="74140" />
+		<node X="29028" Y="74340" />
+		<node X="28828" Y="74340" />
+	</zone>
+	<!-- oren04_2020_01 -->
+	<zone name="oren04_2020_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3792" maxZ="-3592">
+		<node X="5676" Y="66908" />
+		<node X="5736" Y="65692" />
+		<node X="10336" Y="65788" />
+		<node X="7800" Y="67508" />
+	</zone>
+	<!-- oren04_2020_02 -->
+	<zone name="oren04_2020_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3816" maxZ="-3516">
+		<node X="300" Y="65740" />
+		<node X="5000" Y="65724" />
+		<node X="5092" Y="66820" />
+		<node X="208" Y="69640" />
+	</zone>
+	<!-- oren04_2020_03 -->
+	<zone name="oren04_2020_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3540" maxZ="-3240">
+		<node X="5184" Y="69420" />
+		<node X="8224" Y="69864" />
+		<node X="8464" Y="71056" />
+		<node X="5728" Y="74060" />
+	</zone>
+	<!-- oren04_2020_04 -->
+	<zone name="oren04_2020_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3892" maxZ="-3392">
+		<node X="424" Y="72732" />
+		<node X="4356" Y="69788" />
+		<node X="2920" Y="74056" />
+		<node X="264" Y="74820" />
+	</zone>
+	<!-- oren04_2020_05 -->
+	<zone name="oren04_2020_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3872" maxZ="-3572">
+		<node X="3612" Y="73264" />
+		<node X="4676" Y="73120" />
+		<node X="5712" Y="75844" />
+		<node X="4052" Y="75508" />
+	</zone>
+	<!-- oren04_2020_06 -->
+	<zone name="oren04_2020_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3884" maxZ="-3584">
+		<node X="232" Y="75708" />
+		<node X="3380" Y="75140" />
+		<node X="2492" Y="79916" />
+		<node X="276" Y="77908" />
+	</zone>
+	<!-- oren04_2020_07 -->
+	<zone name="oren04_2020_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3700" maxZ="-3500">
+		<node X="4728" Y="75656" />
+		<node X="5676" Y="75868" />
+		<node X="5348" Y="78796" />
+		<node X="3704" Y="78528" />
+	</zone>
+	<!-- oren04_2020_08 -->
+	<zone name="oren04_2020_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3664" maxZ="-3364">
+		<node X="3736" Y="78528" />
+		<node X="5336" Y="78796" />
+		<node X="7104" Y="84200" />
+		<node X="4376" Y="85876" />
+		<node X="3216" Y="81580" />
+	</zone>
+	<!-- oren04_2020_08s -->
+	<zone name="oren04_2020_08sm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3644" maxZ="-3344">
+		<node X="4372" Y="82036" />
+		<node X="5380" Y="82076" />
+		<node X="5380" Y="83892" />
+		<node X="4232" Y="83340" />
+	</zone>
+	<!-- oren05_2020_01 -->
+	<zone name="oren05_2020_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4144" maxZ="-3994">
+		<node X="24624" Y="74620" />
+		<node X="25656" Y="74624" />
+		<node X="25644" Y="75260" />
+		<node X="24640" Y="75304" />
+	</zone>
+	<!-- oren05_2020_02 -->
+	<zone name="oren05_2020_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4160" maxZ="-4010">
+		<node X="23648" Y="76112" />
+		<node X="24676" Y="76124" />
+		<node X="24704" Y="77716" />
+		<node X="23652" Y="77708" />
+	</zone>
+	<!-- oren05_2020_03 -->
+	<zone name="oren05_2020_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4130" maxZ="-3980">
+		<node X="24948" Y="75832" />
+		<node X="25608" Y="75836" />
+		<node X="25624" Y="76236" />
+		<node X="24947" Y="76241" />
+	</zone>
+	<!-- oren05_2020_04 -->
+	<zone name="oren05_2020_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4128" maxZ="-3978">
+		<node X="24938" Y="77972" />
+		<node X="25624" Y="77968" />
+		<node X="25621" Y="78364" />
+		<node X="24947" Y="78363" />
+	</zone>
+	<!-- oren05_2020_05 -->
+	<zone name="oren05_2020_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4129" maxZ="-3979">
+		<node X="22724" Y="77604" />
+		<node X="23402" Y="77603" />
+		<node X="23403" Y="78000" />
+		<node X="22716" Y="77992" />
+	</zone>
+	<!-- oren05_2020_06 -->
+	<zone name="oren05_2020_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4140" maxZ="-3990">
+		<node X="22484" Y="75843" />
+		<node X="23154" Y="75849" />
+		<node X="23154" Y="76236" />
+		<node X="22489" Y="76235" />
+	</zone>
+	<!-- oren05_2020_07 -->
+	<zone name="oren05_2020_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4130" maxZ="-3980">
+		<node X="24411" Y="78908" />
+		<node X="24425" Y="79276" />
+		<node X="24292" Y="79338" />
+		<node X="24062" Y="79336" />
+		<node X="23878" Y="79216" />
+		<node X="23877" Y="78969" />
+		<node X="24055" Y="78868" />
+		<node X="24277" Y="78865" />
+	</zone>
+	<!-- oren05_2020_08 -->
+	<zone name="oren05_2020_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4136" maxZ="-3986">
+		<node X="23690" Y="80463" />
+		<node X="24681" Y="80455" />
+		<node X="24671" Y="81206" />
+		<node X="23700" Y="81214" />
+	</zone>
+	<!-- oren05_2020_09 -->
+	<zone name="oren05_2020_09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4129" maxZ="-3979">
+		<node X="25250" Y="81425" />
+		<node X="25916" Y="81431" />
+		<node X="25925" Y="81819" />
+		<node X="25245" Y="81822" />
+	</zone>
+	<!-- oren05_2020_10 -->
+	<zone name="oren05_2020_10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4156" maxZ="-4006">
+		<node X="21849" Y="78742" />
+		<node X="22979" Y="78738" />
+		<node X="22977" Y="79446" />
+		<node X="21844" Y="79452" />
+	</zone>
+	<!-- oren05_2020_11 -->
+	<zone name="oren05_2020_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4132" maxZ="-3982">
+		<node X="22544" Y="80740" />
+		<node X="22545" Y="80967" />
+		<node X="22469" Y="81109" />
+		<node X="22173" Y="81115" />
+		<node X="22089" Y="80973" />
+		<node X="22087" Y="80745" />
+		<node X="22188" Y="80559" />
+		<node X="22435" Y="80555" />
+	</zone>
+	<!-- oren05_2020_12 -->
+	<zone name="oren05_2020_12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4136" maxZ="-3986">
+		<node X="20815" Y="80168" />
+		<node X="21652" Y="80153" />
+		<node X="21660" Y="81526" />
+		<node X="20819" Y="81524" />
+	</zone>
+	<!-- oren05_2020_13 -->
+	<zone name="oren05_2020_13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4134" maxZ="-3984">
+		<node X="20281" Y="79280" />
+		<node X="20924" Y="79269" />
+		<node X="20925" Y="79677" />
+		<node X="20282" Y="79669" />
+	</zone>
+	<!-- oren05_2020_14 -->
+	<zone name="oren05_2020_14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4326" maxZ="-4176">
+		<node X="21591" Y="76840" />
+		<node X="21593" Y="77118" />
+		<node X="21395" Y="77251" />
+		<node X="21047" Y="77250" />
+		<node X="20971" Y="77158" />
+		<node X="20964" Y="76809" />
+		<node X="21036" Y="76638" />
+		<node X="21362" Y="76611" />
+	</zone>
+	<!-- oren05_2020_15 -->
+	<zone name="oren05_2020_15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4459" maxZ="-4309">
+		<node X="18457" Y="76533" />
+		<node X="19824" Y="76493" />
+		<node X="19822" Y="77441" />
+		<node X="18490" Y="77467" />
+	</zone>
+	<!-- oren05_2020_16 -->
+	<zone name="oren05_2020_16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4419" maxZ="-4269">
+		<node X="20085" Y="75615" />
+		<node X="20487" Y="75612" />
+		<node X="20485" Y="76289" />
+		<node X="20084" Y="76293" />
+	</zone>
+	<!-- oren05_2020_17 -->
+	<zone name="oren05_2020_17m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4424" maxZ="-4274">
+		<node X="18303" Y="75473" />
+		<node X="18980" Y="75475" />
+		<node X="18986" Y="75868" />
+		<node X="18286" Y="75870" />
+	</zone>
+	<!-- oren05_2020_18 -->
+	<zone name="oren05_2020_18m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4432" maxZ="-4232">
+		<node X="18798" Y="78458" />
+		<node X="19691" Y="78455" />
+		<node X="19697" Y="80042" />
+		<node X="18791" Y="80039" />
+	</zone>
+	<!-- oren05_2020_19 -->
+	<zone name="oren05_2020_19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4429" maxZ="-4279">
+		<node X="17152" Y="80660" />
+		<node X="18616" Y="80660" />
+		<node X="18617" Y="81566" />
+		<node X="17156" Y="81558" />
+	</zone>
+	<!-- oren05_2020_20 -->
+	<zone name="oren05_2020_20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4429" maxZ="-4279">
+		<node X="18200" Y="81765" />
+		<node X="18857" Y="81770" />
+		<node X="18849" Y="82210" />
+		<node X="18202" Y="82222" />
+	</zone>
+	<!-- oren05_2020_21 -->
+	<zone name="oren05_2020_21m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4453" maxZ="-4303">
+		<node X="15696" Y="76505" />
+		<node X="17222" Y="76508" />
+		<node X="17252" Y="77435" />
+		<node X="15716" Y="77484" />
+	</zone>
+	<!-- oren05_2020_22 -->
+	<zone name="oren05_2020_22m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4454" maxZ="-4304">
+		<node X="15459" Y="75884" />
+		<node X="16135" Y="75887" />
+		<node X="16132" Y="76287" />
+		<node X="15461" Y="76283" />
+	</zone>
+	<!-- oren05_2020_23 -->
+	<zone name="oren05_2020_23m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4458" maxZ="-4308">
+		<node X="16162" Y="78470" />
+		<node X="17063" Y="78461" />
+		<node X="17086" Y="79748" />
+		<node X="16179" Y="79751" />
+	</zone>
+	<!-- oren05_2020_24 -->
+	<zone name="oren05_2020_24m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4323" maxZ="-4173">
+		<node X="15209" Y="78852" />
+		<node X="15296" Y="78963" />
+		<node X="15299" Y="79302" />
+		<node X="15207" Y="79389" />
+		<node X="14861" Y="79394" />
+		<node X="14680" Y="79304" />
+		<node X="14676" Y="78962" />
+		<node X="14861" Y="78854" />
+	</zone>
+	<!-- oren05_2020_25 -->
+	<zone name="oren05_2020_25m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4170" maxZ="-4020">
+		<node X="13678" Y="76040" />
+		<node X="13977" Y="76054" />
+		<node X="13979" Y="77309" />
+		<node X="13684" Y="77316" />
+	</zone>
+	<!-- oren05_2020_26 -->
+	<zone name="oren05_2020_26m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4312" maxZ="-4112">
+		<node X="12744" Y="76037" />
+		<node X="13575" Y="76026" />
+		<node X="13581" Y="77361" />
+		<node X="12736" Y="77334" />
+	</zone>
+	<!-- oren05_2020_27 -->
+	<zone name="oren05_2020_27m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4219" maxZ="-4069">
+		<node X="11697" Y="75969" />
+		<node X="12542" Y="75971" />
+		<node X="12540" Y="77396" />
+		<node X="11709" Y="77406" />
+	</zone>
+	<!-- oren05_2020_28 -->
+	<zone name="oren05_2020_28m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4216" maxZ="-4066">
+		<node X="12339" Y="75167" />
+		<node X="13219" Y="75169" />
+		<node X="13224" Y="75744" />
+		<node X="12340" Y="75742" />
+	</zone>
+	<!-- oren05_2020_29 -->
+	<zone name="oren05_2020_29m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4218" maxZ="-4018">
+		<node X="12332" Y="77613" />
+		<node X="12980" Y="77613" />
+		<node X="12980" Y="78022" />
+		<node X="12325" Y="78019" />
+	</zone>
+	<!-- oren05_2020_30 -->
+	<zone name="oren05_2020_30m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3880" maxZ="-3730">
+		<node X="11046" Y="74656" />
+		<node X="11036" Y="75015" />
+		<node X="10857" Y="75208" />
+		<node X="10492" Y="75220" />
+		<node X="10323" Y="75030" />
+		<node X="10314" Y="74674" />
+		<node X="10496" Y="74503" />
+		<node X="10876" Y="74491" />
+	</zone>
+	<!-- oren05_2020_32 -->
+	<zone name="oren05_2020_32m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3882" maxZ="-3632">
+		<node X="9241" Y="78078" />
+		<node X="10288" Y="78059" />
+		<node X="10284" Y="78800" />
+		<node X="9239" Y="78815" />
+	</zone>
+	<!-- oren05_2020_33 -->
+	<zone name="oren05_2020_33m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3767" maxZ="-3617">
+		<node X="8975" Y="78321" />
+		<node X="9208" Y="78319" />
+		<node X="9213" Y="78564" />
+		<node X="8979" Y="78569" />
+	</zone>
+	<!-- oren05_2020_35 -->
+	<zone name="oren05_2020_35m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3869" maxZ="-3719">
+		<node X="10853" Y="81667" />
+		<node X="11042" Y="81857" />
+		<node X="11045" Y="82213" />
+		<node X="10859" Y="82403" />
+		<node X="10465" Y="82375" />
+		<node X="10307" Y="82229" />
+		<node X="10300" Y="81850" />
+		<node X="10480" Y="81665" />
+	</zone>
+	<!-- oren05_2020_36 -->
+	<zone name="oren05_2020_36m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4116" maxZ="-3966">
+		<node X="11607" Y="80753" />
+		<node X="12274" Y="80750" />
+		<node X="12273" Y="81147" />
+		<node X="11603" Y="81152" />
+	</zone>
+	<!-- oren05_2020_37 -->
+	<zone name="oren05_2020_37m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4148" maxZ="-3998">
+		<node X="12444" Y="79664" />
+		<node X="14226" Y="79678" />
+		<node X="14236" Y="80700" />
+		<node X="12440" Y="80692" />
+	</zone>
+	<!-- oren05_2020_38 -->
+	<zone name="oren05_2020_38m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4128" maxZ="-3978">
+		<node X="14496" Y="80172" />
+		<node X="15568" Y="80172" />
+		<node X="15572" Y="81736" />
+		<node X="14504" Y="81736" />
+	</zone>
+	<!-- oren05_2020_39 -->
+	<zone name="oren05_2020_39m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4132" maxZ="-3982">
+		<node X="13224" Y="77536" />
+		<node X="13804" Y="77516" />
+		<node X="13856" Y="79284" />
+		<node X="13192" Y="79296" />
+	</zone>
+	<!-- oren01_qm2020_001 -->
+	<zone name="oren01_qm2020_001m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-4124" maxZ="-3924">
+		<node X="12476" Y="79676" />
+		<node X="14184" Y="79676" />
+		<node X="14188" Y="80712" />
+		<node X="12480" Y="80712" />
+	</zone>
+	<!-- oren01_qm2020_002 -->
+	<zone name="oren01_qm2020_002m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3767" maxZ="-3617">
+		<node X="8975" Y="78321" />
+		<node X="9208" Y="78319" />
+		<node X="9213" Y="78564" />
+		<node X="8979" Y="78569" />
+	</zone>
+	<!-- oren01_qm2020_01 -->
+	<zone name="oren01_qm2020_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3728" maxZ="-3328">
+		<node X="28568" Y="90100" />
+		<node X="29416" Y="89636" />
+		<node X="29936" Y="90672" />
+		<node X="29448" Y="91072" />
+		<node X="28664" Y="91000" />
+	</zone>
+	<!-- oren01_qm2020_02 -->
+	<zone name="oren01_qm2020_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3704" maxZ="-3304">
+		<node X="23700" Y="90308" />
+		<node X="24860" Y="90184" />
+		<node X="24856" Y="91824" />
+		<node X="23980" Y="91820" />
+		<node X="23284" Y="90976" />
+	</zone>
+	<!-- oren01_qm2020_03 -->
+	<zone name="oren01_qm2020_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3728" maxZ="-3328">
+		<node X="19380" Y="89384" />
+		<node X="20880" Y="89472" />
+		<node X="20996" Y="90672" />
+		<node X="19508" Y="90844" />
+		<node X="18820" Y="90256" />
+	</zone>
+	<!-- oren01_qm2020_04 -->
+	<zone name="oren01_qm2020_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3744" maxZ="-3344">
+		<node X="12844" Y="91264" />
+		<node X="14216" Y="90948" />
+		<node X="14252" Y="92448" />
+		<node X="12916" Y="92152" />
+	</zone>
+	<!-- oren01_qm2020_05 -->
+	<zone name="oren01_qm2020_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3704" maxZ="-3304">
+		<node X="6796" Y="92460" />
+		<node X="8280" Y="91244" />
+		<node X="9340" Y="92424" />
+		<node X="7660" Y="93068" />
+	</zone>
+	<!-- oren01_qm2020_06 -->
+	<zone name="oren01_qm2020_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3680" maxZ="-3280">
+		<node X="3408" Y="89580" />
+		<node X="4332" Y="88988" />
+		<node X="5124" Y="89688" />
+		<node X="3836" Y="90244" />
+	</zone>
+</list>

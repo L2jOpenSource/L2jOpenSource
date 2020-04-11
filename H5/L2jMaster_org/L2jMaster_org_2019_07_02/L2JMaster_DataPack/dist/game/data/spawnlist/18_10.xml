@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- Catacomb of Heretics -->
+	<!-- ssq06_npc2122_01 -->
+	<spawn zone="ssq06_npc2122_0101">
+		<npc id="31120" x="-52848" y="-250272" z="-7905" heading="32768" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq06_npc2122_03 -->
+	<spawn zone="ssq06_npc2122_0301">
+		<npc id="31495" x="-53056" y="-250568" z="-7808" heading="16384" respawnDelay="60" /> <!-- Dimensional Gate Keeper -->
+	</spawn>
+	<!-- ssq06_2122_ssq02 -->
+	<spawn zone="ssq06_2122_ssq02m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21236" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Sentinel -->
+		<npc id="21237" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Monk -->
+		<npc id="21169" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq06_2122_ssq03 -->
+	<spawn zone="ssq06_2122_ssq03m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21236" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Sentinel -->
+		<npc id="21237" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Monk -->
+		<npc id="21169" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq06_2122_ssq04 -->
+	<spawn zone="ssq06_2122_ssq04m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21236" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Sentinel -->
+		<npc id="21237" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Monk -->
+		<npc id="21169" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq06_2122_ssq05 -->
+	<spawn zone="ssq06_2122_ssq05m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21236" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Sentinel -->
+		<npc id="21237" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Monk -->
+		<npc id="21169" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq06_2122_ssq06 -->
+	<spawn zone="ssq06_2122_ssq06m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21236" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Sentinel -->
+		<npc id="21237" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Monk -->
+		<npc id="21169" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq06_2122_ssq07 -->
+	<spawn zone="ssq06_2122_ssq07m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21236" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Sentinel -->
+		<npc id="21237" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Monk -->
+		<npc id="21169" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq06_2122_ssq08 -->
+	<spawn zone="ssq06_2122_ssq08m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21236" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Sentinel -->
+		<npc id="21237" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Monk -->
+		<npc id="21169" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq06_2122_ssq09 -->
+	<spawn zone="ssq06_2122_ssq09m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21236" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Sentinel -->
+		<npc id="21237" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Barrow Monk -->
+		<npc id="21169" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq06_2122_ssq10 -->
+	<spawn zone="ssq06_2122_ssq10m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21238" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Sentinel -->
+		<npc id="21239" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Monk -->
+		<npc id="21170" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Medium -->
+		<npc id="21191" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Giant Cleric -->
+	</spawn>
+	<!-- ssq06_2122_ssq11 -->
+	<spawn zone="ssq06_2122_ssq11m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21238" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Sentinel -->
+		<npc id="21239" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Monk -->
+		<npc id="21170" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Medium -->
+		<npc id="21191" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Giant Cleric -->
+	</spawn>
+	<!-- ssq06_2122_ssq12 -->
+	<spawn zone="ssq06_2122_ssq12m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21238" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Sentinel -->
+		<npc id="21239" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Monk -->
+		<npc id="21170" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Medium -->
+		<npc id="21191" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Giant Cleric -->
+	</spawn>
+	<!-- ssq06_2122_ssq13 -->
+	<spawn zone="ssq06_2122_ssq13m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21238" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Sentinel -->
+		<npc id="21239" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Monk -->
+		<npc id="21170" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Medium -->
+		<npc id="21191" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Giant Cleric -->
+	</spawn>
+	<!-- ssq06_2122_ssq14 -->
+	<spawn zone="ssq06_2122_ssq14m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21238" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Sentinel -->
+		<npc id="21239" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Monk -->
+		<npc id="21170" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Medium -->
+		<npc id="21191" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Giant Cleric -->
+	</spawn>
+	<!-- ssq06_2122_ssq15 -->
+	<spawn zone="ssq06_2122_ssq15m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21238" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Sentinel -->
+		<npc id="21239" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Monk -->
+		<npc id="21170" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Medium -->
+		<npc id="21191" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Giant Cleric -->
+	</spawn>
+	<!-- ssq06_2122_ssq16 -->
+	<spawn zone="ssq06_2122_ssq16m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21238" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Sentinel -->
+		<npc id="21239" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Monk -->
+		<npc id="21170" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Medium -->
+		<npc id="21191" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Giant Cleric -->
+	</spawn>
+	<!-- ssq06_2122_ssq17 -->
+	<spawn zone="ssq06_2122_ssq17m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21238" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Sentinel -->
+		<npc id="21239" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Monk -->
+		<npc id="21170" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Medium -->
+		<npc id="21191" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Giant Cleric -->
+	</spawn>
+	<!-- ssq06_2122_ssq18 -->
+	<spawn zone="ssq06_2122_ssq18m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21238" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Sentinel -->
+		<npc id="21239" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Monk -->
+		<npc id="21170" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Medium -->
+		<npc id="21191" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Giant Cleric -->
+	</spawn>
+	<!-- ssq06_2122_ssq19 -->
+	<spawn zone="ssq06_2122_ssq19m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21145" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Stakato Soldier -->
+		<npc id="21146" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Keeper Dark Horror -->
+		<npc id="21172" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Patrolman -->
+		<npc id="21193" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Raider -->
+	</spawn>
+	<!-- ssq06_2122_ssq20 -->
+	<spawn zone="ssq06_2122_ssq20m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21145" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Stakato Soldier -->
+		<npc id="21146" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Keeper Dark Horror -->
+		<npc id="21172" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Patrolman -->
+		<npc id="21193" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Raider -->
+	</spawn>
+	<!-- ssq06_2122_ssq21 -->
+	<spawn zone="ssq06_2122_ssq21m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21145" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Stakato Soldier -->
+		<npc id="21146" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Keeper Dark Horror -->
+		<npc id="21172" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Patrolman -->
+		<npc id="21193" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Raider -->
+	</spawn>
+	<!-- ssq06_2122_ssq22 -->
+	<spawn zone="ssq06_2122_ssq22m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21145" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Stakato Soldier -->
+		<npc id="21146" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Keeper Dark Horror -->
+		<npc id="21172" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Patrolman -->
+		<npc id="21193" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Raider -->
+	</spawn>
+	<!-- ssq06_2122_ssq23 -->
+	<spawn zone="ssq06_2122_ssq23m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21145" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Stakato Soldier -->
+		<npc id="21146" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Keeper Dark Horror -->
+		<npc id="21172" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Patrolman -->
+		<npc id="21193" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Raider -->
+	</spawn>
+	<!-- ssq06_2122_ssq24 -->
+	<spawn zone="ssq06_2122_ssq24m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21145" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Stakato Soldier -->
+		<npc id="21146" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Keeper Dark Horror -->
+		<npc id="21172" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Patrolman -->
+		<npc id="21193" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Raider -->
+	</spawn>
+	<!-- ssq06_2122_ssq25 -->
+	<spawn zone="ssq06_2122_ssq25m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21145" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Stakato Soldier -->
+		<npc id="21146" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Keeper Dark Horror -->
+		<npc id="21172" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Patrolman -->
+		<npc id="21193" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Raider -->
+	</spawn>
+	<!-- ssq06_2122_ssq26 -->
+	<spawn zone="ssq06_2122_ssq26m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21145" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Stakato Soldier -->
+		<npc id="21146" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Keeper Dark Horror -->
+		<npc id="21172" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Patrolman -->
+		<npc id="21193" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Raider -->
+	</spawn>
+	<!-- ssq06_2122_ssq27 -->
+	<spawn zone="ssq06_2122_ssq27m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21145" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Stakato Soldier -->
+		<npc id="21146" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Grave Keeper Dark Horror -->
+		<npc id="21172" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Patrolman -->
+		<npc id="21193" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Raider -->
+	</spawn>
+	<!-- ssq06_2122_ssq28 -->
+	<spawn zone="ssq06_2122_ssq28m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21145" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Stakato Soldier -->
+		<npc id="21146" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Grave Keeper Dark Horror -->
+		<npc id="21172" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Patrolman -->
+		<npc id="21193" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Raider -->
+	</spawn>
+	<!-- ssq06_2122_ssq29 -->
+	<spawn zone="ssq06_2122_ssq29m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21143" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Scavenger Bat -->
+		<npc id="21144" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Shadow -->
+		<npc id="21171" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Overlord -->
+		<npc id="21192" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Officer -->
+	</spawn>
+	<!-- ssq06_2122_ssq30 -->
+	<spawn zone="ssq06_2122_ssq30m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21143" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Scavenger Bat -->
+		<npc id="21144" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Shadow -->
+		<npc id="21171" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Overlord -->
+		<npc id="21192" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Officer -->
+	</spawn>
+	<!-- ssq06_2122_ssq31 -->
+	<spawn zone="ssq06_2122_ssq31m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21143" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Scavenger Bat -->
+		<npc id="21144" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Shadow -->
+		<npc id="21171" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Overlord -->
+		<npc id="21192" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Officer -->
+	</spawn>
+	<!-- ssq06_2122_ssq32 -->
+	<spawn zone="ssq06_2122_ssq32m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21143" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Scavenger Bat -->
+		<npc id="21144" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Shadow -->
+		<npc id="21171" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Overlord -->
+		<npc id="21192" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Officer -->
+	</spawn>
+	<!-- ssq06_2122_ssq33 -->
+	<spawn zone="ssq06_2122_ssq33m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21143" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Scavenger Bat -->
+		<npc id="21144" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Shadow -->
+		<npc id="21171" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Overlord -->
+		<npc id="21192" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Officer -->
+	</spawn>
+	<!-- ssq06_2122_ssq34-->
+	<spawn zone="ssq06_2122_ssq34m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21143" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Scavenger Bat -->
+		<npc id="21144" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Shadow -->
+		<npc id="21171" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Overlord -->
+		<npc id="21192" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Officer -->
+	</spawn>
+	<!-- ssq06_2122_ssq35 -->
+	<spawn zone="ssq06_2122_ssq35m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21143" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Scavenger Bat -->
+		<npc id="21144" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Shadow -->
+		<npc id="21171" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Overlord -->
+		<npc id="21192" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Officer -->
+	</spawn>
+	<!-- ssq06_2122_ssq36 -->
+	<spawn zone="ssq06_2122_ssq36m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21143" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Scavenger Bat -->
+		<npc id="21144" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Shadow -->
+		<npc id="21171" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Lith Overlord -->
+		<npc id="21192" count="2" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Officer -->
+	</spawn>
+	<!-- ssq06_2122_ssq37 -->
+	<spawn zone="ssq06_2122_ssq37m1">
+		<AIData>
+			<SSQTelPosX>39139</SSQTelPosX>
+			<SSQTelPosY>143888</SSQTelPosY>
+			<SSQTelPosZ>-3648</SSQTelPosZ>
+		</AIData>
+		<npc id="21143" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Scavenger Bat -->
+		<npc id="21144" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Catacomb Shadow -->
+		<npc id="21171" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Lith Overlord -->
+		<npc id="21192" count="1" respawnDelay="142" respawnRandom="40" /> <!-- Gigant Officer -->
+	</spawn>
+</list>

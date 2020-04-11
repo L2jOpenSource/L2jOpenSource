@@ -1,0 +1,1300 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Chic Silver Horn Cap -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="16104" count="1"/>
+	</item>
+	<!-- Chic Golden Horn Cap -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="16103" count="1"/>
+	</item>
+	<!-- Evas Circlet -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="20569" count="1"/>
+	</item>
+	<!-- Napoleon Hat -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="20322" count="1"/>
+	</item>
+	<!-- Paiwan Hat -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="20944" count="1"/>
+	</item>
+	<!-- Flag Hat -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="21043" count="1"/>
+	</item>
+	<!-- Ladybug Hat -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="21116" count="1"/>
+	</item>
+	<!-- Pirate King Hat -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="21892" count="1"/>
+	</item>
+	<!-- Graduation Cap -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="13492" count="1"/>
+	</item>
+	<!-- Refined Carnival Circlet -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="13493" count="1"/>
+	</item>
+	<!-- Refined Angel Ring -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="13494" count="1"/>
+	</item>
+	<!-- Refined Devil Horn -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="13495" count="1"/>
+	</item>
+	<!-- Refined Pirate Hat -->
+	<item>
+	<ingredient id="3470" count="1000"/>
+		<production id="13496" count="1"/>
+	</item>
+	<!-- Refined Wizard Hat -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="13498" count="1"/>
+	</item>
+	<!-- Refined Jester Hat -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="13499" count="1"/>
+	</item>
+	<!-- Plastic Hair -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="20325" count="1"/>
+	</item>
+	<!-- Demon Horns -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="8660" count="1"/>
+	</item>
+	<!-- bamboo hat -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="20021" count="1"/>
+	</item>
+	<!-- uniform hat -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="20020" count="1"/>
+	</item>
+	<!-- afro hair -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="20017" count="1"/>
+	</item>
+	<!-- gold afro -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="20275" count="1"/>
+	</item>
+	<!-- red flame of valakas -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="20725" count="1"/>
+	</item>
+	<!-- White Uniform Hat -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="21124" count="1"/>
+	</item>
+	<!-- Warrior's Helmet -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="21126" count="1"/>
+	</item>
+	<!-- Halisha's Helmet -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="21893" count="1"/>
+	</item>
+	<!-- Ice Queen's Tiara -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="21894" count="1"/>
+	</item>
+	<!-- Refined Black Skeleton Circlet -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="16098" count="1"/>
+	</item>
+	<!-- Refined Orange Skeleton Circlet -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="16099" count="1"/>
+	</item>
+	<!-- Refined Green Skeleton Circlet -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="16100" count="1"/>
+	</item>
+	<!-- Refined Brown Turban Circlet -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="16106" count="1"/>
+	</item>
+	<!-- Refined Yellow Turban Circlet -->
+	<item>
+		<ingredient id="3470" count="1000"/>
+		<production id="16107" count="1"/>
+	</item>
+	<!-- Halloween Hat -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13489" count="1"/>
+	</item>
+	<!-- Graduation Cap -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13492" count="1"/>
+	</item>
+	<!-- Refined Pirate Hat -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13496" count="1"/>
+	</item>
+	<!-- Refined Wizard Hat -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13498" count="1"/>
+	</item>
+	<!-- Refined Jester Hat -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13499" count="1"/>
+	</item>
+	<!-- Refined Romantic Chapeau -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13501" count="1"/>
+	</item>
+	<!-- Refined Dapper Cap -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13504" count="1"/>
+	</item>
+	<!-- Improved Lord's Crown -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13506" count="1"/>
+	</item>
+	<!-- Mining Hat -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13513" count="1"/>
+	</item>
+	<!-- Improved Mining Hat -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13514" count="1"/>
+	</item>
+	<!-- Search Hat -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13515" count="1"/>
+	</item>
+	<!-- Improved Search Hat -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="13516" count="1"/>
+	</item>
+	<!-- Refined Chick Hat -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="14746" count="1"/>
+	</item>
+	<!-- Refined Black Feather Mask -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="14747" count="1"/>
+	</item>
+	<!-- Gold Afro -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="20275" count="1"/>
+	</item>
+	<!-- Pink Afro -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="20276" count="1"/>
+	</item>
+	<!-- Goggle -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="20321" count="1"/>
+	</item>
+	<!-- Demon Circlet -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="8921" count="1"/>
+	</item>
+	<!-- Jester Hat -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="8562" count="1"/>
+	</item>
+	<!-- Wizard Hat -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="8563" count="1"/>
+	</item>
+	<!-- Valakas Slayer Circlet -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="8567" count="1"/>
+	</item>
+	<!-- Antharas Slayer Circlet -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="8568" count="1"/>
+	</item>
+	<!-- Ruthless Tribe Mask -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="20022" count="1"/>
+	</item>
+	<!-- golden viking -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="10242" count="1"/>
+	</item>
+	<!-- purple viking -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="10241" count="1"/>
+	</item>
+	<!-- kamaelic veteran -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9415" count="1"/>
+	</item>
+	<!-- dwarf veteran -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9414" count="1"/>
+	</item>
+	<!-- orcish veteran -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9413" count="1"/>
+	</item>
+	<!-- delf veteran -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9412" count="1"/>
+	</item>
+	<!-- elven veteran -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9411" count="1"/>
+	</item>
+	<!-- human veteran -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9410" count="1"/>
+	</item>
+	<!-- kamaelic circlet -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9396" count="1"/>
+	</item>
+	<!-- dwarven circlet -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9395" count="1"/>
+	</item>
+	<!-- orcish circlet -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9394" count="1"/>
+	</item>
+	<!-- de circlet -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9393" count="1"/>
+	</item>
+	<!-- elven circlet -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9392" count="1"/>
+	</item>
+	<!-- human circlet -->
+	<item>
+		<ingredient id="3470" count="700"/>
+		<production id="9391" count="1"/>
+	</item>
+	<!-- Arrow-Pierced Apple -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13490" count="1"/>
+	</item>
+	<!-- Popped-Out Eye -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13491" count="1"/>
+	</item>
+	<!-- Refined Romantic Chapeau -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13501" count="1"/>
+	</item>
+	<!-- Refined Medieval Style Party Mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13503" count="1"/>
+	</item>
+	<!-- Refined Dapper Cap -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13504" count="1"/>
+	</item>
+	<!-- Clownfish Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13505" count="1"/>
+	</item>
+	<!-- Circlet of Flames -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13507" count="1"/>
+	</item>
+	<!-- Circlet of Freeze -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13508" count="1"/>
+	</item>
+	<!-- Circlet of Storm -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13509" count="1"/>
+	</item>
+	<!-- Circlet of Earthquake -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13510" count="1"/>
+	</item>
+	<!-- Circlet of Darkness -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13511" count="1"/>
+	</item>
+	<!-- Circlet of Splendor -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13512" count="1"/>
+	</item>
+	<!-- Refined Black Feather Mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="14747" count="1"/>
+	</item>
+	<!-- Gold Afro -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="20275" count="1"/>
+	</item>
+	<!-- Pink Afro -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="20276" count="1"/>
+	</item>
+	<!-- Horn Hairband -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="20323" count="1"/>
+	</item>
+	<!-- Black Gem Mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="20324" count="1"/>
+	</item>
+	<!-- Cat Ear -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6843" count="1"/>
+	</item>
+	<!-- Lady's Hair Pin -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6844" count="1"/>
+	</item>
+	<!-- Pirate's Eye Patch -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6845" count="1"/>
+	</item>
+	<!-- Monocle -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6846" count="1"/>
+	</item>
+	<!-- Golden Festival Mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7059" count="1"/>
+	</item>
+	<!-- Tateossian Hairband -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7060" count="1"/>
+	</item>
+	<!-- Raccoon Ears -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7680" count="1"/>
+	</item>
+	<!-- Outlaw's Eyepatch -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7681" count="1"/>
+	</item>
+	<!-- Maiden's Hairpin -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7682" count="1"/>
+	</item>
+	<!-- Rabbit Ears -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7683" count="1"/>
+	</item>
+	<!-- Forget-me-not Hairpin -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7695" count="1"/>
+	</item>
+	<!-- Daisy Hairpin -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7696" count="1"/>
+	</item>
+	<!-- Santa's Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7836" count="1"/>
+	</item>
+	<!-- Chrono Cithara -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="4202" count="1"/>
+	</item>
+	<!-- Chrono Unitus -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="5133" count="1"/>
+	</item>
+	<!-- Chrono Campana -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="5817" count="1"/>
+	</item>
+	<!-- Chrono Darbuka -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7058" count="1"/>
+	</item>
+	<!-- Fairy Antennae -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8189" count="1"/>
+	</item>
+	<!-- Little Angel Wings -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8188" count="1"/>
+	</item>
+	<!-- Artisan's Goggles -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8186" count="1"/>
+	</item>
+	<!-- Feathered Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8185" count="1"/>
+	</item>
+	<!-- Party Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8184" count="1"/>
+	</item>
+	<!-- Mask of Spirits -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8661" count="1"/>
+	</item>
+	<!-- Single Stem Flower -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8912" count="1"/>
+	</item>
+	<!-- Butterfly Hairpin -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8913" count="1"/>
+	</item>
+	<!-- Luxurious Gold Circlet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8914" count="1"/>
+	</item>
+	<!-- Luxurious Silver Circlet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8915" count="1"/>
+	</item>
+	<!-- Eye Patch -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8916" count="1"/>
+	</item>
+	<!-- Goddess Circlet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8917" count="1"/>
+	</item>
+	<!-- Leather Cap -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8918" count="1"/>
+	</item>
+	<!-- First Mate's Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8919" count="1"/>
+	</item>
+	<!-- Angel Halo -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8920" count="1"/>
+	</item>
+	<!-- Scar -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8923" count="1"/>
+	</item>
+	<!-- Santa's Antlers -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8936" count="1"/>
+	</item>
+	<!-- Golden Circlet of Redemption -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="9158" count="1"/>
+	</item>
+	<!-- Party Mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="5808" count="1"/>
+	</item>
+	<!-- Diadem -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8559" count="1"/>
+	</item>
+	<!-- Teddy Bear Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8560" count="1"/>
+	</item>
+	<!-- Piggy Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8561" count="1"/>
+	</item>
+	<!-- Jester Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8562" count="1"/>
+	</item>
+	<!-- Wizard Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8563" count="1"/>
+	</item>
+	<!-- Dapper Cap -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8564" count="1"/>
+	</item>
+	<!-- Red Party Mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6394" count="1"/>
+	</item>
+	<!-- Romantic Chapeau -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8565" count="1"/>
+	</item>
+	<!-- Iron Circlet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8566" count="1"/>
+	</item>
+	<!-- Half Face Mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8569" count="1"/>
+	</item>
+	<!-- Gran Kain's Black Mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7839" count="1"/>
+	</item>
+	<!-- Formal Wear -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6408" count="1"/>
+	</item>
+	<!-- Bird Nest -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10240" count="1"/>
+	</item>
+	<!-- Panda Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10243" count="1"/>
+	</item>
+	<!-- White Sheep Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10244" count="1"/>
+	</item>
+	<!-- Black Sheep Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10245" count="1"/>
+	</item>
+	<!-- Frog Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10246" count="1"/>
+	</item>
+	<!-- Fish Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10247" count="1"/>
+	</item>
+	<!-- Straw Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10248" count="1"/>
+	</item>
+	<!-- Chicken Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10249" count="1"/>
+	</item>
+	<!-- Chicken Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="20023" count="1"/>
+	</item>
+	<!-- Medieval Party Mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10251" count="1"/>
+	</item>
+	<!-- iron circlet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8566" count="1"/>
+	</item>
+	<!-- goddess circlet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8917" count="1"/>
+	</item>
+	<!-- ae kram -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13238" count="1"/>
+	</item>
+	<!-- ar kram -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13237" count="1"/>
+	</item>
+	<!-- au kram -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13236" count="1"/>
+	</item>
+	<!-- ketra kram -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13235" count="1"/>
+	</item>
+	<!-- varka kram -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13234" count="1"/>
+	</item>
+	<!-- lux silver circlet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8915" count="1"/>
+	</item>
+	<!-- lux gold circlet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8914" count="1"/>
+	</item>
+	<!-- gobblin circlet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10175" count="1"/>
+	</item>
+	<!-- golden viking -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10242" count="1"/>
+	</item>
+	<!-- ladys hairpin -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6844" count="1"/>
+	</item>
+	<!-- single stem flower -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8912" count="1"/>
+	</item>
+	<!-- daisy hairpin -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7696" count="1"/>
+	</item>
+	<!-- forget-me-not hairpin -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7695" count="1"/>
+	</item>
+	<!-- maidens hairpin -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7682" count="1"/>
+	</item>
+	<!-- buterfly hairpin -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8913" count="1"/>
+	</item>
+	<!-- party mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="5808" count="1"/>
+	</item>
+	<!-- red party mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6394" count="1"/>
+	</item>
+	<!-- shayas white mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7837" count="1"/>
+	</item>
+	<!-- gran kains black mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7839" count="1"/>
+	</item>
+	<!-- mask of spirits -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8552" count="1"/>
+	</item>
+	<!-- golden festival mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7059" count="1"/>
+	</item>
+	<!-- half face mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8569" count="1"/>
+	</item>
+	<!-- white half mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10176" count="1"/>
+	</item>
+	<!-- black half mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10177" count="1"/>
+	</item>
+	<!-- black phantom mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="9409" count="1"/>
+	</item>
+	<!-- phantom mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="9208" count="1"/>
+	</item>
+	<!-- medieval partymask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10251" count="1"/>
+	</item>
+	<!-- black feather mask -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8910" count="1"/>
+	</item>
+	<!-- Santas Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="9138" count="1"/>
+	</item>
+	<!-- Santas Antlers -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8936" count="1"/>
+	</item>
+	<!-- Monocle -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6846" count="1"/>
+	</item>
+	<!-- Pirates Eyepatch -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6845" count="1"/>
+	</item>
+	<!-- outlaws eyepatch -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7681" count="1"/>
+	</item>
+	<!-- eye patch -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8916" count="1"/>
+	</item>
+	<!-- tateossian hairband -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7060" count="1"/>
+	</item>
+	<!-- cat ear -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6843" count="1"/>
+	</item>
+	<!-- raccoon ears -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7680" count="1"/>
+	</item>
+	<!-- rabbit ears -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="7683" count="1"/>
+	</item>
+	<!-- fairy antenne -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8189" count="1"/>
+	</item>
+	<!-- party hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8184" count="1"/>
+	</item>
+	<!-- blue party hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8557" count="1"/>
+	</item>
+	<!-- romantic chapeau -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8565" count="1"/>
+	</item>
+	<!-- feathered hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8185" count="1"/>
+	</item>
+	<!-- dapper cap -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8564" count="1"/>
+	</item>
+	<!-- wizard hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8563" count="1"/>
+	</item>
+	<!-- jester hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8562" count="1"/>
+	</item>
+	<!-- diadem -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8559" count="1"/>
+	</item>
+	<!-- bird nest -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10240" count="1"/>
+	</item>
+	<!-- evas mark -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8558" count="1"/>
+	</item>
+	<!-- angel halo -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8920" count="1"/>
+	</item>
+	<!-- explorer hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10250" count="1"/>
+	</item>
+	<!-- straw hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10248" count="1"/>
+	</item>
+	<!-- pirate hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8922" count="1"/>
+	</item>
+	<!-- first mates hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8919" count="1"/>
+	</item>
+	<!-- leather cap -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8918" count="1"/>
+	</item>
+	<!-- scar -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8923" count="1"/>
+	</item>
+	<!-- piggy hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8561" count="1"/>
+	</item>
+	<!-- teddy hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="8560" count="1"/>
+	</item>
+	<!-- chicken hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10249" count="1"/>
+	</item>
+	<!-- fish hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10247" count="1"/>
+	</item>
+	<!-- frog hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10246" count="1"/>
+	</item>
+	<!-- black sheep -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10245" count="1"/>
+	</item>
+	<!-- white sheep -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10244" count="1"/>
+	</item>
+	<!-- panda hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="10243" count="1"/>
+	</item>
+	<!-- Monkey Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="12372" count="1"/>
+	</item>
+	<!-- pig hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="12373" count="1"/>
+	</item>
+	<!-- olmahum hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="12781" count="1"/>
+	</item>
+	<!-- wolf hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="12785" count="1"/>
+	</item>
+	<!-- ant hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="12784" count="1"/>
+	</item>
+	<!-- kai the cat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13333" count="1"/>
+	</item>
+	<!-- feline king hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13332" count="1"/>
+	</item>
+	<!-- Ornithomimus Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13331" count="1"/>
+	</item>
+	<!-- fungus hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13329" count="1"/>
+	</item>
+	<!-- brown bear hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13328" count="1"/>
+	</item>
+	<!-- monster eye hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13327" count="1"/>
+	</item>
+	<!-- feline queen hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="13326" count="1"/>
+	</item>
+	<!-- kat the cat hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="20031" count="1"/>
+	</item>
+	<!-- skull hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="20032" count="1"/>
+	</item>
+	<!-- visor -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="20024" count="1"/>
+	</item>
+	<!-- horn rimmed glasses -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="20016" count="1"/>
+	</item>
+	<!-- ribbon hairband -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="20023" count="1"/>
+	</item>
+	<!-- formal wear -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="6408" count="1"/>
+	</item>
+	<!-- laborer hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="20401" count="1"/>
+	</item>
+	<!-- Ice Watermelon Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="17289" count="1"/>
+	</item>
+	<!-- Warm Bear Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21108" count="1"/>
+	</item>
+	<!-- Warm Bear Paws -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21110" count="1"/>
+	</item>
+	<!-- Stag Beetle Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21112" count="1"/>
+	</item>
+	<!-- Beetle Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21114" count="1"/>
+	</item>
+	<!-- Ladybug Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21116" count="1"/>
+	</item>
+	<!-- Preying Mantis Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21118" count="1"/>
+	</item>
+	<!-- Grasshopper Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21120" count="1"/>
+	</item>
+	<!-- Gold-rimmed Glasses -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21122" count="1"/>
+	</item>
+	<!-- Wedding Ring - Male -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21159" count="1"/>
+	</item>
+	<!-- Wedding Ring - Female -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21160" count="1"/>
+	</item>
+	<!-- Wedding Veil -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21162" count="1"/>
+	</item>
+	<!-- Wedding Bouquet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21163" count="1"/>
+	</item>
+	<!-- Brown Bear Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21433" count="1"/>
+	</item>
+	<!-- Chicken Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21445" count="1"/>
+	</item>
+	<!-- Coronet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21457" count="1"/>
+	</item>
+	<!-- White Sheep Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21469" count="1"/>
+	</item>
+	<!-- Frog Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21481" count="1"/>
+	</item>
+	<!-- Kat the Cat Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21493" count="1"/>
+	</item>
+	<!-- Feline Queen Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21517" count="1"/>
+	</item>
+	<!-- Feline King Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21529" count="1"/>
+	</item>
+	<!-- Ribbon Hairband -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21541" count="1"/>
+	</item>
+	
+	<!-- Refined Dapper Cap -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21553" count="1"/>
+	</item>
+	<!-- Valkyrie Circlet -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21565" count="1"/>
+	</item>
+	<!-- Manor Scholar's Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21755" count="1"/>
+	</item>
+	<!-- Rank 1 Scholar's Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21756" count="1"/>
+	</item>
+	<!-- Rank 2 Scholar's Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21757" count="1"/>
+	</item>
+	<!-- Rank 3 Scholar's Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21758" count="1"/>
+	</item>
+	<!-- Clownfish Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21981" count="1"/>
+	</item>
+	<!-- Ice Queen's Tiara -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="21894" count="1"/>
+	</item>
+	<!-- Admiral's Hat -->
+	<item>
+		<ingredient id="3470" count="500"/>
+		<production id="22184" count="1"/>
+	</item>
+</list>
