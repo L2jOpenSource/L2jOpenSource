@@ -1,0 +1,25 @@
+<html noscrollbar>
+<body><center><br>
+<table border="0" background=000000 width="790">
+<tr><td align=center width="140"><font color=LEVEL>Clan Name</font></td><td align=center width="100"><font color=LEVEL>Clan Level</font></td><td align=center width="140"><font color=LEVEL>Clan Leader</font></td></tr>
+<tr><td align=center width="140"><font color=00FFFF>%clanname%</font></td><td align=center width="100"><font color=00FFFF>%clanlevel%</font></td><td align=center width="140"><font color=00FFFF>%clanleader%</font></td></tr>
+</table>
+
+<table border="0" height=400 background=000000 width="774">
+<tr><td height=20></td></tr>
+<tr><td align=center><font color=LEVEL>Add some info about your clan:</font></td></tr>
+<tr><td align=center height=360><multiedit var="msg" width=750 height=340></td></tr>
+<tr><td align=center>
+	<table>
+		<tr>
+			<td width=85>Place your bid:</td>
+			<td><edit var="adenas" width=150></td>
+			<td><button value="Submit" action="bypass -h Quest ClanSearcher add $adenas $msg" width=160 height=25 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+		</tr>
+	</table>
+	</td>
+</tr>
+<tr><td align="center"><font color=LEVEL>NOTE:</font> The more bid you make, the higher place it will take. Advertised clans will be removed after 1 week if message not updated.</td></tr>
+</table>
+</center>
+</body></html>

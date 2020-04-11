@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<!-- Pagan Temple Zones -->
+	<!-- Bleed-->
+	<zone name="19_16_altar_leftroom_01" type="EffectZone" shape="NPoly" minZ="-10974" maxZ="-10674">
+		<stat name="chance" val="100" />
+		<!-- stat name="unitTick" val="10" / -->
+		<stat name="skillIdLvl" val="4149-9" /> <!-- s_area_bleed9 -->
+		<stat name="default_enabled" val="true" />
+		<stat name="reuse" val="5000" /> <!-- Guess -->
+		<node X="-20580" Y="-52990" />
+		<node X="-19621" Y="-52991" />
+		<node X="-19622" Y="-52373" />
+		<node X="-20578" Y="-52372" />
+	</zone>
+	<zone name="19_16_altar_leftroom_02" type="EffectZone" shape="NPoly" minZ="-11170" maxZ="-10870">
+		<stat name="chance" val="100" />
+		<!-- stat name="unitTick" val="10" / -->
+		<stat name="skillIdLvl" val="4149-9" /> <!-- s_area_bleed9 -->
+		<stat name="default_enabled" val="true" />
+		<stat name="reuse" val="5000" /> <!-- Guess -->
+		<node X="-20601" Y="-54679" />
+		<node X="-19642" Y="-54680" />
+		<node X="-19643" Y="-54062" />
+		<node X="-20599" Y="-54061" />
+	</zone>
+	<zone name="19_16_altar_rightroom_01" type="EffectZone" shape="NPoly" minZ="-10974" maxZ="-10674">
+		<stat name="chance" val="100" />
+		<!-- stat name="unitTick" val="10" / -->
+		<stat name="skillIdLvl" val="4149-9" /> <!-- s_area_bleed9 -->
+		<stat name="default_enabled" val="true" />
+		<stat name="reuse" val="5000" /> <!-- Guess -->
+		<node X="-13173" Y="-52984" />
+		<node X="-12214" Y="-52985" />
+		<node X="-12215" Y="-52367" />
+		<node X="-13171" Y="-52366" />
+	</zone>
+	<zone name="19_16_altar_rightroom_02" type="EffectZone" shape="NPoly" minZ="-11170" maxZ="-10870">
+		<stat name="chance" val="100" />
+		<!-- stat name="unitTick" val="10" / -->
+		<stat name="skillIdLvl" val="4149-9" /> <!-- s_area_bleed9 -->
+		<stat name="default_enabled" val="true" />
+		<stat name="reuse" val="5000" /> <!-- Guess -->
+		<node X="-13123" Y="-54687" />
+		<node X="-12164" Y="-54688" />
+		<node X="-12165" Y="-54070" />
+		<node X="-13121" Y="-54069" />
+	</zone>
+	<zone name="19_16_altar_first_01" type="EffectZone" shape="NPoly" minZ="-11624" maxZ="-11324">
+		<stat name="chance" val="100" />
+		<!-- stat name="unitTick" val="10" / -->
+		<stat name="skillIdLvl" val="4149-9" /> <!-- s_area_bleed9 -->
+		<stat name="default_enabled" val="true" />
+		<stat name="reuse" val="5000" /> <!-- Guess -->
+		<node X="-18121" Y="-53717" />
+		<node X="-17625" Y="-53714" />
+		<node X="-17628" Y="-52912" />
+		<node X="-18104" Y="-52915" />
+	</zone>
+	<zone name="19_16_altar_first_02" type="EffectZone" shape="NPoly" minZ="-11624" maxZ="-11324">
+		<stat name="chance" val="100" />
+		<!-- stat name="unitTick" val="10" / -->
+		<stat name="skillIdLvl" val="4149-9" /> <!-- s_area_bleed9 -->
+		<stat name="default_enabled" val="true" />
+		<stat name="reuse" val="5000" /> <!-- Guess -->
+		<node X="-17350" Y="-54663" />
+		<node X="-16894" Y="-54671" />
+		<node X="-16895" Y="-53235" />
+		<node X="-17343" Y="-53236" />
+	</zone>
+	<zone name="19_16_altar_first_03" type="EffectZone" shape="NPoly" minZ="-11624" maxZ="-11324">
+		<stat name="chance" val="100" />
+		<!-- stat name="unitTick" val="10" / -->
+		<stat name="skillIdLvl" val="4149-9" /> <!-- s_area_bleed9 -->
+		<stat name="default_enabled" val="true" />
+		<stat name="reuse" val="5000" /> <!-- Guess -->
+		<node X="-16637" Y="-54676" />
+		<node X="-16181" Y="-54683" />
+		<node X="-16184" Y="-53037" />
+		<node X="-16632" Y="-53038" />
+	</zone>
+	<zone name="19_16_altar_first_04" type="EffectZone" shape="NPoly" minZ="-11624" maxZ="-11324">
+		<stat name="chance" val="100" />
+		<!-- stat name="unitTick" val="10" / -->
+		<stat name="skillIdLvl" val="4149-9" /> <!-- s_area_bleed9 -->
+		<stat name="default_enabled" val="true" />
+		<stat name="reuse" val="5000" /> <!-- Guess -->
+		<node X="-15928" Y="-54745" />
+		<node X="-15471" Y="-54753" />
+		<node X="-15484" Y="-53412" />
+		<node X="-15932" Y="-53413" />
+	</zone>
+	<zone name="19_16_altar_first_05" type="EffectZone" shape="NPoly" minZ="-11624" maxZ="-11324">
+		<stat name="chance" val="100" />
+		<!-- stat name="unitTick" val="10" / -->
+		<stat name="skillIdLvl" val="4149-9" /> <!-- s_area_bleed9 -->
+		<stat name="default_enabled" val="true" />
+		<stat name="reuse" val="5000" /> <!-- Guess -->
+		<node X="-15563" Y="-53309" />
+		<node X="-14692" Y="-53710" />
+		<node X="-14689" Y="-53025" />
+		<node X="-15730" Y="-53024" />
+	</zone>
+	<zone name="19_16_altar_hideroom_01" type="EffectZone" shape="NPoly" minZ="-10900" maxZ="-10600">
+		<stat name="chance" val="100" />
+		<!-- stat name="unitTick" val="10" / -->
+		<stat name="skillIdLvl" val="4149-9" /> <!-- s_area_bleed9 -->
+		<stat name="default_enabled" val="true" />
+		<stat name="reuse" val="5000" /> <!-- Guess -->
+		<node X="-17691" Y="-57093" />
+		<node X="-14924" Y="-57088" />
+		<node X="-14748" Y="-56439" />
+		<node X="-17895" Y="-56432" />
+	</zone>
+	<zone name="19_16_andreas_power" type="EffectZone" shape="NPoly" minZ="-10494" maxZ="-10194">
+		<stat name="chance" val="100" />
+		<!-- stat name="unitTick" val="10" / -->
+		<stat name="skillIdLvl" val="4149-9" /> <!-- s_area_bleed9 -->
+		<stat name="default_enabled" val="true" />
+		<stat name="reuse" val="5000" /> <!-- Guess -->
+		<node X="-15401" Y="-54716" />
+		<node X="-15395" Y="-53462" />
+		<node X="-15857" Y="-53016" />
+		<node X="-16923" Y="-53013" />
+		<node X="-17383" Y="-53457" />
+		<node X="-17385" Y="-54721" />
+	</zone>
+</list>

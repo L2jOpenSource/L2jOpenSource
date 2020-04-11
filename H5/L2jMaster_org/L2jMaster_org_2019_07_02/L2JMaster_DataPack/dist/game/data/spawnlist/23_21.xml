@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- giran02_npc2321_01 -->
+	<spawn zone="giran02_npc2321_0101">
+		<npc id="30832" x="105745" y="114255" z="-3136" heading="49152" respawnDelay="60" /> <!-- Hardin -->
+	</spawn>
+	<!-- giran02_npc2321_02 -->
+	<spawn zone="giran02_npc2321_0201">
+		<npc id="30835" x="106581" y="113352" z="-3193" heading="28672" respawnDelay="60" /> <!-- Icarus -->
+	</spawn>
+	<!-- giran02_npc2321_03 -->
+	<spawn zone="giran02_npc2321_0301">
+		<npc id="30833" x="104870" y="113221" z="-3190" heading="4096" respawnDelay="60" /> <!-- Kaspar -->
+	</spawn>
+	<!-- giran02_npc2321_06 -->
+	<spawn zone="giran02_npc2321_0601">
+		<npc id="30758" x="102069" y="103120" z="-3506" heading="6000" respawnDelay="60" /> <!-- Athrea -->
+	</spawn>
+	<!-- giran02_npc2321_11 -->
+	<spawn zone="giran02_npc2321_1101">
+		<npc id="31582" x="104840" y="113260" z="-3190" heading="0" respawnDelay="60" /> <!-- Mordred -->
+	</spawn>
+	<!-- giran02_npc2321_12 -->
+	<spawn zone="giran02_npc2321_1201">
+		<npc id="31580" x="106608" y="113296" z="-3193" heading="30000" respawnDelay="60" /> <!-- Galadrid -->
+		<npc id="31581" x="106636" y="113392" z="-3192" heading="30000" respawnDelay="60" /> <!-- Anastia -->
+	</spawn>
+	<!-- giran02_npc2321_13 -->
+	<spawn zone="giran02_npc2321_1301">
+		<npc id="30834" x="105792" y="114290" z="-3136" heading="49000" respawnDelay="60" /> <!-- Cema -->
+	</spawn>
+	<!-- giran02_npc2321_14 -->
+	<spawn zone="giran02_npc2321_1401">
+		<npc id="30836" x="105888" y="109808" z="-3200" heading="45056" respawnDelay="60" /> <!-- Minerva -->
+	</spawn>
+	<!-- giran02_npc2321_15 -->
+	<spawn zone="giran02_npc2321_15m1">
+		<npc id="31810" x="105850" y="109807" z="-3184" heading="46000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- giran03_npc2321_11 -->
+	<spawn zone="giran03_npc2321_11m1">
+		<npc id="31045" x="99361" y="109843" z="-3664" heading="22121" respawnDelay="60" /> <!-- Kitzka -->
+		<npc id="32890" x="99434" y="109868" z="-3664" heading="21929" respawnDelay="60" /> <!-- Ruiman -->
+	</spawn>
+	<!-- giran03_npc2321_17 -->
+	<spawn zone="giran03_npc2321_17m1">
+		<npc id="30981" x="106131" y="105979" z="-3482" heading="28672" respawnDelay="60" /> <!-- Black Judge -->
+	</spawn>
+	<!-- giran03_gcbt2321_01 -->
+	<spawn zone="giran03_gcbt2321_01m1">
+		<npc id="32723" x="90459" y="120761" z="-2992" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_02 -->
+	<spawn zone="giran03_gcbt2321_02m1">
+		<npc id="32723" x="90734" y="106231" z="-3120" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_03 -->
+	<spawn zone="giran03_gcbt2321_03m1">
+		<npc id="32723" x="91563" y="109541" z="-3744" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_04 -->
+	<spawn zone="giran03_gcbt2321_04m1">
+		<npc id="32723" x="93110" y="111366" z="-2976" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_05 -->
+	<spawn zone="giran03_gcbt2321_05m1">
+		<npc id="32723" x="101578" y="110546" z="-3664" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_06 -->
+	<spawn zone="giran03_gcbt2321_06m1">
+		<npc id="32723" x="107958" y="117417" z="-3032" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_07 -->
+	<spawn zone="giran03_gcbt2321_07m1">
+		<npc id="32723" x="110480" y="121632" z="-3704" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_08 -->
+	<spawn zone="giran03_gcbt2321_08m1">
+		<npc id="32723" x="112078" y="122904" z="-3720" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_09 -->
+	<spawn zone="giran03_gcbt2321_09m1">
+		<npc id="32723" x="125846" y="111064" z="-3072" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_10 -->
+	<spawn zone="giran03_gcbt2321_10m1">
+		<npc id="32723" x="124117" y="111817" z="-3056" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_11 -->
+	<spawn zone="giran03_gcbt2321_11m1">
+		<npc id="32723" x="122141" y="113458" z="-3792" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_12 -->
+	<spawn zone="giran03_gcbt2321_12m1">
+		<npc id="32723" x="120450" y="112338" z="-3720" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_13 -->
+	<spawn zone="giran03_gcbt2321_13m1">
+		<npc id="32723" x="117668" y="109610" z="-2856" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_gcbt2321_14 -->
+	<spawn zone="giran03_gcbt2321_14m1">
+		<npc id="32723" x="108507" y="113011" z="-3048" heading="16384" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- giran03_2321_10_raid -->
+	<spawn zone="giran03_2321_10_raidm1">
+		<npc id="32871" x="110116" y="125500" z="-3664" heading="0" respawnDelay="60" /> <!-- Dragon Vortex -->
+	</spawn>
+	<!-- giran03_2321_16_raid -->
+	<spawn zone="giran03_2321_16_raidm1">
+		<npc id="32871" x="121172" y="113348" z="-3776" heading="0" respawnDelay="60" /> <!-- Dragon Vortex -->
+	</spawn>
+	<!-- giran03_2321_33_raid -->
+	<spawn zone="giran03_2321_33_raidm1">
+		<npc id="32871" x="108924" y="111992" z="-3028" heading="0" respawnDelay="60" /> <!-- Dragon Vortex -->
+	</spawn>
+	<!-- giran03_2321_20 -->
+	<spawn zone="giran03_2321_20m1">
+		<npc id="22832" x="124768" y="109220" z="-3056" heading="0" respawnDelay="300" /> <!-- Dragon Scout of the Valley -->
+	</spawn>
+	<!-- giran03_2321_24 -->
+	<spawn zone="giran03_2321_24m1">
+		<npc id="22832" x="116956" y="110272" z="-2984" heading="0" respawnDelay="300" /> <!-- Dragon Scout of the Valley -->
+	</spawn>
+	<!-- giran03_2321_25 -->
+	<spawn zone="giran03_2321_25m1">
+		<npc id="22823" count="1" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Assassin -->
+		<npc id="22862" count="2" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Hunter -->
+	</spawn>
+	<!-- giran03_2321_26 -->
+	<spawn zone="giran03_2321_26m1">
+		<npc id="22824" count="3" respawnDelay="200" respawnRandom="20" /> <!-- Drakos Guardian -->
+	</spawn>
+	<!-- giran03_2321_27 -->
+	<spawn zone="giran03_2321_27m1">
+		<npc id="22822" count="2" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Warrior -->
+	</spawn>
+	<!-- giran03_2321_29 -->
+	<spawn zone="giran03_2321_29m1">
+		<npc id="22822" count="1" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Warrior -->
+		<npc id="22824" count="2" respawnDelay="200" respawnRandom="20" /> <!-- Drakos Guardian -->
+	</spawn>
+	<!-- giran03_2321_30 -->
+	<spawn zone="giran03_2321_30m1">
+		<npc id="22824" count="2" respawnDelay="200" respawnRandom="20" /> <!-- Drakos Guardian -->
+		<npc id="22824" x="110928" y="112016" z="-2800" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Drakos Guardian -->
+	</spawn>
+	<!-- giran03_2321_31 -->
+	<spawn zone="giran03_2321_31m1">
+		<npc id="22824" count="2" respawnDelay="200" respawnRandom="20" /> <!-- Drakos Guardian -->
+		<npc id="22824" x="110640" y="113104" z="-2784" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Drakos Guardian -->
+	</spawn>
+	<!-- giran03_2321_32 -->
+	<spawn zone="giran03_2321_32m1">
+		<npc id="22822" count="2" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Warrior -->
+		<npc id="22831" x="110556" y="111224" z="-3128" heading="0" respawnDelay="300" /> <!-- Dragon Tracker of the Valley -->
+	</spawn>
+	<!-- giran03_2321_34 -->
+	<spawn zone="giran03_2321_34m1">
+		<npc id="22823" count="2" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Assassin -->
+		<npc id="22862" count="2" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Hunter -->
+	</spawn>
+	<!-- giran03_2321_35 -->
+	<spawn zone="giran03_2321_35m1">
+		<npc id="22823" count="1" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Assassin -->
+		<npc id="22862" count="2" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Hunter -->
+	</spawn>
+	<!-- giran03_2321_36_1 -->
+	<spawn zone="giran03_2321_36_1m1">
+		<npc id="22823" count="2" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Assassin -->
+	</spawn>
+	<!-- giran03_2321_36_2 -->
+	<spawn zone="giran03_2321_36_2m1">
+		<npc id="22823" count="2" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Assassin -->
+	</spawn>
+	<!-- giran03_2321_36_3 -->
+	<spawn zone="giran03_2321_36_3m1">
+		<npc id="22823" count="3" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Assassin -->
+	</spawn>
+	<!-- giran03_2321_36 -->
+	<spawn zone="giran03_2321_36m1">
+		<npc id="22823" count="2" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Assassin -->
+		<npc id="22862" count="2" respawnDelay="180" respawnRandom="20" /> <!-- Drakos Hunter -->
+	</spawn>
+	<!-- giran03_2321_45 -->
+	<spawn zone="giran03_2321_45m1">
+		<npc id="22832" x="115676" y="114476" z="-3096" heading="0" respawnDelay="300" /> <!-- Dragon Scout of the Valley -->
+	</spawn>
+	<!-- giran03_2321_p12_1 -->
+	<spawn zone="giran03_2321_p12_1m1">
+		<npc id="22860" count="14" respawnDelay="300" respawnRandom="20" /> <!-- Hungry Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2321_p12_2 -->
+	<spawn zone="giran03_2321_p12_2m1">
+		<npc id="22860" count="14" respawnDelay="300" respawnRandom="20" /> <!-- Hungry Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2321_p15_1 -->
+	<spawn zone="giran03_2321_p15_1m1">
+		<npc id="22860" count="14" respawnDelay="300" respawnRandom="20" /> <!-- Hungry Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2321_p02 -->
+	<spawn zone="giran03_2321_p02m1">
+		<npc id="22826" count="2" respawnDelay="240" /> <!-- Scorpion Bones -->
+	</spawn>
+	<!-- giran03_2321_p03 -->
+	<spawn zone="giran03_2321_p03m1">
+		<npc id="22826" count="3" respawnDelay="240" /> <!-- Scorpion Bones -->
+	</spawn>
+	<!-- giran03_2321_p04 -->
+	<spawn zone="giran03_2321_p04m1">
+		<npc id="22826" count="9" respawnDelay="240" /> <!-- Scorpion Bones -->
+	</spawn>
+	<!-- giran03_2321_p05 -->
+	<spawn zone="giran03_2321_p05m1">
+		<npc id="22826" count="3" respawnDelay="240" /> <!-- Scorpion Bones -->
+	</spawn>
+	<!-- giran03_2321_p06 -->
+	<spawn zone="giran03_2321_p06m1">
+		<npc id="22826" count="6" respawnDelay="240" /> <!-- Scorpion Bones -->
+	</spawn>
+	<!-- giran03_2321_p07 -->
+	<spawn zone="giran03_2321_p07m1">
+		<npc id="22826" count="5" respawnDelay="240" /> <!-- Scorpion Bones -->
+		<npc id="22861" count="3" respawnDelay="180" /> <!-- Hard Scorpion Bones -->
+	</spawn>
+	<!-- giran03_2321_p06_1 -->
+	<spawn zone="giran03_2321_p06_1m1">
+		<npc id="22825" x="104480" y="120788" z="-3616" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Giant Scorpion Bones -->
+		<npc id="22825" x="102448" y="122368" z="-3564" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Giant Scorpion Bones -->
+		<npc id="22825" x="104272" y="122160" z="-3732" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Giant Scorpion Bones -->
+		<npc id="22825" x="106192" y="122736" z="-3568" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Giant Scorpion Bones -->
+		<npc id="22825" x="103216" y="124224" z="-3664" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Giant Scorpion Bones -->
+		<npc id="22825" count="2" respawnDelay="200" respawnRandom="20" /> <!-- Giant Scorpion Bones -->
+		<npc id="22826" count="9" respawnDelay="240" /> <!-- Scorpion Bones -->
+		<npc id="22861" count="2" respawnDelay="200" /> <!-- Hard Scorpion Bones -->
+	</spawn>
+	<!-- giran03_2321_p08 -->
+	<spawn zone="giran03_2321_p08m1">
+		<npc id="22825" x="107124" y="120076" z="-3600" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Giant Scorpion Bones -->
+		<npc id="22825" x="106912" y="120836" z="-3600" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Giant Scorpion Bones -->
+		<npc id="22825" x="108360" y="120912" z="-3600" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Giant Scorpion Bones -->
+		<npc id="22825" x="108312" y="121932" z="-3600" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Giant Scorpion Bones -->
+		<npc id="22825" x="107208" y="121948" z="-3600" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Giant Scorpion Bones -->
+		<npc id="22826" count="6" respawnDelay="240" /> <!-- Scorpion Bones -->
+	</spawn>
+	<!-- giran03_2321_p09 -->
+	<spawn zone="giran03_2321_p09m1">
+		<npc id="22861" count="4" respawnDelay="180" /> <!-- Hard Scorpion Bones -->
+	</spawn>
+	<!-- giran03_2321_p13 -->
+	<spawn zone="giran03_2321_p13m1">
+		<npc id="22860" count="7" respawnDelay="300" respawnRandom="20" /> <!-- Hungry Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2321_p14 -->
+	<spawn zone="giran03_2321_p14m1">
+		<npc id="22827" count="2" respawnDelay="240" respawnRandom="20" /> <!-- Batwing Drake -->
+		<npc id="22828" count="6" respawnDelay="240" respawnRandom="20" /> <!-- Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2321_p15 -->
+	<spawn zone="giran03_2321_p15m1">
+		<npc id="22827" x="122000" y="115040" z="-3664" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Batwing Drake -->
+		<npc id="22827" x="122000" y="115040" z="-3664" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Batwing Drake -->
+		<npc id="22827" x="120960" y="116176" z="-3584" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Batwing Drake -->
+		<npc id="22827" x="123440" y="115728" z="-3568" heading="0" respawnDelay="200" respawnRandom="20" /> <!-- Batwing Drake -->
+		<npc id="22827" count="1" respawnDelay="200" respawnRandom="20" /> <!-- Batwing Drake -->
+		<npc id="22828" count="5" respawnDelay="200" respawnRandom="20" /> <!-- Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2321_p16 -->
+	<spawn zone="giran03_2321_p16m1">
+		<npc id="22827" count="2" respawnDelay="200" respawnRandom="20" /> <!-- Batwing Drake -->
+		<npc id="22828" count="3" respawnDelay="200" respawnRandom="20" /> <!-- Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2321_p17 -->
+	<spawn zone="giran03_2321_p17m1">
+		<npc id="22828" count="7" respawnDelay="200" respawnRandom="20" /> <!-- Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2321_p19 -->
+	<spawn zone="giran03_2321_p19m1">
+		<npc id="22823" count="4" respawnDelay="240" /> <!-- Drakos Assassin -->
+		<npc id="22862" count="3" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Hunter -->
+	</spawn>
+	<!-- giran03_2321_p20 -->
+	<spawn zone="giran03_2321_p20m1">
+		<npc id="22822" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Warrior -->
+		<npc id="22823" count="2" respawnDelay="240" /> <!-- Drakos Assassin -->
+	</spawn>
+	<!-- giran03_2321_p21 -->
+	<spawn zone="giran03_2321_p21m1">
+		<npc id="22822" count="3" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Warrior -->
+		<npc id="22823" count="2" respawnDelay="240" /> <!-- Drakos Assassin -->
+	</spawn>
+	<!-- giran03_2321_p22 -->
+	<spawn zone="giran03_2321_p22m1">
+		<npc id="22822" count="4" respawnDelay="200" respawnRandom="20" /> <!-- Drakos Warrior -->
+		<npc id="22833" x="120496" y="108532" z="-2944" heading="0" respawnDelay="360" respawnRandom="20" /> <!-- Sand Drake Tracker -->
+	</spawn>
+	<!-- giran03_2321_p23 -->
+	<spawn zone="giran03_2321_p23m1">
+		<npc id="22822" count="3" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Warrior -->
+	</spawn>
+	<!-- giran03_2321_p24 -->
+	<spawn zone="giran03_2321_p24m1">
+		<npc id="22822" count="2" respawnDelay="200" respawnRandom="20" /> <!-- Drakos Warrior -->
+		<npc id="22823" count="2" respawnDelay="240" /> <!-- Drakos Assassin -->
+	</spawn>
+	<!-- giran03_2321_p26 -->
+	<spawn zone="giran03_2321_p26m1">
+		<npc id="22834" x="114348" y="110080" z="-3000" heading="0" respawnDelay="360" respawnRandom="20" /> <!-- Dust Dragon Tracker -->
+	</spawn>
+	<!-- giran03_2321_p27 -->
+	<spawn zone="giran03_2321_p27m1">
+		<npc id="22834" x="111720" y="110228" z="-3024" heading="0" respawnDelay="360" respawnRandom="20" /> <!-- Dust Dragon Tracker -->
+	</spawn>
+	<!-- giran03_2321_p36 -->
+	<spawn zone="giran03_2321_p36m1">
+		<npc id="22834" x="108508" y="117164" z="-3056" heading="0" respawnDelay="360" respawnRandom="20" /> <!-- Dust Dragon Tracker -->
+	</spawn>
+	<!-- giran03_2321_p43 -->
+	<spawn zone="giran03_2321_p43m1">
+		<npc id="22824" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Guardian -->
+		<npc id="22833" x="112452" y="118372" z="-3072" heading="0" respawnDelay="360" respawnRandom="20" /> <!-- Sand Drake Tracker -->
+	</spawn>
+	<!-- giran03_2321_p44 -->
+	<spawn zone="giran03_2321_p44m1">
+		<npc id="22824" x="113904" y="114976" z="-3176" heading="0" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Guardian -->
+		<npc id="22824" x="113728" y="115648" z="-3232" heading="0" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Guardian -->
+		<npc id="22824" x="112752" y="115808" z="-3200" heading="0" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Guardian -->
+		<npc id="22824" x="112560" y="116496" z="-3072" heading="0" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Guardian -->
+		<npc id="22824" x="111904" y="116160" z="-3060" heading="0" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Guardian -->
+		<npc id="22824" x="111952" y="117168" z="-2988" heading="0" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Guardian -->
+		<npc id="22824" x="113056" y="115120" z="-3200" heading="0" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Guardian -->
+	</spawn>
+	<!-- giran03_2321_p45 -->
+	<spawn zone="giran03_2321_p45m1">
+		<npc id="22824" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Guardian -->
+		<npc id="22824" x="114848" y="115008" z="-3192" heading="0" respawnDelay="200" respawnRandom="30" /> <!-- Drakos Guardian -->
+	</spawn>
+	<!-- giran03_2321_p48 -->
+	<spawn zone="giran03_2321_p48m1">
+		<npc id="22828" count="6" respawnDelay="240" respawnRandom="20" /> <!-- Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2321_p49 -->
+	<spawn zone="giran03_2321_p49m1">
+		<npc id="22828" count="6" respawnDelay="240" respawnRandom="20" /> <!-- Parasitic Leech -->
+	</spawn>
+	<!-- giran03_2321_p50 -->
+	<spawn zone="giran03_2321_p50m1">
+		<npc id="22827" count="3" respawnDelay="240" respawnRandom="20" /> <!-- Batwing Drake -->
+	</spawn>
+	<!-- giran03_2321_p51 -->
+	<spawn zone="giran03_2321_p51m1">
+		<npc id="22828" count="6" respawnDelay="240" respawnRandom="20" /> <!-- Parasitic Leech -->
+	</spawn>
+	<!-- giran06_2321_01 -->
+	<spawn zone="giran06_2321_01m1"> 
+		<npc id="20552" count="7" respawnDelay="22" /> <!-- Fettered Soul -->
+		<npc id="20553" count="6" respawnDelay="22" /> <!-- Windsus -->
+		<npc id="20554" count="6" respawnDelay="22" /> <!-- Grandis -->
+	</spawn>
+	<!-- giran06_2321_02 -->
+	<spawn zone="giran06_2321_02m1"> 
+		<npc id="20552" count="1" respawnDelay="22" /> <!-- Fettered Soul -->
+		<npc id="20553" count="1" respawnDelay="22" /> <!-- Windsus -->
+		<npc id="20554" count="1" respawnDelay="22" /> <!-- Grandis -->
+	</spawn>
+	<!-- giran17_2321_03 -->
+	<spawn zone="giran17_2321_03m1">
+		<npc id="20249" count="6" respawnDelay="27" /> <!-- Turak Bugbear Warrior -->
+		<npc id="20158" count="6" respawnDelay="27" /> <!-- Medusa -->
+		<npc id="20176" count="6" respawnDelay="27" /> <!-- Wyrm -->
+	</spawn>
+	<!-- giran17_2321_04 -->
+	<spawn zone="giran17_2321_04m1">
+		<npc id="20249" count="3" respawnDelay="27" /> <!-- Turak Bugbear Warrior -->
+		<npc id="20158" count="4" respawnDelay="27" /> <!-- Medusa -->
+		<npc id="20176" count="3" respawnDelay="27" /> <!-- Wyrm -->
+	</spawn>
+	<!-- giran17_tb2321_03 -->
+	<spawn zone="giran17_tb3_m1">
+		<npc id="18269" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- giran01_qm2321_01 -->
+	<spawn zone="giran01_qm2321_01m1">
+		<npc id="27108" count="1" respawnDelay="180" /> <!-- Stenoa Gorgon Queen -->
+	</spawn>
+</list>

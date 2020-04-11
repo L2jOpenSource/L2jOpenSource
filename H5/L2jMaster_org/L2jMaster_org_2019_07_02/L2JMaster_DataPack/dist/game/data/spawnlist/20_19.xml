@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- oren07_npc2019_gd01 -->
+	<spawn zone="oren07_npc2019_gd01m1">
+		<npc id="31845" count="1" respawnDelay="15" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren07_npc2019_gd02 -->
+	<spawn zone="oren07_npc2019_gd02m1">
+		<npc id="31845" count="1" respawnDelay="15" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren02_npc2019_001 -->
+	<spawn zone="oren02_npc2019_00101">
+		<npc id="30980" x="2908" y="44128" z="-2712" heading="0" respawnDelay="60" /> <!-- Ark Guardian's Corpse -->
+	</spawn>
+	<!-- oren02_npc2019_gd01 -->
+	<spawn zone="oren02_npc2019_gd01m1">
+		<npc id="31851" count="1" respawnDelay="15" /> <!-- Treant -->
+	</spawn>
+	<!-- oren02_npc2019_gd02 -->
+	<spawn zone="oren02_npc2019_gd02m1">
+		<npc id="31848" count="1" respawnDelay="15" /> <!-- Pixy -->
+	</spawn>
+	<!-- oren02_npc2019_gd03 -->
+	<spawn zone="oren02_npc2019_gd03m1">
+		<npc id="31848" count="1" respawnDelay="15" /> <!-- Pixy -->
+	</spawn>
+	<!-- oren02_npc2019_gd04 -->
+	<spawn zone="oren02_npc2019_gd04m1">
+		<npc id="31851" count="1" respawnDelay="15" /> <!-- Treant -->
+	</spawn>
+	<!-- oren02_npc2019_gd05 -->
+	<spawn zone="oren02_npc2019_gd05m1">
+		<npc id="31851" count="1" respawnDelay="15" /> <!-- Treant -->
+	</spawn>
+	<!-- oren02_npc2019_gd06 -->
+	<spawn zone="oren02_npc2019_gd06m1">
+		<npc id="31848" count="1" respawnDelay="15" /> <!-- Pixy -->
+	</spawn>
+	<!-- oren02_npc2019_gd07 -->
+	<spawn zone="oren02_npc2019_gd07m1">
+		<npc id="31851" count="1" respawnDelay="15" /> <!-- Treant -->
+	</spawn>
+	<!-- oren04_npc2019_01 -->
+	<spawn zone="oren04_npc2019_0101">
+		<npc id="30370" x="46048" y="41200" z="-3504" heading="17000" respawnDelay="60" /> <!-- Nerupa -->
+		<npc id="30400" x="46112" y="41200" z="-3504" heading="17000" respawnDelay="60" /> <!-- Newbie Helper -->
+	</spawn>
+	<!-- oren04_2019_01 -->
+	<spawn zone="oren04_2019_01m1">
+		<npc id="20473" count="4" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20509" count="5" respawnDelay="15" /> <!-- Spore Fungus -->
+		<npc id="20471" count="4" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+	</spawn>
+	<!-- oren04_2019_02 -->
+	<spawn zone="oren04_2019_02m1">
+		<npc id="20473" count="6" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20013" count="4" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="4" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_02s -->
+	<spawn zone="oren04_2019_02sm1">
+		<npc id="20013" count="1" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="2" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_03 -->
+	<spawn zone="oren04_2019_03m1">
+		<npc id="20473" count="5" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20013" count="4" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="5" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_03s -->
+	<spawn zone="oren04_2019_03sm1">
+		<npc id="20013" count="1" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="2" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_04 -->
+	<spawn zone="oren04_2019_04m1">
+		<npc id="20473" count="3" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20509" count="4" respawnDelay="15" /> <!-- Spore Fungus -->
+		<npc id="20471" count="4" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+	</spawn>
+	<!-- oren04_2019_04s -->
+	<spawn zone="oren04_2019_04sm1">
+		<npc id="20473" count="2" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20509" count="2" respawnDelay="15" /> <!-- Spore Fungus -->
+		<npc id="20472" count="2" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_05 -->
+	<spawn zone="oren04_2019_05m1">
+		<npc id="20509" count="4" respawnDelay="15" /> <!-- Spore Fungus -->
+		<npc id="20471" count="5" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+		<npc id="20469" count="3" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+	</spawn>
+	<!-- oren04_2019_05s -->
+	<spawn zone="oren04_2019_05sm1">
+		<npc id="20509" count="2" respawnDelay="15" /> <!-- Spore Fungus -->
+		<npc id="20471" count="2" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+	</spawn>
+	<!-- oren04_2019_06 -->
+	<spawn zone="oren04_2019_06m1">
+		<npc id="20473" count="4" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20509" count="4" respawnDelay="15" /> <!-- Spore Fungus -->
+		<npc id="20472" count="4" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_06s -->
+	<spawn zone="oren04_2019_06sm1">
+		<npc id="20473" count="1" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20509" count="1" respawnDelay="15" /> <!-- Spore Fungus -->
+		<npc id="20471" count="1" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+	</spawn>
+	<!-- oren04_2019_07 -->
+	<spawn zone="oren04_2019_07m1">
+		<npc id="20473" count="2" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20013" count="2" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20509" count="3" respawnDelay="15" /> <!-- Spore Fungus -->
+		<npc id="20472" count="3" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_07s -->
+	<spawn zone="oren04_2019_07sm1">
+		<npc id="20473" count="1" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20013" count="2" respawnDelay="15" /> <!-- Dryad -->
+	</spawn>
+	<!-- oren04_2019_08 -->
+	<spawn zone="oren04_2019_08m1">
+		<npc id="20019" count="4" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20013" count="3" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="6" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_08s -->
+	<spawn zone="oren04_2019_08sm1">
+		<npc id="20013" count="1" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="1" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_09 -->
+	<spawn zone="oren04_2019_09m1">
+		<npc id="20019" count="3" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20013" count="3" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="4" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_10 -->
+	<spawn zone="oren04_2019_10m1">
+		<npc id="20019" count="4" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20013" count="4" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="6" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_10s -->
+	<spawn zone="oren04_2019_10sm1">
+		<npc id="20019" count="1" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20460" count="2" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- oren04_2019_11 -->
+	<spawn zone="oren04_2019_11m1">
+		<npc id="20019" count="4" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20460" count="4" respawnDelay="15" /> <!-- Crimson Spider -->
+		<npc id="20308" count="5" respawnDelay="15" /> <!-- Hook Spider -->
+	</spawn>
+	<!-- oren04_2019_11s -->
+	<spawn zone="oren04_2019_11sm1">
+		<npc id="20019" count="1" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20460" count="1" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- oren04_2019_12 -->
+	<spawn zone="oren04_2019_12m1">
+		<npc id="20036" count="4" respawnDelay="15" /> <!-- Lirein -->
+		<npc id="20466" count="4" respawnDelay="15" /> <!-- Pincer Spider -->
+		<npc id="20308" count="5" respawnDelay="15" /> <!-- Hook Spider -->
+	</spawn>
+	<!-- oren04_2019_12s -->
+	<spawn zone="oren04_2019_12sm1">
+		<npc id="20036" count="1" respawnDelay="15" /> <!-- Lirein -->
+		<npc id="20466" count="1" respawnDelay="15" /> <!-- Pincer Spider -->
+		<npc id="20308" count="1" respawnDelay="15" /> <!-- Hook Spider -->
+	</spawn>
+	<!-- oren04_2019_13 -->
+	<spawn zone="oren04_2019_13m1">
+		<npc id="20036" count="4" respawnDelay="15" /> <!-- Lirein -->
+		<npc id="20466" count="7" respawnDelay="15" /> <!-- Pincer Spider -->
+		<npc id="20044" count="3" respawnDelay="15" /> <!-- Lirein Elder -->
+	</spawn>
+	<!-- oren04_2019_13s -->
+	<spawn zone="oren04_2019_13sm1">
+		<npc id="20466" count="1" respawnDelay="15" /> <!-- Pincer Spider -->
+		<npc id="20044" count="1" respawnDelay="15" /> <!-- Lirein Elder -->
+	</spawn>
+	<!-- oren04_2019_14 -->
+	<spawn zone="oren04_2019_14m1">
+		<npc id="20036" count="5" respawnDelay="15" /> <!-- Lirein -->
+		<npc id="20466" count="3" respawnDelay="15" /> <!-- Pincer Spider -->
+		<npc id="20308" count="3" respawnDelay="15" /> <!-- Hook Spider -->
+	</spawn>
+	<!-- oren04_2019_14s -->
+	<spawn zone="oren04_2019_14sm1">
+		<npc id="20036" count="1" respawnDelay="15" /> <!-- Lirein -->
+		<npc id="20466" count="1" respawnDelay="15" /> <!-- Pincer Spider -->
+	</spawn>
+	<!-- oren04_2019_15 -->
+	<spawn zone="oren04_2019_15m1">
+		<npc id="20019" count="5" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20460" count="2" respawnDelay="15" /> <!-- Crimson Spider -->
+		<npc id="20308" count="3" respawnDelay="15" /> <!-- Hook Spider -->
+	</spawn>
+	<!-- oren04_2019_15s -->
+	<spawn zone="oren04_2019_15sm1">
+		<npc id="20019" count="1" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20460" count="1" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- oren04_2019_16 -->
+	<spawn zone="oren04_2019_16m1">
+		<npc id="20019" count="4" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20013" count="3" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20460" count="5" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- oren04_2019_16s -->
+	<spawn zone="oren04_2019_16sm1">
+		<npc id="20019" count="1" respawnDelay="15" /> <!-- Dryad Elder -->
+	</spawn>
+	<!-- oren04_2019_17 -->
+	<spawn zone="oren04_2019_17m1">
+		<npc id="20019" count="3" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20013" count="2" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="4" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_18 -->
+	<spawn zone="oren04_2019_18m1">
+		<npc id="20473" count="6" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20472" count="5" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_18s -->
+	<spawn zone="oren04_2019_18sm1">
+		<npc id="20509" count="3" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren04_2019_19 -->
+	<spawn zone="oren04_2019_18sm1">
+		<npc id="20019" count="4" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20013" count="3" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="6" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_19s -->
+	<spawn zone="oren04_2019_19sm1">
+		<npc id="20013" count="1" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="1" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_20 -->
+	<spawn zone="oren04_2019_20m1">
+		<npc id="20019" count="4" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20013" count="3" respawnDelay="15" /> <!-- Dryad -->
+		<npc id="20472" count="4" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+		<npc id="20460" count="2" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- oren04_2019_20s -->
+	<spawn zone="oren04_2019_20sm1">
+		<npc id="20460" count="3" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- oren04_2019_21 -->
+	<spawn zone="oren04_2019_21m1">
+		<npc id="20019" count="3" respawnDelay="15" /> <!-- Dryad Elder -->
+		<npc id="20460" count="2" respawnDelay="15" /> <!-- Crimson Spider -->
+		<npc id="20308" count="2" respawnDelay="15" /> <!-- Hook Spider -->
+	</spawn>
+	<!-- oren04_2019_22 -->
+	<spawn zone="oren04_2019_22m1">
+		<npc id="20036" count="5" respawnDelay="15" /> <!-- Lirein -->
+		<npc id="20466" count="3" respawnDelay="15" /> <!-- Pincer Spider -->
+		<npc id="20308" count="4" respawnDelay="15" /> <!-- Hook Spider -->
+	</spawn>
+	<!-- oren04_2019_22s -->
+	<spawn zone="oren04_2019_22sm1">
+		<npc id="20466" count="2" respawnDelay="15" /> <!-- Pincer Spider -->
+		<npc id="20308" count="1" respawnDelay="15" /> <!-- Hook Spider -->
+	</spawn>
+	<!-- oren04_2019_23 -->
+	<spawn zone="oren04_2019_23m1">
+		<npc id="20473" count="5" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20509" count="4" respawnDelay="15" /> <!-- Spore Fungus -->
+		<npc id="20471" count="4" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+	</spawn>
+	<!-- oren04_2019_23s -->
+	<spawn zone="oren04_2019_23sm1">
+		<npc id="20473" count="1" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20471" count="1" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+	</spawn>
+	<!-- oren04_2019_24 -->
+	<spawn zone="oren04_2019_24m1">
+		<npc id="20473" count="7" respawnDelay="15" /> <!-- Kaboo Orc Fighter Lieutenant -->
+		<npc id="20471" count="6" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+	</spawn>
+	<!-- oren04_2019_241s -->
+	<spawn zone="oren04_2019_241sm1">
+		<npc id="20013" count="3" respawnDelay="15" /> <!-- Dryad -->
+	</spawn>
+	<!-- oren04_2019_242s -->
+	<spawn zone="oren04_2019_242sm1">
+		<npc id="20472" count="3" respawnDelay="15" /> <!-- Kaboo Orc Fighter Leader -->
+	</spawn>
+	<!-- oren04_2019_243s -->
+	<spawn zone="oren04_2019_243sm1">
+		<npc id="20509" count="3" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren01_qm2019_01 -->
+	<spawn zone="oren01_qm2019_01m1">
+		<npc id="27059" count="1" respawnDelay="180" /> <!-- Uoph -->
+	</spawn>
+	<!-- oren01_qm2019_02 -->
+	<spawn zone="oren01_qm2019_02m1">
+		<npc id="27060" count="1" respawnDelay="180" /> <!-- Kracha -->
+	</spawn>
+	<!-- oren01_qm2019_03 -->
+	<spawn zone="oren01_qm2019_03m1">
+		<npc id="27061" count="1" respawnDelay="180" /> <!-- Batoh -->
+	</spawn>
+	<!-- oren01_qm2019_04 -->
+	<spawn zone="oren01_qm2019_04m1">
+		<npc id="27062" count="1" respawnDelay="180" /> <!-- Tanukia -->
+	</spawn>
+	<!-- oren01_qm2019_05 -->
+	<spawn zone="oren01_qm2019_05m1">
+		<npc id="27064" count="1" respawnDelay="180" /> <!-- Turel -->
+	</spawn>
+	<!-- oren01_qm2019_06 -->
+	<spawn zone="oren01_qm2019_06m1">
+		<npc id="27065" count="1" respawnDelay="180" /> <!-- Roko -->
+	</spawn>
+	<!-- oren01_qm2019_07 -->
+	<spawn zone="oren01_qm2019_07m1">
+		<npc id="27067" count="1" respawnDelay="180" /> <!-- Kamut -->
+	</spawn>
+	<!-- oren01_qm2019_08 -->
+	<spawn zone="oren01_qm2019_08m1">
+		<npc id="27068" count="1" respawnDelay="180" /> <!-- Murtika -->
+	</spawn>
+</list>

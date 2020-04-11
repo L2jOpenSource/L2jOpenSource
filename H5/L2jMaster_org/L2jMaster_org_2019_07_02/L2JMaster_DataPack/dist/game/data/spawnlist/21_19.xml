@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- oren04_npc2119_001 -->
+	<spawn zone="oren04_npc2119_00101">
+		<npc id="31852" x="49262" y="53607" z="-3216" heading="53248" respawnDelay="60" /> <!-- Pixy Murika -->
+	</spawn>
+	<!-- oren04_npc2119_002 -->
+	<spawn zone="oren04_npc2119_00201">
+		<npc id="30153" x="47780" y="49568" z="-2983" heading="4096" respawnDelay="60" /> <!-- Markius -->
+	</spawn>
+	<!-- oren04_npc2119_003 -->
+	<spawn zone="oren04_npc2119_00301">
+		<npc id="30151" x="47868" y="50167" z="-2983" heading="50000" respawnDelay="60" /> <!-- Chad -->
+		<npc id="30152" x="47780" y="49568" z="-2983" heading="50000" respawnDelay="60" /> <!-- Julia -->
+	</spawn>
+	<!-- oren04_npc2119_004 -->
+	<spawn zone="oren04_npc2119_00401">
+		<npc id="30363" x="44476" y="47153" z="-2984" heading="46000" respawnDelay="60" /> <!-- Aios -->
+	</spawn>
+	<!-- oren04_npc2119_005 -->
+	<spawn zone="oren04_npc2119_00501">
+		<npc id="30154" x="44692" y="52261" z="-2795" heading="0" respawnDelay="60" /> <!-- Asterios -->
+		<npc id="30155" x="45725" y="52105" z="-2795" heading="16384" respawnDelay="60" /> <!-- Ellenia -->
+		<npc id="30156" x="44823" y="52414" z="-2795" heading="46000" respawnDelay="60" /> <!-- Cobendell -->
+		<npc id="30157" x="45000" y="52101" z="-2795" heading="16384" respawnDelay="60" /> <!-- Greenis -->
+		<npc id="30158" x="45919" y="52414" z="-2795" heading="49152" respawnDelay="60" /> <!-- Esrandell -->
+	</spawn>
+	<!-- oren04_npc2119_006 -->
+	<spawn zone="oren04_npc2119_00601">
+		<npc id="30148" x="44683" y="46952" z="-2981" heading="28672" respawnDelay="60" /> <!-- Ariel -->
+	</spawn>
+	<!-- oren04_npc2119_007 -->
+	<spawn zone="oren04_npc2119_00701">
+		<npc id="31853" x="50592" y="54896" z="-3376" heading="40960" respawnDelay="60" /> <!-- Treant Bremec -->
+	</spawn>
+	<!-- oren04_npc2119_008 -->
+	<spawn zone="oren04_npc2119_00801">
+		<npc id="30599" x="45475" y="48359" z="-3060" heading="49152" respawnDelay="60" /> <!-- Newbie Helper -->
+	</spawn>
+	<!-- oren04_npc2119_009 -->
+	<spawn zone="oren04_npc2119_00901">
+		<npc id="30414" x="43673" y="49683" z="-3046" heading="0" respawnDelay="60" /> <!-- Rosella -->
+	</spawn>
+	<!-- oren04_npc2119_010 -->
+	<spawn zone="oren04_npc2119_01001">
+		<npc id="30149" x="42700" y="50057" z="-2984" heading="14500" respawnDelay="60" /> <!-- Creamees -->
+		<npc id="30150" x="42766" y="50037" z="-2984" heading="11500" respawnDelay="60" /> <!-- Herbiel -->
+	</spawn>
+	<!-- oren04_npc2119_011 -->
+	<spawn zone="oren04_npc2119_01101">
+		<npc id="30147" x="44667" y="46896" z="-2982" heading="31000" respawnDelay="60" /> <!-- Unoren -->
+	</spawn>
+	<!-- oren04_npc2119_012 -->
+	<spawn zone="oren04_npc2119_01201">
+		<npc id="30222" x="45859" y="50827" z="-3058" heading="45056" respawnDelay="60" /> <!-- Alshupes -->
+		<npc id="30223" x="42978" y="49115" z="-2994" heading="0" respawnDelay="60" /> <!-- Arujien -->
+	</spawn>
+	<!-- oren04_npc2119_013 -->
+	<spawn zone="oren04_npc2119_01301">
+		<npc id="30361" x="45610" y="49008" z="-3059" heading="53248" respawnDelay="60" /> <!-- Rizraell -->
+		<npc id="30362" x="46475" y="50495" z="-3058" heading="61440" respawnDelay="60" /> <!-- Andellia -->
+	</spawn>
+	<!-- oren04_npc2119_014 -->
+	<spawn zone="oren04_npc2119_01401">
+		<npc id="30216" x="45778" y="46534" z="-2996" heading="40960" respawnDelay="60" /> <!-- Wheeler -->
+		<npc id="30217" x="45487" y="46511" z="-2996" heading="57344" respawnDelay="60" /> <!-- Berros -->
+	</spawn>
+	<!-- oren04_npc2119_015 -->
+	<spawn zone="oren04_npc2119_01501">
+		<npc id="30220" x="42971" y="51372" z="-2996" heading="32768" respawnDelay="60" /> <!-- Starden -->
+		<npc id="30221" x="42812" y="51138" z="-2996" heading="16384" respawnDelay="60" /> <!-- Rayen -->
+	</spawn>
+	<!-- oren04_npc2119_016 -->
+	<spawn zone="oren04_npc2119_01601">
+		<npc id="30284" x="45727" y="51721" z="-2803" heading="49152" respawnDelay="60" /> <!-- Alberius -->
+		<npc id="30285" x="44995" y="51706" z="-2803" heading="49352" respawnDelay="60" /> <!-- Gartrandell -->
+	</spawn>
+	<!-- oren04_npc2119_017 -->
+	<spawn zone="oren04_npc2119_01701">
+		<npc id="30146" x="46926" y="51511" z="-2977" heading="43000" respawnDelay="60" /> <!-- Mirabel -->
+		<npc id="30218" x="47595" y="51569" z="-2996" heading="16384" respawnDelay="60" /> <!-- Kendell -->
+		<npc id="30219" x="47401" y="51764" z="-2996" heading="0" respawnDelay="60" /> <!-- Veltress -->
+	</spawn>
+	<!-- oren04_npc2119_018 -->
+	<spawn zone="oren04_npc2119_01801">
+		<npc id="35230" x="43849" y="50558" z="-3058" heading="1448" respawnDelay="60" /> <!-- Manor Manager -->
+	</spawn>
+	<!-- oren04_npc2119_020 -->
+	<spawn zone="oren04_npc2119_02001">
+		<npc id="31563" x="42672" y="50352" z="-2982" heading="63500" respawnDelay="60" /> <!-- Perelin -->
+	</spawn>
+	<!-- oren04_npc2119_021 -->
+	<spawn zone="oren04_npc2119_02101">
+		<npc id="31688" x="44652" y="50972" z="-3058" heading="49000" respawnDelay="60" /> <!-- Grand Olympiad Manager -->
+		<npc id="31769" x="44602" y="50979" z="-3058" heading="49000" respawnDelay="60" /> <!-- Monument of Heroes -->
+	</spawn>
+	<!-- oren04_npc2119_022 -->
+	<spawn zone="oren04_npc2119_02201">
+		<npc id="31780" x="45443" y="48357" z="-3058" heading="50000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren04_npc2119_023 -->
+	<spawn zone="oren04_npc2119_02301">
+		<npc id="31781" x="43136" y="51376" z="-2994" heading="59000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren04_npc2119_wp1 -->
+	<spawn zone="treekeeper_jaradine01">
+		<npc id="31359" x="44947" y="50556" z="-3056" heading="0" respawnDelay="60" /> <!-- Jaradine -->
+	</spawn>
+	<!-- oren04_npc2119_wp2 -->
+	<spawn zone="bard_casiel01">
+		<npc id="31358" x="43936" y="51092" z="-2994" heading="0" respawnDelay="60" /> <!-- Kasiel -->
+	</spawn>
+	<!-- broadcast_tower_elf -->
+	<spawn zone="bard_casiel01">
+		<npc id="31031" x="46450" y="50822" z="-3056" heading="16384" respawnDelay="5" /> <!-- broadcast_tower_elf -->
+	</spawn>
+	<!-- oren02_npc2119_gd01 -->
+	<spawn zone="oren_npc2119_gd01m1">
+		<npc id="31848" count="1" respawnDelay="60" /> <!-- Pixy -->
+	</spawn>
+	<!-- oren02_npc2119_gd02 -->
+	<spawn zone="oren_npc2119_gd02m1">
+		<npc id="31851" count="1" respawnDelay="60" /> <!-- Treant -->
+	</spawn>
+	<!-- oren02_npc2119_gd03 -->
+	<spawn zone="oren_npc2119_gd03m1">
+		<npc id="31848" count="1" respawnDelay="60" /> <!-- Pixy -->
+	</spawn>
+	<!-- oren02_npc2119_gd04 -->
+	<spawn zone="oren_npc2119_gd04m1">
+		<npc id="31851" count="1" respawnDelay="60" /> <!-- Treant -->
+	</spawn>
+	<!-- oren02_npc2119_gd05 -->
+	<spawn zone="oren_npc2119_gd05m1">
+		<npc id="31848" count="1" respawnDelay="60" /> <!-- Pixy -->
+	</spawn>
+	<!-- oren02_npc2119_gd06 -->
+	<spawn zone="oren_npc2119_gd06m1">
+		<npc id="31851" count="1" respawnDelay="60" /> <!-- Treant -->
+	</spawn>
+	<!-- oren02_npc2119_gd07 -->
+	<spawn zone="oren_npc2119_gd07m1">
+		<npc id="31848" count="1" respawnDelay="60" /> <!-- Pixy -->
+	</spawn>
+	<!-- oren02_npc2119_gd08 -->
+	<spawn zone="oren_npc2119_gd08m1">
+		<npc id="31851" count="1" respawnDelay="60" /> <!-- Treant -->
+	</spawn>
+	<!-- oren02_npc2119_gd09 -->
+	<spawn zone="oren_npc2119_gd09m1">
+		<npc id="31848" count="1" respawnDelay="60" /> <!-- Pixy -->
+	</spawn>
+	<!-- oren02_npc2119_gd10 -->
+	<spawn zone="oren_npc2119_gd10m1">
+		<npc id="31851" count="1" respawnDelay="60" /> <!-- Treant -->
+	</spawn>
+	<!-- oren02_npc2119_gd11 -->
+	<spawn zone="oren_npc2119_gd11m1">
+		<npc id="31848" count="1" respawnDelay="60" /> <!-- Pixy -->
+	</spawn>
+	<!-- oren02_npc2119_gd12 -->
+	<spawn zone="oren_npc2119_gd12m1">
+		<npc id="31851" count="1" respawnDelay="60" /> <!-- Treant -->
+	</spawn>
+	<!-- oren02_npc2119_gd13 -->
+	<spawn zone="oren_npc2119_gd13m1">
+		<npc id="31851" count="1" respawnDelay="60" /> <!-- Treant -->
+	</spawn>
+	<!-- oren03_npc2119_01 -->
+	<spawn zone="oren03_npc2119_01m1">
+		<npc id="32529" x="46199" y="39120" z="-3511" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_02 -->
+	<spawn zone="oren03_npc2119_02m1">
+		<npc id="32529" x="46723" y="39231" z="-3511" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_03 -->
+	<spawn zone="oren03_npc2119_03m1">
+		<npc id="32529" x="47191" y="39625" z="-3510" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_04 -->
+	<spawn zone="oren03_npc2119_04m1">
+		<npc id="32529" x="47307" y="40265" z="-3511" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_05 -->
+	<spawn zone="oren03_npc2119_05m1">
+		<npc id="32529" x="45172" y="39646" z="-3511" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_06 -->
+	<spawn zone="oren03_npc2119_06m1">
+		<npc id="32529" x="45593" y="39241" z="-3511" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_07 -->
+	<spawn zone="oren03_npc2119_07m1">
+		<npc id="32529" x="45562" y="41282" z="-3511" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_08 -->
+	<spawn zone="oren03_npc2119_08m1">
+		<npc id="32529" x="45134" y="40852" z="-3511" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_09 -->
+	<spawn zone="oren03_npc2119_09m1">
+		<npc id="32529" x="46742" y="41284" z="-3511" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_10 -->
+	<spawn zone="oren03_npc2119_10m1">
+		<npc id="32529" x="45006" y="40254" z="-3511" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_11 -->
+	<spawn zone="oren03_npc2119_11m1">
+		<npc id="32529" x="47150" y="40895" z="-3511" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_12 -->
+	<spawn zone="oren03_npc2119_12m1">
+		<npc id="32529" x="46156" y="41422" z="-3511" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_13 -->
+	<spawn zone="oren03_npc2119_13m1">
+		<npc id="32529" x="45550" y="40242" z="-3510" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_14 -->
+	<spawn zone="oren03_npc2119_14m1">
+		<npc id="32529" x="46729" y="40358" z="-3515" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_15 -->
+	<spawn zone="oren03_npc2119_15m1">
+		<npc id="32529" x="46586" y="39905" z="-3517" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_16 -->
+	<spawn zone="oren03_npc2119_16m1">
+		<npc id="32529" x="46414" y="40813" z="-3516" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_17 -->
+	<spawn zone="oren03_npc2119_17m1">
+		<npc id="32529" x="45729" y="39780" z="-3509" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_18 -->
+	<spawn zone="oren03_npc2119_18m1">
+		<npc id="32529" x="46216" y="39585" z="-3510" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_19 -->
+	<spawn zone="oren03_npc2119_19m1">
+		<npc id="32529" x="46139" y="41117" z="-3508" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren03_npc2119_20 -->
+	<spawn zone="oren03_npc2119_20m1">
+		<npc id="32529" x="45580" y="40728" z="-3509" heading="0" respawnDelay="60" /> <!-- glaze_a_npc -->
+	</spawn>
+	<!-- oren04_npc2119_premium01 -->
+	<spawn zone="oren04_npc2119_premium01m1">
+		<npc id="32478" x="47600" y="49920" z="-2994" heading="33500" respawnDelay="60" /> <!-- Dimensional Merchant -->
+	</spawn>
+	<!-- oren04_npc2119_tk01 -->
+	<spawn zone="oren04_npc2119_tk01m1">
+		<npc id="30991" x="46960" y="51506" z="-2976" heading="47000" respawnDelay="60" /> <!-- Lottery Ticket Seller -->
+	</spawn>
+	<!-- oren02_2119_01 -->
+	<spawn zone="oren02_2119_01m1">
+		<npc id="20530" count="2" respawnDelay="20" /> <!-- Young Red Keltir -->
+		<npc id="20534" count="3" respawnDelay="20" /> <!-- Red Keltir -->
+		<npc id="20537" count="2" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_01s -->
+	<spawn zone="oren02_2119_01sm1">
+		<npc id="20534" count="4" respawnDelay="20" /> <!-- Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_02 -->
+	<spawn zone="oren02_2119_02m1">
+		<npc id="20530" count="3" respawnDelay="20" /> <!-- Young Red Keltir -->
+		<npc id="20534" count="3" respawnDelay="20" /> <!-- Red Keltir -->
+		<npc id="20537" count="1" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_021s -->
+	<spawn zone="oren02_2119_021sm1">
+		<npc id="20534" count="3" respawnDelay="20" /> <!-- Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_022s -->
+	<spawn zone="oren02_2119_022sm1">
+		<npc id="20525" count="1" respawnDelay="20" /> <!-- Gray Wolf -->
+		<npc id="20534" count="1" respawnDelay="20" /> <!-- Red Keltir -->
+		<npc id="20537" count="1" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_03 -->
+	<spawn zone="oren02_2119_03m1">
+		<npc id="20534" count="2" respawnDelay="20" /> <!-- Red Keltir -->
+		<npc id="20537" count="2" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_04 -->
+	<spawn zone="oren02_2119_04m1">
+		<npc id="20534" count="4" respawnDelay="20" /> <!-- Red Keltir -->
+		<npc id="20537" count="3" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_04s -->
+	<spawn zone="oren02_2119_04sm1">
+		<npc id="20534" count="2" respawnDelay="20" /> <!-- Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_05 -->
+	<spawn zone="oren02_2119_05m1">
+		<npc id="20534" count="3" respawnDelay="20" /> <!-- Red Keltir -->
+		<npc id="20537" count="3" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_05s -->
+	<spawn zone="oren02_2119_05sm1">
+		<npc id="20534" count="2" respawnDelay="20" /> <!-- Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_06 -->
+	<spawn zone="oren02_2119_06m1">
+		<npc id="20530" count="2" respawnDelay="20" /> <!-- Young Red Keltir -->
+		<npc id="20534" count="3" respawnDelay="20" /> <!-- Red Keltir -->
+		<npc id="20537" count="2" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_06s -->
+	<spawn zone="oren02_2119_06sm1">
+		<npc id="20534" count="2" respawnDelay="20" /> <!-- Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_07 -->
+	<spawn zone="oren02_2119_07m1">
+		<npc id="20530" count="2" respawnDelay="20" /> <!-- Young Red Keltir -->
+		<npc id="20534" count="3" respawnDelay="20" /> <!-- Red Keltir -->
+		<npc id="20537" count="2" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_07s -->
+	<spawn zone="oren02_2119_07sm1">
+		<npc id="20534" count="2" respawnDelay="20" /> <!-- Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_08 -->
+	<spawn zone="oren02_2119_08m1">
+		<npc id="20530" count="2" respawnDelay="20" /> <!-- Young Red Keltir -->
+		<npc id="20534" count="3" respawnDelay="20" /> <!-- Red Keltir -->
+		<npc id="20537" count="3" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_08s -->
+	<spawn zone="oren02_2119_08sm1">
+		<npc id="20534" count="3" respawnDelay="20" /> <!-- Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_09 -->
+	<spawn zone="oren02_2119_09m1">
+		<npc id="20525" count="4" respawnDelay="20" /> <!-- Gray Wolf -->
+		<npc id="20537" count="2" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_09s -->
+	<spawn zone="oren02_2119_09sm1">
+		<npc id="20525" count="1" respawnDelay="20" /> <!-- Gray Wolf -->
+		<npc id="20537" count="1" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_10 -->
+	<spawn zone="oren02_2119_10m1">
+		<npc id="20525" count="3" respawnDelay="20" /> <!-- Gray Wolf -->
+		<npc id="20537" count="5" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_10s -->
+	<spawn zone="oren02_2119_10sm1">
+		<npc id="20525" count="1" respawnDelay="20" /> <!-- Gray Wolf -->
+		<npc id="20537" count="1" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_11 -->
+	<spawn zone="oren02_2119_11m1">
+		<npc id="20525" count="5" respawnDelay="20" /> <!-- Gray Wolf -->
+		<npc id="20537" count="3" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_11s -->
+	<spawn zone="oren02_2119_11sm1">
+		<npc id="20525" count="1" respawnDelay="20" /> <!-- Gray Wolf -->
+		<npc id="20537" count="1" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_12 -->
+	<spawn zone="oren02_2119_12m1">
+		<npc id="20525" count="4" respawnDelay="20" /> <!-- Gray Wolf -->
+		<npc id="20537" count="3" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_13 -->
+	<spawn zone="oren02_2119_13m1">
+		<npc id="20525" count="5" respawnDelay="20" /> <!-- Gray Wolf -->
+		<npc id="20537" count="3" respawnDelay="20" /> <!-- Elder Red Keltir -->
+	</spawn>
+	<!-- oren02_2119_14 -->
+	<spawn zone="oren02_2119_14m1">
+		<npc id="20325" count="4" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20525" count="4" respawnDelay="20" /> <!-- Gray Wolf -->
+		<npc id="20468" count="3" respawnDelay="20" /> <!-- Kaboo Orc -->
+	</spawn>
+	<!-- oren02_2119_14s -->
+	<spawn zone="oren02_2119_14sm1">
+		<npc id="20325" count="1" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20525" count="1" respawnDelay="20" /> <!-- Gray Wolf -->
+		<npc id="20468" count="1" respawnDelay="20" /> <!-- Kaboo Orc -->
+	</spawn>
+	<!-- oren02_2119_15 -->
+	<spawn zone="oren02_2119_15m1">
+		<npc id="20325" count="7" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20525" count="4" respawnDelay="20" /> <!-- Gray Wolf -->
+	</spawn>
+	<!-- oren02_2119_17 -->
+	<spawn zone="oren02_2119_17m1">
+		<npc id="20325" count="3" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20468" count="4" respawnDelay="20" /> <!-- Kaboo Orc -->
+		<npc id="20470" count="3" respawnDelay="20" /> <!-- Kaboo Orc Grunt -->
+	</spawn>
+	<!-- oren02_2119_17s -->
+	<spawn zone="oren02_2119_17sm1">
+		<npc id="20325" count="1" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20468" count="1" respawnDelay="20" /> <!-- Kaboo Orc -->
+		<npc id="20470" count="1" respawnDelay="20" /> <!-- Kaboo Orc Grunt -->
+	</spawn>
+	<!-- oren02_2119_18 -->
+	<spawn zone="oren02_2119_18m1">
+		<npc id="20325" count="4" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20468" count="4" respawnDelay="20" /> <!-- Kaboo Orc -->
+		<npc id="20470" count="4" respawnDelay="20" /> <!-- Kaboo Orc Grunt -->
+	</spawn>
+	<!-- oren02_2119_19 -->
+	<spawn zone="oren02_2119_19m1">
+		<npc id="20325" count="4" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20468" count="3" respawnDelay="20" /> <!-- Kaboo Orc -->
+		<npc id="20525" count="5" respawnDelay="20" /> <!-- Gray Wolf -->
+	</spawn>
+	<!-- oren02_2119_19s -->
+	<spawn zone="oren02_2119_19sm1">
+		<npc id="20325" count="2" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20468" count="2" respawnDelay="20" /> <!-- Kaboo Orc -->
+	</spawn>
+	<!-- oren02_2119_20 -->
+	<spawn zone="oren02_2119_20m1">
+		<npc id="20325" count="3" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20525" count="3" respawnDelay="20" /> <!-- Gray Wolf -->
+	</spawn>
+	<!-- oren02_2119_20s -->
+	<spawn zone="oren02_2119_20sm1">
+		<npc id="20325" count="1" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20525" count="1" respawnDelay="20" /> <!-- Gray Wolf -->
+	</spawn>
+	<!-- oren02_2119_21 -->
+	<spawn zone="oren02_2119_21m1">
+		<npc id="20325" count="3" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20468" count="3" respawnDelay="20" /> <!-- Kaboo Orc -->
+		<npc id="20525" count="3" respawnDelay="20" /> <!-- Gray Wolf -->
+	</spawn>
+	<!-- oren02_2119_21s -->
+	<spawn zone="oren02_2119_21sm1">
+		<npc id="20325" count="1" respawnDelay="20" /> <!-- Goblin Rider -->
+		<npc id="20468" count="1" respawnDelay="20" /> <!-- Kaboo Orc -->
+		<npc id="20525" count="1" respawnDelay="20" /> <!-- Gray Wolf -->
+	</spawn>
+	<!-- oren04_2119_22 -->
+	<spawn zone="oren04_2119_22m1">
+		<npc id="20336" count="6" respawnDelay="15" /> <!-- Green Dryad -->
+		<npc id="20469" count="2" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20470" count="8" respawnDelay="15" /> <!-- Kaboo Orc Grunt -->
+	</spawn>
+	<!-- oren04_2119_22s -->
+	<spawn zone="oren04_2119_22sm1">
+		<npc id="20336" count="1" respawnDelay="15" /> <!-- Green Dryad -->
+		<npc id="20469" count="1" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20470" count="1" respawnDelay="15" /> <!-- Kaboo Orc Grunt -->
+	</spawn>
+	<!-- oren04_2119_23 -->
+	<spawn zone="oren04_2119_23m1">
+		<npc id="20336" count="3" respawnDelay="15" /> <!-- Green Dryad -->
+		<npc id="20469" count="2" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20471" count="5" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+		<npc id="20509" count="4" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren04_2119_24 -->
+	<spawn zone="oren04_2119_24m1">
+		<npc id="20469" count="3" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20471" count="5" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+		<npc id="20509" count="10" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren04_2119_25 -->
+	<spawn zone="oren04_2119_25m1">
+		<npc id="20336" count="3" respawnDelay="15" /> <!-- Green Dryad -->
+		<npc id="20469" count="2" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20471" count="5" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+		<npc id="20509" count="5" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren04_2119_26 -->
+	<spawn zone="oren04_2119_26m1">
+		<npc id="20336" count="4" respawnDelay="15" /> <!-- Green Dryad -->
+		<npc id="20469" count="2" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20471" count="5" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+		<npc id="20509" count="5" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren04_2119_27 -->
+	<spawn zone="oren04_2119_27m1">
+		<npc id="20336" count="7" respawnDelay="15" /> <!-- Green Dryad -->
+		<npc id="20469" count="3" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20470" count="8" respawnDelay="15" /> <!-- Kaboo Orc Grunt -->
+	</spawn>
+	<!-- oren04_2119_28 -->
+	<spawn zone="oren04_2119_28m1">
+		<npc id="20325" count="3" respawnDelay="15" /> <!-- Goblin Rider -->
+		<npc id="20525" count="6" respawnDelay="15" /> <!-- Gray Wolf -->
+	</spawn>
+	<!-- oren04_2119_29 -->
+	<spawn zone="oren04_2119_29m1">
+		<npc id="20469" count="2" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20470" count="4" respawnDelay="15" /> <!-- Kaboo Orc Grunt -->
+		<npc id="20471" count="2" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+		<npc id="20509" count="6" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren04_2119_30 -->
+	<spawn zone="oren04_2119_30m1">
+		<npc id="20470" count="4" respawnDelay="15" /> <!-- Kaboo Orc Grunt -->
+		<npc id="20471" count="4" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+		<npc id="20509" count="4" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren04_2119_31 -->
+	<spawn zone="oren04_2119_31m1">
+		<npc id="20325" count="2" respawnDelay="15" /> <!-- Goblin Rider -->
+		<npc id="20525" count="4" respawnDelay="15" /> <!-- Gray Wolf -->
+	</spawn>
+	<!-- oren04_2119_32 -->
+	<spawn zone="oren04_2119_32m1">
+		<npc id="20336" count="4" respawnDelay="15" /> <!-- Green Dryad -->
+		<npc id="20469" count="3" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20470" count="7" respawnDelay="15" /> <!-- Kaboo Orc Grunt -->
+	</spawn>
+	<!-- oren04_2119_33 -->
+	<spawn zone="oren04_2119_33m1">
+		<npc id="20336" count="3" respawnDelay="15" /> <!-- Green Dryad -->
+		<npc id="20469" count="3" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20471" count="2" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+		<npc id="20509" count="5" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren04_2119_34 -->
+	<spawn zone="oren04_2119_34m1">
+		<npc id="20469" count="3" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20471" count="5" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+		<npc id="20509" count="6" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren04_2119_34s -->
+	<spawn zone="oren04_2119_34sm1">
+		<npc id="20471" count="2" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+	</spawn>
+	<!-- oren06_2119_01 -->
+	<spawn zone="oren06_2119_01m1">
+		<npc id="20469" count="2" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20470" count="1" respawnDelay="15" /> <!-- Kaboo Orc Grunt -->
+		<npc id="20509" count="2" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren06_2119_02 -->
+	<spawn zone="oren06_2119_02m1">
+		<npc id="20469" count="2" respawnDelay="15" /> <!-- Kaboo Orc Archer -->
+		<npc id="20471" count="2" respawnDelay="15" /> <!-- Kaboo Orc Fighter -->
+		<npc id="20509" count="1" respawnDelay="15" /> <!-- Spore Fungus -->
+	</spawn>
+	<!-- oren02_qm2119_00 -->
+	<spawn zone="oren02_qm2119_00m1">
+		<npc id="18342" count="15" respawnDelay="15" /> <!-- Gremlin -->
+	</spawn>
+	<!-- oren01_qm2119_01 -->
+	<spawn zone="oren01_qm2119_01m1">
+		<npc id="27017" count="9" respawnDelay="180" /> <!-- Plague Zombie -->
+	</spawn>
+</list>

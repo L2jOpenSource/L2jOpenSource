@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="10001" levels="1" name="Buffalo Mount">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0810" />
+		<set name="reuseDelay" val="30000" />
+		<set name="hitTime" val="5000" />
+		<set name="mpConsume2" val="31" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="npcId" val="50000" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isCommon" val="true" />
+		<set name="useSS" val="false" />
+		<set name="addSkills" val="619;1;5491;1" />
+		<for>
+			<effect count="1" name="Transformation" time="18000" val="50000">
+				<add order="0x40" stat="runSpd" val="60" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="10002" levels="1" name="Lion Mount">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0810" />
+		<set name="reuseDelay" val="30000" />
+		<set name="hitTime" val="5000" />
+		<set name="mpConsume2" val="31" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="npcId" val="50001" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isCommon" val="true" />
+		<set name="useSS" val="false" />
+		<set name="addSkills" val="619;1;5491;1" />
+		<for>
+			<effect count="1" name="Transformation" time="18000" val="50001">
+				<add order="0x40" stat="runSpd" val="60" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="10003" levels="1" name="Fauve Mount">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0810" />
+		<set name="reuseDelay" val="30000" />
+		<set name="hitTime" val="5000" />
+		<set name="mpConsume2" val="31" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="npcId" val="50002" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isCommon" val="true" />
+		<set name="useSS" val="false" />
+		<set name="addSkills" val="619;1;5491;1" />
+		<for>
+			<effect count="1" name="Transformation" time="18000" val="50002">
+				<add order="0x40" stat="runSpd" val="60" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="10004" levels="1" name="Ant Mount">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0810" />
+		<set name="reuseDelay" val="30000" />
+		<set name="hitTime" val="5000" />
+		<set name="mpConsume2" val="31" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="npcId" val="50003" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isCommon" val="true" />
+		<set name="useSS" val="false" />
+		<set name="addSkills" val="619;1;5491;1" />
+		<for>
+			<effect count="1" name="Transformation" time="18000" val="50003">
+				<add order="0x40" stat="runSpd" val="60" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="10005" levels="1" name="Halisha Mount">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0810" />
+		<set name="reuseDelay" val="30000" />
+		<set name="hitTime" val="5000" />
+		<set name="mpConsume2" val="31" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="npcId" val="50004" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isCommon" val="true" />
+		<set name="useSS" val="false" />
+		<set name="addSkills" val="619;1;5491;1" />
+		<for>
+			<effect count="1" name="Transformation" time="18000" val="50004">
+				<add order="0x40" stat="runSpd" val="60" />
+			</effect>
+		</for>
+	</skill>
+</list>

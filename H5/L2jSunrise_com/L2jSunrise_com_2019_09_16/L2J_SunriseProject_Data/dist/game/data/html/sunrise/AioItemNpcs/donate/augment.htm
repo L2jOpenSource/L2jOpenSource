@@ -1,0 +1,31 @@
+<html>
+<title>Donation</title>
+<body>
+<br><br>
+<font color="D2B48C">Augmentation System:</font>
+<center>
+<img src="L2UI.SquareWhite" width=280 height=1>
+<br><br>
+<table width=250>
+<tr>
+<td><font color="LEVEL">Select Base Stats   :</font></td>
+<td><combobox width=105 var=ebox list=STR+1;INT+1;MEN+1;CON+1></td>
+</tr>
+</table>
+<br>
+<br><img src="L2UI.SquareWhite" width=280 height=1>
+<br><br>
+<table width=250>
+<tr>
+<td><font color="LEVEL">Select Passive Skill :</font></td>
+<td><combobox width=105 var=pbox list=Might;Duel_Might;Shield;Magic_Barrier;Empower;Heal_Empower;Wild_Magic></td>
+</tr>
+</table>
+<br><br>
+<button action="bypass -h Aioitem_addaugment $ebox $pbox" value="Start Augment" width=110 height=22 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+<br><img src="L2UI.SquareWhite" width=280 height=1>
+<br>
+<tr><td><font color="LEVEL">This service will cost you</font> <font color="FF0000">5</font> <font color="LEVEL">donation coins, make your choices and click "Start Augment".</font><br>
+<button action="bypass -h Aioitem_Chat_donate/donate.htm" value="Back" width=90 height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+</center>
+</body></html>

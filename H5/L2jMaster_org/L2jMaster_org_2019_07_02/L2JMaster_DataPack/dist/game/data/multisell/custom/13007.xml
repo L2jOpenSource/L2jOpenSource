@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+ 
+	<!-- Crystal: S Grade -->
+	<item>
+		<ingredient id="57" count="25000"/>
+		<production id="1462" count="1"/>
+	</item>
+	<!-- Crystal: A-Grade -->
+	<item>
+		<ingredient id="57" count="15000"/>
+		<production id="1461" count="1"/>
+	</item>
+	<!-- Crystal: B-Grade -->
+	<item>
+		<ingredient id="57" count="9000"/>
+		<production id="1460" count="1"/>
+	</item>
+	<!-- Crystal: C-Grade -->
+	<item>
+		<ingredient id="57" count="3000"/>
+		<production id="1459" count="1"/>
+	</item>
+	<!-- Crystal: D-Grade -->
+	<item>
+		<ingredient id="57" count="650"/>
+		<production id="1458" count="1"/>
+	</item>
+</list>

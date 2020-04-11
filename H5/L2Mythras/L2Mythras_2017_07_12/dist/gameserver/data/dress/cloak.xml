@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "cloak.dtd">
+<list>
+	<cloak number="1" id="38032" name="INVISIBLE CLOACK">
+		<price id="37000" count="20" />
+	</cloak>
+		<cloak number="2" id="50005" name="Knights Cloak">
+		<price id="37000" count="20" />
+	</cloak>
+		<cloak number="3" id="50006" name="Archer's Cloak">
+		<price id="37000" count="20" />
+	</cloak>
+		<cloak number="4" id="50007" name="Enchanter's Cloak">
+		<price id="37000" count="20" />
+	</cloak>
+		<cloak number="5" id="50008" name="Healer's Cloak">
+		<price id="37000" count="20" />
+	</cloak>
+		<cloak number="6" id="50009" name="Rogue's Cloak">
+		<price id="37000" count="20" />
+	</cloak>
+		<cloak number="7" id="50010" name="Warrior's Cloak">
+		<price id="37000" count="20" />
+	</cloak>
+		<cloak number="8" id="50011" name="Summoner's Cloak">
+		<price id="37000" count="20" />
+	</cloak>
+		<cloak number="9" id="50012" name="Wizard's Cloak">
+		<price id="37000" count="20" />
+	</cloak>
+	<cloak number="10" id="21583" name="Festival's Cloak - True Black">
+		<price id="37000" count="20" />
+	</cloak>
+	<cloak number="11" id="21587" name="Festival's Cloak - Bloody Red">
+		<price id="37000" count="20" />
+	</cloak>
+	<cloak number="12" id="21588" name="Festival's Cloak - Pearl White">
+		<price id="37000" count="20" />
+	</cloak>
+	<cloak number="13" id="21716" name="Cloak of Zaken">
+		<price id="37000" count="20" />
+	</cloak>
+	<cloak number="14" id="21717" name="Cloak of Freya">
+		<price id="37000" count="20" />
+	</cloak>
+	<cloak number="15" id="21718" name="Cloak of Frintezza">
+		<price id="37000" count="20" />
+    </cloak>
+</list>

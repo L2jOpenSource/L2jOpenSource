@@ -1,0 +1,94 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  
+	<!-- Knight Cloak -->
+	<item>
+		<ingredient id="57" count="850000000"/>
+		<production id="13687" count="1"/>
+	</item>
+	<!-- Knight's Cloak - Light Armor exclusive -->
+	<item>
+		<ingredient id="57" count="1550000000"/>
+		<production id="13688" count="1"/>
+	</item>
+	<!-- Knight's Cloak - Robe exclusive -->
+	<item>
+		<ingredient id="57" count="1550000000"/>
+		<production id="13689" count="1"/>
+	</item>
+	<!-- Knight's Cloak - Kamael exclusive -->
+	<item>
+		<ingredient id="57" count="1550000000"/>
+		<production id="13690" count="1"/>
+	</item>
+	<!-- Holy Spirit Cloak -->
+	<item>
+		<ingredient id="57" count="850000000"/>
+		<production id="13890" count="1"/>
+	</item>
+	<!-- Holy Spirit's Cloak - Light Armor exclusive -->
+	<item>
+		<ingredient id="57" count="1550000000"/>
+		<production id="13891" count="1"/>
+	</item>
+	<!-- Holy Spirit's Cloak - Robe exclusive -->
+	<item>
+		<ingredient id="57" count="1550000000"/>
+		<production id="13892" count="1"/>
+	</item>
+		<!-- Holy Spirit's Cloak - Kamael exclusive -->
+	<item>
+		<ingredient id="57" count="1550000000"/>
+		<production id="13889" count="1"/>
+	</item>
+	<!-- Ancient Cloak -->
+	<item>
+		<ingredient id="57" count="800000000"/>
+		<production id="14609" count="1"/>
+	</item>
+	<!-- Ancient Cloak - Light Armor exclusive -->
+	<item>
+		<ingredient id="57" count="1400000000"/>
+		<production id="14608" count="1"/>
+	</item>
+	<!-- Ancient Cloak - Robe exclusive -->
+	<item>
+		<ingredient id="57" count="1400000000"/>
+		<production id="14610" count="1"/>
+	</item>
+	<!-- Ancient Cloak - Kamael exclusive - Kamael Use -->
+	<item>
+		<ingredient id="57" count="1400000000"/>
+		<production id="14601" count="1"/>
+	</item>
+	<!-- Clowed Cloak (D Grade) -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="615" count="1"/>
+	</item>
+	<!-- Mithril Cloak (D Grade) -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="617" count="1"/>
+	</item>
+	<!-- Cloak of Self Protection (C Grade) -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="618" count="1"/>
+	</item>
+	<!-- Cloak of Protection (C Grade) -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="620" count="1"/>
+	</item>
+	<!-- Cloak of Hell (B Grade) -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="621" count="1"/>
+	</item>
+	<!-- Divine Cloak (A Grade) -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="623" count="1"/>
+	</item>
+</list>

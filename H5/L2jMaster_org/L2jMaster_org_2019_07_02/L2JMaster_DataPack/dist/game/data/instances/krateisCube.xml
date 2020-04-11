@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Psycho -->
+<!-- Cube limit x+:-77304 x-:-86503 y+:-77208 y-:-86407 Room are 1199 square sided and have 2000 offset -->
+<list>
+  <zone id="1" name="Kratei's Cube Room 1" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4468,2" removeExit="4468"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-77304" y="-86407"/>
+      <point x="-78503" y="-85208"/>
+    </shape>
+  </zone>
+  <zone id="2" name="Kratei's Cube Room 2" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4644,2" removeExit="4644"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-79304" y="-86407"/>
+      <point x="-80503" y="-85208"/>
+    </shape>
+  </zone>
+  <zone id="3" name="Kratei's Cube Room 3" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4145,3" removeExit="4145"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-81304" y="-86407"/>
+      <point x="-82503" y="-85208"/>
+    </shape>
+  </zone>
+  <zone id="4" name="Kratei's Cube Room 4" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4648,2" removeExit="4648"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-83304" y="-86407"/>
+      <point x="-84503" y="-85208"/>
+    </shape>
+  </zone>
+  <zone id="5" name="Kratei's Cube Room 5" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4646,2" removeExit="4646"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-85304" y="-86407"/>
+      <point x="-86503" y="-85208"/>
+    </shape>
+  </zone>
+  <zone id="6" name="Kratei's Cube Room 6" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4150,6" removeExit="4150"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-77304" y="-84407"/>
+      <point x="-78503" y="-83208"/>
+    </shape>
+  </zone>
+  <zone id="7" name="Kratei's Cube Room 7" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4648,2" removeExit="4648"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-79304" y="-84407"/>
+      <point x="-80503" y="-83208"/>
+    </shape>
+  </zone>
+  <zone id="8" name="Kratei's Cube Room 8" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4148,5" removeExit="4148"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-81304" y="-84407"/>
+      <point x="-82503" y="-83208"/>
+    </shape>
+  </zone>
+  <zone id="9" name="Kratei's Cube Room 9" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4150,6" removeExit="4150"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-83304" y="-84407"/>
+      <point x="-84503" y="-83208"/>
+    </shape>
+  </zone>
+  <zone id="10" name="Kratei's Cube Room 10" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4148,5" removeExit="4148"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-85304" y="-84407"/>
+      <point x="-86503" y="-83208"/>
+    </shape>
+  </zone>
+  <zone id="11" name="Kratei's Cube Room 11" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4145,3" removeExit="4145"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-77304" y="-82407"/>
+      <point x="-78503" y="-81208"/>
+    </shape>
+  </zone>
+  <zone id="12" name="Kratei's Cube Room 12" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4646,2" removeExit="4646"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-79304" y="-82407"/>
+      <point x="-80503" y="-81208"/>
+    </shape>
+  </zone>
+  <zone id="13" name="Kratei's Cube Room 13" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4149,5" removeExit="4149"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-81304" y="-82407"/>
+      <point x="-82503" y="-81208"/>
+    </shape>
+  </zone>
+  <zone id="14" name="Kratei's Cube Room 14" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4646,2" removeExit="4646"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-83304" y="-82407"/>
+      <point x="-84503" y="-81208"/>
+    </shape>
+  </zone>
+  <zone id="15" name="Kratei's Cube Room 15" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4625,5" removeExit="4625"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-85304" y="-82407"/>
+      <point x="-86503" y="-81208"/>
+    </shape>
+  </zone>
+  <zone id="16" name="Kratei's Cube Room 16" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4149,5" removeExit="4149"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-77304" y="-80407"/>
+      <point x="-78503" y="-79208"/>
+    </shape>
+  </zone>
+  <zone id="17" name="Kratei's Cube Room 17" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4468,2" removeExit="4468"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-79304" y="-80407"/>
+      <point x="-80503" y="-79208"/>
+    </shape>
+  </zone>
+  <zone id="18" name="Kratei's Cube Room 18" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4625,5" removeExit="4625"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-81304" y="-80407"/>
+      <point x="-82503" y="-79208"/>
+    </shape>
+  </zone>
+  <zone id="19" name="Kratei's Cube Room 19" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4644,2" removeExit="4644"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-83304" y="-80407"/>
+      <point x="-84503" y="-79208"/>
+    </shape>
+  </zone>
+  <zone id="20" name="Kratei's Cube Room 20" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4150,6" removeExit="4150"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-85304" y="-80407"/>
+      <point x="-86503" y="-79208"/>
+    </shape>
+  </zone>
+  <zone id="21" name="Kratei's Cube Room 21" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4698,6" removeExit="4698"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-77304" y="-78407"/>
+      <point x="-78503" y="-77208"/>
+    </shape>
+  </zone>
+  <zone id="22" name="Kratei's Cube Room 22" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4646,2" removeExit="4646"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-79304" y="-78407"/>
+      <point x="-80503" y="-77208"/>
+    </shape>
+  </zone>
+  <zone id="23" name="Kratei's Cube Room 23" type="Danger">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4148,5" removeExit="4148"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-81304" y="-78407"/>
+      <point x="-82503" y="-77208"/>
+    </shape>
+  </zone>
+  <zone id="24" name="Kratei's Cube Room 24" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4468,2" removeExit="4468"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-83304" y="-78407"/>
+      <point x="-84503" y="-77208"/>
+    </shape>
+  </zone>
+  <zone id="25" name="Kratei's Cube Room 25" type="Regeneration">
+  <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4648,2" removeExit="4648"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-85304" y="-78407"/>
+      <point x="-86503" y="-77208"/>
+    </shape>
+  </zone>
+  <zone id="26" name="Kratei's Cube PvP Zone" type="Arena">
+  <settings pvp="Arena"/>
+  <restart_owner x="-87028" y="-81780" z="-8361"/>
+    <shape type="Rect" zMin="-8400" zMax="-8000">
+      <point x="-77200" y="-86600"/>
+      <point x="-86600" y="-77100"/>
+    </shape>
+  </zone>
+  <zone id="27" name="Kratei's Cube Waiting Zone">
+  <settings pvp="Peace"/>
+    <shape type="Rect" zMin="-8500" zMax="-8000">
+      <point x="-86611" y="-81287"/>
+      <point x="-87456" y="-82320"/>
+    </shape>
+  </zone>
+</list>

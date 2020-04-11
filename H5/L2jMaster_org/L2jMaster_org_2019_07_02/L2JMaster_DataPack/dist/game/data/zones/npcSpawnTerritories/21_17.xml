@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- rune11_npc2117_01 -->
+	<zone name="rune11_npc2117_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="244" maxZ="244">
+		<node X="58028" Y="-32100" />
+		<node X="58228" Y="-32100" />
+		<node X="58228" Y="-31900" />
+		<node X="58028" Y="-31900" />
+	</zone>
+	<!-- rune11_npc2117_02 -->
+	<zone name="rune11_npc2117_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="520" maxZ="720">
+		<node X="57980" Y="-29584" />
+		<node X="58180" Y="-29584" />
+		<node X="58328" Y="-29152" />
+		<node X="57976" Y="-29160" />
+	</zone>
+	<!-- rune11_npc2117_03 -->
+	<zone name="rune11_npc2117_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="532" maxZ="732">
+		<node X="56636" Y="-26500" />
+		<node X="56836" Y="-26500" />
+		<node X="56836" Y="-26300" />
+		<node X="56636" Y="-26300" />
+	</zone>
+	<!-- rune11_npc2117_04 -->
+	<zone name="rune11_npc2117_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="560" maxZ="760">
+		<node X="57920" Y="-26488" />
+		<node X="58120" Y="-26488" />
+		<node X="58120" Y="-25488" />
+		<node X="57920" Y="-25488" />
+	</zone>
+</list>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project name="aCis_datapack" default="build" basedir=".">
+
+	<property name="build" location="build" />
+	<property name="build.game" location="${build}/gameserver" />
+	<property name="build.login" location="${build}/login" />
+	<property name="build.sql" location="${build}/sql" />
+	<property name="build.tools" location="${build}/tools" />
+
+	<target name="build" depends="init" description="Synchronizes build space contents with project.">
+		<sync todir="${build.game}/data">
+			<fileset dir="${basedir}/data">
+				<exclude name=".project" />
+				<exclude name="log/**" />
+				<exclude name="cachedir/**" />
+				<exclude name="clans/**" />
+				<exclude name="crests/**" />
+				<exclude name="**.svn**" />
+				<exclude name="**/*.class" />
+				<exclude name="**/*.jar" />
+				<include name="**/*.*" />
+			</fileset>
+		</sync>
+		<sync todir="${build.sql}">
+			<fileset dir="${basedir}/sql">
+				<include name="*.*" />
+			</fileset>
+		</sync>
+		<sync todir="${build.tools}">
+			<fileset dir="${basedir}/tools">
+				<include name="*.*" />
+				<exclude name="database_installer.rc" />
+				<exclude name="*.txt" />
+				<exclude name="*.log" />
+				<exclude name="*backup.sql" />
+			</fileset>
+		</sync>
+		<sync todir="${build.login}">
+			<fileset dir="${build.game}/data">
+				<include name="serverNames.xml" />
+			</fileset>
+		</sync>
+	</target>
+
+	<target name="init" description="Create the output directories. Do nothing if dirs were already created">
+		<mkdir dir="${build}" />
+		<mkdir dir="${build.game}" />
+		<mkdir dir="${build.login}" />
+	</target>
+
+</project>

@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Built-By: Casa
+Built-Date: 2019-07-01 22:53:29
+Class-Path: ../libs/ConfigWD.jar ../libs/extrasWD.jar ../libs/java-eng
+ ine-1.8.jar ../libs/jython-engine-2.2.1.jar ../libs/L2J_EngineMods.ja
+ r ../libs/L2J_EventEngine.jar ../libs/L2J_GeoDriver.jar ../libs/mmoco
+ re.jar ../libs/WDpremium.jar ../libs/ZEngine.jar ../libs/c3p0-0.9.1.2
+ .jar ../libs/bonecp-0.8.0.RELEASE.jar ../libs/javax.mail-1.5.4.jar ..
+ /libs/HikariCP-2.4.1.jar ../libs/mysql-connector-java-5.1.37.jar ../l
+ ibs/weupnp-0.1.4.jar ../libs/ecj-4.4.2.jar ../libs/guava-19.0-rc2.jar
+  ../libs/jython-2.2.1.jar ../libs/slf4j-api-1.7.12.jar ../libs/slf4j-
+ jdk14-1.7.12.jar
+Implementation-URL: http://www.l2jserver.com/
+Main-Class: com.l2jserver.tools.dbinstaller.LauncherGS
+

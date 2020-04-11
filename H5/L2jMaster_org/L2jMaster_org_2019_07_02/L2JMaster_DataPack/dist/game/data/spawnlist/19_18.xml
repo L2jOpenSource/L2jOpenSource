@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- ssq04_npc1918_01 -->
+	<spawn zone="ssq04_npc1918_0101">
+		<npc id="31124" x="-19072" y="13504" z="-4897" heading="0" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq04_npc1918_02 -->
+	<spawn zone="ssq04_npc1918_0201">
+		<npc id="31118" x="-19888" y="13504" z="-4899" heading="32500" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq04_npc1918_03 -->
+	<spawn zone="ssq04_npc1918_0301">
+		<npc id="31495" x="-19309" y="13210" z="-4927" heading="16000" respawnDelay="60" /> <!-- Dimensional Gate Keeper -->
+	</spawn>
+	<!-- oren01_qm1918_01 -->
+	<spawn zone="oren01_qm1918_01m1">
+		<npc id="27024" count="8" respawnDelay="180" /> <!-- Undead Priest -->
+	</spawn>
+	<!-- oren07_npc1918_gd01 -->
+	<spawn zone="oren_npc1918_gd01m1">
+		<npc id="31845" count="1" respawnDelay="60" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren07_npc1918_gd02 -->
+	<spawn zone="oren_npc1918_gd02m1">
+		<npc id="31850" count="1" respawnDelay="60" /> <!-- Blight Treant -->
+	</spawn>
+	<!-- oren07_npc1918_gd03 -->
+	<spawn zone="oren_npc1918_gd03m1">
+		<npc id="31850" count="1" respawnDelay="60" /> <!-- Blight Treant -->
+	</spawn>
+	<!-- oren07_npc1918_gd04 -->
+	<spawn zone="oren_npc1918_gd04m1">
+		<npc id="31845" count="1" respawnDelay="60" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren07_1918_01 -->
+	<spawn zone="oren07_1918_01m1">
+		<npc id="20385" count="1" respawnDelay="20" /> <!-- Balor Orc Archer -->
+		<npc id="20007" count="6" respawnDelay="20" /> <!-- Green Fungus -->
+		<npc id="20386" count="8" respawnDelay="20" /> <!-- Balor Orc Fighter -->
+	</spawn>
+	<!-- oren07_1918_02 -->
+	<spawn zone="oren07_1918_02m1">
+		<npc id="20328" count="5" respawnDelay="20" /> <!-- Goblin Lookout -->
+		<npc id="20321" count="5" respawnDelay="20" /> <!-- Goblin Thief -->
+	</spawn>
+	<!-- oren07_1918_03 -->
+	<spawn zone="oren07_1918_03m1">
+		<npc id="20385" count="3" respawnDelay="20" /> <!-- Balor Orc Archer -->
+		<npc id="20321" count="6" respawnDelay="20" /> <!-- Goblin Thief -->
+		<npc id="20386" count="8" respawnDelay="20" /> <!-- Balor Orc Fighter -->
+		<npc id="20388" count="4" respawnDelay="20" /> <!-- Balor Orc Lieutenant -->
+		<npc id="20387" count="4" respawnDelay="20" /> <!-- Balor Orc Fighter Leader -->
+	</spawn>
+	<!-- oren07_1918_04 -->
+	<spawn zone="oren07_1918_04m1">
+		<npc id="20385" count="3" respawnDelay="20" /> <!-- Balor Orc Archer -->
+		<npc id="20321" count="8" respawnDelay="20" /> <!-- Goblin Thief -->
+		<npc id="20388" count="6" respawnDelay="20" /> <!-- Balor Orc Lieutenant -->
+		<npc id="20387" count="6" respawnDelay="20" /> <!-- Balor Orc Fighter Leader -->
+	</spawn>
+	<!-- oren07_1918_05 -->
+	<spawn zone="oren07_1918_05m1">
+		<npc id="20385" count="2" respawnDelay="20" /> <!-- Balor Orc Archer -->
+		<npc id="20388" count="7" respawnDelay="20" /> <!-- Balor Orc Lieutenant -->
+		<npc id="20387" count="5" respawnDelay="20" /> <!-- Balor Orc Fighter Leader -->
+		<npc id="20400" count="5" respawnDelay="20" /> <!-- Blood Fungus -->
+	</spawn>
+	<!-- oren07_1918_06 -->
+	<spawn zone="oren07_1918_06m1">
+		<npc id="20321" count="6" respawnDelay="20" /> <!-- Goblin Thief -->
+		<npc id="20386" count="8" respawnDelay="20" /> <!-- Balor Orc Fighter -->
+		<npc id="20388" count="6" respawnDelay="20" /> <!-- Balor Orc Lieutenant -->
+		<npc id="20400" count="5" respawnDelay="20" /> <!-- Blood Fungus -->
+	</spawn>
+	<!-- oren07_1918_07 -->
+	<spawn zone="oren07_1918_07m1">
+		<npc id="20007" count="8" respawnDelay="20" /> <!-- Green Fungus -->
+		<npc id="20328" count="7" respawnDelay="20" /> <!-- Goblin Lookout -->
+	</spawn>
+	<!-- oren07_1918_08 -->
+	<spawn zone="oren07_1918_08m1">
+		<npc id="20385" count="3" respawnDelay="20" /> <!-- Balor Orc Archer -->
+		<npc id="20328" count="6" respawnDelay="20" /> <!-- Goblin Lookout -->
+	</spawn>
+	<!-- oren07_1918_09 -->
+	<spawn zone="oren07_1918_09m1">
+		<npc id="20385" count="3" respawnDelay="20" /> <!-- Balor Orc Archer -->
+		<npc id="20328" count="9" respawnDelay="20" /> <!-- Goblin Lookout -->
+		<npc id="20007" count="9" respawnDelay="20" /> <!-- Green Fungus -->
+		<npc id="20386" count="3" respawnDelay="20" /> <!-- Balor Orc Fighter -->
+	</spawn>
+	<!-- oren07_1918_10 -->
+	<spawn zone="oren07_1918_10m1">
+		<npc id="20385" count="3" respawnDelay="20" /> <!-- Balor Orc Archer -->
+		<npc id="20007" count="5" respawnDelay="20" /> <!-- Green Fungus -->
+		<npc id="20386" count="7" respawnDelay="20" /> <!-- Balor Orc Fighter -->
+		<npc id="20400" count="5" respawnDelay="20" /> <!-- Blood Fungus -->
+	</spawn>
+	<!-- oren07_1918_11 -->
+	<spawn zone="oren07_1918_11m1">
+		<npc id="20388" count="8" respawnDelay="20" /> <!-- Balor Orc Lieutenant -->
+		<npc id="20387" count="7" respawnDelay="20" /> <!-- Balor Orc Fighter Leader -->
+		<npc id="20400" count="5" respawnDelay="20" /> <!-- Blood Fungus -->
+	</spawn>
+	<!-- oren07_1918_12 -->
+	<spawn zone="oren07_1918_12m1">
+		<npc id="20388" count="4" respawnDelay="20" /> <!-- Balor Orc Lieutenant -->
+		<npc id="20387" count="4" respawnDelay="20" /> <!-- Balor Orc Fighter Leader -->
+		<npc id="20400" count="7" respawnDelay="20" /> <!-- Blood Fungus -->
+	</spawn>
+	<!-- oren07_1918_17 -->
+	<spawn zone="oren07_1918_17m1">
+		<npc id="20328" count="6" respawnDelay="20" /> <!-- Goblin Lookout -->
+		<npc id="20007" count="7" respawnDelay="20" /> <!-- Green Fungus -->
+	</spawn>
+	<!-- oren07_1918_13s -->
+	<spawn zone="oren07_1918_13sm1">
+		<npc id="20321" count="5" respawnDelay="20" /> <!-- Goblin Thief -->
+	</spawn>
+	<!-- oren07_1918_14s -->
+	<spawn zone="oren07_1918_14sm1">
+		<npc id="20321" count="5" respawnDelay="20" /> <!-- Goblin Thief -->
+	</spawn>
+	<!-- oren07_1918_15s -->
+	<spawn zone="oren07_1918_15sm1">
+		<npc id="20388" count="2" respawnDelay="20" /> <!-- Balor Orc Lieutenant -->
+		<npc id="20387" count="3" respawnDelay="20" /> <!-- Balor Orc Fighter Leader -->
+	</spawn>
+	<!-- oren07_1918_16s -->
+	<spawn zone="oren07_1918_16sm1">
+		<npc id="20388" count="2" respawnDelay="20" /> <!-- Balor Orc Lieutenant -->
+		<npc id="20387" count="3" respawnDelay="20" /> <!-- Balor Orc Fighter Leader -->
+	</spawn>
+	<!-- oren11_1918_01 -->
+	<spawn zone="oren11_1918_01m1">
+		<npc id="20015" count="3" respawnDelay="20" /> <!-- Marsh Zombie -->
+		<npc id="20433" count="3" respawnDelay="20" /> <!-- Festering Bat -->
+	</spawn>
+	<!-- ssq03_1918_ssq01 -->
+	<spawn zone="ssq03_1918_ssq01m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21253" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Crypt Preacher -->
+		<npc id="21162" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq03_1918_ssq02 -->
+	<spawn zone="ssq03_1918_ssq02m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21253" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Crypt Preacher -->
+		<npc id="21162" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq03_1918_ssq03 -->
+	<spawn zone="ssq03_1918_ssq03m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21253" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Crypt Preacher -->
+		<npc id="21162" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq03_1918_ssq04 -->
+	<spawn zone="ssq03_1918_ssq04m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21253" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Crypt Preacher -->
+		<npc id="21162" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq03_1918_ssq05 -->
+	<spawn zone="ssq03_1918_ssq05m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21253" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Crypt Preacher -->
+		<npc id="21162" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq03_1918_ssq06 -->
+	<spawn zone="ssq03_1918_ssq06m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21253" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Crypt Preacher -->
+		<npc id="21162" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq03_1918_ssq07 -->
+	<spawn zone="ssq03_1918_ssq07m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21253" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Crypt Preacher -->
+		<npc id="21162" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq03_1918_ssq08 -->
+	<spawn zone="ssq03_1918_ssq08m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21253" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Crypt Preacher -->
+		<npc id="21162" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq03_1918_ssq09 -->
+	<spawn zone="ssq03_1918_ssq09m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21253" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Crypt Preacher -->
+		<npc id="21162" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq03_1918_ssq10 -->
+	<spawn zone="ssq03_1918_ssq10m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21253" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Crypt Preacher -->
+		<npc id="21162" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq03_1918_ssq11 -->
+	<spawn zone="ssq03_1918_ssq11m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq03_1918_ssq12 -->
+	<spawn zone="ssq03_1918_ssq12m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21206" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq03_1918_ssq13 -->
+	<spawn zone="ssq03_1918_ssq13m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21206" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq03_1918_ssq14 -->
+	<spawn zone="ssq03_1918_ssq14m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21206" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq03_1918_ssq15 -->
+	<spawn zone="ssq03_1918_ssq15m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq03_1918_ssq16 -->
+	<spawn zone="ssq03_1918_ssq16m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21206" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq03_1918_ssq17 -->
+	<spawn zone="ssq03_1918_ssq17m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq03_1918_ssq18 -->
+	<spawn zone="ssq03_1918_ssq18m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq03_1918_ssq19 -->
+	<spawn zone="ssq03_1918_ssq19m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21206" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq03_1918_ssq20 -->
+	<spawn zone="ssq03_1918_ssq20m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq03_1918_ssq21 -->
+	<spawn zone="ssq03_1918_ssq21m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq03_1918_ssq22 -->
+	<spawn zone="ssq03_1918_ssq22m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq03_1918_ssq23 -->
+	<spawn zone="ssq03_1918_ssq23m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq03_1918_ssq24 -->
+	<spawn zone="ssq03_1918_ssq24m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq03_1918_ssq25 -->
+	<spawn zone="ssq03_1918_ssq25m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq03_1918_ssq26 -->
+	<spawn zone="ssq03_1918_ssq26m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq03_1918_ssq27 -->
+	<spawn zone="ssq03_1918_ssq27m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq03_1918_ssq28 -->
+	<spawn zone="ssq03_1918_ssq28m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="2" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq03_1918_ssq29 -->
+	<spawn zone="ssq03_1918_ssq29m1">
+		<AIData>
+			<SSQTelPosX>-22795</SSQTelPosX>
+			<SSQTelPosY>13945</SSQTelPosY>
+			<SSQTelPosZ>-3168</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="1" respawnDelay="124" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+</list>

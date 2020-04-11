@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<item>
+		<ingredient id="57" count="395"/>
+		<production id="1467" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="280"/>
+		<production id="1466" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="140"/>
+		<production id="1465" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="65"/>
+		<production id="1464" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="35"/>
+		<production id="1463" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="16"/>
+		<production id="1835" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="1100"/>
+		<production id="3952" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="607"/>
+		<production id="3951" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="500"/>
+		<production id="3950" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="131"/>
+		<production id="3949" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="58"/>
+		<production id="3948" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="75"/>
+		<production id="3947" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="3"/>
+		<production id="6535" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="6"/>
+		<production id="6536" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="9"/>
+		<production id="6537" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="50"/>
+		<production id="6538" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="100"/>
+		<production id="6539" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="200"/>
+		<production id="6540" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="225"/>
+		<production id="6647" count="1"/>
+	</item>
+	<item>
+		<ingredient id="57" count="55"/>
+		<production id="6645" count="1"/>
+	</item>
+</list>

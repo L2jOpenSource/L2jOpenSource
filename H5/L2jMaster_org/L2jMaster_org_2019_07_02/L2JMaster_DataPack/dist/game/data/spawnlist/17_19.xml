@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- aden49_npc1719_001 -->
+	<spawn zone="aden49_npc1719_001m1">
+		<npc id="32184" x="-95500" y="52164" z="-2017" heading="14260" respawnDelay="60" /> <!-- Yinir -->
+		<npc id="32185" x="-95571" y="52496" z="-2017" heading="18720" respawnDelay="60" /> <!-- Peregrine -->
+	</spawn>
+	<!-- aden49_npc1719_002 -->
+	<spawn zone="aden49_npc1719_002m1">
+		<npc id="32190" x="-74016" y="52896" z="-3674" heading="0" respawnDelay="60" /> <!-- Mao -->
+		<npc id="32189" x="-74016" y="51932" z="-3672" heading="0" respawnDelay="60" /> <!-- Largo -->
+	</spawn>
+	<!-- aden49_npc1719_003 -->
+	<spawn zone="aden49_npc1719_003m1">
+		<npc id="32186" x="-85952" y="37120" z="-2040" heading="8432" respawnDelay="60" /> <!-- Yung -->
+		<npc id="32187" x="-86224" y="36848" z="-2040" heading="42344" respawnDelay="60" /> <!-- Nadir -->
+		<npc id="32188" x="-85952" y="36864" z="-2053" heading="57344" respawnDelay="60" /> <!-- Morelin -->
+	</spawn>
+	<!-- aden49_npc1719_g009 -->
+	<spawn zone="aden49_npc1719_g009m1">
+		<npc id="32336" x="-75472" y="53632" z="-3696" heading="32672" respawnDelay="60" /> <!-- Marksman -->
+	</spawn>
+	<!-- aden49_npc1719_g010 -->
+	<spawn zone="aden49_npc1719_g010m1">
+		<npc id="32336" x="-75360" y="54240" z="-3696" heading="32564" respawnDelay="60" /> <!-- Marksman -->
+	</spawn>
+	<!-- aden49_npc1719_g011 -->
+	<spawn zone="aden49_npc1719_g011m1">
+		<npc id="32336" x="-85904" y="37816" z="-2128" heading="15736" respawnDelay="60" /> <!-- Marksman -->
+	</spawn>
+	<!-- aden49_npc1719_g012 -->
+	<spawn zone="aden49_npc1719_g012m1">
+		<npc id="32336" x="-86288" y="36152" z="-2128" heading="50144" respawnDelay="60" /> <!-- Marksman -->
+	</spawn>
+	<!-- aden49_npc1719_g013 -->
+	<spawn zone="aden49_npc1719_g013m1">
+		<npc id="32336" x="-94928" y="52912" z="-2112" heading="10324" respawnDelay="60" /> <!-- Marksman -->
+	</spawn>
+	<!-- aden49_npc1719_g014 -->
+	<spawn zone="aden49_npc1719_g014m1">
+		<npc id="32336" x="-96208" y="51656" z="-2160" heading="42114" respawnDelay="60" /> <!-- Marksman -->
+	</spawn>
+	<!-- spirit05_npc1719_01 -->
+	<spawn zone="spirit05_npc1719_01m1">
+		<npc id="32330" x="-84728" y="60089" z="-2576" heading="49152" respawnDelay="60" /> <!-- Garden Guard -->
+	</spawn>
+	<!-- spirit00_npc1719_01 -->
+	<spawn zone="spirit00_npc1719_01m1">
+		<npc id="32255" x="-79608" y="55704" z="-4940" heading="49216" respawnDelay="60" /> <!-- Icon of the Past -->
+	</spawn>
+	<!-- spirit00_npc1719_02 -->
+	<spawn zone="spirit00_npc1719_02m1">
+		<npc id="32256" x="-88066" y="55708" z="-4568" heading="49152" respawnDelay="60" /> <!-- Icon of the Present -->
+	</spawn>
+	<!-- spirit00_npc1719_03 -->
+	<spawn zone="spirit00_npc1719_03m1">
+		<npc id="32257" x="-88453" y="51479" z="-4472" heading="49152" respawnDelay="60" /> <!-- Icon of the Future -->
+	</spawn>
+	<!-- aden49_1719_01 -->
+	<spawn zone="aden49_1719_01m1">
+		<npc id="22240" count="10" respawnDelay="15" /> <!-- Muertos Scout -->
+	</spawn>
+	<!-- aden49_1719_02 -->
+	<spawn zone="aden49_1719_02m1">
+		<npc id="22240" count="20" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22242" count="20" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1719_021s -->
+	<spawn zone="aden49_1719_021sm1">
+		<npc id="22240" count="2" respawnDelay="15" /> <!-- Muertos Scout -->
+	</spawn>
+	<!-- aden49_1719_022s -->
+	<spawn zone="aden49_1719_022sm1">
+		<npc id="22240" count="2" respawnDelay="15" /> <!-- Muertos Scout -->
+	</spawn>
+	<!-- aden49_1719_023s -->
+	<spawn zone="aden49_1719_023sm1">
+		<npc id="22240" count="2" respawnDelay="15" /> <!-- Muertos Scout -->
+	</spawn>
+	<!-- aden49_1719_03 -->
+	<spawn zone="aden49_1719_03m1">
+		<npc id="22240" count="14" respawnDelay="15" /> <!-- Muertos Scout -->
+		<npc id="22242" count="14" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1719_031s -->
+	<spawn zone="aden49_1719_031sm1">
+		<npc id="22242" count="4" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1719_032s -->
+	<spawn zone="aden49_1719_032sm1">
+		<npc id="22242" count="4" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1719_04 -->
+	<spawn zone="aden49_1719_04m1">
+		<npc id="22242" count="10" respawnDelay="15" /> <!-- Muertos Warrior -->
+		<npc id="22243" count="10" respawnDelay="15" /> <!-- Muertos Captain -->
+	</spawn>
+	<!-- aden49_1719_041s -->
+	<spawn zone="aden49_1719_041sm1">
+		<npc id="22242" count="3" respawnDelay="15" /> <!-- Muertos Warrior -->
+	</spawn>
+	<!-- aden49_1719_042s -->
+	<spawn zone="aden49_1719_042sm1">
+		<npc id="22243" count="3" respawnDelay="15" /> <!-- Muertos Captain -->
+	</spawn>
+	<!-- aden49_1719_043s -->
+	<spawn zone="aden49_1719_043sm1">
+		<npc id="22243" count="3" respawnDelay="15" /> <!-- Muertos Captain -->
+		<npc id="22244" count="3" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- aden49_1719_05 -->
+	<spawn zone="aden49_1719_05m1">
+		<npc id="22243" count="7" respawnDelay="15" /> <!-- Muertos Captain -->
+		<npc id="22244" count="7" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- aden49_1719_06 -->
+	<spawn zone="aden49_1719_06m1">
+		<npc id="22242" count="8" respawnDelay="15" /> <!-- Muertos Warrior -->
+		<npc id="22243" count="8" respawnDelay="15" /> <!-- Muertos Captain -->
+		<npc id="22244" count="8" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- aden49_1719_07 -->
+	<spawn zone="aden49_1719_07m1">
+		<npc id="22242" count="8" respawnDelay="15" /> <!-- Muertos Warrior -->
+		<npc id="22243" count="8" respawnDelay="15" /> <!-- Muertos Captain -->
+	</spawn>
+	<!-- aden49_1719_08 -->
+	<spawn zone="aden49_1719_08m1">
+		<npc id="22242" count="9" respawnDelay="15" /> <!-- Muertos Warrior -->
+		<npc id="22243" count="8" respawnDelay="15" /> <!-- Muertos Captain -->
+	</spawn>
+	<!-- aden49_1719_09 -->
+	<spawn zone="aden49_1719_09m1">
+		<npc id="22242" count="3" respawnDelay="15" /> <!-- Muertos Warrior -->
+		<npc id="22243" count="3" respawnDelay="15" /> <!-- Muertos Captain -->
+	</spawn>
+	<!-- aden49_1719_10 -->
+	<spawn zone="aden49_1719_10m1">
+		<npc id="22243" count="4" respawnDelay="15" /> <!-- Muertos Captain -->
+		<npc id="22244" count="4" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- aden49_1719_11 -->
+	<!-- aden49_1719_12 -->
+	<spawn zone="aden49_1719_11m1">
+		<npc id="22244" count="3" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- aden49_1719_13 -->
+	<!-- aden49_1719_14 -->
+	<!-- aden49_1719_15 -->
+	<!-- aden49_1719_16 -->
+	<spawn zone="aden49_1719_13m1">
+		<npc id="22244" count="8" respawnDelay="15" /> <!-- Crimson Spider -->
+	</spawn>
+	<!-- aden46_1719_01 -->
+	<spawn zone="aden46_1719_01m1">
+		<npc id="22247" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Golem -->
+	</spawn>
+	<!-- aden46_1719_02 -->
+	<spawn zone="aden46_1719_02m1">
+		<npc id="22247" count="3" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Golem -->
+	</spawn>
+	<!-- aden46_1719_03 -->
+	<spawn zone="aden46_1719_03m1">
+		<npc id="22247" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Golem -->
+		<npc id="22249" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Guard -->
+	</spawn>
+	<!-- aden46_1719_04 -->
+	<spawn zone="aden46_1719_04m1">
+		<npc id="22247" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Golem -->
+		<npc id="22249" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Guard -->
+	</spawn>
+	<!-- aden46_1719_05 -->
+	<!-- aden46_1719_06 -->
+	<spawn zone="aden46_1719_05m1">
+		<npc id="22247" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Golem -->
+		<npc id="22249" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Guard -->
+	</spawn>
+	<!-- aden46_1719_07 -->
+	<spawn zone="aden46_1719_07m1">
+		<npc id="22249" count="3" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Guard -->
+	</spawn>
+	<!-- aden46_1719_08 -->
+	<spawn zone="aden46_1719_08m1">
+		<npc id="22247" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Golem -->
+		<npc id="22249" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Guard -->
+		<npc id="22250" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+	</spawn>
+	<!-- aden46_1719_09 -->
+	<spawn zone="aden46_1719_09m1">
+		<npc id="22247" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Golem -->
+		<npc id="22249" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Guard -->
+		<npc id="22250" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+	</spawn>
+	<!-- aden46_1719_10 -->
+	<spawn zone="aden46_1719_10m1">
+		<npc id="22247" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Golem -->
+		<npc id="22249" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Guard -->
+		<npc id="22250" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+	</spawn>
+	<!-- aden46_1719_11 -->
+	<spawn zone="aden46_1719_11m1">
+		<npc id="22249" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Guard -->
+	</spawn>
+	<!-- aden46_1719_12 -->
+	<spawn zone="aden46_1719_12m1">
+		<npc id="22247" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Golem -->
+		<npc id="22249" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Guard -->
+		<npc id="22250" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+	</spawn>
+	<!-- aden46_1719_13 -->
+	<spawn zone="aden46_1719_13m1">
+		<npc id="22247" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Golem -->
+		<npc id="22249" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Guard -->
+		<npc id="22250" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+	</spawn>
+	<!-- aden46_1719_14 -->
+	<spawn zone="aden46_1719_14m1">
+		<npc id="22250" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+	</spawn>
+	<!-- aden46_1719_15 -->
+	<spawn zone="aden46_1719_15m1">
+		<npc id="22250" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+		<npc id="22251" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Captain -->
+	</spawn>
+	<!-- aden46_1719_16 -->
+	<spawn zone="aden46_1719_16m1">
+		<npc id="22250" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+		<npc id="22251" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Captain -->
+		<npc id="22252" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Grizzly -->
+	</spawn>
+	<!-- aden46_1719_17 -->
+	<spawn zone="aden46_1719_17m1">
+		<npc id="22250" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+		<npc id="22251" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Captain -->
+		<npc id="22252" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Grizzly -->
+	</spawn>
+	<!-- aden46_1719_18 -->
+	<spawn zone="aden46_1719_18m1">
+		<npc id="22251" count="3" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Captain -->
+	</spawn>
+	<!-- aden46_1719_19 -->
+	<spawn zone="aden46_1719_19m1">
+		<npc id="22250" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+		<npc id="22251" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Captain -->
+		<npc id="22252" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Grizzly -->
+	</spawn>
+	<!-- aden46_1719_20 -->
+	<spawn zone="aden46_1719_20m1">
+		<npc id="22252" count="3" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Grizzly -->
+	</spawn>
+	<!-- aden46_1719_21 -->
+	<spawn zone="aden46_1719_21m1">
+		<npc id="22250" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+		<npc id="22251" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Captain -->
+		<npc id="22252" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Grizzly -->
+	</spawn>
+	<!-- aden46_1719_22 -->
+	<spawn zone="aden46_1719_22m1">
+		<npc id="22250" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+		<npc id="22251" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Captain -->
+		<npc id="22252" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Grizzly -->
+	</spawn>
+	<!-- aden46_1719_23 -->
+	<spawn zone="aden46_1719_23m1">
+		<npc id="22250" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Leopard -->
+		<npc id="22251" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Captain -->
+		<npc id="22252" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Grizzly -->
+	</spawn>
+	<!-- aden46_1719_24 -->
+	<spawn zone="aden46_1719_24m1">
+	<npc id="22251" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Captain -->
+	<npc id="22252" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Grizzly -->
+	<npc id="22253" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+	</spawn>
+	<!-- aden46_1719_25 -->
+	<spawn zone="aden46_1719_25m1">
+		<npc id="22252" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Grizzly -->
+		<npc id="22253" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+	</spawn>
+	<!-- aden46_1719_26 -->
+	<spawn zone="aden46_1719_26m1">
+		<npc id="22252" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Grizzly -->
+	</spawn>
+	<!-- aden46_1719_27 -->
+	<spawn zone="aden46_1719_27m1">
+		<npc id="22252" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Grotto Grizzly -->
+		<npc id="22253" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+	</spawn>
+	<!-- aden46_1719_28 -->
+	<spawn zone="aden46_1719_28m1">
+		<npc id="22253" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22254" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Archer -->
+		<npc id="22255" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Commander -->
+	</spawn>
+	<!-- aden46_1719_29 -->
+	<spawn zone="aden46_1719_29m1">
+		<npc id="22253" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22255" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Commander -->
+	</spawn>
+	<!-- aden46_1719_30 -->
+	<spawn zone="aden46_1719_30m1">
+		<npc id="22253" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22255" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Commander -->
+	</spawn>
+	<!-- aden46_1719_31 -->
+	<spawn zone="aden46_1719_31m1">
+		<npc id="22253" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22254" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Archer -->
+		<npc id="22255" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Commander -->
+	</spawn>
+	<!-- aden46_1719_32 -->
+	<spawn zone="aden46_1719_32m1">
+		<npc id="22253" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22254" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Archer -->
+		<npc id="22255" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Commander -->
+	</spawn>
+	<!-- aden46_1719_33 -->
+	<spawn zone="aden46_1719_33m1">
+		<npc id="22253" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22254" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Archer -->
+		<npc id="22256" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Wizard -->
+	</spawn>
+	<!-- aden46_1719_34 -->
+	<spawn zone="aden46_1719_34m1">
+		<npc id="22253" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22255" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Commander -->
+	</spawn>
+	<!-- aden46_1719_35 -->
+	<spawn zone="aden46_1719_35m1">
+		<npc id="22253" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22256" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Wizard -->
+	</spawn>
+	<!-- aden46_1719_36 -->
+	<spawn zone="aden46_1719_36m1">
+		<npc id="22253" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22254" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Archer -->
+		<npc id="22255" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Commander -->
+	</spawn>
+	<!-- aden46_1719_37 -->
+	<spawn zone="aden46_1719_37m1">
+		<npc id="22253" count="3" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22254" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Archer -->
+		<npc id="22256" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Wizard -->
+	</spawn>
+	<!-- aden46_1719_38 -->
+	<spawn zone="aden46_1719_38m1">
+		<npc id="22253" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22254" count="1" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Archer -->
+		<npc id="22255" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Commander -->
+		<npc id="22256" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Wizard -->
+	</spawn>
+	<!-- aden46_1719_39 -->
+	<spawn zone="aden46_1719_39m1">
+		<npc id="22253" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Warrior -->
+		<npc id="22254" count="2" respawnDelay="30" respawnRandom="20" /> <!-- Shady Muertos Archer -->
+	</spawn>
+</list>

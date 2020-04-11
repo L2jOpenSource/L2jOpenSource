@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio39_1922_01 -->
+	<spawn zone="gludio39_1922_01m1">
+		<npc id="20359" count="6" respawnDelay="20" /> <!-- Ratman Warrior -->
+	</spawn>
+	<!-- gludio39_1922_02 -->
+	<spawn zone="gludio39_1922_02m1">
+		<npc id="20359" count="3" respawnDelay="20" /> <!-- Ratman Warrior -->
+		<npc id="20055" count="2" respawnDelay="20" /> <!-- Wandering Eye -->
+	</spawn>
+	<!-- gludio39_1922_03 -->
+	<spawn zone="gludio39_1922_03m1">
+		<npc id="20359" count="3" respawnDelay="20" /> <!-- Ratman Warrior -->
+		<npc id="20055" count="2" respawnDelay="20" /> <!-- Wandering Eye -->
+	</spawn>
+	<!-- gludio39_1922_04 -->
+	<spawn zone="gludio39_1922_04m1">
+		<npc id="20050" count="2" respawnDelay="20" /> <!-- Arachnid Predator -->
+		<npc id="20059" count="2" respawnDelay="20" /> <!-- Hungry Eye -->
+	</spawn>
+	<!-- gludio39_1922_05 -->
+	<spawn zone="gludio39_1922_05m1">
+		<npc id="20055" count="2" respawnDelay="20" /> <!-- Wandering Eye -->
+		<npc id="20050" count="3" respawnDelay="20" /> <!-- Arachnid Predator -->
+		<npc id="20059" count="5" respawnDelay="20" /> <!-- Hungry Eye -->
+	</spawn>
+	<!-- gludio02_1922_01 -->
+	<spawn zone="gludio02_1922_0101">
+		<npc id="20514" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Shield Skeleton -->
+		<npc id="20506" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp -->
+		<npc id="20411" count="1" respawnDelay="30" respawnRandom="10" /> <!-- Scavenger Bat -->
+	</spawn>
+	<!-- gludio02_1922_02 -->
+	<spawn zone="gludio02_1922_0201">
+		<npc id="20515" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Skeleton Infantryman -->
+		<npc id="20411" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Scavenger Bat -->
+		<npc id="20506" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp -->
+	</spawn>
+	<!-- gludio02_1922_03 -->
+	<spawn zone="gludio02_1922_0301">
+		<npc id="20514" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Shield Skeleton -->
+		<npc id="20515" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Skeleton Infantryman -->
+		<npc id="20411" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Scavenger Bat -->
+	</spawn>
+	<!-- gludio02_1922_04 -->
+	<spawn zone="gludio02_1922_0401">
+		<npc id="20506" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp -->
+		<npc id="20411" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Scavenger Bat -->
+	</spawn>
+	<!-- gludio02_1922_05 -->
+	<spawn zone="gludio02_1922_0501">
+		<npc id="20515" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Skeleton Infantryman -->
+		<npc id="20506" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp -->
+		<npc id="20411" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Scavenger Bat -->
+	</spawn>
+	<!-- gludio02_1922_06 -->
+	<spawn zone="gludio02_1922_0601">
+		<npc id="20514" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Shield Skeleton -->
+		<npc id="20515" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Skeleton Infantryman -->
+		<npc id="20411" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Scavenger Bat -->
+	</spawn>
+	<!-- gludio02_1922_07 -->
+	<spawn zone="gludio02_1922_0701">
+		<npc id="20514" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Shield Skeleton -->
+		<npc id="20515" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Skeleton Infantryman -->
+		<npc id="20506" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp -->
+	</spawn>
+	<!-- gludio02_1922_08 -->
+	<spawn zone="gludio02_1922_0801">
+		<npc id="20457" count="6" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Soldier -->
+		<npc id="20507" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp Elder -->
+		<npc id="20458" count="5" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Warrior -->
+		<npc id="20401" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear -->
+	</spawn>
+	<!-- gludio02_1922_09 -->
+	<spawn zone="gludio02_1922_09m1">
+		<npc id="20515" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Skeleton Infantryman -->
+		<npc id="20457" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Soldier -->
+	</spawn>
+	<!-- gludio02_1922_10 -->
+	<spawn zone="gludio02_1922_1001">
+		<npc id="20457" count="6" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Soldier -->
+		<npc id="20507" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp Elder -->
+		<npc id="20458" count="5" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Warrior -->
+		<npc id="20401" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear -->
+		<npc id="20402" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear Warrior -->
+	</spawn>
+	<!-- gludio02_1922_11 -->
+	<spawn zone="gludio02_1922_1101">
+		<npc id="20457" count="5" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Soldier -->
+		<npc id="20507" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp Elder -->
+		<npc id="20458" count="7" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Warrior -->
+		<npc id="20401" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear -->
+		<npc id="20402" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear Warrior -->
+	</spawn>
+	<!-- gludio02_1922_12 -->
+	<spawn zone="gludio02_1922_1201">
+		<npc id="20457" count="5" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Soldier -->
+		<npc id="20505" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Bat -->
+		<npc id="20401" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear -->
+	</spawn>
+	<!-- gludio02_1922_13 -->
+	<spawn zone="gludio02_1922_1301">
+		<npc id="20457" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Soldier -->
+		<npc id="20458" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Warrior -->
+		<npc id="20401" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear -->
+	</spawn>
+	<!-- gludio02_1922_14 -->
+	<spawn zone="gludio02_1922_1401">
+		<npc id="20507" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp Elder -->
+		<npc id="20458" count="7" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Warrior -->
+		<npc id="20401" count="5" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear -->
+		<npc id="20402" count="6" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear Warrior -->
+	</spawn>
+	<!-- gludio02_1922_15 -->
+	<spawn zone="gludio02_1922_1501">
+		<npc id="20401" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear -->
+		<npc id="20402" count="6" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear Warrior -->
+	</spawn>
+	<!-- gludio02_1922_16 -->
+	<spawn zone="gludio02_1922_1601">
+		<npc id="20457" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Soldier -->
+		<npc id="20505" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Bat -->
+		<npc id="20507" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp Elder -->
+	</spawn>
+	<!-- gludio02_1922_17 -->
+	<spawn zone="gludio02_1922_1701">
+		<npc id="20507" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp Elder -->
+		<npc id="20401" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear -->
+		<npc id="20402" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear Warrior -->
+	</spawn>
+	<!-- gludio02_1922_18 -->
+	<spawn zone="gludio02_1922_1801">
+		<npc id="20457" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Soldier -->
+		<npc id="20505" count="6" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Bat -->
+		<npc id="20507" count="7" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp Elder -->
+		<npc id="20401" count="3" respawnDelay="30" respawnRandom="10" /> <!-- Veelan Bugbear -->
+	</spawn>
+	<!-- gludio02_1922_19 -->
+	<spawn zone="gludio02_1922_1901">
+		<npc id="20506" count="2" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp -->
+		<npc id="20411" count="5" respawnDelay="30" respawnRandom="10" /> <!-- Scavenger Bat -->
+		<npc id="20457" count="4" respawnDelay="30" respawnRandom="10" /> <!-- Zombie Soldier -->
+		<npc id="20505" count="5" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Bat -->
+	</spawn>
+	<!-- gludio02_1922_20 -->
+	<spawn zone="gludio02_1922_2001">
+		<npc id="20515" count="5" respawnDelay="30" respawnRandom="10" /> <!-- Skeleton Infantryman -->
+		<npc id="20506" count="5" respawnDelay="30" respawnRandom="10" /> <!-- Ruin Imp -->
+		<npc id="20411" count="5" respawnDelay="30" respawnRandom="10" /> <!-- Scavenger Bat -->
+	</spawn>
+	<!-- gludio40_1922_01 -->
+	<spawn zone="gludio40_1922_01m1">
+		<npc id="20059" count="3" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20058" count="4" respawnDelay="20" /> <!-- Ol Mahum Guard -->
+		<npc id="20547" count="3" respawnDelay="20" /> <!-- Ol Mahum Reserve -->
+	</spawn>
+	<!-- gludio40_1922_02 -->
+	<spawn zone="gludio40_1922_02m1">
+		<npc id="20059" count="5" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20547" count="5" respawnDelay="20" /> <!-- Ol Mahum Reserve -->
+		<npc id="20058" count="4" respawnDelay="20" /> <!-- Ol Mahum Guard -->
+		<npc id="20063" count="3" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+	</spawn>
+	<!-- gludio40_1922_03 -->
+	<spawn zone="gludio40_1922_03m1">
+		<npc id="20058" count="2" respawnDelay="20" /> <!-- Ol Mahum Guard -->
+		<npc id="20547" count="2" respawnDelay="20" /> <!-- Ol Mahum Reserve -->
+		<npc id="20063" count="1" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="1" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio40_1922_04 -->
+	<spawn zone="gludio40_1922_04m1">
+		<npc id="20058" count="2" respawnDelay="20" /> <!-- Ol Mahum Guard -->
+		<npc id="20547" count="2" respawnDelay="20" /> <!-- Ol Mahum Reserve -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+	</spawn>
+	<!-- gludio40_1922_05 -->
+	<spawn zone="gludio40_1922_05m1">
+		<npc id="20059" count="2" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20547" count="1" respawnDelay="20" /> <!-- Ol Mahum Reserve -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="2" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio41_1922_01 -->
+	<spawn zone="gludio41_1922_01m1">
+		<npc id="20059" count="4" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20058" count="4" respawnDelay="20" /> <!-- Ol Mahum Guard -->
+		<npc id="20547" count="3" respawnDelay="20" /> <!-- Ol Mahum Reserve -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+	</spawn>
+	<!-- gludio41_1922_02 -->
+	<spawn zone="gludio41_1922_02m1">
+		<npc id="20059" count="3" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20058" count="2" respawnDelay="20" /> <!-- Ol Mahum Guard -->
+		<npc id="20547" count="3" respawnDelay="20" /> <!-- Ol Mahum Reserve -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+	</spawn>
+	<!-- gludio41_1922_03 -->
+	<spawn zone="gludio41_1922_03m1">
+		<npc id="20059" count="3" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20547" count="3" respawnDelay="20" /> <!-- Ol Mahum Reserve -->
+		<npc id="20063" count="2" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="2" respawnDelay="20" /> <!-- Ol Mahum Captain -->
+	</spawn>
+	<!-- gludio41_1922_04 -->
+	<spawn zone="gludio41_1922_04m1">
+		<npc id="20058" count="2" respawnDelay="20" /> <!-- Ol Mahum Guard -->
+		<npc id="20063" count="1" respawnDelay="20" /> <!-- Ol Mahum Shooter -->
+	</spawn>
+	<!-- gludio02_tb1922_12 -->
+	<spawn zone="gludio02_tb12_m1">
+		<npc id="18265" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- gludio40_tb1922_02 -->
+	<spawn zone="gludio40_tb02_m1">
+		<npc id="18266" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- gludio02_tb1922_08 -->
+	<spawn zone="gludio02_tb08_m1">
+		<npc id="18266" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

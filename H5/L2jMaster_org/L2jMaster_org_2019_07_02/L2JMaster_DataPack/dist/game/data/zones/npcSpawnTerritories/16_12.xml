@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- ssqteleport1_1612_31 -->
+	<zone name="dimension_gap_00" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-112364" Y="-182829" />
+		<node X="-111569" Y="-182829" />
+		<node X="-111569" Y="-182040" />
+		<node X="-112364" Y="-182040" />
+	</zone>
+	<!-- ssqteleport1_1612_32 -->
+	<zone name="dimension_gap_01" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-111471" Y="-182833" />
+		<node X="-110684" Y="-182833" />
+		<node X="-110692" Y="-182035" />
+		<node X="-111480" Y="-182035" />
+	</zone>
+	<!-- ssqteleport1_1612_33 -->
+	<zone name="dimension_gap_02" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-110685" Y="-180957" />
+		<node X="-109899" Y="-180952" />
+		<node X="-109896" Y="-180164" />
+		<node X="-110685" Y="-180164" />
+	</zone>
+	<!-- ssqteleport1_1612_34 -->
+	<zone name="dimension_gap_03" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-109800" Y="-180947" />
+		<node X="-109015" Y="-180947" />
+		<node X="-109015" Y="-180165" />
+		<node X="-109795" Y="-180165" />
+	</zone>
+	<!-- ssqteleport1_1612_35 -->
+	<zone name="dimension_gap_04" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-114047" Y="-181963" />
+		<node X="-112480" Y="-181966" />
+		<node X="-112480" Y="-181083" />
+		<node X="-114047" Y="-181072" />
+	</zone>
+	<!-- ssqteleport1_1612_36 -->
+	<zone name="dimension_gap_05" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-112355" Y="-181013" />
+		<node X="-110814" Y="-181007" />
+		<node X="-110822" Y="-180124" />
+		<node X="-112363" Y="-180130" />
+	</zone>
+	<!-- ssqteleport1_1612_37 -->
+	<zone name="dimension_gap_06" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-110564" Y="-182885" />
+		<node X="-109023" Y="-182879" />
+		<node X="-109015" Y="-181988" />
+		<node X="-110556" Y="-181994" />
+	</zone>
+	<!-- ssqteleport1_1612_38 -->
+	<zone name="dimension_gap_07" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-112356" Y="-181964" />
+		<node X="-110807" Y="-181949" />
+		<node X="-110798" Y="-181058" />
+		<node X="-112348" Y="-181073" />
+	</zone>
+	<!-- ssqteleport1_mb1612_39 -->
+	<zone name="dimension_gap_08" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-110687" Y="-181946" />
+		<node X="-109121" Y="-181940" />
+		<node X="-109121" Y="-181066" />
+		<node X="-110687" Y="-181072" />
+	</zone>
+	<!-- ssqteleport1_1612_41 -->
+	<zone name="dimension_gap_10" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-112360" Y="-180009" />
+		<node X="-111577" Y="-180009" />
+		<node X="-111573" Y="-179224" />
+		<node X="-112356" Y="-179224" />
+	</zone>
+	<!-- ssqteleport1_1612_42 -->
+	<zone name="dimension_gap_11" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-111478" Y="-180009" />
+		<node X="-110691" Y="-180009" />
+		<node X="-110691" Y="-179223" />
+		<node X="-111478" Y="-179223" />
+	</zone>
+	<!-- ssqteleport1_1612_43 -->
+	<zone name="dimension_gap_12" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-110691" Y="-178128" />
+		<node X="-109902" Y="-178128" />
+		<node X="-109902" Y="-177344" />
+		<node X="-110691" Y="-177344" />
+	</zone>
+	<!-- ssqteleport1_1612_44 -->
+	<zone name="dimension_gap_13" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-109800" Y="-178128" />
+		<node X="-109019" Y="-178128" />
+		<node X="-109016" Y="-177343" />
+		<node X="-109796" Y="-177343" />
+	</zone>
+	<!-- ssqteleport1_1612_45 -->
+	<zone name="dimension_gap_14" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-114035" Y="-179126" />
+		<node X="-112479" Y="-179125" />
+		<node X="-112479" Y="-178248" />
+		<node X="-114035" Y="-178250" />
+	</zone>
+	<!-- ssqteleport1_1612_46 -->
+	<zone name="dimension_gap_15" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-112357" Y="-178179" />
+		<node X="-110809" Y="-178181" />
+		<node X="-110805" Y="-177285" />
+		<node X="-112357" Y="-177284" />
+	</zone>
+	<!-- ssqteleport1_1612_47 -->
+	<zone name="dimension_gap_16" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-110566" Y="-180061" />
+		<node X="-109020" Y="-180050" />
+		<node X="-109015" Y="-179163" />
+		<node X="-110561" Y="-179174" />
+	</zone>
+	<!-- ssqteleport1_1612_48 -->
+	<zone name="dimension_gap_17" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-112362" Y="-179136" />
+		<node X="-110802" Y="-179130" />
+		<node X="-110802" Y="-178240" />
+		<node X="-112362" Y="-178246" />
+	</zone>
+	<!-- ssqteleport1_mb1612_49 -->
+	<zone name="dimension_gap_18" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-110674" Y="-179131" />
+		<node X="-109123" Y="-179134" />
+		<node X="-109127" Y="-178253" />
+		<node X="-110679" Y="-178250" />
+	</zone>
+	<!-- ssqteleport1_1612_51 -->
+	<zone name="dimension_gap_20" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-114257" Y="-176213" />
+		<node X="-113473" Y="-176213" />
+		<node X="-113473" Y="-175424" />
+		<node X="-114257" Y="-175424" />
+	</zone>
+	<!-- ssqteleport1_1612_52 -->
+	<zone name="dimension_gap_21" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-114270" Y="-175336" />
+		<node X="-113471" Y="-175329" />
+		<node X="-113471" Y="-174534" />
+		<node X="-114256" Y="-174534" />
+	</zone>
+	<!-- ssqteleport1_1612_53 -->
+	<zone name="dimension_gap_22" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-116140" Y="-174540" />
+		<node X="-115357" Y="-174540" />
+		<node X="-115352" Y="-173751" />
+		<node X="-116135" Y="-173751" />
+	</zone>
+	<!-- ssqteleport1_1612_54 -->
+	<zone name="dimension_gap_23" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-116139" Y="-173641" />
+		<node X="-115351" Y="-173646" />
+		<node X="-115346" Y="-172867" />
+		<node X="-116129" Y="-172862" />
+	</zone>
+	<!-- ssqteleport1_1612_55 -->
+	<zone name="dimension_gap_24" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-115232" Y="-177888" />
+		<node X="-114365" Y="-177895" />
+		<node X="-114357" Y="-176343" />
+		<node X="-115224" Y="-176336" />
+	</zone>
+	<!-- ssqteleport1_1612_56 -->
+	<zone name="dimension_gap_25" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-116199" Y="-176214" />
+		<node X="-115304" Y="-176214" />
+		<node X="-115295" Y="-174655" />
+		<node X="-116189" Y="-174655" />
+	</zone>
+	<!-- ssqteleport1_1612_57 -->
+	<zone name="dimension_gap_26" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-114301" Y="-174410" />
+		<node X="-113431" Y="-174416" />
+		<node X="-113429" Y="-172872" />
+		<node X="-114298" Y="-172865" />
+	</zone>
+	<!-- ssqteleport1_1612_58 -->
+	<zone name="dimension_gap_27" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-115245" Y="-176211" />
+		<node X="-114336" Y="-176211" />
+		<node X="-114334" Y="-174659" />
+		<node X="-115242" Y="-174659" />
+	</zone>
+	<!-- ssqteleport1_mb1612_59 -->
+	<zone name="dimension_gap_28" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-115249" Y="-174537" />
+		<node X="-114349" Y="-174544" />
+		<node X="-114353" Y="-172987" />
+		<node X="-115247" Y="-172981" />
+	</zone>
+	<!-- ssqteleport1_1612_61 -->
+	<zone name="dimension_gap_30" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-118017" Y="-178148" />
+		<node X="-117229" Y="-178148" />
+		<node X="-117224" Y="-177360" />
+		<node X="-118012" Y="-177360" />
+	</zone>
+	<!-- ssqteleport1_1612_62 -->
+	<zone name="dimension_gap_31" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-118897" Y="-178146" />
+		<node X="-118119" Y="-178146" />
+		<node X="-118114" Y="-177362" />
+		<node X="-118892" Y="-177362" />
+	</zone>
+	<!-- ssqteleport1_1612_63 -->
+	<zone name="dimension_gap_32" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-119691" Y="-180019" />
+		<node X="-118904" Y="-180023" />
+		<node X="-118904" Y="-179245" />
+		<node X="-119691" Y="-179241" />
+	</zone>
+	<!-- ssqteleport1_1612_64 -->
+	<zone name="dimension_gap_33" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-120573" Y="-180029" />
+		<node X="-119786" Y="-180025" />
+		<node X="-119786" Y="-179239" />
+		<node X="-120573" Y="-179243" />
+	</zone>
+	<!-- ssqteleport1_1612_65 -->
+	<zone name="dimension_gap_34" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-117107" Y="-179126" />
+		<node X="-115553" Y="-179122" />
+		<node X="-115548" Y="-178250" />
+		<node X="-117103" Y="-178255" />
+	</zone>
+	<!-- ssqteleport1_1612_66 -->
+	<zone name="dimension_gap_35" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-118779" Y="-180077" />
+		<node X="-117228" Y="-180073" />
+		<node X="-117228" Y="-179184" />
+		<node X="-118779" Y="-179188" />
+	</zone>
+	<!-- ssqteleport1_1612_67 -->
+	<zone name="dimension_gap_36" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-120566" Y="-178186" />
+		<node X="-119017" Y="-178186" />
+		<node X="-119022" Y="-177315" />
+		<node X="-120571" Y="-177315" />
+	</zone>
+	<!-- ssqteleport1_1612_68 -->
+	<zone name="dimension_gap_37" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-118783" Y="-179123" />
+		<node X="-117234" Y="-179123" />
+		<node X="-117229" Y="-178241" />
+		<node X="-118778" Y="-178241" />
+	</zone>
+	<!-- ssqteleport1_mb1612_69 -->
+	<zone name="dimension_gap_38" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-120458" Y="-179128" />
+		<node X="-118904" Y="-179128" />
+		<node X="-118914" Y="-178239" />
+		<node X="-120469" Y="-178239" />
+	</zone>
+	<!-- ssqteleport1_1612_71 -->
+	<zone name="dimension_gap_40" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-118016" Y="-180965" />
+		<node X="-117227" Y="-180969" />
+		<node X="-117227" Y="-180186" />
+		<node X="-118016" Y="-180182" />
+	</zone>
+	<!-- ssqteleport1_1612_72 -->
+	<zone name="dimension_gap_41" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-118901" Y="-180972" />
+		<node X="-118117" Y="-180972" />
+		<node X="-118108" Y="-180180" />
+		<node X="-118901" Y="-180180" />
+	</zone>
+	<!-- ssqteleport1_1612_73 -->
+	<zone name="dimension_gap_42" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-119686" Y="-182850" />
+		<node X="-118907" Y="-182850" />
+		<node X="-118907" Y="-182069" />
+		<node X="-119686" Y="-182069" />
+	</zone>
+	<!-- ssqteleport1_1612_74 -->
+	<zone name="dimension_gap_43" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-120571" Y="-182844" />
+		<node X="-119783" Y="-182848" />
+		<node X="-119788" Y="-182067" />
+		<node X="-120576" Y="-182062" />
+	</zone>
+	<!-- ssqteleport1_1612_75 -->
+	<zone name="dimension_gap_44" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-117116" Y="-181946" />
+		<node X="-115552" Y="-181946" />
+		<node X="-115542" Y="-181059" />
+		<node X="-117106" Y="-181059" />
+	</zone>
+	<!-- ssqteleport1_1612_76 -->
+	<zone name="dimension_gap_45" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-118780" Y="-182914" />
+		<node X="-117231" Y="-182909" />
+		<node X="-117226" Y="-182013" />
+		<node X="-118775" Y="-182018" />
+	</zone>
+	<!-- ssqteleport1_1612_77 -->
+	<zone name="dimension_gap_46" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-120565" Y="-181031" />
+		<node X="-119021" Y="-181031" />
+		<node X="-119026" Y="-180134" />
+		<node X="-120570" Y="-180134" />
+	</zone>
+	<!-- ssqteleport1_1612_78 -->
+	<zone name="dimension_gap_47" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-118782" Y="-181947" />
+		<node X="-117223" Y="-181947" />
+		<node X="-117223" Y="-181060" />
+		<node X="-118782" Y="-181060" />
+	</zone>
+	<!-- ssqteleport1_mb1612_79 -->
+	<zone name="dimension_gap_48" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-120458" Y="-181940" />
+		<node X="-118899" Y="-181940" />
+		<node X="-118899" Y="-181063" />
+		<node X="-120448" Y="-181058" />
+	</zone>
+	<!-- ssqteleport1_1612_81 -->
+	<zone name="ssqteleport1_1612_81m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-116118" Y="-184769" />
+		<node X="-115334" Y="-184769" />
+		<node X="-115328" Y="-183986" />
+		<node X="-116112" Y="-183986" />
+	</zone>
+	<!-- ssqteleport1_1612_82 -->
+	<zone name="ssqteleport1_1612_82m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-116121" Y="-185652" />
+		<node X="-115337" Y="-185658" />
+		<node X="-115332" Y="-184875" />
+		<node X="-116115" Y="-184869" />
+	</zone>
+	<!-- ssqteleport1_1612_83 -->
+	<zone name="ssqteleport1_1612_83m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-114239" Y="-186443" />
+		<node X="-113455" Y="-186443" />
+		<node X="-113449" Y="-185654" />
+		<node X="-114239" Y="-185654" />
+	</zone>
+	<!-- ssqteleport1_1612_84 -->
+	<zone name="ssqteleport1_1612_84m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-114239" Y="-187326" />
+		<node X="-113455" Y="-187326" />
+		<node X="-113449" Y="-186543" />
+		<node X="-114233" Y="-186537" />
+	</zone>
+	<!-- ssqteleport1_1612_85 -->
+	<zone name="ssqteleport1_1612_85m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-115253" Y="-183858" />
+		<node X="-114352" Y="-183858" />
+		<node X="-114349" Y="-182312" />
+		<node X="-115250" Y="-182312" />
+	</zone>
+	<!-- ssqteleport1_1612_86 -->
+	<zone name="ssqteleport1_1612_86m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-114265" Y="-185530" />
+		<node X="-113405" Y="-185530" />
+		<node X="-113412" Y="-183994" />
+		<node X="-114272" Y="-183994" />
+	</zone>
+	<!-- ssqteleport1_1612_87 -->
+	<zone name="ssqteleport1_1612_87m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-116171" Y="-187324" />
+		<node X="-115287" Y="-187324" />
+		<node X="-115290" Y="-185781" />
+		<node X="-116174" Y="-185781" />
+	</zone>
+	<!-- ssqteleport1_1612_88 -->
+	<zone name="ssqteleport1_1612_88m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-115245" Y="-185540" />
+		<node X="-114345" Y="-185540" />
+		<node X="-114342" Y="-183983" />
+		<node X="-115243" Y="-183983" />
+	</zone>
+	<!-- ssqteleport1_mb1612_89 -->
+	<zone name="ssqteleport1_mb1612_89m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-6786" maxZ="-6586">
+		<node X="-115228" Y="-187212" />
+		<node X="-114357" Y="-187212" />
+		<node X="-114360" Y="-185664" />
+		<node X="-115232" Y="-185664" />
+	</zone>
+</list>

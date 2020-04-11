@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/javolution-5.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/mmocore.jar"/>
+	<classpathentry kind="lib" path="lib/netcon-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="lib/reunion-events.jar"/>
+	<classpathentry kind="lib" path="lib/reunion-core.jar"/>
+	<classpathentry kind="lib" path="lib/reunion-engine.jar"/>
+	<classpathentry kind="lib" path="lib/reunion-interface.jar"/>
+	<classpathentry kind="lib" path="lib/reunion-protection.jar"/>
+	<classpathentry kind="lib" path="lib/L2JGeoAbstraction.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

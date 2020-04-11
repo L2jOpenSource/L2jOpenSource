@@ -1,0 +1,401 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Agations -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Agathion Seal Bracelet - Saerom -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="14675" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Charming Cupid -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20212" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Naughty Cupid -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20213" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - White Maneki Neko -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20221" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Black Maneki Neko -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20222" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Brown Maneki Neko -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20223" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - One-Eyed Bat Drove -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20230" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Pegasus -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20236" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Red Sumo Wrestler -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20297" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Blue Sumo Wrestler -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20299" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Great Sumo Match -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20301" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Button-Eyed Bear Doll -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20303" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - God of Fortune -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20307" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Dryad -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20309" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Wonboso -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20310" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Daewoonso -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20312" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Pegasus -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20236" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Yellow-Robed Tojigong -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20245" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Blue-Robed Tojigong -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20246" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Green-Robed Tojigong -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20247" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Bugbear -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20252" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Majo -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20006" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Gold Majo -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20007" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Black Majo -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20008" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Plaipitak -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20012" count="1" />
+	</item>
+
+	<!-- Agathion Summon Bracelet - Collection -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="13543" count="1" />
+	</item>
+
+	<!-- Agathion Summon Bracelet - Boy Teddy Bear -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="13544" count="1" />
+	</item>
+
+	<!-- Agathion Summon Bracelet - Girl Teddy Bear -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="13545" count="1" />
+	</item>
+
+	<!-- Agathion of Love (Event) -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20253" count="1" />
+	</item>
+
+
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20495" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20591" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20654" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20656" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20660" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20662" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20664" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20726" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20732" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20733" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20968" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20775" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20776" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20778" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20779" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20781" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20782" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20783" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20784" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20819" count="1" />
+	</item>
+
+	<!-- Agathion Seal Bracelet - Cheerleader Lana -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="21052" count="1" />
+	</item>
+
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20822" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20824" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20826" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20828" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20830" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20832" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20834" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20836" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20838" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20840" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20985" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20988" count="1" />
+	</item>
+	<!-- Agathions -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20991" count="1" />
+	</item>
+	<!-- Misc -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20939" count="1" />
+	</item>
+
+	<!-- Misc -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="13547" count="1" />
+	</item>
+
+	<!-- Misc -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20029" count="1" />
+	</item>
+	<!-- Misc -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20396" count="1" />
+	</item>
+
+
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20970" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20983" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20984" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="20989" count="1" />
+	</item>
+
+</list>

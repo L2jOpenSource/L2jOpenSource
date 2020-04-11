@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Cloacks -->
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<!-- Knight's Cloak - Heavy Armor exclusive -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="13687" count="1" />
+	</item>
+	<!-- Holy Spirit's Cloak - Heavy Armor exclusive -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="13890" count="1" />
+	</item>
+	<!-- Ancient Cloak - Heavy Armor exclusive -->
+	<item>
+		<ingredient id="40002" count="5000" />
+		<production id="14609" count="1" />
+	</item>
+</list>

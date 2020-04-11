@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event name="Gift of Vitality" active="27 02 2008-28 02 2008" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/eventConfig.xsd">
+	<spawnlist>
+		<add npc="4306" x="87092" y="-141338" z="-1340" heading="46596" /> <!-- Town of Schutgart -->
+		<add npc="4306" x="-13930" y="122017" z="-2989" heading="27931" /> <!-- Town of Gludio -->
+		<add npc="4306" x="17203" y="144949" z="-3024" heading="21749" /> <!-- Town of Dion -->
+		<add npc="4306" x="82766" y="149438" z="-3464" heading="33865" /> <!-- Town of Giran -->
+		<add npc="4306" x="-83154" y="150941" z="-3129" heading="62980" /> <!-- Town of Gludin -->
+		<add npc="4306" x="-84037" y="243194" z="-3728" heading="8992" /> <!-- Talking Island -->
+		<add npc="4306" x="45402" y="48355" z="-3056" heading="49153" /> <!-- Elven Village -->
+		<add npc="4306" x="12081" y="16545" z="-4584" heading="65062" /> <!-- Dark Elf Village -->
+		<add npc="4306" x="82286" y="53291" z="-1488" heading="15250" /> <!-- Town of Oren -->
+		<add npc="4306" x="147005" y="25930" z="-2013" heading="52789" /> <!-- Town of Aden -->
+		<add npc="4306" x="116898" y="77261" z="-2694" heading="44928" /> <!-- Hunters Village -->
+		<add npc="4306" x="-119690" y="44583" z="360" heading="29289" /> <!-- Kamael Village -->
+		<add npc="4306" x="111170" y="221088" z="-3543" heading="2714" /> <!-- Town of Heine -->
+		<add npc="4306" x="-44987" y="-113509" z="-199" heading="40959" /> <!-- Orc Village -->
+		<add npc="4306" x="115587" y="-177910" z="-907" heading="33346" /> <!-- Dwarven Village -->
+		<add npc="4306" x="148096" y="-55466" z="-2728" heading="40541" /> <!-- Town of Goddard -->
+		<add npc="4306" x="43521" y="-47542" z="-792" heading="31655" /> <!-- Rune Township -->
+	</spawnlist>
+	<messages>
+		<add type="onEnd" text="Gift of Vitality: Event end!" />
+		<add type="onEnter" text="Gift of Vitality: Event ongoing!" />
+	</messages>
+</event>

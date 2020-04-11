@@ -1,0 +1,1483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="60100" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60100"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60101" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60101"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60102" name="Wedding Manager?" title="L2Mythras">
+	<set name="displayId" value="60102"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60103" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60103"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60104" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60104"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60105" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60105"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60106" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60106"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60107" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60107"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60108" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60108"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60109" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60109"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60110" name="BETA-SHOP" title="L2Mythras">
+	<set name="displayId" value="60110"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="79.0"/>
+		<set name="collision_radius" value="22.0"/>
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="BetaNPC" />
+	</npc>
+	<npc id="60200" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60200"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60201" name="Teon Manager?" title="L2Mythras">
+	<set name="displayId" value="60201"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60202" name="Lorelay?" title="L2Mythras">
+	<set name="displayId" value="60202"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60203" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60203"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60204" name="Bianca Gatekeeper?" title="L2Mythras">
+	<set name="displayId" value="60204"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60205" name="Symbol Maker Manager?" title="L2Mythras">
+	<set name="displayId" value="60205"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60206" name="????????" title="L2Mythras">
+	<set name="displayId" value="60206"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="43.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60207" name="Warehouse Manager?" title="L2Mythras">
+	<set name="displayId" value="60207"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60208" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60208"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60209" name="Blacksmith Manager" title="L2Mythras">
+	<set name="displayId" value="60209"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60210" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60210"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60211" name="Hellbound Manager?" title="L2Mythras">
+	<set name="displayId" value="60211"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	<npc id="60212" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60212"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+		<npc id="60213" name="Kadar Delevel Manager?" title="L2Mythras">
+	<set name="displayId" value="60213"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+		<npc id="60214" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60214"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+		<npc id="60215" name="Olympiad Manager?" title="L2Mythras">
+	<set name="displayId" value="60215"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+		<npc id="60216" name="Raid boss Info Manager?" title="L2Mythras">
+	<set name="displayId" value="60216"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+		<npc id="60217" name="Buffer Manager?" title="L2Mythras">
+	<set name="displayId" value="60217"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+		<npc id="60218" name="afdfd Manager" title="L2Mythras">
+	<set name="displayId" value="60218"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+		<npc id="60219" name="Achivement manager?" title="L2Mythras">
+	<set name="displayId" value="60219"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+			<npc id="60300" name="afdd Manager" title="L2Mythras">
+	<set name="displayId" value="60300"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+			<npc id="60301" name="Actionar Clan hall?" title="L2Mythras">
+	<set name="displayId" value="60301"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+			<npc id="60302" name="Scorillo?" title="L2Mythras">
+	<set name="displayId" value="60302"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+			<npc id="60303" name="afdd Manager" title="L2Mythras">
+	<set name="displayId" value="60303"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+			<npc id="60304" name="afdd Manager" title="L2Mythras">
+	<set name="displayId" value="60304"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+			<npc id="60305" name="Siege Manager?" title="L2Mythras">
+	<set name="displayId" value="60305"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+			<npc id="60306" name="afdd Manager" title="L2Mythras">
+	<set name="displayId" value="60306"/>
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4234.063" />
+		<set name="baseHpRate" value="4" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="1613" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="511" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1846.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2462" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="630" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="60" />
+		<set name="collision_height" value="26.0" />
+		<set name="collision_radius" value="12.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="type" value="Merchant" />
+        <ai_params>
+            <set name="showBoard" value="_bbsfile:smallNpcs/gmshop" />
+        </ai_params>
+	</npc>
+	</list>

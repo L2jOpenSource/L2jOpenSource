@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- kadif02_1423_01_townnpc -->
+	<spawn zone="kadif02_1423_01_townnpcm1">
+		<npc id="32736" x="-180232" y="186256" z="-10608" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Ermian -->
+		<npc id="32773" x="-180354" y="186274" z="-10584" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Jakan -->
+		<npc id="32774" x="-180090" y="186277" z="-10584" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Elmina -->
+		<npc id="32775" x="-180395" y="186180" z="-10576" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32776" x="-180298" y="186173" z="-10592" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32775" x="-180249" y="186380" z="-10592" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32776" x="-180201" y="186216" z="-10608" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32775" x="-180057" y="186411" z="-10568" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32776" x="-180383" y="186436" z="-10568" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32775" x="-180397" y="186353" z="-10576" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32776" x="-180195" y="186307" z="-10608" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32775" x="-180234" y="186114" z="-10584" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32776" x="-180156" y="186280" z="-10600" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32775" x="-180105" y="186193" z="-10584" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32776" x="-180214" y="186159" z="-10592" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32775" x="-180162" y="186440" z="-10576" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32776" x="-180326" y="186350" z="-10584" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32776" x="-180158" y="186177" z="-10592" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32776" x="-180243" y="186487" z="-10568" heading="11632" respawnDelay="120" respawnRandom="30" />	<!-- Gracian Soldier -->
+		<npc id="32739" x="-174654" y="184277" z="-15408" heading="0" respawnDelay="120" respawnRandom="30" />	<!-- Bomonar -->
+	</spawn>
+	<!-- kadif02_1423_01 -->
+	<spawn zone="kadif02_1423_01m1">
+		<npc id="22750" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32769" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_03 -->
+	<spawn zone="kadif02_1423_03m1">
+		<npc id="22750" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32770" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_05 -->
+	<spawn zone="kadif02_1423_05m1">
+		<npc id="22750" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32771" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_07 -->
+	<spawn zone="kadif02_1423_07m1">
+		<npc id="22750" count="6" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="5" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="4" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32770" count="3" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+		<npc id="32738" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Injured Soldier -->
+	</spawn>
+	<!-- kadif02_1423_09 -->
+	<spawn zone="kadif02_1423_09m1">
+		<npc id="22750" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="32772" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_11 -->
+	<spawn zone="kadif02_1423_11m1">
+		<npc id="22750" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32769" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_13 -->
+	<spawn zone="kadif02_1423_13m1">
+		<npc id="22750" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32770" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_15 -->
+	<spawn zone="kadif02_1423_15m1">
+		<npc id="22750" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32771" count="3" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_17 -->
+	<spawn zone="kadif02_1423_17m1">
+		<npc id="22750" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32772" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+		<npc id="32738" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Injured Soldier -->
+	</spawn>
+	<!-- kadif02_1423_19 -->
+	<spawn zone="kadif02_1423_19m1">
+		<npc id="22750" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32769" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+		<npc id="32738" count="3" respawnDelay="43200" respawnRandom="21600" /> <!-- Injured Soldier -->
+	</spawn>
+	<!-- kadif02_1423_21 -->
+	<spawn zone="kadif02_1423_21m1">
+		<npc id="22750" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32770" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_23 -->
+	<spawn zone="kadif02_1423_23m1">
+		<npc id="22750" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32771" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_25 -->
+	<spawn zone="kadif02_1423_25m1">
+		<npc id="22750" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Bgurent -->
+		<npc id="22751" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Brakian -->
+		<npc id="22752" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Groikan -->
+		<npc id="22753" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Treykan -->
+		<npc id="32772" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_51 -->
+	<spawn zone="kadif02_1423_51m1">
+		<npc id="22757" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32769" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+		<npc id="32738" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Injured Soldier -->
+	</spawn>
+	<!-- kadif02_1423_53 -->
+	<spawn zone="kadif02_1423_53m1">
+		<npc id="22757" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32771" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_55 -->
+	<spawn zone="kadif02_1423_55m1">
+		<npc id="22757" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32772" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_57 -->
+	<spawn zone="kadif02_1423_57m1">
+		<npc id="22757" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32769" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_59 -->
+	<spawn zone="kadif02_1423_59m1">
+		<npc id="22757" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32770" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_61 -->
+	<spawn zone="kadif02_1423_61m1">
+		<npc id="22757" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32769" count="3" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_63 -->
+	<spawn zone="kadif02_1423_63m1">
+		<npc id="22757" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32772" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+		<npc id="32738" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Injured Soldier -->
+	</spawn>
+	<!-- kadif02_1423_65 -->
+	<spawn zone="kadif02_1423_65m1">
+		<npc id="22757" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32771" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+		<npc id="32738" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Injured Soldier -->
+	</spawn>
+	<!-- kadif02_1423_67 -->
+	<spawn zone="kadif02_1423_67m1">
+		<npc id="22757" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32770" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_69 -->
+	<spawn zone="kadif02_1423_69m1">
+		<npc id="22757" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32771" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_71 -->
+	<spawn zone="kadif02_1423_71m1">
+		<npc id="22757" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32769" count="2" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+	</spawn>
+	<!-- kadif02_1423_73 -->
+	<spawn zone="kadif02_1423_73m1">
+		<npc id="22757" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Elite Turtlelian -->
+		<npc id="22758" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Krajian -->
+		<npc id="22759" count="3" respawnDelay="120" respawnRandom="30" /> <!-- Elite Tardyon -->
+		<npc id="32772" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Gracian Soldier's Corpse -->
+		<npc id="32738" count="1" respawnDelay="43200" respawnRandom="21600" /> <!-- Injured Soldier -->
+	</spawn>
+</list>

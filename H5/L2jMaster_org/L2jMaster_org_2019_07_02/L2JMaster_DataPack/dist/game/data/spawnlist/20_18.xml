@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- oren09_npc2018_001 -->
+	<spawn zone="oren09_npc2018_00101">
+		<npc id="30600" x="12111" y="16686" z="-4582" heading="63240" respawnDelay="60" /> <!-- Newbie Guide -->
+	</spawn>
+	<!-- oren09_npc2018_002 -->
+	<spawn zone="oren09_npc2018_00201">
+		<npc id="30600" x="17024" y="13296" z="-3744" heading="62000" respawnDelay="60" /> <!-- Newbie Guide -->
+	</spawn>
+	<!-- oren09_npc2018_003 -->
+	<spawn zone="oren09_npc2018_00301">
+		<npc id="30141" x="11012" y="14128" z="-4242" heading="14500" respawnDelay="60" /> <!-- Talloth -->
+		<npc id="30359" x="11235" y="14078" z="-4242" heading="24576" respawnDelay="60" /> <!-- Kaitar -->
+		<npc id="30144" x="10344" y="14445" z="-4242" heading="63640" respawnDelay="60" /> <!-- Harne -->
+		<npc id="30360" x="10447" y="14620" z="-4242" heading="46500" respawnDelay="60" /> <!-- Harant -->
+		<npc id="30143" x="11283" y="14226" z="-4242" heading="31000" respawnDelay="60" /> <!-- Trudy -->
+		<npc id="30358" x="10775" y="14190" z="-4242" heading="14500" respawnDelay="60" /> <!-- Thifiell -->
+		<npc id="30305" x="10315" y="14293" z="-4242" heading="4096" respawnDelay="60" /> <!-- Vellior -->
+		<npc id="30145" x="11258" y="14431" z="-4242" heading="46500" respawnDelay="60" /> <!-- Vlasty -->
+	</spawn>
+	<!-- oren09_npc2018_004 -->
+	<spawn zone="oren09_npc2018_00401">
+		<npc id="30350" x="13763" y="17501" z="-4542" heading="30768" respawnDelay="60" /> <!-- Carlon -->
+		<npc id="30140" x="13464" y="17751" z="-4541" heading="47000" respawnDelay="60" /> <!-- Erviante -->
+		<npc id="30139" x="13380" y="17430" z="-4542" heading="14384" respawnDelay="60" /> <!-- Dorankus -->
+	</spawn>
+	<!-- oren09_npc2018_005 -->
+	<spawn zone="oren09_npc2018_00501">
+		<npc id="30136" x="10823" y="18013" z="-4554" heading="61440" respawnDelay="60" /> <!-- Payne -->
+		<npc id="30307" x="10580" y="17574" z="-4554" heading="14000" respawnDelay="60" /> <!-- Karrod -->
+		<npc id="30135" x="10761" y="17970" z="-4554" heading="49152" respawnDelay="60" /> <!-- Iria -->
+	</spawn>
+	<!-- oren09_npc2018_006 -->
+	<spawn zone="oren09_npc2018_00601">
+		<npc id="30137" x="11951" y="15661" z="-4554" heading="28672" respawnDelay="60" /> <!-- Vollodos -->
+		<npc id="30138" x="12009" y="15704" z="-4554" heading="16384" respawnDelay="60" /> <!-- Minaless -->
+	</spawn>
+	<!-- oren09_npc2018_007 -->
+	<spawn zone="oren09_npc2018_00701">
+		<npc id="30347" x="6449" y="19619" z="-3694" heading="30000" respawnDelay="60" /> <!-- Marion -->
+		<npc id="30346" x="6532" y="19903" z="-3693" heading="30000" respawnDelay="60" /> <!-- Kayleen -->
+	</spawn>
+	<!-- oren09_npc2018_008 -->
+	<spawn zone="oren09_npc2018_00801">
+		<npc id="30348" x="17306" y="13592" z="-3724" heading="0" respawnDelay="60" /> <!-- Nelsya -->
+		<npc id="30349" x="17102" y="13002" z="-3743" heading="61440" respawnDelay="60" /> <!-- Jenna -->
+	</spawn>
+	<!-- oren09_npc2018_009 -->
+	<spawn zone="oren09_npc2018_00901">
+		<npc id="30351" x="12328" y="14947" z="-4574" heading="21000" respawnDelay="60" /> <!-- Astaron -->
+	</spawn>
+	<!-- oren09_npc2018_010 -->
+	<spawn zone="oren09_npc2018_01001">
+		<npc id="30134" x="9670" y="15537" z="-4574" heading="5892" respawnDelay="60" /> <!-- Jasmine -->
+	</spawn>
+	<!-- oren09_npc2018_011 -->
+	<spawn zone="oren09_npc2018_01101">
+		<npc id="30352" x="10301" y="18870" z="-4574" heading="55344" respawnDelay="60" /> <!-- Karina -->
+	</spawn>
+	<!-- oren09_npc2018_012 -->
+	<spawn zone="oren09_npc2018_01201">
+		<npc id="30354" x="12311" y="17470" z="-4574" heading="40960" respawnDelay="60" /> <!-- Jewel -->
+	</spawn>
+	<!-- oren09_npc2018_013 -->
+	<spawn zone="oren09_npc2018_01301">
+		<npc id="30353" x="13081" y="18444" z="-4573" heading="46152" respawnDelay="60" /> <!-- Jughead -->
+	</spawn>
+	<!-- oren09_npc2018_014 -->
+	<spawn zone="oren09_npc2018_01401">
+		<npc id="30357" x="7644" y="18048" z="-4377" heading="47052" respawnDelay="60" /> <!-- Kristin -->
+		<npc id="30356" x="7496" y="17388" z="-4377" heading="13384" respawnDelay="60" /> <!-- Altima -->
+	</spawn>
+	<!-- oren09_npc2018_015 -->
+	<spawn zone="oren09_npc2018_01501">
+		<npc id="30355" x="15272" y="16310" z="-4377" heading="47352" respawnDelay="60" /> <!-- Roselyn -->
+		<npc id="30224" x="15120" y="15656" z="-4376" heading="14384" respawnDelay="60" /> <!-- Rayla -->
+	</spawn>
+	<!-- oren09_npc2018_016 -->
+	<spawn zone="oren09_npc2018_01601">
+		<npc id="35231" x="9383" y="17746" z="-4572" heading="46256" respawnDelay="60" /> <!-- Manor Manager -->
+	</spawn>
+	<!-- oren09_npc2018_018 -->
+	<spawn zone="oren09_npc2018_01801">
+		<npc id="31564" x="11648" y="15872" z="-4553" heading="0" respawnDelay="60" /> <!-- Mishini -->
+	</spawn>
+	<!-- oren09_npc2018_019 -->
+	<spawn zone="oren09_npc2018_01901">
+		<npc id="31688" x="9680" y="16672" z="-4572" heading="14000" respawnDelay="60" /> <!-- Grand Olympiad Manager -->
+		<npc id="31770" x="9760" y="16656" z="-4572" heading="14000" respawnDelay="60" /> <!-- Monument of Heroes -->
+	</spawn>
+	<!-- oren09_npc2018_020 -->
+	<spawn zone="oren09_npc2018_02101">
+		<npc id="31777" x="12100" y="16635" z="-4584" heading="63000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren09_npc2018_021 -->
+	<spawn zone="oren09_npc2018_02101">
+		<npc id="31778" x="16864" y="15024" z="-4128" heading="30000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren09_npc2018_022 -->
+	<spawn zone="oren09_npc2018_02201">
+		<npc id="31779" x="6256" y="18768" z="-4029" heading="57000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- oren09_npc2018_wp1 -->
+	<spawn zone="oren09_alhena01">
+		<npc id="31360" x="10976" y="14616" z="-4246" heading="0" respawnDelay="60" /> <!-- Alhena -->
+	</spawn>
+	<!-- oren23_npc2018_wp2 -->
+	<spawn zone="oren09_kreed01">
+		<npc id="31361" x="23436" y="11152" z="-3728" heading="0" respawnDelay="60" /> <!-- Kreed -->
+	</spawn>
+	<!-- oren08_npc2018_s01 -->
+	<spawn zone="oren09_npc2018_s0101">
+		<npc id="30129" x="28384" y="11008" z="-4233" heading="32000" respawnDelay="60" /> <!-- Mitraell -->
+		<npc id="30131" x="28384" y="11056" z="-4233" heading="32000" respawnDelay="60" /> <!-- Newbie Helper -->
+	</spawn>
+	<!-- oren08_npc2018_s02 -->
+	<spawn zone="oren09_npc2018_s0201">
+		<npc id="30132" x="28225" y="12998" z="-3725" heading="16500" respawnDelay="60" /> <!-- Cecktinon -->
+		<npc id="30133" x="27921" y="12991" z="-3728" heading="16500" respawnDelay="60" /> <!-- Kartia -->
+	</spawn>
+	<!-- oren08_npc2018_s03 -->
+	<spawn zone="oren09_npc2018_s0301">
+		<npc id="30130" x="25856" y="10832" z="-3724" heading="24576" respawnDelay="60" /> <!-- Undrias -->
+	</spawn>
+	<!-- oren09_npc2018_premium01 -->
+	<spawn zone="oren09_npc2018_premium01m1">
+		<npc id="32478" x="13436" y="17248" z="-4572" heading="47500" respawnDelay="60" /> <!-- Dimensional Merchant -->
+	</spawn>
+	<!-- oren09_npc2018_tk01 -->
+	<spawn zone="oren09_npc2018_tk01m1">
+		<npc id="30992" x="9656" y="15578" z="-4574" heading="6000" respawnDelay="60" /> <!-- Lottery Ticket Seller -->
+	</spawn>
+	<!-- broadcast_tower_darkelf -->
+	<spawn zone="broadcast_tower_darkelf">
+		<npc id="31031" x="10675" y="16263" z="-4579" heading="16384" respawnDelay="5" /> <!-- Broadcast Tower -->
+	</spawn>
+	<!-- oren07_npc2018_gd001 -->
+	<spawn zone="oren07_npc2018_gd001m1">
+		<npc id="31850" count="1" respawnDelay="60" /> <!-- Blight Treant -->
+	</spawn>
+	<!-- oren07_npc2018_gd002 -->
+	<spawn zone="oren07_npc2018_gd002m1">
+		<npc id="31845" count="1" respawnDelay="60" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren07_npc2018_gd003 -->
+	<spawn zone="oren07_npc2018_gd003m1">
+		<npc id="31850" count="1" respawnDelay="60" /> <!-- Blight Treant -->
+	</spawn>
+	<!-- oren07_npc2018_gd004 -->
+	<spawn zone="oren07_npc2018_gd004m1">
+		<npc id="31845" count="1" respawnDelay="60" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren07_npc2018_gd005 -->
+	<spawn zone="oren07_npc2018_gd005m1">
+		<npc id="31850" count="1" respawnDelay="60" /> <!-- Blight Treant -->
+	</spawn>
+	<!-- oren07_npc2018_gd006 -->
+	<spawn zone="oren07_npc2018_gd006m1">
+		<npc id="31850" count="1" respawnDelay="60" /> <!-- Blight Treant -->
+	</spawn>
+	<!-- oren07_npc2018_gd007 -->
+	<spawn zone="oren07_npc2018_gd007m1">
+		<npc id="31845" count="1" respawnDelay="60" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren07_npc2018_gd008 -->
+	<spawn zone="oren07_npc2018_gd008m1">
+		<npc id="31850" count="1" respawnDelay="60" /> <!-- Blight Treant -->
+	</spawn>
+	<!-- oren07_npc2018_gd009 -->
+	<spawn zone="oren07_npc2018_gd009m1">
+		<npc id="31845" count="1" respawnDelay="60" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren07_npc2018_gd010 -->
+	<spawn zone="oren07_npc2018_gd010m1">
+		<npc id="31845" count="1" respawnDelay="60" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren07_npc2018_gd011 -->
+	<spawn zone="oren07_npc2018_gd011m1">
+		<npc id="31850" count="1" respawnDelay="60" /> <!-- Blight Treant -->
+	</spawn>
+	<!-- oren23_2018_01 -->
+	<spawn zone="oren23_2018_01m1">
+		<npc id="20456" count="3" respawnDelay="15" /> <!-- Ashen Wolf -->
+		<npc id="20003" count="5" respawnDelay="15" /> <!-- Goblin -->
+		<npc id="20004" count="2" respawnDelay="15" /> <!-- Imp -->
+	</spawn>
+	<!-- oren23_2018_02 -->
+	<spawn zone="oren23_2018_02m1">
+		<npc id="20003" count="3" respawnDelay="15" /> <!-- Goblin -->
+		<npc id="20004" count="3" respawnDelay="15" /> <!-- Imp -->
+		<npc id="20005" count="4" respawnDelay="15" /> <!-- Imp Elder -->
+	</spawn>
+	<!-- oren23_2018_03 -->
+	<spawn zone="oren23_2018_03m1">
+		<npc id="20529" count="6" respawnDelay="15" /> <!-- Young Brown Keltir -->
+		<npc id="20536" count="4" respawnDelay="15" /> <!-- Elder Brown Keltir -->
+	</spawn>
+	<!-- oren23_2018_04 -->
+	<spawn zone="oren23_2018_04m1">
+		<npc id="20532" count="3" respawnDelay="15" /> <!-- Brown Keltir -->
+		<npc id="20536" count="5" respawnDelay="15" /> <!-- Elder Brown Keltir -->
+		<npc id="20456" count="2" respawnDelay="15" /> <!-- Ashen Wolf -->
+		<npc id="20003" count="2" respawnDelay="15" /> <!-- Goblin -->
+	</spawn>
+	<!-- oren23_2018_05 -->
+	<spawn zone="oren23_2018_05m1">
+		<npc id="20529" count="6" respawnDelay="15" /> <!-- Young Brown Keltir -->
+		<npc id="20532" count="4" respawnDelay="15" /> <!-- Brown Keltir -->
+		<npc id="20536" count="4" respawnDelay="15" /> <!-- Elder Brown Keltir -->
+	</spawn>
+	<!-- oren23_2018_06 -->
+	<spawn zone="oren23_2018_06m1">
+		<npc id="20456" count="5" respawnDelay="15" /> <!-- Ashen Wolf -->
+		<npc id="20003" count="3" respawnDelay="15" /> <!-- Goblin -->
+		<npc id="20004" count="2" respawnDelay="15" /> <!-- Imp -->
+		<npc id="20005" count="2" respawnDelay="15" /> <!-- Imp Elder -->
+	</spawn>
+	<!-- oren23_2018_07 -->
+	<spawn zone="oren23_2018_07m1">
+		<npc id="20003" count="2" respawnDelay="15" /> <!-- Goblin -->
+		<npc id="20004" count="3" respawnDelay="15" /> <!-- Imp -->
+		<npc id="20005" count="5" respawnDelay="15" /> <!-- Imp Elder -->
+	</spawn>
+	<!-- oren23_2018_08 -->
+	<spawn zone="oren23_2018_08m1">
+		<npc id="20529" count="4" respawnDelay="15" /> <!-- Young Brown Keltir -->
+		<npc id="20532" count="6" respawnDelay="15" /> <!-- Brown Keltir -->
+	</spawn>
+	<!-- oren23_2018_09 -->
+	<spawn zone="oren23_2018_09m1">
+		<npc id="20456" count="3" respawnDelay="15" /> <!-- Ashen Wolf -->
+		<npc id="20004" count="4" respawnDelay="15" /> <!-- Imp -->
+		<npc id="20005" count="4" respawnDelay="15" /> <!-- Imp Elder -->
+	</spawn>
+	<!-- oren23_2018_10 -->
+	<spawn zone="oren23_2018_10m1">
+		<npc id="20456" count="3" respawnDelay="15" /> <!-- Ashen Wolf -->
+		<npc id="20003" count="4" respawnDelay="15" /> <!-- Goblin -->
+		<npc id="20004" count="3" respawnDelay="15" /> <!-- Imp -->
+		<npc id="20005" count="2" respawnDelay="15" /> <!-- Imp Elder -->
+	</spawn>
+	<!-- oren23_2018_14 -->
+	<spawn zone="oren23_2018_14m1">
+		<npc id="20004" count="2" respawnDelay="15" /> <!-- Imp -->
+		<npc id="20005" count="1" respawnDelay="15" /> <!-- Imp Elder -->
+	</spawn>
+	<!-- oren23_2018_15s -->
+	<spawn zone="oren23_2018_15sm1">
+		<npc id="20529" count="5" respawnDelay="15" /> <!-- Young Brown Keltir -->
+		<npc id="20532" count="3" respawnDelay="15" /> <!-- Brown Keltir -->
+	</spawn>
+	<!-- oren23_2018_16s -->
+	<spawn zone="oren23_2018_16sm1">
+		<npc id="20529" count="5" respawnDelay="15" /> <!-- Young Brown Keltir -->
+		<npc id="20532" count="3" respawnDelay="15" /> <!-- Brown Keltir -->
+	</spawn>
+	<!-- oren23_qm2018_00 -->
+	<spawn zone="oren23_qm2018_00m1">
+		<npc id="18342" count="15" respawnDelay="15" /> <!-- Gremlin -->
+	</spawn>
+</list>

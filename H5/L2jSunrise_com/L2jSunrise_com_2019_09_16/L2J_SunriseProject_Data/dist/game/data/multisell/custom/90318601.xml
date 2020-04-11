@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>31860</npc> <!-- Buzz he Cat -->
+	</npcs>
+	<!-- Chrono Cithara -->
+	<item>
+		<ingredient id="6391" count="100" />
+		<production id="4202" count="1" />
+	</item>
+	<!-- Chrono Unitus-->
+	<item>
+		<ingredient id="6391" count="150" />
+		<production id="5133" count="1" />
+	</item>
+	<!-- Chrono Campana -->
+	<item>
+		<ingredient id="6391" count="200" />
+		<production id="5817" count="1" />
+	</item>
+		<!-- Chrono Darubka -->
+	<item>
+		<ingredient id="6391" count="250" />
+		<production id="7058" count="1" />
+	</item>
+		<!-- Chrono Marakas -->
+	<item>
+		<ingredient id="6391" count="300" />
+		<production id="8350" count="1" />
+	</item>
+</list>

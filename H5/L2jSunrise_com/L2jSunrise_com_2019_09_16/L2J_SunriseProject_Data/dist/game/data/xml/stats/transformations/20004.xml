@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/transformations.xsd">
+	<transform id="20004" type="RIDING_MODE" can_swim="0" normal_attackable="0">
+		<Male>
+			<actions>12 13 24 25 33</actions>
+			<skills>
+				<skill id="839" level="1" /> <!-- Dismount -->
+				<skill id="5437" level="2" /> <!-- Dissonance -->
+			</skills>
+		</Male>
+		<Female>
+			<actions>12 13 24 25 33</actions>
+			<skills>
+				<skill id="839" level="1" /> <!-- Dismount -->
+				<skill id="5437" level="2" /> <!-- Dissonance -->
+			</skills>
+		</Female>
+	</transform>
+</list>

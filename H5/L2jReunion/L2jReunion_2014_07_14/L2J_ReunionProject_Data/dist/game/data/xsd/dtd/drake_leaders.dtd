@@ -1,0 +1,14 @@
+<!ELEMENT list (drakeLeader)* >
+<!ELEMENT drakeLeader (pathRoute)* >
+<!ELEMENT pathRoute EMPTY >
+
+<!ATTLIST drakeLeader
+	id CDATA #REQUIRED
+>
+
+<!ATTLIST pathRoute
+	position CDATA #REQUIRED
+	locX CDATA #REQUIRED
+	locY CDATA #REQUIRED
+	locZ CDATA #REQUIRED
+>

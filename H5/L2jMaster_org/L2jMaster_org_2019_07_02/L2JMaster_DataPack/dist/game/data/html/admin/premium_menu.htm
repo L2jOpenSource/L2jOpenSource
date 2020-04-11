@@ -1,0 +1,23 @@
+<html><title>L2JServer</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Home" action="bypass admin_admin" width=45 height=21 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td width=180><center>Premium Menu</center></td>
+<td width=45><button value="Return" action="bypass -h admin_admin6" width=45 height=21 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table>
+<br>
+<font color="LEVEL">Please enter the account name</font><br>
+<edit var="acc_name" width=200>
+<br>
+<br><button value="Add 1 Mounth" action="bypass -h admin_premium_add1 $acc_name" width=200 height=30 back="L2UI_CT1.OlympiadWnd_DF_Reward_Down" fore="L2UI_CT1.OlympiadWnd_DF_Reward">
+<button value="Add 2 Mounth" action="bypass -h admin_premium_add2 $acc_name" width=200 height=30 back="L2UI_CT1.OlympiadWnd_DF_Reward_Down" fore="L2UI_CT1.OlympiadWnd_DF_Reward">
+<button value="Add 3 Mounth" action="bypass -h admin_premium_add3 $acc_name" width=200 height=30 back="L2UI_CT1.OlympiadWnd_DF_Reward_Down" fore="L2UI_CT1.OlympiadWnd_DF_Reward">
+<br>
+<button value="View Premium Status" action="bypass -h admin_premium_info $acc_name" width=200 height=30 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Remove Premium Status" action="bypass -h admin_premium_remove $acc_name" width=200 height=30  back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<br>
+<font color="FF0000">Players can use the command .premium</font>
+</center>
+</body></html>

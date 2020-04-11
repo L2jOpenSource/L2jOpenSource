@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- schttgart09_2512_02 -->
+	<spawn zone="schttgart09_2512_02m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_01 -->      
+	<spawn zone="schttgart09_2512_01m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_05 -->      
+	<spawn zone="schttgart09_2512_05m1">
+		<npc id="21130" count="3" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="3" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_04 -->      
+	<spawn zone="schttgart09_2512_04m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_03 -->      
+	<spawn zone="schttgart09_2512_03m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_06 -->      
+	<spawn zone="schttgart09_2512_06m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_07 -->      
+	<spawn zone="schttgart09_2512_07m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_08 -->      
+	<spawn zone="schttgart09_2512_08m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_09 -->      
+	<spawn zone="schttgart09_2512_09m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_10 -->      
+	<spawn zone="schttgart09_2512_10m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_11 -->      
+	<spawn zone="schttgart09_2512_11m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_12 -->      
+	<spawn zone="schttgart09_2512_12m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schttgart09_2512_13 -->      
+	<spawn zone="schttgart09_2512_13m1">
+		<npc id="21130" count="2" respawnDelay="20" /> <!-- Northern Goblin Leader -->
+		<npc id="21131" count="2" respawnDelay="20" /> <!-- Enchanted Spine Golem -->
+	</spawn>
+	<!-- schuttgart06_2512_03 -->
+	<spawn zone="schuttgart06_2512_03m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_04 -->
+	<spawn zone="schuttgart06_2512_04m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_05 -->
+	<spawn zone="schuttgart06_2512_05m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_06 -->
+	<spawn zone="schuttgart06_2512_06m1">
+		<npc id="22678" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="22690" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_07 -->
+	<spawn zone="schuttgart06_2512_07m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_08 -->
+	<spawn zone="schuttgart06_2512_08m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_09 -->
+	<spawn zone="schuttgart06_2512_09m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_10 -->
+	<spawn zone="schuttgart06_2512_10m1">
+		<npc id="22678" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+		<npc id="32651" count="1" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+		<npc id="22688" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Evil Spirits of the Mine -->
+		<npc id="22690" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+	</spawn>
+	<!-- schuttgart06_2512_12 -->
+	<spawn zone="schuttgart06_2512_12m1">
+		<npc id="22678" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="22690" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_95 -->
+	<spawn zone="schuttgart06_2512_95m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_13 -->
+	<spawn zone="schuttgart06_2512_13m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_14 -->
+	<spawn zone="schuttgart06_2512_14m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_15 -->
+	<spawn zone="schuttgart06_2512_15m1">
+		<npc id="22678" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="22690" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_16 -->
+	<spawn zone="schuttgart06_2512_16m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_17 -->
+	<spawn zone="schuttgart06_2512_17m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_18 -->
+	<spawn zone="schuttgart06_2512_18m1">
+		<npc id="22678" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="22690" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_19 -->
+	<spawn zone="schuttgart06_2512_19m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_20 -->
+	<spawn zone="schuttgart06_2512_20m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_21 -->
+	<spawn zone="schuttgart06_2512_21m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_22 -->
+	<spawn zone="schuttgart06_2512_22m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_23 -->
+	<spawn zone="schuttgart06_2512_23m1">
+		<npc id="22679" count="3" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="3" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_24 -->
+	<spawn zone="schuttgart06_2512_24m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_25 -->
+	<spawn zone="schuttgart06_2512_25m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_26 -->
+	<spawn zone="schuttgart06_2512_26m1">
+		<npc id="22679" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+		<npc id="32651" count="1" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_28 -->
+	<spawn zone="schuttgart06_2512_28m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_29 -->
+	<spawn zone="schuttgart06_2512_29m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_30 -->
+	<spawn zone="schuttgart06_2512_30m1">
+		<npc id="22679" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+		<npc id="32651" count="1" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_31 -->
+	<spawn zone="schuttgart06_2512_31m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_32 -->
+	<spawn zone="schuttgart06_2512_32m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_33 -->
+	<spawn zone="schuttgart06_2512_33m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_34 -->
+	<spawn zone="schuttgart06_2512_34m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_35 -->
+	<spawn zone="schuttgart06_2512_35m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_36 -->
+	<spawn zone="schuttgart06_2512_36m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_37 -->
+	<spawn zone="schuttgart06_2512_37m1">
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+		<npc id="22688" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Evil Spirits of the Mine -->
+	</spawn>
+	<!-- schuttgart06_2512_38 -->
+	<spawn zone="schuttgart06_2512_38m1">
+		<npc id="22679" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+		<npc id="32651" count="1" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+		<npc id="22688" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Evil Spirits of the Mine -->
+	</spawn>
+	<!-- schuttgart06_2512_39 -->
+	<spawn zone="schuttgart06_2512_39m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22690" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+	</spawn>
+	<!-- schuttgart06_2512_40 -->
+	<spawn zone="schuttgart06_2512_40m1">
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="22690" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+	</spawn>
+	<!-- schuttgart06_2512_41 -->
+	<spawn zone="schuttgart06_2512_41m1">
+		<npc id="22690" count="3" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+	</spawn>
+	<!-- schuttgart06_2512_42 -->
+	<spawn zone="schuttgart06_2512_42m1">
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="22690" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+	</spawn>
+	<!-- schuttgart06_2512_43 -->
+	<spawn zone="schuttgart06_2512_43m1">
+		<npc id="22690" count="3" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+	</spawn>
+	<!-- schuttgart06_2512_45 -->
+	<spawn zone="schuttgart06_2512_45m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_46 -->
+	<spawn zone="schuttgart06_2512_46m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_47 -->
+	<spawn zone="schuttgart06_2512_47m1">
+		<npc id="22678" count="3" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="22690" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_48 -->
+	<spawn zone="schuttgart06_2512_48m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_49 -->
+	<spawn zone="schuttgart06_2512_49m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_50 -->
+	<spawn zone="schuttgart06_2512_50m1">
+		<npc id="22678" count="3" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="22690" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_51 -->
+	<spawn zone="schuttgart06_2512_51m1">
+		<npc id="22678" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Summoner -->
+		<npc id="22680" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Worker -->
+	</spawn>
+	<!-- schuttgart06_2512_52 -->
+	<spawn zone="schuttgart06_2512_52m1">
+		<npc id="22679" count="3" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="3" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_53 -->
+	<spawn zone="schuttgart06_2512_53m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_54 -->
+	<spawn zone="schuttgart06_2512_54m1">
+		<npc id="22679" count="3" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_55 -->
+	<spawn zone="schuttgart06_2512_55m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_56 -->
+	<spawn zone="schuttgart06_2512_56m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_57 -->
+	<spawn zone="schuttgart06_2512_57m1">
+		<npc id="22679" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+		<npc id="32651" count="1" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_58 -->
+	<spawn zone="schuttgart06_2512_58m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_59 -->
+	<spawn zone="schuttgart06_2512_59m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_60 -->
+	<spawn zone="schuttgart06_2512_60m1">
+		<npc id="22679" count="3" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_61 -->
+	<spawn zone="schuttgart06_2512_61m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_62 -->
+	<spawn zone="schuttgart06_2512_62m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+		<npc id="22690" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+	</spawn>
+	<!-- schuttgart06_2512_63 -->
+	<spawn zone="schuttgart06_2512_63m1">
+		<npc id="22679" count="3" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="2" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="32651" count="2" respawnDelay="240" respawnRandom="60" /> <!-- Grave Robber Warrior -->
+		<npc id="22688" count="3" respawnDelay="35" respawnRandom="5" /> <!-- Evil Spirits of the Mine -->
+	</spawn>
+	<!-- schuttgart06_2512_64 -->
+	<spawn zone="schuttgart06_2512_64m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22690" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+	</spawn>
+	<!-- schuttgart06_2512_65 -->
+	<spawn zone="schuttgart06_2512_65m1">
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="22690" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+	</spawn>
+	<!-- schuttgart06_2512_66 -->
+	<spawn zone="schuttgart06_2512_66m1">
+		<npc id="22679" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+		<npc id="22690" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+	</spawn>
+	<!-- schuttgart06_2512_67 -->
+	<spawn zone="schuttgart06_2512_67m1">
+		<npc id="22689" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="22690" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+	</spawn>
+	<!-- schuttgart06_2512_68 -->
+	<spawn zone="schuttgart06_2512_68m1">
+		<npc id="22689" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Mine Bug -->
+		<npc id="22690" count="5" respawnDelay="35" respawnRandom="5" /> <!-- Earth Wyrm's Descendant -->
+		<npc id="22679" count="3" respawnDelay="45" respawnRandom="5" /> <!-- Grave Robber Magician -->
+		<npc id="22681" count="1" respawnDelay="35" respawnRandom="5" /> <!-- Grave Robber Warrior -->
+	</spawn>
+	<!-- schuttgart06_2512_101 -->
+	<spawn zone="schuttgart06_2512_101m1">
+		<npc id="32653" x="172201" y="-173495" z="3480" heading="0" respawnDelay="0" /> <!-- Krun -->
+	</spawn>
+	<!-- schuttgart06_2512_102 -->
+	<spawn zone="schuttgart06_2512_102m1">
+		<npc id="32652" x="173147" y="-173762" z="3496" heading="-14264" respawnDelay="0" /> <!-- Teleport Crystal -->
+	</spawn>
+	<!-- schuttgart06_2512_103 -->
+	<spawn zone="schuttgart06_2512_103m1">
+		<npc id="32654" x="178884" y="-184227" z="-336" heading="0" respawnDelay="0" /> <!-- Teleport Crystal -->
+	</spawn>
+	<!-- schuttgart06_2512_104 -->
+	<spawn zone="schuttgart06_2512_104m1">
+		<npc id="32652" x="179560" y="-182956" z="-251" heading="32404" respawnDelay="0" /> <!-- Teleport Crystal -->
+	</spawn>
+	<!-- schuttgart06_2512_105 -->
+	<spawn zone="schuttgart06_2512_105m1">
+		<npc id="32652" x="181941" y="-174614" z="-3568" heading="0" respawnDelay="0" /> <!-- Teleport Crystal -->
+	</spawn>
+	<!-- schuttgart06_2512_201 -->
+	<spawn zone="schuttgart06_2512_201m1">
+		<npc id="32706" x="174172" y="-175790" z="736" heading="-13112" respawnDelay="0" /> <!-- Lucien's Altar -->
+	</spawn>
+	<!-- schuttgart06_2512_202 -->
+	<spawn zone="schuttgart06_2512_202m1">
+		<npc id="32707" x="176146" y="-180111" z="-2032" heading="-31788" respawnDelay="0" /> <!-- Lucien's Altar -->
+	</spawn>
+	<!-- schuttgart06_2512_203 -->
+	<spawn zone="schuttgart06_2512_203m1">
+		<npc id="32708" x="181753" y="-175390" z="-3568" heading="28076" respawnDelay="0" /> <!-- Lucien's Altar -->
+	</spawn>
+	<!-- schuttgart06_2512_204 -->
+	<spawn zone="schuttgart06_2512_204m1">
+		<npc id="32709" x="174533" y="-173522" z="-232" heading="0" respawnDelay="0" /> <!-- Lucien's Altar -->
+	</spawn>
+	<!-- schuttgart06_2512_205 -->
+	<spawn zone="schuttgart06_2512_205m1">
+		<npc id="32710" x="183992" y="-182779" z="-1656" heading="32440" respawnDelay="0" /> <!-- Lucien's Altar -->
+	</spawn>
+	<!-- schuttgart06_2512_206 -->
+	<spawn zone="schuttgart06_2512_206m1">
+		<npc id="32650" x="173244" y="-182048" z="-1904" heading="0" respawnDelay="0" /> <!-- Kanemika -->
+	</spawn>
+	<!-- schuttgart01_qm2512_01 -->
+	<spawn zone="schuttgart01_qm2512_01m1">
+		<npc id="32650" x="151438" y="-174794" z="-1776" heading="0" respawnDelay="0" /> <!-- Succubus Queen -->
+	</spawn>
+</list>

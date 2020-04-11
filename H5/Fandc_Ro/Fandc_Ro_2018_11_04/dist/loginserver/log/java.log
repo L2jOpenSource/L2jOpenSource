@@ -1,0 +1,8 @@
+[25.08.17 05:28:37:101]  INFO loginserver.Config: Loaded 127 server names
+[25.08.17 05:28:37:399]  INFO loginserver.Config: Loaded whirlpool2 as default crypt.
+[25.08.17 05:28:38:195]  INFO loginserver.Config: Cached 10 KeyPairs for RSA communication
+[25.08.17 05:28:38:223]  INFO loginserver.Config: Stored 20 keys for Blowfish communication
+[25.08.17 05:28:38:243]  INFO loginserver.GameServerManager: Loaded 0 registered GameServer(s).
+[25.08.17 05:28:38:327]  INFO loginserver.AuthServer: Listening for gameservers on 127.0.0.1:9014
+[25.08.17 05:28:38:331]  INFO loginserver.AuthServer: Listening for clients on 127.0.0.1:2106
+[25.08.17 05:28:38:331]  INFO loginserver.AuthServer: Login Server will automatically restart in 7200 seconds!

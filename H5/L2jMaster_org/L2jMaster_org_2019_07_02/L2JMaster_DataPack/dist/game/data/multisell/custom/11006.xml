@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Sword of Damascus [Focus] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4717" count="1"/>
+	</item>
+	<!-- Sword of Damascus [Critical Damage] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4718" count="1"/>
+	</item>
+	<!-- Sword of Damascus [Haste] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4719" count="1"/>
+	</item>
+	<!-- Bow of Peril [Guidance] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4828" count="1"/>
+	</item>
+	<!-- Bow of Peril [Quick Recovery] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4829" count="1"/>
+	</item>
+	<!-- Bow of Peril [Cheap Shot] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4830" count="1"/>
+	</item>
+	<!-- Kris [Evasion] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4777" count="1"/>
+	</item>
+	<!-- Kris [Focus] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4778" count="1"/>
+	</item>
+	<!-- Kris [Back Blow] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4779" count="1"/>
+	</item>
+	<!-- Art of Battle Axe [Health] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4753" count="1"/>
+	</item>
+	<!-- Art of Battle Axe [Rsk. Focus] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4754" count="1"/>
+	</item>
+	<!-- Art of Battle Axe [Haste] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4755" count="1"/>
+	</item>
+	<!-- Sword of Valhalla [Acumen] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="7722" count="1"/>
+	</item>
+	<!-- Sword of Valhalla [Magic Weakness] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="7723" count="1"/>
+	</item>
+	<!-- Sword of Valhalla [Magic Regeneration] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="7724" count="1"/>
+	</item>
+	<!-- Bellion Cestus [Critical Drain] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4804" count="1"/>
+	</item>
+	<!-- Bellion Cestus [Critical Poison] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4805" count="1"/>
+	</item>
+	<!-- Bellion Cestus [Rsk. Haste] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4806" count="1"/>
+	</item>
+	<!-- Samurai Long Sword*Samurai Long Sword -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="2626" count="1"/>
+	</item>
+	<!-- Lance [Anger] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4858" count="1"/>
+	</item>
+	<!-- Lance [Critical Stun] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4859" count="1"/>
+	</item>
+	<!-- Lance [Long Blow] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4860" count="1"/>
+	</item>
+	<!-- Staff of Evil Spirits [Bodily Blessing] -->
+	<item>
+		<ingredient id="57" count="500000000"/>
+		<production id="4901" count="1"/>
+	</item>
+	<!-- Staff of Evil Spirits [Magic Focus] -->
+	<item>
+		<ingredient id="57" count="500000000"/>
+		<production id="4900" count="1"/>
+	</item>
+	<!-- Great Sword [Health] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4723" count="1"/>
+	</item>
+	<!-- Great Sword [Critical Damage] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4724" count="1"/>
+	</item>
+	<!-- Great Sword [Focus] -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="4725" count="1"/>
+	</item>
+</list>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/achievements.xsd">
+	<achievement id="1" name="Champion" description="Gain level 80" reward="9142,5" minLevel="80"/>
+	<achievement id="2" name="Noble" description="Gain noblesse status" reward="9142,10" mustBeNoble="True"/>
+	<achievement id="3" name="Hero" description="Gain hero status" reward="9142,10" mustBeHero="True"/>
+	<achievement id="4" name="Famous" description="Be clan leader of level 8 clan with 100 members" reward="9142,15" minClanLevel="8" minClanMembersCount="100" mustBeClanLeader="True"/>
+	<achievement id="5" name="50PvP" description="You just need to get 50 PvP points." reward="14720,20" minPvPCount="50"/>
+	<achievement id="6" name="100PvP 10PK" description="You just need to get 100PvP and 10PK points." reward="14720,50" minPvPCount="100" minPkCount="10"/>
+	<achievement id="7" name="Dominator" description="Get 1,500 event kills" reward="9142,15" minPvPCount="1500" />
+	<achievement id="8" name="Clan 7, Noble" description="You just need to be noble and have joined lvl 7 clan." reward="14720,75" minClanLevel="7" mustBeNoble="True"/>
+	<achievement id="9" name="Zaishen" description="Gain a +16 weapon" reward="9142,15" minWeaponEnchant="16"/>
+	<achievement id="10" name="Combo" description="You just need to be mage class, be married, have common craft, have 5k CRP and 5k HP." reward="14720,200" mustBeMarried="True" mustBeMageClass="True" hasCommonCraft="True" crpAmmount="5000" maxHP="5000"/>
+	<achievement id="11" name="Bravery" description="Have 3 subclasses" reward="9142,5" minSubclassCount="3"/>
+	<achievement id="12" name="Immortality" description="Kill Antharas" reward="9142,5" mobToHunt="22839"/>
+<!--
+now reward can support fame points...
+Example: reward"-1,5000" (-1 is used for fame id)
+Soon for clan reputation...
+minLevel=""					put minimum level of the player
+minPvPCount=""				put minimum pvp count
+minPkCount=""				put minimum pk count
+minClanLevel=""				put minimum clan level
+mustBeHero=""				put True if player has to be hero
+mustBeNoble=""				put True if player has to be noble
+mustBeClanLeader=""			put True if player has to be clan leader
+mustBeMarried=""			put True if player has to be married
+mustBelordOfCastle=""		put True if has to be lord of a castle
+minWeaponEnchant=""			put minimum weapon enchant level
+minKarmaCount=""			put minimum karma count
+minAdenaCount=""			put minimum adena count (in inventory)
+minClanMembersCount=""		put minimum clan members count
+minSubclassCount=""			put minimim subclasses count
+maxHP=""					put minimum value for maxHP
+maxCP=""					put minimum value for maxMP
+maxMP=""					put minimum value for maxCP
+crpAmmount=""				put minimum Clan Reputation Points value
+itemAmmount=""				put item id and ammount (57,100)
+mustBeAcademyMember=""		put True if player has to be an academy member
+mustBeMageClass=""			put True if player has to be a mage class
+mustBeSummoner=""			put True if player has to be a summoner
+hasCommonCraft=""			put True if player has to have Common Craft
+hasDwarvenCraft=""			put True if player has to have Dwarven Craft
+mobToHunt=""				put Npc Id that needs to be killed
+-->
+</list>

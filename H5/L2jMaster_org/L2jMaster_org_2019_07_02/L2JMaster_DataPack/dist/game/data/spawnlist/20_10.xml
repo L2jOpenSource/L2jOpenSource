@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- ssq12_npc2320_01 -->
+	<spawn zone="ssq12_npc2320_0101">
+		<npc id="31125" x="12944" y="-248480" z="-9577" heading="32768" respawnDelay="60" />	<!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq12_npc2320_03 -->
+	<spawn zone="ssq01_npc1824_0301">
+		<npc id="31507" x="12721" y="-248803" z="-9576" heading="16384" respawnDelay="60" />	<!-- Dimensional Gate Keeper -->
+	</spawn>
+	<!-- ssq12_2320_ssq01 -->
+	<spawn zone="ssq12_2320_ssq01m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq12_2320_ssq02 -->
+	<spawn zone="ssq12_2320_ssq02m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq12_2320_ssq03 -->
+	<spawn zone="ssq12_2320_ssq03m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq12_2320_ssq04 -->
+	<spawn zone="ssq12_2320_ssq04m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21164" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Guardian Spirit of Ancient Holy Ground -->
+		<npc id="21185" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq12_2320_ssq05 -->
+	<spawn zone="ssq12_2320_ssq05m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq12_2320_ssq06 -->
+	<spawn zone="ssq12_2320_ssq06m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21163" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq12_2320_ssq07 -->
+	<spawn zone="ssq12_2320_ssq07m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21164" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Guardian Spirit of Ancient Holy Ground -->
+		<npc id="21185" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq12_2320_ssq08 -->
+	<spawn zone="ssq12_2320_ssq08m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21254" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Guard -->
+		<npc id="21164" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Guardian Spirit of Ancient Holy Ground -->
+		<npc id="21185" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq12_2320_ssq09 -->
+	<spawn zone="ssq12_2320_ssq09m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21164" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Guardian Spirit of Ancient Holy Ground -->
+		<npc id="21186" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq12_2320_ssq10 -->
+	<spawn zone="ssq12_2320_ssq10m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21164" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Guardian Spirit of Ancient Holy Ground -->
+		<npc id="21186" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq12_2320_ssq11 -->
+	<spawn zone="ssq12_2320_ssq11m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21164" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Guardian Spirit of Ancient Holy Ground -->
+		<npc id="21186" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq12_2320_ssq12 -->
+	<spawn zone="ssq12_2320_ssq12m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21164" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Guardian Spirit of Ancient Holy Ground -->
+		<npc id="21186" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq12_2320_ssq13 -->
+	<spawn zone="ssq12_2320_ssq13m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq12_2320_ssq14 -->
+	<spawn zone="ssq12_2320_ssq14m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq12_2320_ssq15 -->
+	<spawn zone="ssq12_2320_ssq15m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq12_2320_ssq16 -->
+	<spawn zone="ssq12_2320_ssq16m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="2" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq12_2320_ssq17 -->
+	<spawn zone="ssq12_2320_ssq17m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+	<!-- ssq12_2320_ssq18 -->
+	<spawn zone="ssq12_2320_ssq18m1">
+		<AIData>
+			<SSQTelPosX>110988</SSQTelPosX>
+			<SSQTelPosY>84538</SSQTelPosY>
+			<SSQTelPosZ>-4808</SSQTelPosZ>
+		</AIData>
+		<npc id="21255" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Tomb Preacher -->
+		<npc id="21165" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Lesser Ancient Warrior -->
+		<npc id="21186" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Lilim Guard Knight -->
+		<npc id="21207" count="1" respawnDelay="122" respawnRandom="40" /> <!-- Nephilim Commander -->
+	</spawn>
+</list>

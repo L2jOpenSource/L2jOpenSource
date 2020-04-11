@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- ssq01_npc1824_02 -->
+	<spawn zone="ssq01_npc1824_0201">
+		<npc id="31122" x="-20208" y="-250800" z="-8161" heading="32768" respawnDelay="60" />	<!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq01_npc1824_03 -->
+	<spawn zone="ssq01_npc1824_0301">
+		<npc id="31499" x="-20420" y="-251080" z="-8064" heading="16384" respawnDelay="60" />	<!-- Dimensional Gate Keeper -->
+	</spawn>
+	<!-- ssq11_2220_ssq02 -->
+	<spawn zone="ssq11_2220_ssq02m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21244" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Archon -->
+		<npc id="21245" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Inquisitor -->
+		<npc id="21176" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq11_2220_ssq03 -->
+	<spawn zone="ssq11_2220_ssq03m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21244" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Archon -->
+		<npc id="21245" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Inquisitor -->
+		<npc id="21176" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq11_2220_ssq04 -->
+	<spawn zone="ssq11_2220_ssq04m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21244" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Archon -->
+		<npc id="21245" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Inquisitor -->
+		<npc id="21176" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq11_2220_ssq05 -->
+	<spawn zone="ssq11_2220_ssq05m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21244" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Archon -->
+		<npc id="21245" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Inquisitor -->
+		<npc id="21176" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq11_2220_ssq06 -->
+	<spawn zone="ssq11_2220_ssq06m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21244" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Archon -->
+		<npc id="21245" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Inquisitor -->
+		<npc id="21176" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq11_2220_ssq07 -->
+	<spawn zone="ssq11_2220_ssq07m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21244" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Archon -->
+		<npc id="21245" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Inquisitor -->
+		<npc id="21176" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq11_2220_ssq08 -->
+	<spawn zone="ssq11_2220_ssq08m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21244" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Archon -->
+		<npc id="21245" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Inquisitor -->
+		<npc id="21176" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq11_2220_ssq09 -->
+	<spawn zone="ssq11_2220_ssq09m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21244" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Archon -->
+		<npc id="21245" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Inquisitor -->
+		<npc id="21176" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq11_2220_ssq10 -->
+	<spawn zone="ssq11_2220_ssq10m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21244" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Archon -->
+		<npc id="21245" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Inquisitor -->
+		<npc id="21176" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq11_2220_ssq11 -->
+	<spawn zone="ssq11_2220_ssq11m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21244" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Archon -->
+		<npc id="21245" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Crypt Inquisitor -->
+		<npc id="21176" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Magus -->
+		<npc id="21197" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Priest -->
+	</spawn>
+	<!-- ssq11_2220_ssq12 -->
+	<spawn zone="ssq11_2220_ssq12m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21246" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Archon -->
+		<npc id="21247" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Inquisitor -->
+		<npc id="21177" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Knight-Errant -->
+		<npc id="21198" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Swordsman -->
+	</spawn>
+	<!-- ssq11_2220_ssq13 -->
+	<spawn zone="ssq11_2220_ssq13m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21246" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Archon -->
+		<npc id="21247" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Inquisitor -->
+		<npc id="21177" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Knight-Errant -->
+		<npc id="21198" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Swordsman -->
+	</spawn>
+	<!-- ssq11_2220_ssq14 -->
+	<spawn zone="ssq11_2220_ssq14m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21246" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Archon -->
+		<npc id="21247" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Inquisitor -->
+		<npc id="21177" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Knight-Errant -->
+		<npc id="21198" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Swordsman -->
+	</spawn>
+	<!-- ssq11_2220_ssq15 -->
+	<spawn zone="ssq11_2220_ssq15m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21246" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Archon -->
+		<npc id="21247" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Inquisitor -->
+		<npc id="21177" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Knight-Errant -->
+		<npc id="21198" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Swordsman -->
+	</spawn>
+	<!-- ssq11_2220_ssq16 -->
+	<spawn zone="ssq11_2220_ssq16m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21246" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Archon -->
+		<npc id="21247" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Inquisitor -->
+		<npc id="21177" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Knight-Errant -->
+		<npc id="21198" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Swordsman -->
+	</spawn>
+	<!-- ssq11_2220_ssq17 -->
+	<spawn zone="ssq11_2220_ssq17m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21246" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Archon -->
+		<npc id="21247" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Inquisitor -->
+		<npc id="21177" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Knight-Errant -->
+		<npc id="21198" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Swordsman -->
+	</spawn>
+	<!-- ssq11_2220_ssq18 -->
+	<spawn zone="ssq11_2220_ssq18m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21246" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Archon -->
+		<npc id="21247" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Inquisitor -->
+		<npc id="21177" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Knight-Errant -->
+		<npc id="21198" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Swordsman -->
+	</spawn>
+	<!-- ssq11_2220_ssq19 -->
+	<spawn zone="ssq11_2220_ssq19m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21246" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Archon -->
+		<npc id="21247" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Inquisitor -->
+		<npc id="21177" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Knight-Errant -->
+		<npc id="21198" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Swordsman -->
+	</spawn>
+	<!-- ssq11_2220_ssq20 -->
+	<spawn zone="ssq11_2220_ssq20m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21246" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Archon -->
+		<npc id="21247" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Tomb Inquisitor -->
+		<npc id="21177" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Knight-Errant -->
+		<npc id="21198" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Swordsman -->
+	</spawn>
+	<!-- ssq11_2220_ssq21 -->
+	<spawn zone="ssq11_2220_ssq21m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21154" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Hell Keeper Medusa -->
+		<npc id="21155" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Conjurer -->
+		<npc id="21179" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq11_2220_ssq23 -->
+	<spawn zone="ssq11_2220_ssq23m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21154" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Hell Keeper Medusa -->
+		<npc id="21155" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Conjurer -->
+		<npc id="21179" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq11_2220_ssq24 -->
+	<spawn zone="ssq11_2220_ssq24m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21154" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Hell Keeper Medusa -->
+		<npc id="21155" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Conjurer -->
+		<npc id="21179" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq11_2220_ssq25 -->
+	<spawn zone="ssq11_2220_ssq25m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21154" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Hell Keeper Medusa -->
+		<npc id="21155" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Conjurer -->
+		<npc id="21179" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq11_2220_ssq26 -->
+	<spawn zone="ssq11_2220_ssq26m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21154" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Hell Keeper Medusa -->
+		<npc id="21155" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Conjurer -->
+		<npc id="21179" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq11_2220_ssq27 -->
+	<spawn zone="ssq11_2220_ssq27m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21154" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Hell Keeper Medusa -->
+		<npc id="21155" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Conjurer -->
+		<npc id="21179" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq11_2220_ssq28 -->
+	<spawn zone="ssq11_2220_ssq28m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21154" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Hell Keeper Medusa -->
+		<npc id="21155" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Conjurer -->
+		<npc id="21179" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq11_2220_ssq29 -->
+	<spawn zone="ssq11_2220_ssq29m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21154" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Hell Keeper Medusa -->
+		<npc id="21155" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Conjurer -->
+		<npc id="21179" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq11_2220_ssq30 -->
+	<spawn zone="ssq11_2220_ssq30m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21154" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Hell Keeper Medusa -->
+		<npc id="21155" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Conjurer -->
+		<npc id="21179" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq11_2220_ssq31 -->
+	<spawn zone="ssq11_2220_ssq31m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21152" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Wisp -->
+		<npc id="21153" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Serpent -->
+		<npc id="21178" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Marauder -->
+		<npc id="21199" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Guard -->
+	</spawn>
+	<!-- ssq11_2220_ssq32 -->
+	<spawn zone="ssq11_2220_ssq32m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21152" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Wisp -->
+		<npc id="21153" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Serpent -->
+		<npc id="21178" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Marauder -->
+		<npc id="21199" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Guard -->
+	</spawn>
+	<!-- ssq11_2220_ssq33 -->
+	<spawn zone="ssq11_2220_ssq33m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21152" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Wisp -->
+		<npc id="21153" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Serpent -->
+		<npc id="21178" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Marauder -->
+		<npc id="21199" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Guard -->
+	</spawn>
+	<!-- ssq11_2220_ssq34 -->
+	<spawn zone="ssq11_2220_ssq34m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21152" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Wisp -->
+		<npc id="21153" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Serpent -->
+		<npc id="21178" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Marauder -->
+		<npc id="21199" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Guard -->
+	</spawn>
+	<!-- ssq11_2220_ssq35 -->
+	<spawn zone="ssq11_2220_ssq35m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21152" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Wisp -->
+		<npc id="21153" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Serpent -->
+		<npc id="21178" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Marauder -->
+		<npc id="21199" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Guard -->
+	</spawn>
+	<!-- ssq11_2220_ssq36 -->
+	<spawn zone="ssq11_2220_ssq36m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21152" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Wisp -->
+		<npc id="21153" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Serpent -->
+		<npc id="21178" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Marauder -->
+		<npc id="21199" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Guard -->
+	</spawn>
+	<!-- ssq11_2220_ssq37 -->
+	<spawn zone="ssq11_2220_ssq37m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21152" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Wisp -->
+		<npc id="21153" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Serpent -->
+		<npc id="21178" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Marauder -->
+		<npc id="21199" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Guard -->
+	</spawn>
+	<!-- ssq11_2220_ssq38 -->
+	<spawn zone="ssq11_2220_ssq38m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21152" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Wisp -->
+		<npc id="21153" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Serpent -->
+		<npc id="21178" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Marauder -->
+		<npc id="21199" count="2" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Guard -->
+	</spawn>
+	<!-- ssq11_2220_ssq39 -->
+	<spawn zone="ssq11_2220_ssq39m1">
+		<AIData>
+			<SSQTelPosX>74795</SSQTelPosX>
+			<SSQTelPosY>78390</SSQTelPosY>
+			<SSQTelPosZ>-3392</SSQTelPosZ>
+		</AIData>
+		<npc id="21152" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Wisp -->
+		<npc id="21153" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Purgatory Serpent -->
+		<npc id="21178" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Lilim Marauder -->
+		<npc id="21199" count="1" respawnDelay="132" respawnRandom="40" /> <!-- Nephilim Guard -->
+	</spawn>
+</list>

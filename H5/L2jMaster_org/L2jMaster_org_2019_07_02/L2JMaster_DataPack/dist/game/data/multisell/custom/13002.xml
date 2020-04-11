@@ -1,0 +1,103 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Blessed Scroll: Enchant Armor (S) -->
+	<item>
+		<ingredient id="3470" count="100" />
+		<production id="6578" count="10"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Weapon (S) -->
+	<item>
+		<ingredient id="3470" count="100" />
+		<production id="6577" count="10"/>
+	</item>
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="960" count="1"/>
+	</item>
+	<!-- Scroll: Enchant Weapon (S) -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="959" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Armor (A) -->
+	<item>
+		<ingredient id="3470" count="100" />
+		<production id="6570" count="10"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Weapon (A) -->
+	<item>
+		<ingredient id="3470" count="100" />
+		<production id="6569" count="10"/>
+	</item>
+	<!-- Scroll: Enchant Armor (A) -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="730" count="1"/>
+	</item>
+	<!-- Scroll: Enchant Weapon (A) -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="729" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Armor (B) -->
+	<item>
+		<ingredient id="3470" count="100" />
+		<production id="6572" count="10"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Weapon (B) -->
+	<item>
+		<ingredient id="3470" count="100" />
+		<production id="6571" count="10"/>
+	</item>
+	<!-- Scroll: Enchant Armor (B) -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="948" count="1"/>
+	</item>
+	<!-- Scroll: Enchant Weapon (B) -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="947" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Armor (C) -->
+	<item>
+		<ingredient id="3470" count="100" />
+		<production id="6574" count="10"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Weapon (C) -->
+	<item>
+		<ingredient id="3470" count="100" />
+		<production id="6573" count="10"/>
+	</item>
+	<!-- Scroll: Enchant Armor (C) -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="952" count="1"/>
+	</item>
+	<!-- Scroll: Enchant Weapon (C) -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="951" count="1"/>
+	</item>
+	<!-- Scroll of Escape: Castle -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="1830" count="1"/>
+	</item>
+	<!-- Scroll of Escape: Clan Hall -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="1829" count="1"/>
+	</item>
+	<!-- Scroll of Escape -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="20381" count="10"/>
+	</item>
+	<!-- Blessed Scroll of Ressurrection -->
+	<item>
+		<ingredient id="57" count="300000000"/>
+		<production id="3936" count="10"/>
+	</item>
+</list>

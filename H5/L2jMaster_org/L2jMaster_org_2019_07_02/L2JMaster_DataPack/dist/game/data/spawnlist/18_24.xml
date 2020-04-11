@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio22_npc1824_001 -->
+	<spawn zone="gludio_npc1824_00101">
+		<npc id="30618" x="-55217" y="200628" z="-3724" heading="28672" respawnDelay="60" />	<!-- Harak -->
+	</spawn>
+	<!-- ssq01_npc1824_01 -->
+	<spawn zone="ssq01_npc1824_0101">
+		<npc id="31103" x="-41568" y="210128" z="-5088" heading="16500" respawnDelay="60" />	<!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq01_npc1824_02 -->
+	<spawn zone="ssq01_npc1824_0201">
+		<npc id="31095" x="-41568" y="209344" z="-5085" heading="49000" respawnDelay="60" />	<!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq01_npc1824_03 -->
+	<spawn zone="ssq01_npc1824_0301">
+		<npc id="31494" x="-41251" y="209886" z="-5085" heading="32000" respawnDelay="60" />	<!-- Dimensional Gate Keeper -->
+	</spawn>
+	<!-- gludio36_1824_01 -->
+	<spawn zone="gludio36_1824_01m1">
+		<npc id="21013" count="2" respawnDelay="25" /> <!-- Ol Mahum Van Archer -->
+		<npc id="21014" count="3" respawnDelay="25" /> <!-- Lesser Warlike Tyrant -->
+		<npc id="21015" count="3" respawnDelay="25" /> <!-- Ol Mahum Van Leader -->
+	</spawn>
+	<!-- gludio36_1824_02 -->
+	<spawn zone="gludio36_1824_02m1">
+		<npc id="21014" count="2" respawnDelay="25" /> <!-- Lesser Warlike Tyrant -->
+		<npc id="21015" count="3" respawnDelay="25" /> <!-- Ol Mahum Van Leader -->
+		<npc id="21016" count="2" respawnDelay="25" /> <!-- Warlkie Tyrant -->
+	</spawn>
+	<!-- gludio22_1824_01 -->
+	<spawn zone="gludio22_1824_01m1">
+		<npc id="20027" count="2" respawnDelay="20" /> <!-- Langk Lizardman Scout -->
+		<npc id="20024" count="2" respawnDelay="20" /> <!-- Langk Lizardman Warrior -->
+	</spawn>
+	<!-- gludio22_1824_02 -->
+	<spawn zone="gludio22_1824_02m1">
+		<npc id="20027" count="2" respawnDelay="20" /> <!-- Langk Lizardman Scout -->
+		<npc id="20024" count="3" respawnDelay="20" /> <!-- Langk Lizardman Warrior -->
+		<npc id="21100" count="5" respawnDelay="20" /> <!-- Langk Lizardman Sentinel -->
+	</spawn>
+	<!-- gludio22_1824_03 -->
+	<spawn zone="gludio22_1824_03m1">
+		<npc id="21100" count="3" respawnDelay="20" /> <!-- Langk Lizardman Sentinel -->
+		<npc id="20055" count="3" respawnDelay="20" /> <!-- Wandering Eye -->
+		<npc id="20357" count="4" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+	</spawn>
+	<!-- gludio22_1824_04 -->
+	<spawn zone="gludio22_1824_04m1">
+		<npc id="21100" count="3" respawnDelay="20" /> <!-- Langk Lizardman Sentinel -->
+		<npc id="20055" count="4" respawnDelay="20" /> <!-- Wandering Eye -->
+		<npc id="20357" count="3" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+		<npc id="20548" count="4" respawnDelay="20" /> <!-- Ol Mahum Deserter -->
+	</spawn>
+	<!-- gludio22_1824_05 -->
+	<spawn zone="gludio22_1824_05m1">
+		<npc id="20548" count="4" respawnDelay="20" /> <!-- Ol Mahum Deserter -->
+		<npc id="21101" count="5" respawnDelay="20" /> <!-- Langk Lizardman Shaman -->
+		<npc id="20356" count="5" respawnDelay="20" /> <!-- Langk Lizardman Leader -->
+	</spawn>
+	<!-- gludio22_1824_06 -->
+	<spawn zone="gludio22_1824_06m1">
+		<npc id="20357" count="2" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+		<npc id="21101" count="3" respawnDelay="20" /> <!-- Langk Lizardman Shaman -->
+		<npc id="20356" count="2" respawnDelay="20" /> <!-- Langk Lizardman Leader -->
+	</spawn>
+	<!-- gludio22_1824_07 -->
+	<spawn zone="gludio22_1824_07m1">
+		<npc id="20548" count="2" respawnDelay="20" /> <!-- Ol Mahum Deserter -->
+		<npc id="21101" count="3" respawnDelay="20" /> <!-- Langk Lizardman Shaman -->
+		<npc id="20356" count="2" respawnDelay="20" /> <!-- Langk Lizardman Leader -->
+	</spawn>
+	<!-- gludio22_1824_08 -->
+	<spawn zone="gludio22_1824_08m1">
+		<npc id="21100" count="2" respawnDelay="20" /> <!-- Langk Lizardman Sentinel -->
+		<npc id="20357" count="4" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+		<npc id="20548" count="2" respawnDelay="20" /> <!-- Ol Mahum Deserter -->
+	</spawn>
+	<!-- gludio22_1824_09 -->
+	<spawn zone="gludio22_1824_09m1">
+		<npc id="20055" count="2" respawnDelay="20" /> <!-- Wandering Eye -->
+		<npc id="20357" count="4" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+		<npc id="20548" count="1" respawnDelay="20" /> <!-- Ol Mahum Deserter -->
+	</spawn>
+	<!-- gludio22_1824_10 -->
+	<spawn zone="gludio22_1824_10m1">
+		<npc id="20357" count="5" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+		<npc id="21101" count="4" respawnDelay="20" /> <!-- Langk Lizardman Shaman -->
+	</spawn>
+	<!-- gludio22_1824_11 -->
+	<spawn zone="gludio22_1824_11m1">
+		<npc id="20548" count="2" respawnDelay="20" /> <!-- Ol Mahum Deserter -->
+		<npc id="21101" count="3" respawnDelay="20" /> <!-- Langk Lizardman Shaman -->
+	</spawn>
+	<!-- gludio22_1824_12 -->
+	<spawn zone="gludio22_1824_12m1">
+		<npc id="21100" count="2" respawnDelay="20" /> <!-- Langk Lizardman Sentinel -->
+		<npc id="20357" count="1" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+	</spawn>
+	<!-- gludio22_1824_13 -->
+	<spawn zone="gludio22_1824_13m1">
+		<npc id="21100" count="2" respawnDelay="20" /> <!-- Langk Lizardman Sentinel -->
+		<npc id="20357" count="1" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+	</spawn>
+	<!-- gludio22_1824_14 -->
+	<spawn zone="gludio22_1824_14m1">
+		<npc id="20024" count="2" respawnDelay="20" /> <!-- Langk Lizardman Warrior -->
+		<npc id="21100" count="1" respawnDelay="20" /> <!-- Langk Lizardman Sentinel -->
+	</spawn>
+	<!-- gludio22_1824_15s -->
+	<spawn zone="gludio22_1824_15sm1">
+		<npc id="21100" count="2" respawnDelay="20" /> <!-- Langk Lizardman Sentinel -->
+	</spawn>
+	<!-- gludio22_1824_16s -->
+	<spawn zone="gludio22_1824_16sm1">
+		<npc id="21100" count="1" respawnDelay="20" /> <!-- Langk Lizardman Sentinel -->
+		<npc id="20357" count="2" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+	</spawn>
+	<!-- gludio22_1824_17s -->
+	<spawn zone="gludio22_1824_17sm1">
+		<npc id="20357" count="2" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+		<npc id="21101" count="1" respawnDelay="20" /> <!-- Langk Lizardman Shaman -->
+	</spawn>
+	<!-- gludio22_1824_18s -->
+	<spawn zone="gludio22_1824_18sm1">
+		<npc id="21101" count="2" respawnDelay="20" /> <!-- Langk Lizardman Shaman -->
+		<npc id="20356" count="2" respawnDelay="20" /> <!-- Langk Lizardman Leader -->
+	</spawn>
+	<!-- gludio22_1824_19s -->
+	<spawn zone="gludio22_1824_19sm1">
+		<npc id="20357" count="1" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+		<npc id="21101" count="2" respawnDelay="20" /> <!-- Langk Lizardman Shaman -->
+		<npc id="20356" count="2" respawnDelay="20" /> <!-- Langk Lizardman Leader -->
+	</spawn>
+	<!-- gludio22_1824_20s -->
+	<spawn zone="gludio22_1824_20sm1">
+		<npc id="20357" count="1" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+		<npc id="21101" count="2" respawnDelay="20" /> <!-- Langk Lizardman Shaman -->
+		<npc id="20356" count="2" respawnDelay="20" /> <!-- Langk Lizardman Leader -->
+	</spawn>
+	<!-- gludio22_1824_21s -->
+	<spawn zone="gludio22_1824_21sm1">
+		<npc id="20357" count="1" respawnDelay="20" /> <!-- Langk Lizardman Lieutenant -->
+		<npc id="21101" count="2" respawnDelay="20" /> <!-- Langk Lizardman Shaman -->
+	</spawn>
+	<!-- ssq01_1824_ssq02 -->
+	<spawn zone="ssq01_1824_ssq02m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21208" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Watchman -->
+		<npc id="21209" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Seer -->
+		<npc id="21166" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Scout -->
+		<npc id="21187" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Slave -->
+	</spawn>
+	<!-- ssq01_1824_ssq03 -->
+	<spawn zone="ssq01_1824_ssq03m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21208" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Watchman -->
+		<npc id="21209" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Seer -->
+		<npc id="21166" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Scout -->
+		<npc id="21187" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Slave -->
+	</spawn>
+	<!-- ssq01_1824_ssq04 -->
+	<spawn zone="ssq01_1824_ssq04m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21208" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Watchman -->
+		<npc id="21209" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Seer -->
+		<npc id="21166" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Scout -->
+		<npc id="21187" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Slave -->
+	</spawn>
+	<!-- ssq01_1824_ssq05 -->
+	<spawn zone="ssq01_1824_ssq05m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21208" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Watchman -->
+		<npc id="21209" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Seer -->
+		<npc id="21166" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Scout -->
+		<npc id="21187" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Slave -->
+	</spawn>
+	<!-- ssq01_1824_ssq06 -->
+	<spawn zone="ssq01_1824_ssq06m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21208" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Watchman -->
+		<npc id="21209" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Seer -->
+		<npc id="21166" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Scout -->
+		<npc id="21187" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Slave -->
+	</spawn>
+	<!-- ssq01_1824_ssq07 -->
+	<spawn zone="ssq01_1824_ssq07m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21208" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Watchman -->
+		<npc id="21209" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Seer -->
+		<npc id="21166" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Scout -->
+		<npc id="21187" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Slave -->
+	</spawn>
+	<!-- ssq01_1824_ssq08 -->
+	<spawn zone="ssq01_1824_ssq08m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21208" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Watchman -->
+		<npc id="21209" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Seer -->
+		<npc id="21166" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Scout -->
+		<npc id="21187" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Slave -->
+	</spawn>
+	<!-- ssq01_1824_ssq09 -->
+	<spawn zone="ssq01_1824_ssq09m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21208" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Watchman -->
+		<npc id="21209" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Hallowed Seer -->
+		<npc id="21166" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Scout -->
+		<npc id="21187" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Slave -->
+	</spawn>
+	<!-- ssq01_1824_ssq10 -->
+	<spawn zone="ssq01_1824_ssq10m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21210" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Vault Guardian -->
+		<npc id="21211" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Vault Seer -->
+		<npc id="21167" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Witch -->
+		<npc id="21188" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Acolyte -->
+	</spawn>
+	<!-- ssq01_1824_ssq11 -->
+	<spawn zone="ssq01_1824_ssq11m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21210" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Vault Guardian -->
+		<npc id="21211" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Vault Seer -->
+		<npc id="21167" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Witch -->
+		<npc id="21188" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Acolyte -->
+	</spawn>
+	<!-- ssq01_1824_ssq12 -->
+	<spawn zone="ssq01_1824_ssq12m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21210" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Vault Guardian -->
+		<npc id="21211" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Vault Seer -->
+		<npc id="21167" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Witch -->
+		<npc id="21188" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Acolyte -->
+	</spawn>
+	<!-- ssq01_1824_ssq13 -->
+	<spawn zone="ssq01_1824_ssq13m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21210" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Vault Guardian -->
+		<npc id="21211" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Vault Seer -->
+		<npc id="21167" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Witch -->
+		<npc id="21188" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Acolyte -->
+	</spawn>
+	<!-- ssq01_1824_ssq14 -->
+	<spawn zone="ssq01_1824_ssq14m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21210" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Vault Guardian -->
+		<npc id="21211" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Vault Seer -->
+		<npc id="21167" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Witch -->
+		<npc id="21188" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Acolyte -->
+	</spawn>
+	<!-- ssq01_1824_ssq15 -->
+	<spawn zone="ssq01_1824_ssq15m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21210" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Vault Guardian -->
+		<npc id="21211" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Vault Seer -->
+		<npc id="21167" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Witch -->
+		<npc id="21188" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Acolyte -->
+	</spawn>
+	<!-- ssq01_1824_ssq16 -->
+	<spawn zone="ssq01_1824_ssq16m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21210" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Vault Guardian -->
+		<npc id="21211" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Vault Seer -->
+		<npc id="21167" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Witch -->
+		<npc id="21188" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Acolyte -->
+	</spawn>
+	<!-- ssq01_1824_ssq17 -->
+	<spawn zone="ssq01_1824_ssq17m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21210" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Vault Guardian -->
+		<npc id="21211" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Vault Seer -->
+		<npc id="21167" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Witch -->
+		<npc id="21188" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Acolyte -->
+	</spawn>
+	<!-- ssq01_1824_ssq18 -->
+	<spawn zone="ssq01_1824_ssq18m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21210" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Vault Guardian -->
+		<npc id="21211" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Vault Seer -->
+		<npc id="21167" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Witch -->
+		<npc id="21188" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Acolyte -->
+	</spawn>
+	<!-- ssq01_1824_ssq19 -->
+	<spawn zone="ssq01_1824_ssq19m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21141" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Serpent -->
+		<npc id="21142" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Grave Keeper Spartoi -->
+		<npc id="21169" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq01_1824_ssq20 -->
+	<spawn zone="ssq01_1824_ssq20m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21141" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Serpent -->
+		<npc id="21142" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Grave Keeper Spartoi -->
+		<npc id="21169" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq01_1824_ssq21 -->
+	<spawn zone="ssq01_1824_ssq21m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21141" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Serpent -->
+		<npc id="21142" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Grave Keeper Spartoi -->
+		<npc id="21169" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq01_1824_ssq22 -->
+	<spawn zone="ssq01_1824_ssq22m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21141" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Serpent -->
+		<npc id="21142" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Grave Keeper Spartoi -->
+		<npc id="21169" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq01_1824_ssq23 -->
+	<spawn zone="ssq01_1824_ssq23m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21141" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Serpent -->
+		<npc id="21142" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Grave Keeper Spartoi -->
+		<npc id="21169" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq01_1824_ssq24 -->
+	<spawn zone="ssq01_1824_ssq24m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21141" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Serpent -->
+		<npc id="21142" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Grave Keeper Spartoi -->
+		<npc id="21169" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq01_1824_ssq25 -->
+	<spawn zone="ssq01_1824_ssq25m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21141" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Serpent -->
+		<npc id="21142" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Grave Keeper Spartoi -->
+		<npc id="21169" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq01_1824_ssq26 -->
+	<spawn zone="ssq01_1824_ssq26m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21141" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Serpent -->
+		<npc id="21142" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Grave Keeper Spartoi -->
+		<npc id="21169" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq01_1824_ssq27 -->
+	<spawn zone="ssq01_1824_ssq27m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21141" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Serpent -->
+		<npc id="21142" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Grave Keeper Spartoi -->
+		<npc id="21169" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq01_1824_ssq28 -->
+	<spawn zone="ssq01_1824_ssq28m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21141" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Serpent -->
+		<npc id="21142" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Grave Keeper Spartoi -->
+		<npc id="21169" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq01_1824_ssq29 -->
+	<spawn zone="ssq01_1824_ssq29m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21141" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Serpent -->
+		<npc id="21142" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Grave Keeper Spartoi -->
+		<npc id="21169" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Guard -->
+		<npc id="21190" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Footman -->
+	</spawn>
+	<!-- ssq01_1824_ssq30 -->
+	<spawn zone="ssq01_1824_ssq30m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21139" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Barbed Bat -->
+		<npc id="21140" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Wisp -->
+		<npc id="21168" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Warrior -->
+		<npc id="21189" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Overseer -->
+	</spawn>
+	<!-- ssq01_1824_ssq31 -->
+	<spawn zone="ssq01_1824_ssq31m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21139" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Barbed Bat -->
+		<npc id="21140" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Wisp -->
+		<npc id="21168" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Warrior -->
+		<npc id="21189" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Overseer -->
+	</spawn>
+	<!-- ssq01_1824_ssq32 -->
+	<spawn zone="ssq01_1824_ssq32m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21139" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Barbed Bat -->
+		<npc id="21140" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Wisp -->
+		<npc id="21168" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Warrior -->
+		<npc id="21189" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Overseer -->
+	</spawn>
+	<!-- ssq01_1824_ssq33 -->
+	<spawn zone="ssq01_1824_ssq33m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21139" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Barbed Bat -->
+		<npc id="21140" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Wisp -->
+		<npc id="21168" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Warrior -->
+		<npc id="21189" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Overseer -->
+	</spawn>
+	<!-- ssq01_1824_ssq34 -->
+	<spawn zone="ssq01_1824_ssq34m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21139" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Barbed Bat -->
+		<npc id="21140" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Wisp -->
+		<npc id="21168" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Warrior -->
+		<npc id="21189" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Overseer -->
+	</spawn>
+	<!-- ssq01_1824_ssq35 -->
+	<spawn zone="ssq01_1824_ssq35m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21139" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Barbed Bat -->
+		<npc id="21140" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Wisp -->
+		<npc id="21168" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Warrior -->
+		<npc id="21189" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Overseer -->
+	</spawn>
+	<!-- ssq01_1824_ssq36 -->
+	<spawn zone="ssq01_1824_ssq36m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21139" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Barbed Bat -->
+		<npc id="21140" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Wisp -->
+		<npc id="21168" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Warrior -->
+		<npc id="21189" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Overseer -->
+	</spawn>
+	<!-- ssq01_1824_ssq37 -->
+	<spawn zone="ssq01_1824_ssq37m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21139" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Barbed Bat -->
+		<npc id="21140" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Wisp -->
+		<npc id="21168" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Lith Warrior -->
+		<npc id="21189" count="1" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Overseer -->
+	</spawn>
+	<!-- ssq01_1824_ssq38 -->
+	<spawn zone="ssq01_1824_ssq38m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21139" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Barbed Bat -->
+		<npc id="21140" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Wisp -->
+		<npc id="21168" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Warrior -->
+		<npc id="21189" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Overseer -->
+	</spawn>
+	<!-- ssq01_1824_ssq39 -->
+	<spawn zone="ssq01_1824_ssq39m1">
+		<AIData>
+			<SSQTelPosX>-41577</SSQTelPosX>
+			<SSQTelPosY>205911</SSQTelPosY>
+			<SSQTelPosZ>-3352</SSQTelPosZ>
+		</AIData>
+		<npc id="21139" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Barbed Bat -->
+		<npc id="21140" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Catacomb Wisp -->
+		<npc id="21168" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Lith Warrior -->
+		<npc id="21189" count="2" respawnDelay="139" respawnRandom="40" /> <!-- Gigant Overseer -->
+	</spawn>
+	<!-- gludio22_tb1824_12 -->
+	<spawn zone="gludio22_tb12_m1">
+		<npc id="18265" count="2" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

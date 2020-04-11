@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Tateossian Necklace -->
+	<item>
+		<ingredient id="57" count="30000000" />
+		<production id="920" count="1" />
+		<production id="858" count="1" />
+		<production id="858" count="1" />
+		<production id="889" count="1" />
+		<production id="889" count="1" />
+	</item>
+
+
+</list>

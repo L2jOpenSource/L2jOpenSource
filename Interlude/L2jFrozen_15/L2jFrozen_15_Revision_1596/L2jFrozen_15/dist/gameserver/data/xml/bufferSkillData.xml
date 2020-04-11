@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- key means the number called in the bypass, for example "<a action="bypass npc_%objectId%_buff KEY_NUMBER">Wind Walk</a>" -->
+	<!-- time="0" (in minutes) means default buff time (19 minutes, retail) put value greater than 0 for custom buff time -->
+	<buff key="1" id="1204" level="2" time="0"/><!-- Wind Walk -->
+	<buff key="2" id="1036" level="2" time="0"/><!-- Magic Barrier -->
+	<buff key="3" id="1257" level="3" time="0"/><!-- Decrease Weight -->
+	<buff key="4" id="1085" level="3" time="0"/><!-- Acumen -->
+	<buff key="5" id="1059" level="3" time="0"/><!-- Empower -->
+	<buff key="6" id="1048" level="6" time="0"/><!-- Bless Soul -->
+	<buff key="7" id="1045" level="6" time="0"/><!-- Bless Body -->
+	<buff key="8" id="1040" level="3" time="0"/><!-- Shield -->
+	<buff key="9" id="1035" level="3" time="0"/><!-- Mental Shield -->
+	<buff key="10" id="1062" level="2" time="0"/><!-- Berserker Spirit -->
+	<buff key="11" id="1068" level="3" time="0"/><!-- Might -->
+	<buff key="12" id="1240" level="3" time="0"/><!-- Guidance -->
+	<buff key="13" id="1389" level="3" time="0"/><!-- Greater Shield -->
+	<buff key="14" id="1388" level="3" time="0"/><!-- Greater Might -->
+	<buff key="15" id="1242" level="3" time="0"/><!-- Death Whisper -->
+	<buff key="16" id="1304" level="3" time="0"/><!-- Advanced Block Shield -->
+	<buff key="17" id="1303" level="2" time="0"/><!-- Wild Magic -->
+	<buff key="18" id="1087" level="3" time="0"/><!-- Agility -->
+	<buff key="19" id="1086" level="2" time="0"/><!-- Haste -->
+	<buff key="20" id="1268" level="4" time="0"/><!-- Vampiric Rage -->
+	<buff key="21" id="1243" level="2" time="0"/><!-- Bless Shield -->
+	<buff key="22" id="1077" level="3" time="0"/><!-- Focus -->
+	<buff key="23" id="1078" level="6" time="0"/><!-- Concentration -->
+	<buff key="24" id="1032" level="3" time="0"/><!-- Invigor -->
+	<buff key="25" id="1043" level="1" time="0"/><!-- Holy Weapon -->
+	<buff key="26" id="1044" level="3" time="0"/><!-- Regeneration -->
+	<buff key="27" id="1397" level="3" time="0"/><!-- Clarity -->
+
+	<buff key="28" id="271" level="1" time="0"/><!-- Dance of Warrior -->
+	<buff key="29" id="272" level="1" time="0"/><!-- Dance of Inspiration -->
+	<buff key="30" id="273" level="1" time="0"/><!-- Dance of the Mystic -->
+	<buff key="31" id="274" level="1" time="0"/><!-- Dance of Fire -->
+	<buff key="32" id="275" level="1" time="0"/><!-- Dance of Fury -->
+	<buff key="33" id="276" level="1" time="0"/><!-- Dance of Concentration -->
+	<buff key="34" id="277" level="1" time="0"/><!-- Dance of Light -->
+	<buff key="35" id="365" level="1" time="0"/><!-- Siren's Dance -->
+	<buff key="36" id="310" level="1" time="0"/><!-- Dance of Vampire -->
+	<buff key="37" id="311" level="1" time="0"/><!-- Dance of Protection -->
+	<buff key="38" id="366" level="1" time="0"/><!-- Dance of Shadows -->
+
+	<buff key="39" id="264" level="1" time="0"/><!-- Song of Earth -->
+	<buff key="40" id="265" level="1" time="0"/><!-- Song of Life -->
+	<buff key="41" id="266" level="1" time="0"/><!-- Song of Water -->
+	<buff key="42" id="267" level="1" time="0"/><!-- Song of Warding -->
+	<buff key="43" id="268" level="1" time="0"/><!-- Song of Wind -->
+	<buff key="44" id="269" level="1" time="0"/><!-- Song of Hunter -->
+	<buff key="45" id="364" level="1" time="0"/><!-- Song of Champion -->
+	<buff key="46" id="304" level="1" time="0"/><!-- Song of Vitality -->
+	<buff key="47" id="363" level="1" time="0"/><!-- Song of Meditation -->
+	<buff key="48" id="349" level="1" time="0"/><!-- Song of Renewal -->
+
+	<buff key="49" id="1002" level="3" time="0"/><!-- Chant of Flame -->
+	<buff key="50" id="1006" level="3" time="0"/><!-- Chant of Fire -->
+	<buff key="51" id="1007" level="3" time="0"/><!-- Chant of Battle -->
+	<buff key="52" id="1009" level="3" time="0"/><!-- Chant of Shielding -->
+	<buff key="53" id="1251" level="2" time="0"/><!-- Chant of Fury -->
+	<buff key="54" id="1252" level="3" time="0"/><!-- Chant of Evasion -->
+	<buff key="55" id="1253" level="1" time="0"/><!-- Chant of Rage -->
+	<buff key="56" id="1362" level="1" time="0"/><!-- Chant of Spirit -->
+	<buff key="57" id="1308" level="3" time="0"/><!-- Chant of Predator -->
+	<buff key="58" id="1309" level="3" time="0"/><!-- Chant of Eagle -->
+	<buff key="59" id="1310" level="3" time="0"/><!-- Chant of Vampire -->
+
+	<buff key="60" id="1356" level="1" time="0"/><!-- Prophecy of Fire -->
+	<buff key="61" id="1355" level="1" time="0"/><!-- Prophecy of Water -->
+	<buff key="62" id="1357" level="1" time="0"/><!-- Prophecy of Wind -->
+	<buff key="63" id="1363" level="1" time="0"/><!-- Chant of Victory -->
+	<buff key="64" id="1413" level="1" time="0"/><!-- Magnus' Chant -->
+
+	<buff key="65" id="1416" level="1" time="0"/><!-- Pa'agrio's Fist -->
+	<buff key="66" id="1392" level="3" time="0"/><!-- Holy Resistance -->
+	<buff key="67" id="1393" level="3" time="0"/><!-- Unholy Resistance -->
+	<buff key="68" id="1352" level="1" time="0"/><!-- Elemental Protection -->
+	<buff key="69" id="1353" level="1" time="0"/><!-- Divine Protection -->
+	<buff key="70" id="1354" level="1" time="0"/><!-- Arcane Protection -->
+	<buff key="71" id="1191" level="3" time="0"/><!-- Resist Fire -->
+	<buff key="72" id="1033" level="3" time="0"/><!-- Resist Poison -->
+	<buff key="73" id="1189" level="3" time="0"/><!-- Resist Wind -->
+	<buff key="74" id="1182" level="1" time="0"/><!-- Resist Aqua -->
+	<buff key="75" id="1259" level="4" time="0"/><!-- Resist Shock -->
+	<buff key="76" id="309" level="1" time="0"/><!-- Dance of Earth Guard -->
+	<buff key="77" id="307" level="1" time="0"/><!-- Dance of Aqua Guard -->
+	<buff key="78" id="1284" level="3" time="0"/><!-- Chant of Revenge -->
+	<buff key="79" id="305" level="1" time="0"/><!-- Song of Vengeance -->
+	<buff key="80" id="306" level="1" time="0"/><!-- Song of Flame Guard -->
+	<buff key="81" id="308" level="1" time="0"/><!-- Song of Storm Guard -->
+	<buff key="82" id="270" level="1" time="0"/><!-- Song of Invocation -->
+
+	<buff key="83" id="4702" level="3" time="0"/><!-- Blessing of Seraphim -->
+	<buff key="84" id="4703" level="3" time="0"/><!-- Gift of Seraphim -->
+	<buff key="85" id="4699" level="3" time="0"/><!-- Blessing of Queen -->
+	<buff key="86" id="4700" level="3" time="0"/><!-- Gift of Queen -->
+
+	<buff key="87" id="1323" level="1" time="0"/><!-- Noblesse Blessing -->
+</list>

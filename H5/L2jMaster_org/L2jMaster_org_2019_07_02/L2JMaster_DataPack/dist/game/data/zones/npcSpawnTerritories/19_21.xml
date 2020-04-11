@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- gludio38_1921_01 -->
+	<zone name="gludio38_1921_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3832" maxZ="-3032">
+		<node X="-20928" Y="98480" />
+		<node X="-15540" Y="98376" />
+		<node X="-17040" Y="102480" />
+		<node X="-19416" Y="101496" />
+	</zone>
+	<!-- gludio38_1921_02 -->
+	<zone name="gludio38_1921_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3632" maxZ="-2232">
+		<node X="-15440" Y="98408" />
+		<node X="-12488" Y="98384" />
+		<node X="-13264" Y="102632" />
+		<node X="-16636" Y="101676" />
+	</zone>
+	<!-- gludio38_1921_03 -->
+	<zone name="gludio38_1921_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3400" maxZ="-2200">
+		<node X="-212396" Y="98388" />
+		<node X="-29924" Y="98464" />
+		<node X="-28944" Y="102784" />
+		<node X="-211448" Y="102760" />
+		<node X="-212952" Y="101404" />
+	</zone>
+	<!-- gludio38_1921_04 -->
+	<zone name="gludio38_1921_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3796" maxZ="-2296">
+		<node X="-7564" Y="116652" />
+		<node X="-2776" Y="115216" />
+		<node X="-5656" Y="121756" />
+		<node X="-6296" Y="121904" />
+	</zone>
+	<!-- gludio38_1921_05 -->
+	<zone name="gludio38_1921_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5208" maxZ="-5058">
+		<node X="-3840" Y="98392" />
+		<node X="-252" Y="98392" />
+		<node X="-272" Y="101760" />
+		<node X="-3780" Y="99368" />
+	</zone>
+	<!-- gludio38_1921_06 -->
+	<zone name="gludio38_1921_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5205" maxZ="-5055">
+		<node X="-6888" Y="102688" />
+		<node X="-5968" Y="101288" />
+		<node X="-3816" Y="100204" />
+		<node X="-192" Y="102464" />
+		<node X="-196" Y="103664" />
+		<node X="-5328" Y="104428" />
+	</zone>
+	<!-- gludio38_1921_07 -->
+	<zone name="gludio38_1921_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5210" maxZ="-5060">
+		<node X="-5264" Y="104808" />
+		<node X="-316" Y="103952" />
+		<node X="-380" Y="108424" />
+		<node X="-6756" Y="108288" />
+	</zone>
+	<!-- gludio38_1921_08 -->
+	<zone name="gludio38_1921_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5184" maxZ="-5034">
+		<node X="-6760" Y="108756" />
+		<node X="-560" Y="108744" />
+		<node X="-548" Y="114180" />
+		<node X="-7600" Y="116580" />
+		<node X="-8472" Y="114620" />
+	</zone>
+	<!-- gludio38_1921_09s -->
+	<zone name="gludio38_1921_09sm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5210" maxZ="-5060">
+		<node X="-4759" Y="111595" />
+		<node X="-2442" Y="111751" />
+		<node X="-2264" Y="113730" />
+		<node X="-4604" Y="114162" />
+	</zone>
+	<!-- gludio23_1921_01 -->
+	<zone name="gludio23_1921_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3872" maxZ="-3172">
+		<node X="-32676" Y="98464" />
+		<node X="-24964" Y="98476" />
+		<node X="-28564" Y="101808" />
+		<node X="-32652" Y="101020" />
+	</zone>
+	<!-- gludio23_1921_02 -->
+	<zone name="gludio23_1921_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3916" maxZ="-2916">
+		<node X="-32632" Y="101244" />
+		<node X="-28680" Y="102048" />
+		<node X="-28212" Y="104340" />
+		<node X="-30340" Y="104448" />
+	</zone>
+	<!-- gludio23_1921_03 -->
+	<zone name="gludio23_1921_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3812" maxZ="-2812">
+		<node X="-24496" Y="99516" />
+		<node X="-22428" Y="99184" />
+		<node X="-22216" Y="102032" />
+		<node X="-25112" Y="106788" />
+		<node X="-27092" Y="103680" />
+		<node X="-26696" Y="101300" />
+	</zone>
+	<!-- gludio23_1921_04s -->
+	<zone name="gludio23_1921_04sm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3844" maxZ="-3044">
+		<node X="-25420" Y="101812" />
+		<node X="-23660" Y="102452" />
+		<node X="-24968" Y="104452" />
+		<node X="-25864" Y="104436" />
+	</zone>
+	<!-- gludio23_1921_05 -->
+	<zone name="gludio23_1921_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3672" maxZ="-2172">
+		<node X="-32548" Y="101844" />
+		<node X="-30372" Y="104736" />
+		<node X="-30108" Y="106612" />
+		<node X="-32568" Y="108720" />
+	</zone>
+	<!-- gludio23_1921_06 -->
+	<zone name="gludio23_1921_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3848" maxZ="-3048">
+		<node X="-30200" Y="104652" />
+		<node X="-27756" Y="104484" />
+		<node X="-26500" Y="106896" />
+		<node X="-30040" Y="106628" />
+	</zone>
+	<!-- gludio23_1921_07 -->
+	<zone name="gludio23_1921_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3904" maxZ="-2104">
+		<node X="-30104" Y="106948" />
+		<node X="-26280" Y="107052" />
+		<node X="-25444" Y="112712" />
+		<node X="-32412" Y="112012" />
+		<node X="-32424" Y="108876" />
+	</zone>
+	<!-- gludio23_1921_08s -->
+	<zone name="gludio23_1921_08sm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3928" maxZ="-3228">
+		<node X="-29184" Y="108836" />
+		<node X="-28228" Y="108788" />
+		<node X="-28220" Y="109708" />
+		<node X="-29196" Y="109644" />
+	</zone>
+	<!-- gludio23_1921_09 -->
+	<zone name="gludio23_1921_09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3956" maxZ="-2056">
+		<node X="-32320" Y="112076" />
+		<node X="-28296" Y="112508" />
+		<node X="-28572" Y="115724" />
+		<node X="-32252" Y="118104" />
+	</zone>
+	<!-- gludio23_1921_10 -->
+	<zone name="gludio23_1921_10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3916" maxZ="-3016">
+		<node X="-28248" Y="112508" />
+		<node X="-25576" Y="112812" />
+		<node X="-25196" Y="116212" />
+		<node X="-28428" Y="115704" />
+	</zone>
+	<!-- gludio23_1921_11 -->
+	<zone name="gludio23_1921_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3828" maxZ="-2028">
+		<node X="-28292" Y="115892" />
+		<node X="-25208" Y="116532" />
+		<node X="-25272" Y="123544" />
+		<node X="-32228" Y="124080" />
+		<node X="-32160" Y="118524" />
+		<!-- gludio23_1921_11b -->
+		<node X="-28625" Y="119725" />
+		<node X="-27511" Y="120060" />
+		<node X="-28243" Y="123261" />
+		<node X="-29453" Y="122730" />
+	</zone>
+	<!-- gludio23_1921_13s -->
+	<zone name="gludio23_1921_13sm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3948" maxZ="-3148">
+		<node X="-29236" Y="117244" />
+		<node X="-27100" Y="116648" />
+		<node X="-27140" Y="118880" />
+		<node X="-29096" Y="118856" />
+	</zone>
+	<!-- gludio23_1921_14 -->
+	<zone name="gludio23_1921_14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3844" maxZ="-2844">
+		<node X="-30540" Y="124184" />
+		<node X="-25428" Y="123772" />
+		<node X="-25560" Y="124864" />
+		<node X="-27072" Y="126376" />
+		<node X="-28856" Y="126500" />
+	</zone>
+	<!-- gludio23_1921_15 -->
+	<zone name="gludio23_1921_15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3844" maxZ="-2844">
+		<node X="-24564" Y="117768" />
+		<node X="-19836" Y="121268" />
+		<node X="-20544" Y="123864" />
+		<node X="-24660" Y="124296" />
+	</zone>
+	<!-- gludio23_tb1921_12s -->
+	<zone name="gludio23_tb12_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3908" maxZ="-3108">
+		<node X="-29260" Y="120200" />
+		<node X="-26956" Y="119936" />
+		<node X="-27000" Y="122292" />
+		<node X="-29440" Y="122336" />
+		<node X="-29236" Y="117244" />
+		<node X="-27100" Y="116648" />
+		<node X="-27140" Y="118880" />
+		<node X="-29096" Y="118856" />
+	</zone>
+	<!-- gludio01_qm1921_01 -->
+	<zone name="gludio01_qm1921_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3848" maxZ="-3348">
+		<node X="-24564" Y="117768" />
+		<node X="-19836" Y="121268" />
+		<node X="-20544" Y="123864" />
+		<node X="-24660" Y="124296" />
+	</zone>
+	<!-- gludio23_tb1921_07 -->
+	<zone name="gludio23_tb07_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3916" maxZ="-3016">
+		<node X="-30104" Y="106948" />
+		<node X="-26280" Y="107052" />
+		<node X="-25444" Y="112712" />
+		<node X="-32412" Y="112012" />
+		<node X="-32424" Y="108876" />
+		<node X="-29184" Y="108836" />
+		<node X="-28228" Y="108788" />
+		<node X="-28220" Y="109708" />
+		<node X="-29196" Y="109644" />
+		<node X="-32320" Y="112076" />
+		<node X="-28296" Y="112508" />
+		<node X="-28572" Y="115724" />
+		<node X="-32252" Y="118104" />
+		<node X="-28248" Y="112508" />
+		<node X="-25576" Y="112812" />
+		<node X="-25196" Y="116212" />
+		<node X="-28428" Y="115704" />
+	</zone>
+</list>

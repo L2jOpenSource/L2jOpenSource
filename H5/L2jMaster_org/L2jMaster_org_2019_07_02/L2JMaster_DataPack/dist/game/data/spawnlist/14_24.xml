@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- rumwarsha12_1424_default -->
+	<spawn zone="grumwarsha12_1424_defaultm1">
+		<npc id="32546" count="1" respawnDelay="60" /> <!-- Asyatei -->
+		<npc id="32603" x="-183282" y="205703" z="-12896" heading="16384" respawnDelay="60" /> <!-- Tepios -->
+	</spawn>
+	<!-- rumwarsha12_1424_gateroom -->
+	<spawn zone="rumwarsha12_1424_gateroomm1">
+		<npc id="32537" x="-182996" y="206510" z="-12896" heading="40959" respawnDelay="60" /> <!-- Mouth of Ekimus -->
+		<npc id="32537" x="-183002" y="205944" z="-12896" heading="24576" respawnDelay="60" /> <!-- Mouth of Ekimus -->
+		<npc id="32537" x="-183589" y="206510" z="-12896" heading="57343" respawnDelay="60" /> <!-- Mouth of Ekimus -->
+		<npc id="32537" x="-183586" y="205947" z="-12896" heading="8192" respawnDelay="60" /> <!-- Mouth of Ekimus -->
+		<npc id="32539" x="-183295" y="205861" z="-12896" heading="16384" respawnDelay="60" /> <!-- Gatekeeper of Abyss -->
+	</spawn>
+	<spawn zone="Unknown4">
+		<npc id="18684" x="-173067" y="224195" z="971" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-175303" y="227425" z="-341" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-191025" y="207174" z="4062" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-190466" y="208274" z="4859" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-187112" y="215974" z="3719" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-193820" y="214874" z="5198" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-189348" y="211574" z="4474" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-188230" y="209374" z="4444" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-172604" y="211293" z="3682" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-175862" y="217735" z="265" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-172508" y="226133" z="681" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-171999" y="210081" z="4661" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-171999" y="210485" z="5371" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-171394" y="207657" z="4337" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-170789" y="208869" z="4642" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18684" x="-178049" y="208465" z="4068" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-174185" y="228071" z="801" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-194938" y="215424" z="4858" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-192702" y="213224" z="5328" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-190466" y="208274" z="4859" heading="0" respawnDelay="60" /> <!-- Red Star Stone  -->
+		<npc id="18685" x="-192143" y="211024" z="5082" heading="0" respawnDelay="60" /> <!-- Red Star Stone  -->
+		<npc id="18685" x="-188230" y="214324" z="4613" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-187671" y="213774" z="5452" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-187671" y="214874" z="3774" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-171394" y="211697" z="3464" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-173209" y="210081" z="3689" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-171999" y="210081" z="4661" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-174419" y="208061" z="3465" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-173209" y="207253" z="5029" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-173626" y="216443" z="115" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-172604" y="214525" z="3037" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-173626" y="217735" z="397" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-171949" y="219673" z="839" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18685" x="-173626" y="226133" z="-163" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-177444" y="210485" z="3314" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-173209" y="214121" z="4920" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-170831" y="222257" z="436" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-171390" y="221611" z="-157" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-170831" y="224195" z="191" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-173626" y="225487" z="327" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-173209" y="213717" z="3779" heading="0" respawnDelay="60" /> <!-- Red Star Stone  -->
+		<npc id="18686" x="-175629" y="213717" z="3467" heading="0" respawnDelay="60" /> <!-- Red Star Stone  -->
+		<npc id="18686" x="-170789" y="207657" z="3581" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-171394" y="208869" z="3130" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-178049" y="210081" z="5349" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-188789" y="211024" z="4945" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-174744" y="227425" z="-91" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-191025" y="208274" z="5093" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-192143" y="213224" z="5103" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-192143" y="213774" z="5186" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-192702" y="213224" z="5328" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18686" x="-194379" y="215424" z="4176" heading="0" respawnDelay="600" /> <!-- Red Star Stone -->
+		<npc id="18687" x="-190387" y="218925" z="1625" heading="0" respawnDelay="600" /> <!-- Blue Star Stone -->
+		<npc id="18687" x="-192515" y="224343" z="3970" heading="0" respawnDelay="600" /> <!-- Blue Star Stone -->
+		<npc id="18687" x="-193047" y="224343" z="2928" heading="0" respawnDelay="600" /> <!-- Blue Star Stone -->
+		<npc id="18688" x="-194111" y="219699" z="3720" heading="0" respawnDelay="600" /> <!-- Blue Star Stone -->
+		<npc id="18688" x="-191451" y="223569" z="2739" heading="0" respawnDelay="600" /> <!-- Blue Star Stone -->
+		<npc id="18688" x="-191451" y="223956" z="2545" heading="0" respawnDelay="600" /> <!-- Blue Star Stone -->
+		<npc id="18689" x="-193047" y="218925" z="1505" heading="0" respawnDelay="600" /> <!-- Blue Star Stone -->
+		<npc id="18689" x="-188791" y="218925" z="1998" heading="0" respawnDelay="600" /> <!-- Blue Star Stone -->
+		<npc id="18689" x="-191451" y="219312" z="3018" heading="0" respawnDelay="600" /> <!-- Blue Star Stone -->
+		<npc id="18689" x="-191451" y="223956" z="2545" heading="0" respawnDelay="600" /> <!-- Blue Star Stone -->
+		<npc id="18690" x="-180800" y="202823" z="3918" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18691" x="-180800" y="202823" z="3918" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18692" x="-176546" y="202823" z="3291" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="22602" x="-176721" y="225626" z="2328" heading="702" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22602" x="-176070" y="222253" z="3133" heading="20710" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22602" x="-176009" y="221535" z="5677" heading="4977" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22602" x="-170102" y="218471" z="4674" heading="12414" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22602" x="-169499" y="220264" z="1841" heading="20046" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22602" x="-171558" y="216328" z="1930" heading="22402" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22602" x="-171584" y="217034" z="4279" heading="47573" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22602" x="-175668" y="216773" z="1992" heading="36387" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22603" x="-178553" y="225346" z="2250" heading="39188" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22603" x="-173278" y="223444" z="3122" heading="41927" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22603" x="-175547" y="221999" z="2206" heading="16973" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22603" x="-171665" y="219582" z="4759" heading="10967" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22603" x="-170098" y="222213" z="4292" heading="8368" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22603" x="-171048" y="222975" z="3914" heading="28091" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22603" x="-170221" y="214808" z="2705" heading="0" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22603" x="-173958" y="218160" z="4179" heading="52746" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22603" x="-169307" y="222542" z="4579" heading="37693" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22602" x="-169622" y="215472" z="3003" heading="59103" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22602" x="-169602" y="221626" z="4410" heading="3188" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22602" x="-169499" y="220264" z="1841" heading="3956" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22602" x="-171631" y="224209" z="3611" heading="27239" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22602" x="-170862" y="225208" z="3446" heading="55307" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22602" x="-175317" y="218211" z="2882" heading="55294" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22603" x="-171845" y="217276" z="5233" heading="64642" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22603" x="-169499" y="216854" z="3064" heading="0" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22603" x="-173372" y="222688" z="2358" heading="21595" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22603" x="-171365" y="223016" z="5160" heading="42000" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22603" x="-171609" y="217919" z="4418" heading="40366" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22603" x="-171570" y="217366" z="4985" heading="933" respawnDelay="60" /> <!-- Mutant Bird -->
+		<npc id="22603" x="-169499" y="220264" z="1841" heading="9492" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22603" x="-169596" y="215561" z="4627" heading="28317" respawnDelay="00" /> <!-- Dra Hawk -->
+		<npc id="22603" x="-169309" y="216245" z="2862" heading="22714" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="22606" x="-181932" y="208206" z="2801" heading="29987" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22606" x="-179766" y="209570" z="2139" heading="45733" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22606" x="-180213" y="204906" z="4762" heading="62043" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22606" x="-177683" y="203385" z="2608" heading="40137" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22606" x="-187311" y="208249" z="4589" heading="27246" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22606" x="-186258" y="211737" z="4346" heading="1264" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22606" x="-183519" y="209702" z="4811" heading="23799" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22606" x="-179455" y="209697" z="1997" heading="40217" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22607" x="-178239" y="207069" z="2594" heading="42230" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22607" x="-178322" y="202750" z="1852" heading="28697" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22607" x="-180488" y="207524" z="4877" heading="50893" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22607" x="-188430" y="210934" z="3151" heading="0" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22607" x="-187004" y="211826" z="2963" heading="1107" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22607" x="-184366" y="205248" z="3507" heading="28883" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22607" x="-188473" y="205478" z="2471" heading="56891" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22607" x="-185638" y="209710" z="2452" heading="29533" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22607" x="-183869" y="207676" z="2972" heading="12119" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="22608" x="-179766" y="205478" z="3085" heading="24651" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22608" x="-180084" y="206649" z="4621" heading="65168" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22608" x="-179766" y="208206" z="2398" heading="52359" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22608" x="-188117" y="211395" z="2535" heading="38616" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22608" x="-184341" y="211418" z="3096" heading="62304" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22608" x="-186986" y="212980" z="4668" heading="62787" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22608" x="-188430" y="210252" z="2400" heading="48121" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22608" x="-182496" y="204993" z="2576" heading="27280" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22609" x="-179044" y="210252" z="2431" heading="22572" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22609" x="-178322" y="207524" z="4174" heading="37683" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22609" x="-181860" y="210790" z="4903" heading="1302" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22609" x="-185542" y="207524" z="2917" heading="65402" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="22609" x="-183343" y="209982" z="2323" heading="22488" respawnDelay="60" /> <!-- Floating Zombie -->
+		<npc id="25628" x="-174330" y="220232" z="5044" heading="8192" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="25628" x="-174006" y="219706" z="3556" heading="0" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="25628" x="-174349" y="219214" z="4540" heading="57343" respawnDelay="60" /> <!-- Dra Hawk -->
+		<npc id="25629" x="-181823" y="209381" z="4424" heading="8192" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="25629" x="-181462" y="208980" z="4484" heading="0" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="25629" x="-181823" y="208512" z="4604" heading="53247" respawnDelay="60" /> <!-- Floating Skull -->
+		<npc id="25630" x="-182410" y="208474" z="4668" heading="45055" respawnDelay="3600" /> <!-- Floating Zombie -->
+		<npc id="25630" x="-182704" y="208956" z="4552" heading="32768" respawnDelay="3600" /> <!-- Floating Zombie -->
+		<npc id="25630" x="-182398" y="209407" z="4504" heading="20480" respawnDelay="3600" /> <!-- Floating Zombie -->
+		<npc id="25627" x="-175138" y="219260" z="3584" heading="36863" respawnDelay="3600" /> <!-- Mutant Bird -->
+		<npc id="25627" x="-175369" y="219698" z="4648" heading="32768" respawnDelay="3600" /> <!-- Mutant Bird -->
+		<npc id="25627" x="-175137" y="220138" z="4240" heading="28672" respawnDelay="3600" /> <!-- Mutant Bird -->
+	</spawn>	
+</list>

@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>13161</npc> <!-- Scarecrow -->
+	</npcs>
+	
+	<!-- Halloween Hat -->
+	<item>
+		<ingredient id="15430" count="75"/>
+		<production id="13489" count="1"/>
+	</item> 	
+	<!-- Golden Jack O'Lantern Mask -->
+	<item>
+		<ingredient id="15430" count="1400"/>
+		<production id="20724" count="1"/>
+	</item>
+	<!-- Shiny Golden Jack O'Lantern Mask -->		
+	<item>
+		<ingredient id="15430" count="2200"/>
+		<production id="15464" count="1"/>
+	</item>  
+	<!-- Shiny Super Strong Giant's Mask -->
+	<item>
+		<ingredient id="15430" count="125"/>
+		<production id="15450" count="1"/>
+	</item>
+	<!-- Super Strong Giant's Mask (Event) (Blessing of Skooldy) : Protection of Darkness - 2 Hour Limited Period -->
+	<item>
+		<ingredient id="15430" count="750"/>
+		<production id="20712" count="1"/>
+	</item>
+	<!-- Shiny Super Strong Giant's Mask (Event) Blessing of Halloween - 4 Hour Limited Period -->
+	<item>
+		<ingredient id="15430" count="1400"/>
+		<production id="20718" count="1"/>
+	</item>
+	<!-- Shiny Silent Scream's Mask -->
+	<item>
+		<ingredient id="15430" count="125"/>
+		<production id="15451" count="1"/>
+	</item>
+	<!-- Shiny Silent Scream's Mask (Event)(Blessing of Skooldy) : Protection of Darkness - 2 Hour Limited Period -->
+	<item>
+		<ingredient id="15430" count="750"/>
+		<production id="20713" count="1"/>
+	</item>
+	<!-- Shiny Silent Scream's Mask (Event) Blessing of Halloween - 4 Hour Limited Period -->
+	<item>
+		<ingredient id="15430" count="1400"/>
+		<production id="20719" count="1"/>
+	</item>
+	<!-- Shiny Wrathful Spirit's Mask  -->
+	<item>
+		<ingredient id="15430" count="125"/>
+		<production id="15452" count="1"/>
+	</item>
+	<!-- Shiny Wrathful Spirit's Mask (Event)(Blessing of Skooldy) : Protection of Darkness - 2 Hour Limited Period -->
+	<item>
+		<ingredient id="15430" count="750"/>
+		<production id="20714" count="1"/>
+	</item>
+	<!-- Shiny Wrathful Spirit's Mask (Event) Blessing of Halloween - 4 Hour Limited Period -->
+	<item>
+		<ingredient id="15430" count="1400"/>
+		<production id="20720" count="1"/>
+	</item>
+	<!-- Shiny Unrotten Corpse's Mask -->
+	<item>
+		<ingredient id="15430" count="125"/>
+		<production id="15453" count="1"/>
+	</item>
+	<!-- Shiny Unrotten Corpse's Mask (Event)(Blessing of Skooldy) : Protection of Darkness - 2 Hour Limited Period -->
+	<item>
+		<ingredient id="15430" count="750"/>
+		<production id="20715" count="1"/>
+	</item>
+	<!-- Shiny Unrotten Corpse's Mask (Event) Blessing of Halloween - 4 Hour Limited Period -->
+	<item>
+		<ingredient id="15430" count="1400"/>
+		<production id="20721" count="1"/>
+	</item>
+	<!-- Shiny Planet X235 Alien's Mask -->
+	<item>
+		<ingredient id="15430" count="125"/>
+		<production id="15449" count="1"/>
+	</item>
+	<!-- Shiny Planet X235 Alien's Mask (Event)(Blessing of Skooldy) : Protection of Darkness - 2 Hour Limited Period -->
+	<item>
+		<ingredient id="15430" count="750"/>
+		<production id="20716" count="1"/>
+	</item>
+	<!-- Shiny Planet X235 Alien's Mask (Event) Blessing of Halloween - 4 Hour Limited Period -->
+	<item>
+		<ingredient id="15430" count="1400"/>
+		<production id="20722" count="1"/>
+	</item>
+	<!-- Vitality Replenishing Beverage -->
+	<item>
+		<ingredient id="15430" count="350"/>
+		<production id="14055" count="1"/>
+	</item>
+	<!-- Pumpkin Transformation Stick -->
+	<item>
+		<ingredient id="15430" count="175"/>
+		<production id="12800" count="1"/>
+	</item>
+		<!-- Halloween Pumpkin Weapon -->
+	<item>
+		<ingredient id="15430" count="175"/>
+		<production id="12810" count="1"/>
+	</item>
+</list>

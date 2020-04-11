@@ -1,0 +1,24 @@
+Informations about L2jReunion vote managers.
+There are 2 vote reward managers implemented on l2jreunion.
+Every user is free to use what he likes or even both vote engines at the same time!
+We will leave below some basic information about how vote systems works and how to make them work.
+
+No.1 Individual Vote reward system 
+
+This system can be configurated from IndividualVoteSystem.ini file located at game/config/reunion/votesystems.
+On this vote system players have to open the vote panel with .votepanel command and vote on both vote banners
+before counter ends. If he succeeded a reward panel appears where he can select between 3 rewards.
+Everything is configurable and the only thing you have to do, is to set up the required things in configs.
+
+No.2 .getreward Vote reward system 
+
+This system has nothing to do with the previous one, its a new one and it works in other way.
+On this vote system players should first vote on banners and then come ingame and press .getreward.
+Then if they had successfully voted they will get automatically rewards.
+Everything is configurable and the only thing you have to do, is to set up the required things in configs.
+
+It works with http://l2top.co/ ,so your server should be on their toplists.
+This system actually will only check l2top.co votes so you should trap your voters to vote on all banners.
+One way of doing this is to put l2top.con banner on the latest positions.
+Something like this one --> http://postimg.org/image/fev9t7dk3/
+Non will know which banner we check to figure out if he voted...

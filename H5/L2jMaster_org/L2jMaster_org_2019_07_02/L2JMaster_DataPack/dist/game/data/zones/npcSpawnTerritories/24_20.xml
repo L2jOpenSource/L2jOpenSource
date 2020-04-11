@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- ssq13_npc2420_01 -->
+	<zone name="ssq13_npc2420_0101" type="NpcSpawnTerritory" shape="NPoly" minZ="-5467" maxZ="-5267">
+		<node X="140668" Y="79580" />
+		<node X="140868" Y="79580" />
+		<node X="140868" Y="79780" />
+		<node X="140668" Y="79780" />
+	</zone>
+	<!-- ssq13_npc2420_02 -->
+	<zone name="ssq13_npc2420_0201" type="NpcSpawnTerritory" shape="NPoly" minZ="-5462" maxZ="-5262">
+		<node X="139916" Y="79580" />
+		<node X="140116" Y="79580" />
+		<node X="140116" Y="79780" />
+		<node X="139916" Y="79780" />
+	</zone>
+	<!-- ssq13_npc2420_03 -->
+	<zone name="ssq13_npc2420_0301" type="NpcSpawnTerritory" shape="NPoly" minZ="-5463" maxZ="-5263">
+		<node X="140396" Y="79228" />
+		<node X="140596" Y="79228" />
+		<node X="140596" Y="79428" />
+		<node X="140396" Y="79428" />
+	</zone>
+	<!-- ssq_npc2420_01 -->
+	<zone name="ssq_npc2420_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3740" maxZ="-3540">
+		<node X="137226" Y="70477" />
+		<node X="137426" Y="70477" />
+		<node X="137426" Y="70677" />
+		<node X="137226" Y="70677" />
+	</zone>
+	<!-- ssq13_2420_ssq01 -->
+	<zone name="ssq13_2420_ssq01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="141569" Y="79370" />
+		<node X="142182" Y="79370" />
+		<node X="142182" Y="80007" />
+		<node X="141569" Y="80007" />
+	</zone>
+	<!-- ssq13_2420_ssq02 -->
+	<zone name="ssq13_2420_ssq02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="142874" Y="79313" />
+		<node X="144345" Y="79313" />
+		<node X="144345" Y="79950" />
+		<node X="142874" Y="79950" />
+	</zone>
+	<!-- ssq13_2420_ssq03 -->
+	<zone name="ssq13_2420_ssq03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="145102" Y="79366" />
+		<node X="145715" Y="79366" />
+		<node X="145715" Y="80003" />
+		<node X="145102" Y="80003" />
+	</zone>
+	<!-- ssq13_2420_ssq04 -->
+	<zone name="ssq13_2420_ssq04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5476" maxZ="-5276">
+		<node X="140464" Y="80964" />
+		<node X="141103" Y="80964" />
+		<node X="141103" Y="82423" />
+		<node X="140464" Y="82423" />
+	</zone>
+	<!-- ssq13_2420_ssq05 -->
+	<zone name="ssq13_2420_ssq05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="142524" Y="81448" />
+		<node X="143203" Y="81448" />
+		<node X="143203" Y="83327" />
+		<node X="142524" Y="83347" />
+	</zone>
+	<!-- ssq13_2420_ssq06 -->
+	<zone name="ssq13_2420_ssq06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5476" maxZ="-5276">
+		<node X="145114" Y="81278" />
+		<node X="145663" Y="81281" />
+		<node X="145653" Y="82581" />
+		<node X="145114" Y="82573" />
+	</zone>
+	<!-- ssq13_2420_ssq07 -->
+	<zone name="ssq13_2420_ssq07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="140482" Y="83959" />
+		<node X="141095" Y="83959" />
+		<node X="141095" Y="84596" />
+		<node X="140482" Y="84596" />
+	</zone>
+	<!-- ssq13_2420_ssq08 -->
+	<zone name="ssq13_2420_ssq08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="142515" Y="83977" />
+		<node X="143986" Y="83977" />
+		<node X="143986" Y="84614" />
+		<node X="142515" Y="84614" />
+	</zone>
+	<!-- ssq13_2420_ssq09 -->
+	<zone name="ssq13_2420_ssq09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="145094" Y="83939" />
+		<node X="145707" Y="83939" />
+		<node X="145707" Y="84576" />
+		<node X="145094" Y="84576" />
+	</zone>
+	<!-- ssq13_2420_ssq10 -->
+	<zone name="ssq13_2420_ssq10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="146171" Y="79359" />
+		<node X="146784" Y="79359" />
+		<node X="146784" Y="79996" />
+		<node X="146171" Y="79996" />
+	</zone>
+	<!-- ssq13_2420_ssq11 -->
+	<zone name="ssq13_2420_ssq11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5476" maxZ="-5276">
+		<node X="148876" Y="79360" />
+		<node X="149515" Y="79360" />
+		<node X="149515" Y="80819" />
+		<node X="148876" Y="80819" />
+	</zone>
+	<!-- ssq13_2420_ssq12 -->
+	<zone name="ssq13_2420_ssq12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="150748" Y="79393" />
+		<node X="151360" Y="79393" />
+		<node X="151360" Y="80030" />
+		<node X="150748" Y="80030" />
+	</zone>
+	<!-- ssq13_2420_ssq13 -->
+	<zone name="ssq13_2420_ssq13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="146125" Y="80319" />
+		<node X="147596" Y="80319" />
+		<node X="147596" Y="80956" />
+		<node X="146125" Y="80956" />
+	</zone>
+	<!-- ssq13_2420_ssq14 -->
+	<zone name="ssq13_2420_ssq14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5476" maxZ="-5276">
+		<node X="146151" Y="81356" />
+		<node X="146791" Y="81356" />
+		<node X="146791" Y="82815" />
+		<node X="146151" Y="82815" />
+	</zone>
+	<!-- ssq13_2420_ssq15 -->
+	<zone name="ssq13_2420_ssq15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5468" maxZ="-5268">
+		<node X="148645" Y="81447" />
+		<node X="150525" Y="81447" />
+		<node X="150525" Y="82142" />
+		<node X="148645" Y="82142" />
+	</zone>
+	<!-- ssq13_2420_ssq16 -->
+	<zone name="ssq13_2420_ssq16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="146177" Y="83964" />
+		<node X="146789" Y="83964" />
+		<node X="146789" Y="84601" />
+		<node X="146177" Y="84601" />
+	</zone>
+	<!-- ssq13_2420_ssq17 -->
+	<zone name="ssq13_2420_ssq17m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5476" maxZ="-5276">
+		<node X="147569" Y="83155" />
+		<node X="148209" Y="83155" />
+		<node X="148209" Y="84615" />
+		<node X="147569" Y="84615" />
+	</zone>
+	<!-- ssq13_2420_ssq18 -->
+	<zone name="ssq13_2420_ssq18m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="150780" Y="83948" />
+		<node X="151392" Y="83948" />
+		<node X="151392" Y="84585" />
+		<node X="150780" Y="84585" />
+	</zone>
+	<!-- ssq13_2420_ssq19 -->
+	<zone name="ssq13_2420_ssq19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="140443" Y="85047" />
+		<node X="141056" Y="85047" />
+		<node X="141056" Y="85684" />
+		<node X="140443" Y="85684" />
+	</zone>
+	<!-- ssq13_2420_ssq20 -->
+	<zone name="ssq13_2420_ssq20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="142248" Y="85056" />
+		<node X="143719" Y="85056" />
+		<node X="143719" Y="85693" />
+		<node X="142248" Y="85693" />
+	</zone>
+	<!-- ssq13_2420_ssq21 -->
+	<zone name="ssq13_2420_ssq21m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5476" maxZ="-5276">
+		<node X="144097" Y="85003" />
+		<node X="144736" Y="85003" />
+		<node X="144736" Y="86463" />
+		<node X="144097" Y="86463" />
+	</zone>
+	<!-- ssq13_2420_ssq22 -->
+	<zone name="ssq13_2420_ssq22m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="145102" Y="85063" />
+		<node X="145714" Y="85063" />
+		<node X="145714" Y="85700" />
+		<node X="145102" Y="85700" />
+	</zone>
+	<!-- ssq13_2420_ssq23 -->
+	<zone name="ssq13_2420_ssq23m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="140432" Y="86478" />
+		<node X="141903" Y="86478" />
+		<node X="141903" Y="87115" />
+		<node X="140432" Y="87115" />
+	</zone>
+	<!-- ssq13_2420_ssq24 -->
+	<zone name="ssq13_2420_ssq24m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="142916" Y="87537" />
+		<node X="143596" Y="87537" />
+		<node X="143596" Y="89416" />
+		<node X="142916" Y="89436" />
+	</zone>
+	<!-- ssq13_2420_ssq25 -->
+	<zone name="ssq13_2420_ssq25m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="144338" Y="87774" />
+		<node X="145809" Y="87774" />
+		<node X="145809" Y="88411" />
+		<node X="144338" Y="88411" />
+	</zone>
+	<!-- ssq13_2420_ssq26 -->
+	<zone name="ssq13_2420_ssq26m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="140475" Y="89672" />
+		<node X="141088" Y="89672" />
+		<node X="141088" Y="90309" />
+		<node X="140475" Y="90309" />
+	</zone>
+	<!-- ssq13_2420_ssq27 -->
+	<zone name="ssq13_2420_ssq27m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="145109" Y="89637" />
+		<node X="145721" Y="89637" />
+		<node X="145721" Y="90275" />
+		<node X="145108" Y="90275" />
+	</zone>
+	<!-- ssq13_2420_ssq28 -->
+	<zone name="ssq13_2420_ssq28m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="146179" Y="85061" />
+		<node X="146791" Y="85061" />
+		<node X="146791" Y="85698" />
+		<node X="146178" Y="85698" />
+	</zone>
+	<!-- ssq13_2420_ssq29 -->
+	<zone name="ssq13_2420_ssq29m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="149482" Y="85069" />
+		<node X="150162" Y="85069" />
+		<node X="150162" Y="86948" />
+		<node X="149482" Y="86968" />
+	</zone>
+	<!-- ssq13_2420_ssq30 -->
+	<zone name="ssq13_2420_ssq30m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="150787" Y="85027" />
+		<node X="151400" Y="85027" />
+		<node X="151400" Y="85664" />
+		<node X="150787" Y="85664" />
+	</zone>
+	<!-- ssq13_2420_ssq31 -->
+	<zone name="ssq13_2420_ssq31m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="147265" Y="86936" />
+		<node X="148736" Y="86936" />
+		<node X="148736" Y="87573" />
+		<node X="147265" Y="87573" />
+	</zone>
+	<!-- ssq13_2420_ssq32 -->
+	<zone name="ssq13_2420_ssq32m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="149498" Y="87452" />
+		<node X="150111" Y="87452" />
+		<node X="150111" Y="88089" />
+		<node X="149498" Y="88089" />
+	</zone>
+	<!-- ssq13_2420_ssq34 -->
+	<zone name="ssq13_2420_ssq34m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5468" maxZ="-5268">
+		<node X="146202" Y="88214" />
+		<node X="148081" Y="88214" />
+		<node X="148081" Y="88909" />
+		<node X="146202" Y="88909" />
+	</zone>
+	<!-- ssq13_2420_ssq35 -->
+	<zone name="ssq13_2420_ssq35m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="149640" Y="88547" />
+		<node X="150252" Y="88547" />
+		<node X="150252" Y="89184" />
+		<node X="149640" Y="89184" />
+	</zone>
+	<!-- ssq13_2420_ssq36 -->
+	<zone name="ssq13_2420_ssq36m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="146167" Y="89642" />
+		<node X="146780" Y="89642" />
+		<node X="146780" Y="90279" />
+		<node X="146167" Y="90279" />
+	</zone>
+	<!-- ssq13_2420_ssq37 -->
+	<zone name="ssq13_2420_ssq37m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="148009" Y="89336" />
+		<node X="149480" Y="89336" />
+		<node X="149480" Y="89974" />
+		<node X="148009" Y="89974" />
+	</zone>
+	<!-- ssq13_2420_ssq38 -->
+	<zone name="ssq13_2420_ssq38m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-5464" maxZ="-5264">
+		<node X="150776" Y="89633" />
+		<node X="151389" Y="89633" />
+		<node X="151389" Y="90270" />
+		<node X="150776" Y="90270" />
+	</zone>
+	<!-- aden10_tb2420_02 -->
+	<zone name="aden10_tb02_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3376" maxZ="-2776">
+		<node X="131180" Y="65640" />
+		<node X="135812" Y="65632" />
+		<node X="136428" Y="67028" />
+		<node X="132616" Y="68964" />
+		<node X="131164" Y="68040" />
+		<node X="132524" Y="69020" />
+		<node X="136736" Y="66912" />
+		<node X="137608" Y="67744" />
+		<node X="137592" Y="69460" />
+		<node X="136916" Y="70500" />
+		<node X="134800" Y="71124" />
+		<node X="134684" Y="72980" />
+		<node X="135976" Y="71264" />
+		<node X="137284" Y="71652" />
+		<node X="138824" Y="73148" />
+		<node X="135704" Y="75096" />
+		<node X="134800" Y="74100" />
+		<node X="138876" Y="73236" />
+		<node X="141140" Y="73288" />
+		<node X="141388" Y="77764" />
+		<node X="135748" Y="75136" />
+		<node X="142284" Y="73384" />
+		<node X="145200" Y="72988" />
+		<node X="146580" Y="73440" />
+		<node X="146800" Y="75192" />
+		<node X="145444" Y="76620" />
+		<node X="142876" Y="75752" />
+	</zone>
+	<!-- aden10_tb2420_10 -->
+	<zone name="aden10_tb10_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3676" maxZ="-2488">
+		<node X="143848" Y="77292" />
+		<node X="145268" Y="77780" />
+		<node X="147004" Y="79848" />
+		<node X="143720" Y="82568" />
+		<node X="142920" Y="80272" />
+		<node X="138016" Y="76308" />
+		<node X="141384" Y="77904" />
+		<node X="142176" Y="78876" />
+		<node X="141464" Y="80872" />
+		<node X="139012" Y="82608" />
+		<node X="135728" Y="75256" />
+		<node X="137864" Y="76280" />
+		<node X="138208" Y="78196" />
+		<node X="134868" Y="78376" />
+		<node X="134888" Y="76540" />
+		<node X="134432" Y="85124" />
+		<node X="136600" Y="84692" />
+		<node X="137856" Y="86760" />
+		<node X="138068" Y="88144" />
+		<node X="137356" Y="89640" />
+		<node X="134300" Y="89648" />
+		<node X="133340" Y="88188" />
+		<node X="133500" Y="85880" />
+		<node X="133416" Y="94356" />
+		<node X="138476" Y="92484" />
+		<node X="139632" Y="94328" />
+		<node X="139308" Y="95060" />
+		<node X="135808" Y="95352" />
+	</zone>
+	<!-- aden10_tb2420_23 -->
+	<zone name="aden10_tb23_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3560" maxZ="-2892">
+		<node X="156112" Y="88676" />
+		<node X="157148" Y="87864" />
+		<node X="158356" Y="88160" />
+		<node X="160688" Y="90256" />
+		<node X="158620" Y="91604" />
+		<node X="158648" Y="91700" />
+		<node X="160608" Y="90540" />
+		<node X="162024" Y="91880" />
+		<node X="162124" Y="93144" />
+		<node X="160616" Y="94452" />
+		<node X="158752" Y="94728" />
+		<node X="158196" Y="92840" />
+		<node X="147868" Y="86372" />
+		<node X="149664" Y="86524" />
+		<node X="150676" Y="88644" />
+		<node X="148640" Y="90356" />
+		<node X="146012" Y="89740" />
+		<node X="145024" Y="88768" />
+		<node X="147960" Y="81672" />
+		<node X="152880" Y="79876" />
+		<node X="152372" Y="84300" />
+		<node X="149332" Y="85080" />
+		<node X="149880" Y="85036" />
+		<node X="153236" Y="84384" />
+		<node X="154168" Y="86164" />
+		<node X="150788" Y="88648" />
+		<node X="149688" Y="86312" />
+	</zone>
+	<!-- aden10_tb2420_29 -->
+	<zone name="aden10_tb29_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3180" maxZ="-2116">
+		<node X="153572" Y="79544" />
+		<node X="156420" Y="76616" />
+		<node X="159240" Y="78748" />
+		<node X="154012" Y="83452" />
+		<node X="156952" Y="80944" />
+		<node X="159284" Y="78828" />
+		<node X="161872" Y="80340" />
+		<node X="161672" Y="83184" />
+		<node X="160116" Y="83416" />
+		<node X="158256" Y="82588" />
+		<node X="159564" Y="75468" />
+		<node X="163516" Y="74276" />
+		<node X="163508" Y="79704" />
+		<node X="161932" Y="80260" />
+		<node X="159444" Y="78752" />
+		<node X="156952" Y="74628" />
+		<node X="158556" Y="75596" />
+		<node X="158316" Y="77996" />
+		<node X="156360" Y="76476" />
+		<node X="159648" Y="71724" />
+		<node X="162304" Y="71420" />
+		<node X="162548" Y="73944" />
+		<node X="158904" Y="74872" />
+		<node X="157752" Y="74288" />
+	</zone>
+	<!-- aden10_tb2420_39 -->
+	<zone name="aden10_tb39_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3164" maxZ="-2064">
+		<node X="159464" Y="65644" />
+		<node X="163576" Y="65636" />
+		<node X="163544" Y="66348" />
+		<node X="161368" Y="67532" />
+		<node X="159976" Y="67616" />
+		<node X="151800" Y="65696" />
+		<node X="155944" Y="65660" />
+		<node X="156140" Y="67836" />
+		<node X="154896" Y="70016" />
+		<node X="151736" Y="69652" />
+		<node X="146004" Y="65752" />
+		<node X="151588" Y="65676" />
+		<node X="151608" Y="69612" />
+		<node X="147612" Y="70300" />
+		<node X="164036" Y="69844" />
+		<node X="166152" Y="70024" />
+		<node X="166604" Y="72564" />
+		<node X="165796" Y="73504" />
+		<node X="164032" Y="73700" />
+		<node X="164120" Y="74116" />
+		<node X="165344" Y="73908" />
+		<node X="166740" Y="76632" />
+		<node X="166404" Y="80164" />
+		<node X="163956" Y="80052" />
+	</zone>
+	<!-- aden10_2420_01 -->
+	<zone name="aden10_2420_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3780" maxZ="-3380">
+		<node X="136548" Y="65624" />
+		<node X="140412" Y="65640" />
+		<node X="139048" Y="67440" />
+		<node X="138004" Y="67432" />
+		<node X="136692" Y="66268" />
+	</zone>
+	<!-- aden10_2420_02 -->
+	<zone name="aden10_2420_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3792" maxZ="-3392">
+		<node X="131180" Y="65640" />
+		<node X="135812" Y="65632" />
+		<node X="136428" Y="67028" />
+		<node X="132616" Y="68964" />
+		<node X="131164" Y="68040" />
+	</zone>
+	<!-- aden10_2420_03 -->
+	<zone name="aden10_2420_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3732" maxZ="-3332">
+		<node X="132524" Y="69020" />
+		<node X="136736" Y="66912" />
+		<node X="137608" Y="67744" />
+		<node X="137592" Y="69460" />
+		<node X="136916" Y="70500" />
+		<node X="134800" Y="71124" />
+	</zone>
+	<!-- aden10_2420_04 -->
+	<zone name="aden10_2420_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3728" maxZ="-3028">
+		<node X="134684" Y="72980" />
+		<node X="135976" Y="71264" />
+		<node X="137284" Y="71652" />
+		<node X="138824" Y="73148" />
+		<node X="135704" Y="75096" />
+		<node X="134800" Y="74100" />
+	</zone>
+	<!-- aden10_2420_05 -->
+	<zone name="aden10_2420_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3732" maxZ="-2832">
+		<node X="138876" Y="73236" />
+		<node X="141140" Y="73288" />
+		<node X="141388" Y="77764" />
+		<node X="135748" Y="75136" />
+	</zone>
+	<!-- aden10_2420_06 -->
+	<zone name="aden10_2420_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3376" maxZ="-2776">
+		<node X="142284" Y="73384" />
+		<node X="145200" Y="72988" />
+		<node X="146580" Y="73440" />
+		<node X="146800" Y="75192" />
+		<node X="145444" Y="76620" />
+		<node X="142876" Y="75752" />
+	</zone>
+	<!-- aden10_2420_07 -->
+	<zone name="aden10_2420_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3368" maxZ="-2768">
+		<node X="146860" Y="75300" />
+		<node X="149624" Y="77104" />
+		<node X="148824" Y="78660" />
+		<node X="147968" Y="78744" />
+		<node X="146348" Y="78224" />
+		<node X="145388" Y="76728" />
+	</zone>
+	<!-- aden10_2420_08 -->
+	<zone name="aden10_2420_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3500" maxZ="-2900">
+		<node X="148856" Y="72504" />
+		<node X="151304" Y="72768" />
+		<node X="153356" Y="74008" />
+		<node X="152272" Y="76072" />
+		<node X="149644" Y="77064" />
+		<node X="147816" Y="75940" />
+		<node X="147696" Y="73444" />
+	</zone>
+	<!-- aden10_2420_09 -->
+	<zone name="aden10_2420_09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3476" maxZ="-3076">
+		<node X="148884" Y="73132" />
+		<node X="150632" Y="73256" />
+		<node X="149204" Y="75808" />
+		<node X="148352" Y="74836" />
+	</zone>
+	<!-- aden10_2420_10 -->
+	<zone name="aden10_2420_10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3688" maxZ="-2488">
+		<node X="143848" Y="77292" />
+		<node X="145268" Y="77780" />
+		<node X="147004" Y="79848" />
+		<node X="143720" Y="82568" />
+		<node X="142920" Y="80272" />
+	</zone>
+	<!-- aden10_2420_11 -->
+	<zone name="aden10_2420_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3676" maxZ="-2976">
+		<node X="138016" Y="76308" />
+		<node X="141384" Y="77904" />
+		<node X="142176" Y="78876" />
+		<node X="141464" Y="80872" />
+		<node X="139012" Y="82608" />
+	</zone>
+	<!-- aden10_2420_12 -->
+	<zone name="aden10_2420_12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3772" maxZ="-2872">
+		<node X="135728" Y="75256" />
+		<node X="137864" Y="76280" />
+		<node X="138208" Y="78196" />
+		<node X="134868" Y="78376" />
+		<node X="134888" Y="76540" />
+	</zone>
+	<!-- aden10_2420_13 -->
+	<zone name="aden10_2420_13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3704" maxZ="-3004">
+		<node X="134928" Y="81140" />
+		<node X="138768" Y="81292" />
+		<node X="136904" Y="84532" />
+		<node X="134152" Y="85084" />
+	</zone>
+	<!-- aden10_2420_14 -->
+	<zone name="aden10_2420_14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3736" maxZ="-2736">
+		<node X="134432" Y="85124" />
+		<node X="136600" Y="84692" />
+		<node X="137856" Y="86760" />
+		<node X="138068" Y="88144" />
+		<node X="137356" Y="89640" />
+		<node X="134300" Y="89648" />
+		<node X="133340" Y="88188" />
+		<node X="133500" Y="85880" />
+	</zone>
+	<!-- aden10_2420_15 -->
+	<zone name="aden10_2420_15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3776" maxZ="-2976">
+		<node X="134320" Y="89772" />
+		<node X="136936" Y="89772" />
+		<node X="136720" Y="91100" />
+		<node X="135868" Y="92256" />
+		<node X="134452" Y="91688" />
+	</zone>
+	<!-- aden10_2420_16 -->
+	<zone name="aden10_2420_16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3552" maxZ="-3152">
+		<node X="139988" Y="83808" />
+		<node X="141000" Y="85340" />
+		<node X="141120" Y="87848" />
+		<node X="139152" Y="87048" />
+		<node X="137972" Y="85028" />
+		<node X="138720" Y="84040" />
+	</zone>
+	<!-- aden10_2420_17 -->
+	<zone name="aden10_2420_17m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3604" maxZ="-2804">
+		<node X="139200" Y="87224" />
+		<node X="141048" Y="87924" />
+		<node X="140608" Y="89056" />
+		<node X="138908" Y="90352" />
+	</zone>
+	<!-- aden10_2420_18 -->
+	<zone name="aden10_2420_18m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3776" maxZ="-3076">
+		<node X="133416" Y="94356" />
+		<node X="138476" Y="92484" />
+		<node X="139632" Y="94328" />
+		<node X="139308" Y="95060" />
+		<node X="135808" Y="95352" />
+	</zone>
+	<!-- aden10_2420_19 -->
+	<zone name="aden10_2420_19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3796" maxZ="-3296">
+		<node X="143064" Y="90636" />
+		<node X="144572" Y="91940" />
+		<node X="142284" Y="94788" />
+		<node X="139168" Y="93604" />
+		<node X="139284" Y="92716" />
+		<node X="142228" Y="90564" />
+	</zone>
+	<!-- aden10_2420_20 -->
+	<zone name="aden10_2420_20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3784" maxZ="-3284">
+		<node X="144588" Y="91952" />
+		<node X="147292" Y="93016" />
+		<node X="145564" Y="94352" />
+		<node X="142216" Y="94888" />
+	</zone>
+	<!-- aden10_2420_21 -->
+	<zone name="aden10_2420_21m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3764" maxZ="-3264">
+		<node X="151996" Y="91236" />
+		<node X="154152" Y="91024" />
+		<node X="154140" Y="93108" />
+		<node X="151532" Y="94388" />
+		<node X="148824" Y="93192" />
+	</zone>
+	<!-- aden10_2420_22 -->
+	<zone name="aden10_2420_22m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3780" maxZ="-3080">
+		<node X="154212" Y="91064" />
+		<node X="155000" Y="89924" />
+		<node X="156672" Y="91268" />
+		<node X="158168" Y="92932" />
+		<node X="158756" Y="94952" />
+		<node X="157716" Y="95748" />
+		<node X="154200" Y="93072" />
+	</zone>
+	<!-- aden10_2420_23 -->
+	<zone name="aden10_2420_23m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3716" maxZ="-3216">
+		<node X="156112" Y="88676" />
+		<node X="157148" Y="87864" />
+		<node X="158356" Y="88160" />
+		<node X="160688" Y="90256" />
+		<node X="158620" Y="91604" />
+	</zone>
+	<!-- aden10_2420_24 -->
+	<zone name="aden10_2420_24m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3560" maxZ="-3060">
+		<node X="158648" Y="91700" />
+		<node X="160608" Y="90540" />
+		<node X="162024" Y="91880" />
+		<node X="162124" Y="93144" />
+		<node X="160616" Y="94452" />
+		<node X="158752" Y="94728" />
+		<node X="158196" Y="92840" />
+	</zone>
+	<!-- aden10_2420_25 -->
+	<zone name="aden10_2420_25m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3692" maxZ="-2892">
+		<node X="147868" Y="86372" />
+		<node X="149664" Y="86524" />
+		<node X="150676" Y="88644" />
+		<node X="148640" Y="90356" />
+		<node X="146012" Y="89740" />
+		<node X="145024" Y="88768" />
+	</zone>
+	<!-- aden10_2420_26 -->
+	<zone name="aden10_2420_26m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3744" maxZ="-3344">
+		<node X="145676" Y="82904" />
+		<node X="147412" Y="81740" />
+		<node X="147364" Y="85724" />
+		<node X="146408" Y="87520" />
+		<node X="144828" Y="88860" />
+		<node X="143980" Y="87632" />
+		<node X="143864" Y="85048" />
+	</zone>
+	<!-- aden10_2420_27 -->
+	<zone name="aden10_2420_27m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3624" maxZ="-3024">
+		<node X="147960" Y="81672" />
+		<node X="152880" Y="79876" />
+		<node X="152372" Y="84300" />
+		<node X="149332" Y="85080" />
+	</zone>
+	<!-- aden10_2420_28 -->
+	<zone name="aden10_2420_28m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3728" maxZ="-2928">
+		<node X="149880" Y="85036" />
+		<node X="153236" Y="84384" />
+		<node X="154168" Y="86164" />
+		<node X="150788" Y="88648" />
+		<node X="149688" Y="86312" />
+	</zone>
+	<!-- aden10_2420_29 -->
+	<zone name="aden10_2420_29m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3248" maxZ="-2848">
+		<node X="153572" Y="79544" />
+		<node X="156420" Y="76616" />
+		<node X="159240" Y="78748" />
+		<node X="154012" Y="83452" />
+	</zone>
+	<!-- aden10_2420_30 -->
+	<zone name="aden10_2420_30m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3056" maxZ="-2656">
+		<node X="153992" Y="84368" />
+		<node X="156952" Y="81048" />
+		<node X="158028" Y="82280" />
+		<node X="155268" Y="84292" />
+	</zone>
+	<!-- aden10_2420_31 -->
+	<zone name="aden10_2420_31m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2864" maxZ="-2464">
+		<node X="160456" Y="83688" />
+		<node X="161740" Y="83536" />
+		<node X="163504" Y="86032" />
+		<node X="163536" Y="87452" />
+		<node X="161856" Y="85872" />
+	</zone>
+	<!-- aden10_2420_32 -->
+	<zone name="aden10_2420_32m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3180" maxZ="-2580">
+		<node X="156952" Y="80944" />
+		<node X="159284" Y="78828" />
+		<node X="161872" Y="80340" />
+		<node X="161672" Y="83184" />
+		<node X="160116" Y="83416" />
+		<node X="158256" Y="82588" />
+	</zone>
+	<!-- aden10_2420_33 -->
+	<zone name="aden10_2420_33m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2772" maxZ="-2372">
+		<node X="161940" Y="80396" />
+		<node X="163616" Y="79856" />
+		<node X="163568" Y="85336" />
+		<node X="161760" Y="82900" />
+	</zone>
+	<!-- aden10_2420_34 -->
+	<zone name="aden10_2420_34m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3316" maxZ="-2116">
+		<node X="159564" Y="75468" />
+		<node X="163516" Y="74276" />
+		<node X="163508" Y="79704" />
+		<node X="161932" Y="80260" />
+		<node X="159444" Y="78752" />
+	</zone>
+	<!-- aden10_2420_35 -->
+	<zone name="aden10_2420_35m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3760" maxZ="-2960">
+		<node X="159564" Y="75468" />
+		<node X="163516" Y="74276" />
+		<node X="163508" Y="79704" />
+		<node X="161932" Y="80260" />
+		<node X="159444" Y="78752" />
+	</zone>
+	<!-- aden10_2420_36 -->
+	<zone name="aden10_2420_36m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3740" maxZ="-3140">
+		<node X="159648" Y="71724" />
+		<node X="162304" Y="71420" />
+		<node X="162548" Y="73944" />
+		<node X="158904" Y="74872" />
+		<node X="157752" Y="74288" />
+	</zone>
+	<!-- aden10_2420_37 -->
+	<zone name="aden10_2420_37m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3460" maxZ="-3060">
+		<node X="160252" Y="68212" />
+		<node X="163588" Y="67688" />
+		<node X="163568" Y="69848" />
+		<node X="162220" Y="71404" />
+		<node X="159760" Y="71664" />
+		<node X="159564" Y="69136" />
+	</zone>
+	<!-- aden10_2420_38 -->
+	<zone name="aden10_2420_38m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3796" maxZ="-3196">
+		<node X="156312" Y="67804" />
+		<node X="159364" Y="69144" />
+		<node X="159708" Y="71588" />
+		<node X="156840" Y="74448" />
+		<node X="154988" Y="70332" />
+	</zone>
+	<!-- aden10_2420_39 -->
+	<zone name="aden10_2420_39m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3804" maxZ="-3404">
+		<node X="159464" Y="65644" />
+		<node X="163576" Y="65636" />
+		<node X="163544" Y="66348" />
+		<node X="161368" Y="67532" />
+		<node X="159976" Y="67616" />
+	</zone>
+	<!-- aden10_2420_40 -->
+	<zone name="aden10_2420_40m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3820" maxZ="-3320">
+		<node X="156128" Y="65648" />
+		<node X="159360" Y="65660" />
+		<node X="159932" Y="67744" />
+		<node X="158760" Y="68716" />
+		<node X="156328" Y="67776" />
+	</zone>
+	<!-- aden10_2420_41 -->
+	<zone name="aden10_2420_41m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3760" maxZ="-3260">
+		<node X="151800" Y="65696" />
+		<node X="155944" Y="65660" />
+		<node X="156140" Y="67836" />
+		<node X="154896" Y="70016" />
+		<node X="151736" Y="69652" />
+	</zone>
+	<!-- aden10_2420_43 -->
+	<zone name="aden10_2420_43m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3812" maxZ="-3412">
+		<node X="143244" Y="65740" />
+		<node X="145816" Y="65728" />
+		<node X="147496" Y="70304" />
+		<node X="142288" Y="70272" />
+		<node X="141124" Y="69472" />
+		<node X="141236" Y="67504" />
+	</zone>
+</list>

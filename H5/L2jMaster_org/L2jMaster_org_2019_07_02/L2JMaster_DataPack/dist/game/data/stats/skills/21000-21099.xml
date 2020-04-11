@@ -1,0 +1,1895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="21000" levels="1" name="Release Seal on Agathion - Majo">
+		<!-- Confirmed CT2.5 -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1501" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21001" levels="1" name="Release Seal on Agathion - Gold Majo">
+		<!-- Confirmed CT2.5 -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1502" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21002" levels="1" name="Release Seal on Agathion - Black Majo">
+		<!-- Confirmed CT2.5 -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1503" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21003" levels="1" name="Release Seal on Agathion - Plaipitak">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1504" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21004" levels="1" name="Wind Walk">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="120" />
+		<set name="abnormalType" val="SPEED_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="BranchSys.icon.br_Afro_hair_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="1080000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="runSpd" val="20" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21005" levels="1" name="Agility">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="AVOID_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="86400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="rEvas" val="4" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21006" levels="1" name="Large Firework Effect">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="BranchSys.icon.br_Afro_hair_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+	</skill>
+	<skill id="21007" levels="1" name="Ability of Doubt">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="0" />
+		<set name="abnormalTime" val="600" />
+		<set name="abnormalType" val="BIG_HEAD" />
+		<set name="abnormalVisualEffect" val="BIG_HEAD" />
+		<set name="activateRate" val="0" />
+		<set name="icon" val="BranchSys.icon.br_Afro_hair_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+	</skill>
+	<skill id="21008" levels="1" name="Release Seal on Agathion - Baby Panda">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1505" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21009" levels="1" name="Release Seal on Agathion - Bamboo Panda">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1506" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21010" levels="1" name="Release Seal on Agathion - Sexy Panda">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1507" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21011" levels="1" name="Energy Recovery">
+		<!-- Recovers energy when acquiring Exp. for 20 minutes -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="1200" />
+		<set name="abnormalType" val="VP_UP" />
+		<set name="abnormalVisualEffect" val="VP_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="BranchSys.icon.br_Afro_hair_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="43200000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<sub stat="vitalityConsumeRate" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21012" levels="1" name="Energy Recovery">
+		<!-- Recovers energy when acquiring Exp. for 20 minutes -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="1200" />
+		<set name="abnormalType" val="VP_UP" />
+		<set name="abnormalVisualEffect" val="VP_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="BranchSys.icon.br_Eye_Glasses_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="43200000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<sub stat="vitalityConsumeRate" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21013" levels="1" name="Energy Recovery">
+		<!-- Recovers energy when acquiring Exp. for 20 minutes -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="1200" />
+		<set name="abnormalType" val="VP_UP" />
+		<set name="abnormalVisualEffect" val="VP_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="BranchSys.icon.br_Bamboo_Hat_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="43200000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<sub stat="vitalityConsumeRate" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21014" levels="1" name="Scissors">
+		<set name="affectScope" val="SINGLE" />
+		<set name="castRange" val="400" />
+		<set name="coolTime" val="500" />
+		<set name="effectPoint" val="-1" />
+		<set name="effectRange" val="500" />
+		<set name="hitTime" val="2000" />
+		<set name="icon" val="BranchSys.icon.br_xmas_gawi_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE" />
+		<set name="targetType" val="ENEMY" />
+		<cond msgId="109">
+			<target npcId="13183" />
+		</cond>
+	</skill>
+	<skill id="21015" levels="1" name="Rock">
+		<set name="affectScope" val="SINGLE" />
+		<set name="castRange" val="400" />
+		<set name="coolTime" val="500" />
+		<set name="effectPoint" val="-1" />
+		<set name="hitTime" val="2000" />
+		<set name="icon" val="BranchSys.icon.br_xmas_bawi_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE" />
+		<set name="targetType" val="ENEMY" />
+		<cond msgId="109">
+			<target npcId="13183" />
+		</cond>
+	</skill>
+	<skill id="21016" levels="1" name="Paper">
+		<set name="affectScope" val="SINGLE" />
+		<set name="castRange" val="400" />
+		<set name="coolTime" val="500" />
+		<set name="effectPoint" val="-1" />
+		<set name="hitTime" val="2000" />
+		<set name="icon" val="BranchSys.icon.br_xmas_bo_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE" />
+		<set name="targetType" val="ENEMY" />
+		<cond msgId="109">
+			<target npcId="13183" />
+		</cond>
+	</skill>
+	<skill id="21017" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<add stat="critRate" val="100" />
+				<add stat="absorbDam" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21018" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<add stat="critRate" val="100" />
+				<mul stat="critDmg" val="1.25" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21019" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="blowRate" val="1.25" />
+				<mul stat="magicalMpConsumeRate" val="0.8" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21020" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<add stat="critRate" val="100" />
+				<add stat="absorbDam" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21021" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<add stat="critRate" val="100" />
+				<mul stat="critDmg" val="1.25" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21022" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtkSpd" val="1.25" />
+				<mul stat="magicalMpConsumeRate" val="0.8" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21023" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="mAtk" val="1.5" />
+				<mul stat="magicalMpConsumeRate" val="0.8" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21024" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="magicalMpConsumeRate" val="0.8" />
+				<add stat="absorbDam" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21025" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtkRange" val="1.25" />
+				<mul stat="critRate" val="1.25" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21026" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<add stat="atkCountMax" val="10" />
+				<add stat="absorbDam" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21027" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<mul stat="pAtkSpd" val="1.25" />
+				<mul stat="physicalMpConsumeRate" val="0.8" />
+				<mul stat="danceMpConsumeRate" val="0.8" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21028" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<add stat="critRate" val="100" />
+				<add stat="absorbDam" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21029" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<add stat="critRate" val="100" />
+				<mul stat="critDmg" val="1.25" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21030" levels="1" name="Holiday Dream Weapon">
+		<set name="icon" val="BranchSys.icon.br_xmas_weapon_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxCp">
+				<param power="30" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<add stat="rEvas" val="5" />
+				<add stat="accCombat" val="5" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21031" levels="1" name="Agathion Seal Release - Charming Cupid">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1508" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21032" levels="1" name="Agathion Seal Release - Naughty Cupid">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1509" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21033" levels="1" name="Release Seal on Agathion - White Maneki Neko">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1510" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21034" levels="1" name="Release Seal on Agathion - Black Maneki Neko">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1511" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21035" levels="1" name="Release Seal on Agathion - Brown Maneki Neko">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1512" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21036" levels="1" name="Release Seal on Agathion - One-eyed Bat Drove">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1513" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21037" levels="1" name="Release Seal on Agathion - Pegasus">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1514" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21038" levels="1" name="Release Seal on Agathion - Yellow-robed Tojigong">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1515" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21039" levels="1" name="Release Seal on Agathion - Blue-robed Tojigong">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1516" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21040" levels="1" name="Release Seal on Agathion - Green-robed Tojigong">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1517" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21041" levels="1" name="Release Seal on Agathion - Bugbear">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1518" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21042" levels="1" name="Baguette's Blessing">
+		<!-- Confirmed CT2.5 -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.skill3123" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="1800000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="HpPerMax">
+				<param power="100" />
+			</effect>
+			<effect name="MpPerMax">
+				<param power="50" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21043" levels="1" name="Agathion Seal Cancel - Red Sumo Wrestler">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1519" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21044" levels="1" name="Agathion Seal Cancel - Blue Sumo Wrestler Agathion">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1520" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21045" levels="1" name="Agathion Seal Cancel - Great Sumo Match">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1521" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21046" levels="1" name="Agathion Seal Cancel - Button-Eyed Bear Doll">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1522" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21047" levels="1" name="Agathion Seal Cancel - God of Fortune">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1523" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21048" levels="1" name="Agathion Seal Cancel - Dryad">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1524" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21049" levels="1" name="Agathion Seal Cancel - Wonboso">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1525" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21050" levels="1" name="Agathion Seal Cancel - Daewoonso">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1526" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21051" levels="1" name="Steam Beatle Mount">
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="TRANSFORM" />
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond>
+			<player canTransform="true" />
+		</cond>
+		<effects>
+			<effect name="Transformation">
+				<param id="110" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21052" levels="1" name="Bless the Body">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="1800" />
+		<set name="abnormalType" val="MAX_HP_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="14400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="25" />
+				<param type="PER" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21053" levels="1" name="Bless the Soul">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="1800" />
+		<set name="abnormalType" val="MAX_MP_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="14400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxMp">
+				<param power="25" />
+				<param type="PER" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21054" levels="1" name="Blessed Resurrection Ability">
+		<!-- Confirmed CT2.5 -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="affectScope" val="SINGLE" />
+		<set name="castRange" val="400" />
+		<set name="effectPoint" val="1" />
+		<set name="effectRange" val="600" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="BranchSys.icon.br_Uniform_Hat_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="43200000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="PC_BODY" />
+		<cond>
+			<player canResurrect="true" />
+		</cond>
+		<effects>
+			<effect name="Resurrection">
+				<param power="200" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21055" levels="1" name="Wind Walk">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="120" />
+		<set name="abnormalType" val="SPEED_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="BranchSys.icon.br_Bamboo_Hat_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="1080000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="runSpd" val="20" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21056" levels="1" name="Agility">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="AVOID_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="86400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="rEvas" val="4" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21057" levels="1" name="Reflect">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="DMG_SHIELD" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="BranchSys.icon.br_Ribbon_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<add stat="reflectDam" val="20" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21058" levels="1" name="Mana Regeneration">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="MP_REGEN_UP" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="BranchSys.icon.br_Eye_Visor_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<add stat="regMp" val="3.09" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21059" levels="1" name="Greater Heal">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="15" />
+		<set name="abnormalType" val="LIFE_FORCE_OTHERS" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_cat_the_cat_cap_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="14400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="TickHp">
+				<param power="30" />
+				<param ticks="1" />
+			</effect>
+			<effect name="Heal">
+				<param power="444" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21060" levels="1" name="Death Whisper">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="CRITICAL_DMG_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_skeleton_cap_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<mul stat="critDmg" val="1.35" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21061" levels="1" name="Agility">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="AVOID_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="86400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="rEvas" val="4" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21062" levels="1" name="Wild Magic">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="MAGIC_CRITICAL_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="BranchSys.icon.br_Afro_hair_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="mCritRate" val="2" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21063" levels="1" name="Wind Walk">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="120" />
+		<set name="abnormalType" val="SPEED_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="BranchSys.icon.br_goggles_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="1080000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="runSpd" val="20" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21064" levels="1" name="Mana Regeneration">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="MP_REGEN_UP" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="BranchSys.icon.br_napoleonic_cap_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<add stat="regMp" val="3.09" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21065" levels="1" name="Reflect">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="DMG_SHIELD" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="BranchSys.icon.br_horn_hairband_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<add stat="reflectDam" val="20" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21066" levels="1" name="Energy Recovery">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="VP_UP" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="BranchSys.icon.br_black_gem_mask_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<sub stat="vitalityConsumeRate" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21067" levels="1" name="Blessed Escape Ability">
+		<!-- Confirmed CT2.5 -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="200" />
+		<set name="icon" val="BranchSys.icon.br_plastic_hair_f_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="43200000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond msgId="113" addName="1">
+			<and>
+				<player canEscape="true" />
+				<not>
+					<player insideZoneId="10501, 10502, 10503, 10504, 10505, 10506, 10507, 10508" />
+				</not>
+			</and>
+		</cond>
+		<effects>
+			<effect name="Escape">
+				<param escapeType="TOWN" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21068" levels="1" name="Resist Unholy">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="ARMOR_UNHOLY" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_daisy_hairpin_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<add stat="darkRes" val="30" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21069" levels="1" name="Wind Walk">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="120" />
+		<set name="abnormalType" val="SPEED_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="icon.accessory_forget_me_not_hairpin_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="1080000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="runSpd" val="20" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21070" levels="1" name="Death Whisper">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="CRITICAL_DMG_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_outlaw_eyepatch_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<mul stat="critDmg" val="1.35" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21071" levels="1" name="Agility">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="AVOID_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="86400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="rEvas" val="4" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21072" levels="1" name="Wild Magic">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="MAGIC_CRITICAL_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_glasses_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="mCritRate" val="2" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21073" levels="1" name="Mana Regeneration">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="MP_REGEN_UP" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_worldcup_mask_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<add stat="regMp" val="3.09" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21074" levels="1" name="Reflect">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="DMG_SHIELD" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_hair_cornu_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<add stat="reflectDam" val="20" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21075" levels="1" name="Greater Heal">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="15" />
+		<set name="abnormalType" val="LIFE_FORCE_OTHERS" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_party_mask_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="14400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="TickHp">
+				<param power="30" />
+				<param ticks="1" />
+			</effect>
+			<effect name="Heal">
+				<param power="444" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21076" levels="1" name="Resist Unholy">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="ARMOR_UNHOLY" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_party_mask_i01" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<add stat="darkRes" val="30" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21077" levels="1" name="Wind Walk">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="120" />
+		<set name="abnormalType" val="SPEED_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="icon.accessory_cat_ear_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="1080000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="runSpd" val="20" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21078" levels="1" name="Death Whisper">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="CRITICAL_DMG_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_hairpin_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<mul stat="critDmg" val="1.35" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21079" levels="1" name="Agility">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="AVOID_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="86400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="rEvas" val="4" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21080" levels="1" name="Wild Magic">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="MAGIC_CRITICAL_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_rabbit_ear_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="mCritRate" val="2" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21081" levels="1" name="Mana Regeneration">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="MP_REGEN_UP" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_hair_ring_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<add stat="regMp" val="3.09" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21082" levels="1" name="Reflect">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="DMG_SHIELD" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_hair_feeler_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<add stat="reflectDam" val="20" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21083" levels="1" name="Greater Heal">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="15" />
+		<set name="abnormalType" val="LIFE_FORCE_OTHERS" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_archer_hat_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="14400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="TickHp">
+				<param power="30" />
+				<param ticks="1" />
+			</effect>
+			<effect name="Heal">
+				<param power="444" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21084" levels="1" name="Energy Recovery">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="VP_UP" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.accessory_dwarf_goggle_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<set name="trait" val="ETC" />
+		<effects>
+			<effect name="Buff">
+				<sub stat="vitalityConsumeRate" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21085" levels="1" name="Agathion Seal Cancel - Pomona">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1527" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21086" levels="1" name="Blessing of Love">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="10" />
+		<set name="abnormalType" val="INVINCIBILITY" />
+		<set name="abnormalVisualEffect" val="INVINCIBILITY" />
+		<set name="activateRate" val="0" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="BranchSys.icon.br_garland_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="14400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="BlockDamage">
+				<param block="HP"/>
+			</effect>
+			<effect name="BlockDamage">
+				<param block="MP"/>
+			</effect>
+			<effect name="BlockDebuff" />
+			<effect name="Buff">
+				<sub stat="cancelVuln" val="100" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21087" levels="1" name="Berserker Spirit">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="1200" />
+		<set name="abnormalType" val="BERSERKER" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="BranchSys.icon.br_circlet_of_eva_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<mul stat="pAtk" val="1.08" />
+				<mul stat="pAtkSpd" val="1.08" />
+				<mul stat="mAtk" val="1.16" />
+				<mul stat="mAtkSpd" val="1.08" />
+				<add stat="runSpd" val="8" />
+				<mul stat="pDef" val="0.92" />
+				<mul stat="mDef" val="0.84" />
+				<sub stat="rEvas" val="4" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21088" levels="1" name="Summon Friend">
+		<!-- Confirmed CT2.5 -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="affectScope" val="SINGLE" />
+		<set name="castRange" val="-2" />
+		<set name="effectPoint" val="1000" />
+		<set name="effectRange" val="-2" />
+		<set name="hitTime" val="10000" />
+		<set name="icon" val="icon.skill_agathion_special" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="OTHERS" />
+		<cond>
+			<and>
+				<target myPartyExceptMe="true" />
+				<player callPc="true" />
+			</and>
+		</cond>
+		<cond msgId="113" addName="1">
+			<not>
+				<player insideZoneId="10501, 10502, 10503, 10504, 10505, 10506, 10507, 10508" />
+			</not>
+		</cond>
+		<effects>
+			<effect name="CallPc" />
+		</effects>
+	</skill>
+	<skill id="21089" levels="1" name="Dance of Shadows">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="120" />
+		<set name="abnormalType" val="DANCE_OF_SHADOW" />
+		<set name="abnormalVisualEffect" val="STEALTH" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="effectPoint" val="666" />
+		<set name="hitTime" val="2500" />
+		<set name="icon" val="BranchSys.icon.br_invokespirit_stick_a_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SilentMove">
+				<mul stat="runSpd" val="0.5" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21090" levels="1" name="Soul of Phoenix">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="1800" />
+		<set name="abnormalType" val="RESURRECTION_SPECIAL" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="effectPoint" val="673" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="BranchSys.icon.br_comfortspirit_hat_a_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="1" /> <!-- Magic Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="86400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="reuseDelayLock" val="true" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="ResurrectionSpecial">
+				<param resPower="100" />
+				<param resRecovery="100" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21091" levels="1" name="Agathion Seal Cancel - Weaver">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1528" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21092" levels="1" name="Theme - Love">
+		<set name="icon" val="BranchSys.icon.br_headphone_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="21093" levels="1" name="Theme - Hero">
+		<set name="icon" val="BranchSys.icon.br_headphone_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="21094" levels="1" name="Theme - Theme Park">
+		<set name="icon" val="BranchSys.icon.br_headphone_i00" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="21095" levels="1" name="Blessed Resurrection">
+		<!-- Confirmed CT2.5 -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="affectScope" val="SINGLE" />
+		<set name="castRange" val="400" />
+		<set name="coolTime" val="600" />
+		<set name="effectPoint" val="1" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="BranchSys.icon.br_comfortspirit_hat_a_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="43200000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="PC_BODY" />
+		<cond>
+			<player canResurrect="true" />
+		</cond>
+		<effects>
+			<effect name="Resurrection">
+				<param power="100" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21096" levels="1" name="Ability of Cool Watermelon">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="1800" />
+		<set name="abnormalType" val="IMPROVE_CRT_RATE_DMG_UP" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="BranchSys.icon.br_watermelon_cap_a_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="14400000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<mul stat="critRate" val="1.3" />
+				<mul stat="critDmg" val="1.35" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21097" levels="1" name="Summon Friend">
+		<!-- Confirmed CT2.5 -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="affectScope" val="SINGLE" />
+		<set name="castRange" val="-2" />
+		<set name="effectPoint" val="1000" />
+		<set name="effectRange" val="-2" />
+		<set name="hitTime" val="10000" />
+		<set name="icon" val="icon.skill_agathion_special" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="OTHERS" />
+		<cond>
+			<and>
+				<target myPartyExceptMe="true" />
+				<player callPc="true" />
+			</and>
+		</cond>
+		<cond msgId="113" addName="1">
+			<not>
+				<player insideZoneId="10501, 10502, 10503, 10504, 10505, 10506, 10507, 10508" />
+			</not>
+		</cond>
+		<effects>
+			<effect name="CallPc" />
+		</effects>
+	</skill>
+	<skill id="21098" levels="1" name="Great Adventurer's Soul Power : Endless">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="MULTI_BUFF" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="BranchSys.icon.br_valkyrie_cap_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="MaxHp">
+				<param power="20" />
+				<param type="PER" />
+			</effect>
+			<effect name="MaxMp">
+				<param power="20" />
+				<param type="PER" />
+			</effect>
+			<effect name="Buff">
+				<add stat="runSpd" val="20" />
+				<sub stat="debuffVuln" val="10" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="21099" levels="1" name="Great Warrior's Soul Power: Strength">
+		<!-- Confirmed CT2.5 -->
+		<set name="abnormalLvl" val="26" />
+		<set name="abnormalTime" val="300" />
+		<set name="abnormalType" val="MULTI_BUFF" />
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="4000" />
+		<set name="icon" val="BranchSys.icon.br_tiger_cap_i00" />
+		<set name="irreplaceableBuff" val="true" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="-1" />
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<mul stat="pAtkSpd" val="1.2" />
+				<mul stat="pDef" val="1.2" />
+				<mul stat="pAtk" val="1.1" />
+				<add stat="absorbDam" val="5" />
+			</effect>
+		</effects>
+	</skill>
+</list>

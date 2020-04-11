@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- godard30_npc2515_01 -->
+	<spawn zone="godard14_npc2515_0101">
+		<npc id="31453" x="178292" y="-85577" z="-7200" heading="16256" respawnDelay="60" /> <!-- Nameless Spirit -->
+	</spawn>
+	<!-- godard30_npc2515_02 -->
+	<spawn zone="godard14_npc2515_0201">
+		<npc id="31454" x="169589" y="-91293" z="-2896" heading="16384" respawnDelay="60" /> <!-- Ghost of Wigoth -->
+	</spawn>
+	<!-- godard30_npc2515_03 -->
+	<spawn zone="godard14_npc2515_0301">
+		<npc id="31919" x="170279" y="-88244" z="-2896" heading="22024" respawnDelay="60" /> <!-- Elmoreden's Ghost Chamberlain -->
+	</spawn>
+	<!-- godard30_npc2515_04 -->
+	<spawn zone="godard14_npc2515_0401">
+		<npc id="31538" x="181611" y="-75293" z="-2728" heading="-26000" respawnDelay="60" /> <!-- Ghost of Adventurer -->
+	</spawn>
+	<!-- godard16_npc2515_11 -->
+	<spawn zone="godard14_npc2515_1101">
+		<npc id="31921" x="181061" y="-85595" z="-7200" heading="-32584" respawnDelay="60" /> <!-- Conquerors' Sepulcher Manager -->
+	</spawn>
+	<!-- godard17_npc2515_21 -->
+	<spawn zone="godard14_npc2515_2101">
+		<npc id="31922" x="179292" y="-88981" z="-7200" heading="-33272" respawnDelay="60" /> <!-- Emperors' Sepulcher Manager -->
+	</spawn>
+	<!-- godard19_npc2515_41 -->
+	<spawn zone="godard14_npc2515_4101">
+		<npc id="31924" x="175606" y="-82853" z="-7200" heading="-16248" respawnDelay="60" /> <!-- Judges' Sepulcher Manager -->
+	</spawn>
+	<!-- godard18_npc2515_31 -->
+	<spawn zone="godard14_npc2515_3101">
+		<npc id="31923" x="173202" y="-87004" z="-7200" heading="-16248" respawnDelay="60" /> <!-- Great Sages' Sepulcher Manager -->
+	</spawn>
+	<!-- godard32_npc2515_02 -->
+	<spawn zone="godard32_npc2515_01m1">
+		<npc id="32011" x="181376" y="-81008" z="-2736" heading="16500" respawnDelay="60" /> <!-- Imperial Tomb Guide -->
+	</spawn>
+	<!-- four_sepulcher -->
+	<spawn zone="four_sepulcher">
+		<npc id="31925" x="182692" y="-85393"  z="-7218" heading="32768" respawnDelay="60" /> <!-- Baron's Hall Gatekeeper -->
+		<npc id="31926" x="184501" y="-85393"  z="-7218" heading="32768" respawnDelay="60" /> <!-- Viscount's Hall Gatekeeper -->
+		<npc id="31927" x="186298" y="-85393"  z="-7218" heading="32768" respawnDelay="60" /> <!-- Count's Hall Gatekeeper -->
+		<npc id="31928" x="188109" y="-85393"  z="-7218" heading="32768" respawnDelay="60" /> <!-- Marquis' Hall Gatekeeper -->
+		<npc id="31929" x="189922" y="-85393"  z="-7218" heading="32768" respawnDelay="60" /> <!-- Duke's Hall Gatekeeper -->
+		<npc id="31930" x="180989" y="-88793"  z="-7218" heading="32768" respawnDelay="60" /> <!-- Baron's Hall Gatekeeper -->
+		<npc id="31931" x="182779" y="-88793"  z="-7218" heading="32768" respawnDelay="60" /> <!-- Viscount's Hall Gatekeeper -->
+		<npc id="31932" x="184609" y="-88793"  z="-7218" heading="32768" respawnDelay="60" /> <!-- Count's Hall Gatekeeper -->
+		<npc id="31933" x="186412" y="-88793"  z="-7218" heading="32768" respawnDelay="60" /> <!-- Marquis' Hall Gatekeeper -->
+		<npc id="31934" x="188234" y="-88793"  z="-7218" heading="32768" respawnDelay="60" /> <!-- Duke's Hall Gatekeeper -->
+		<npc id="31935" x="173023" y="-85108"  z="-7218" heading="49152" respawnDelay="60" /> <!-- Baron's Hall Gatekeeper -->
+		<npc id="31936" x="173023" y="-83279"  z="-7218" heading="49152" respawnDelay="60" /> <!-- Viscount's Hall Gatekeeper -->
+		<npc id="31937" x="173023" y="-81480"  z="-7218" heading="49152" respawnDelay="60" /> <!-- Count's Hall Gatekeeper -->
+		<npc id="31938" x="173023" y="-79676"  z="-7218" heading="49152" respawnDelay="60" /> <!-- Marquis' Hall Gatekeeper -->
+		<npc id="31939" x="173023" y="-77856"  z="-7218" heading="49152" respawnDelay="60" /> <!-- Duke's Hall Gatekeeper -->
+		<npc id="31940" x="175413" y="-81271"  z="-7218" heading="49152" respawnDelay="60" /> <!-- Baron's Hall Gatekeeper -->
+		<npc id="31941" x="175413" y="-79478"  z="-7218" heading="49152" respawnDelay="60" /> <!-- Viscount's Hall Gatekeeper -->
+		<npc id="31942" x="175413" y="-77677"  z="-7218" heading="49152" respawnDelay="60" /> <!-- Count's Hall Gatekeeper -->
+		<npc id="31943" x="175413" y="-75859"  z="-7218" heading="49152" respawnDelay="60" /> <!-- Marquis' Hall Gatekeeper -->
+		<npc id="31944" x="175413" y="-74048"  z="-7218" heading="49152" respawnDelay="60" /> <!-- Duke's Hall Gatekeeper -->
+	</spawn>
+	<!-- godard27_2515_01 -->
+	<spawn zone="godard27_2515_0101">
+		<npc id="21648" count="1" respawnDelay="45" /> <!-- Grave Ant -->
+		<npc id="21649" count="1" respawnDelay="45" /> <!-- Scavenger Ant -->
+		<npc id="21650" count="1" respawnDelay="45" /> <!-- Shrine Knight -->
+		<npc id="21651" count="1" respawnDelay="45" /> <!-- Shrine Guard -->
+	</spawn>
+	<!-- godard27_2515_02 -->
+	<spawn zone="godard27_2515_0201">
+		<npc id="21648" count="1" respawnDelay="45" /> <!-- Grave Ant -->
+		<npc id="21650" count="1" respawnDelay="45" /> <!-- Shrine Knight -->
+		<npc id="21651" count="1" respawnDelay="45" /> <!-- Shrine Guard -->
+	</spawn>
+	<!-- godard27_2515_03 -->
+	<spawn zone="godard27_2515_0301">
+		<npc id="21648" count="1" respawnDelay="45" /> <!-- Grave Ant -->
+		<npc id="21649" count="1" respawnDelay="45" /> <!-- Scavenger Ant -->
+		<npc id="21651" count="1" respawnDelay="45" /> <!-- Shrine Guard -->
+	</spawn>
+	<!-- godard14_2515_03 -->
+	<spawn zone="godard14_03_01">
+		<npc id="21798" count="4" respawnDelay="90" respawnRandom="20" /> <!-- Ghost of a Doorman -->
+		<npc id="21799" count="3" respawnDelay="90" respawnRandom="20" /> <!-- Ghost of a Doorman -->
+		<npc id="21800" count="4" respawnDelay="90" respawnRandom="20" /> <!-- Vassal Ghost -->
+	</spawn>
+	<!-- godard14_2515_04 -->
+	<spawn zone="godard14_04_01">
+		<npc id="21798" count="2" respawnDelay="90" respawnRandom="20" /> <!-- Ghost of a Doorman -->
+		<npc id="21799" count="2" respawnDelay="90" respawnRandom="20" /> <!-- Ghost of a Doorman -->
+	</spawn>
+	<!-- godard14_2515_05 -->
+	<spawn zone="godard14_05_01">
+		<npc id="21397" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Carrion Scarab -->
+		<npc id="21398" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Soldier Scarab -->
+		<npc id="21399" count="1" respawnDelay="180" respawnRandom="40" /> <!-- Soldier Scarab -->
+		<npc id="21402" count="1" respawnDelay="45" respawnRandom="15" /> <!-- Katraxis -->
+		<npc id="21403" count="2" respawnDelay="90" respawnRandom="25" /> <!-- Katraxis -->
+		<npc id="21405" count="2" respawnDelay="40" respawnRandom="15" /> <!-- Tera Beetle -->
+	</spawn>
+	<!-- godard14_2515_07 -->
+	<spawn zone="godard14_07_01">
+		<npc id="21397" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Carrion Scarab -->
+		<npc id="21398" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Soldier Scarab -->
+		<npc id="21399" count="1" respawnDelay="180" respawnRandom="40" /> <!-- Soldier Scarab -->
+		<npc id="21402" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Katraxis -->
+		<npc id="21403" count="2" respawnDelay="90" respawnRandom="25" /> <!-- Katraxis -->
+		<npc id="21405" count="2" respawnDelay="40" respawnRandom="15" /> <!-- Tera Beetle -->
+	</spawn>
+	<!-- godard14_2515_06 -->
+	<spawn zone="godard14_06_01">
+		<npc id="21396" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Carrion Scarab -->
+		<npc id="21398" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Soldier Scarab -->
+		<npc id="21399" count="1" respawnDelay="180" respawnRandom="40" /> <!-- Soldier Scarab -->
+		<npc id="21402" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Katraxis -->
+		<npc id="21403" count="2" respawnDelay="90" respawnRandom="25" /> <!-- Katraxis -->
+		<npc id="21404" count="2" respawnDelay="40" respawnRandom="15" /> <!-- Tera Beetle -->
+	</spawn>
+	<!-- godard14_2515_08 -->
+	<spawn zone="godard14_08_01">
+		<npc id="21396" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Carrion Scarab -->
+		<npc id="21398" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Soldier Scarab -->
+		<npc id="21399" count="1" respawnDelay="180" respawnRandom="40" /> <!-- Soldier Scarab -->
+		<npc id="21402" count="1" respawnDelay="40" respawnRandom="15" /> <!-- Katraxis -->
+		<npc id="21403" count="2" respawnDelay="90" respawnRandom="25" /> <!-- Katraxis -->
+		<npc id="21404" count="2" respawnDelay="40" respawnRandom="15" /> <!-- Tera Beetle -->
+	</spawn>
+	<!-- godard14_2515_09 -->
+	<spawn zone="godard14_09_01">
+		<npc id="21400" count="3" respawnDelay="45" /> <!-- Hexa Beetle -->
+		<npc id="21408" count="3" respawnDelay="45" /> <!-- Royal Guard of Empire -->
+		<npc id="21410" count="3" respawnDelay="60" /> <!-- Guardian Scarab -->
+		<npc id="21411" count="3" respawnDelay="60" /> <!-- Guardian Scarab -->
+	</spawn>
+	<!-- godard14_2515_10 -->
+	<spawn zone="godard14_10_01">
+		<npc id="21400" count="3" respawnDelay="45" /> <!-- Hexa Beetle -->
+		<npc id="21408" count="3" respawnDelay="45" /> <!-- Royal Guard of Empire -->
+		<npc id="21410" count="3" respawnDelay="60" /> <!-- Guardian Scarab -->
+		<npc id="21411" count="3" respawnDelay="60" /> <!-- Guardian Scarab -->
+	</spawn>
+	<!-- godard14_2515_11 -->
+	<spawn zone="godard14_11_01">
+		<npc id="21400" count="3" respawnDelay="45" /> <!-- Hexa Beetle -->
+		<npc id="21408" count="3" respawnDelay="45" /> <!-- Royal Guard of Empire -->
+		<npc id="21410" count="3" respawnDelay="60" /> <!-- Guardian Scarab -->
+		<npc id="21411" count="3" respawnDelay="60" /> <!-- Guardian Scarab -->
+	</spawn>
+	<!-- godard14_2515_12 -->
+	<spawn zone="godard14_12_01">
+		<npc id="21401" count="2" respawnDelay="40" /> <!-- Hexa Beetle -->
+		<npc id="21407" count="2" respawnDelay="40" /> <!-- Knight of Empire -->
+		<npc id="21416" count="2" respawnDelay="40" /> <!-- Imperial Commander -->
+		<npc id="21424" count="2" respawnDelay="40" /> <!-- Ashkenas -->
+		<npc id="21432" count="2" respawnDelay="40" /> <!-- Chakram Beetle -->
+	</spawn>
+	<!-- godard14_2515_13 -->
+	<spawn zone="godard14_13_01">
+		<npc id="21401" count="2" respawnDelay="40" /> <!-- Hexa Beetle -->
+		<npc id="21407" count="2" respawnDelay="40" /> <!-- Knight of Empire -->
+		<npc id="21416" count="2" respawnDelay="40" /> <!-- Imperial Commander -->
+		<npc id="21424" count="2" respawnDelay="40" /> <!-- Ashkenas -->
+		<npc id="21432" count="2" respawnDelay="40" /> <!-- Chakram Beetle -->
+	</spawn>
+	<!-- godard14_2515_14 -->
+	<spawn zone="godard14_14_01">
+		<npc id="21401" count="2" respawnDelay="40" /> <!-- Hexa Beetle -->
+		<npc id="21407" count="2" respawnDelay="40" /> <!-- Knight of Empire -->
+		<npc id="21416" count="2" respawnDelay="40" /> <!-- Imperial Commander -->
+		<npc id="21424" count="2" respawnDelay="40" /> <!-- Ashkenas -->
+		<npc id="21432" count="2" respawnDelay="40" /> <!-- Chakram Beetle -->
+	</spawn>
+	<!-- godard14_2515_15 -->
+	<spawn zone="godard14_15_01">
+		<npc id="21407" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Knight of Empire -->
+		<npc id="21414" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Assassin of Empire -->
+		<npc id="21418" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Imperial Royal Guard -->
+		<npc id="21422" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Dancer of Empire -->
+		<npc id="21423" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Dancer of Empire -->
+		<npc id="21424" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Ashkenas -->
+		<npc id="21425" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Ashkenas -->
+	</spawn>
+	<!-- godard14_2515_16 -->
+	<spawn zone="godard14_16_01">
+		<npc id="21407" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Knight of Empire -->
+		<npc id="21414" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Assassin of Empire -->
+		<npc id="21418" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Imperial Royal Guard -->
+		<npc id="21422" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Dancer of Empire -->
+		<npc id="21423" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Dancer of Empire -->
+		<npc id="21424" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Ashkenas -->
+		<npc id="21425" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Ashkenas -->
+	</spawn>
+	<!-- godard14_2515_17 -->
+	<spawn zone="godard14_17_01">
+		<npc id="21406" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Knight of Empire -->
+		<npc id="21415" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Assassin of Empire -->
+		<npc id="21418" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Imperial Royal Guard -->
+		<npc id="21422" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Dancer of Empire -->
+		<npc id="21423" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Dancer of Empire -->
+		<npc id="21424" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Ashkenas -->
+		<npc id="21425" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Ashkenas -->
+	</spawn>
+	<!-- godard14_2515_18 -->
+	<spawn zone="godard14_18_01">
+		<npc id="21412" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ustralith -->
+		<npc id="21413" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ustralith -->
+		<npc id="21420" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ashuras -->
+		<npc id="21421" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ashuras -->
+		<npc id="21426" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Abraxion -->
+		<npc id="21428" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Hasturan -->
+		<npc id="21430" count="1" respawnDelay="90" respawnRandom="30" /> <!-- Arimanes -->
+		<npc id="21427" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Abraxion -->
+		<npc id="21429" count="1" respawnDelay="90" respawnRandom="30" /> <!-- Hasturan -->
+		<npc id="21430" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Arimanes -->
+		<npc id="21434" count="1" respawnDelay="720" respawnRandom="120" /> <!-- Seer of Blood -->
+	</spawn>
+	<!-- godard14_2515_19 -->
+	<spawn zone="godard14_19_01">
+		<npc id="21412" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ustralith -->
+		<npc id="21413" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ustralith -->
+		<npc id="21420" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ashuras -->
+		<npc id="21421" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ashuras -->
+		<npc id="21426" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Abraxion -->
+		<npc id="21428" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Hasturan -->
+		<npc id="21430" count="1" respawnDelay="90" respawnRandom="30" /> <!-- Arimanes -->
+		<npc id="21427" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Abraxion -->
+		<npc id="21429" count="1" respawnDelay="90" respawnRandom="30" /> <!-- Hasturan -->
+		<npc id="21431" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Arimanes -->
+		<npc id="21434" count="1" respawnDelay="720" respawnRandom="120" /> <!-- Seer of Blood -->
+	</spawn>
+	<!-- godard14_2515_20 -->
+	<spawn zone="godard14_20_01">
+		<npc id="21412" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ustralith -->
+		<npc id="21413" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ustralith -->
+		<npc id="21420" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ashuras -->
+		<npc id="21421" count="1" respawnDelay="80" respawnRandom="20" /> <!-- Ashuras -->
+		<npc id="21426" count="1" respawnDelay="30" respawnRandom="15" /> <!-- Abraxion -->
+		<npc id="21428" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Hasturan -->
+		<npc id="21430" count="1" respawnDelay="90" respawnRandom="30" /> <!-- Arimanes -->
+		<npc id="21427" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Abraxion -->
+		<npc id="21429" count="1" respawnDelay="90" respawnRandom="30" /> <!-- Hasturan -->
+		<npc id="21431" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Arimanes -->
+		<npc id="21434" count="1" respawnDelay="720" respawnRandom="120" /> <!-- Seer of Blood -->
+	</spawn>
+	<!-- godard14_2515_21 -->
+	<spawn zone="godard14_21_01">
+		<npc id="21424" count="1" respawnDelay="90" respawnRandom="20" /> <!-- Ashkenas -->
+		<npc id="21426" count="1" respawnDelay="90" respawnRandom="20" /> <!-- Abraxion -->
+	</spawn>
+	<!-- godard14_2515_22 -->
+	<spawn zone="godard14_22_01">
+		<npc id="21425" count="1" respawnDelay="90" respawnRandom="20" /> <!-- Ashkenas -->
+		<npc id="21427" count="1" respawnDelay="90" respawnRandom="20" /> <!-- Abraxion -->
+	</spawn>
+	<!-- godard14_tb2515_03 -->
+	<spawn zone="godard14_tb03_m1">
+		<npc id="18284" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="build" default="cleanup" basedir=".">
+	<description>
+        This script will build the L2JFrozen 1.5
+        This program is opensource   
+    </description>
+
+	<property name="src" location="head-src" />
+	<property name="lib" location="lib" />
+
+	<path id="classpath">
+		<fileset dir="${lib}">
+			<include name="*.jar" />
+		</fileset>
+	</path>
+	
+	<target name="checkVersions" description="Check Requirements.">
+		<echo>Ant version: ${ant.version}</echo> 
+		<echo>Ant Java version: ${ant.java.version}</echo> 
+		<echo>Java detail version: ${java.version}</echo> 
+	</target>
+	
+	<target name="init"  depends="checkVersions" description="Create the output directories.">
+		<property name="build" location="build" />
+		<property name="build.bin" location="${build}/bin" />
+		<property name="build.core" location="${build}/l2jfrozen-core.jar" />
+		<property name="build.dist" location="${build}/dist" />
+		<property name="build.dist.loginserver.lib" location="${build.dist}/loginserver/lib" />
+		<property name="build.dist.loginserver.log" location="${build.dist}/loginserver/log" />
+		<property name="build.dist.gameserver.lib" location="${build.dist}/gameserver/lib" />
+		<property name="build.dist.gameserver.log" location="${build.dist}/gameserver/log" />
+		<property name="dist" location="dist" />
+		<property name="lib" location="lib" />
+		<property name="properties-file" location="${build.dist}/l2jfrozen_15.info" />
+		
+		<delete file="${build}/L2JFrozen_15.zip" quiet="true" />
+		<mkdir dir="${build.bin}" />
+	</target>
+
+	<target name="version" depends="init" description="Create Version file">
+
+		<tstamp>
+			<format property="build.tstamp" pattern="dd-MM-yyyy hh:mm:ss aa" />
+		</tstamp>
+
+		<exec dir="." executable="svnversion" outputproperty="l2jfrozen.revision" failifexecutionfails="false">
+			<arg line="-n ." />
+		</exec>
+
+		<concat destfile="${properties-file}">revision=${l2jfrozen.revision}
+build-date=${build.tstamp}
+repository=svn://svn.code.sf.net/p/l2jfrozen/code/
+reports=https://l2devsadmins.net/reynaldev/index.php?board=54.0
+java-version=${java.version}
+			
+private support= https://reynaldev.pythonanywhere.com/servicios (You have to pay for the private support or private develop)
+</concat>
+
+		<echo>L2jFrozen Gameserver Revision: ${l2jfrozen.revision}</echo>
+	</target>
+
+	<target name="compile" depends="version" description="Compile the source.">
+		<javac destdir="${build.bin}" includeantruntime="false" debug="on" encoding="utf-8" nowarn="off">
+			<src path="${src}" />
+			<classpath refid="classpath" />
+		</javac>
+	</target>
+
+	<target name="jar" depends="compile" description="Create the jar file">
+		<jar destfile="${build}/l2jfrozen-core.jar">
+			<fileset dir="${build.bin}" />
+		</jar>
+	</target>
+
+	<target name="adding-core" depends="jar" description="Adding the compiled jar to the Zip file.">
+		
+		<mkdir dir="${build.dist.loginserver.log}" />
+		<mkdir dir="${build.dist.gameserver.log}" />
+		
+		<copy file="${build.core}" todir="${build.dist.loginserver.lib}"/>
+		<copy file="${build.core}" todir="${build.dist.gameserver.lib}"/>
+		
+		<copy todir="${build.dist.loginserver.lib}">
+			<fileset dir="${lib}">
+				<include name="*.jar" />
+			</fileset>
+		</copy>
+		
+		<copy todir="${build.dist.gameserver.lib}">
+			<fileset dir="${lib}">
+				<include name="*.jar" />
+			</fileset>
+		</copy>
+		
+		<zip destfile="${build}/L2JFrozen_15.zip" basedir="${build.dist}" update="true" />
+	</target>
+	
+	<target name="adding-datapack" depends="adding-core" description="Updating the Zip file with datapack content.">
+		<zip destfile="${build}/L2JFrozen_15.zip" basedir="${dist}" update="true" excludes="gameserver/log/**, loginserver/log/**,  gameserver/config/hexid.txt, gameserver/data/geodata/geo_bugs.txt"/>
+	</target>
+	
+	<target name="cleanup" depends="adding-datapack" description="Cleaning the build folder.">
+		<delete file="${build.core}" />
+		<delete dir="${build.bin}" />
+		<delete dir="${build.dist}" />
+	</target>
+
+</project>

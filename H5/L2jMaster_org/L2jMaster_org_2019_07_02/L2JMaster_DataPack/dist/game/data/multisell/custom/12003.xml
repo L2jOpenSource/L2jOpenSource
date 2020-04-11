@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+ 
+	<!-- Necklace of Black Ore -->
+	<item>
+		<ingredient id="57" count="2600000"/>
+		<production id="926" count="1"/>
+	</item>
+	<!-- Earring of Black Ore -->
+	<item>
+		<ingredient id="57" count="2000000"/>
+		<production id="864" count="1"/>
+	</item>
+	<!-- Ring of Black Ore -->
+	<item>
+		<ingredient id="57" count="1500000"/>
+		<production id="895" count="1"/>
+	</item>
+</list>

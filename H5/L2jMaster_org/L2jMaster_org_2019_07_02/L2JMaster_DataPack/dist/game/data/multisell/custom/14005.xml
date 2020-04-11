@@ -1,0 +1,46 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+    <!-- Noblesse Item -->
+	<item>
+		<ingredient id="57" count="5"/>
+		<ingredient id="57" count="5"/>
+		<ingredient id="3470" count="500" />
+		<production id="7678" count="1"/>
+	</item>
+	<!-- Hellfire Oil -->
+	<item>
+		<ingredient id="3470" count="20" />
+		<production id="6033" count="1"/>
+	</item>
+	<!-- Lunargent -->
+	<item>
+		<ingredient id="3470" count="20" />
+		<production id="6029" count="1"/>
+	</item>
+	<!-- Penitent's Manacles -->
+	<item>
+		<ingredient id="3470" count="20" />
+		<production id="4425" count="1"/>
+	</item>
+	<!-- Baium-->
+	<item>
+		<ingredient id="3470" count="20" />
+		<production id="4295" count="1"/>
+	</item>
+	<!-- Antharas -->
+	<item>
+		<ingredient id="3470" count="20" />
+		<production id="3865" count="1"/>
+	</item>
+	<!-- Valakas -->
+	<item>
+		<ingredient id="3470" count="20" />
+		<production id="7267" count="1"/>
+	</item>
+	<!-- Frintezza -->
+	<item>
+		<ingredient id="3470" count="50" />
+		<production id="7256" count="1"/>
+	</item>
+</list>

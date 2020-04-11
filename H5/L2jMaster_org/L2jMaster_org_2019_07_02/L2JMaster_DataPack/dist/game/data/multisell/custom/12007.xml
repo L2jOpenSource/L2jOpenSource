@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  
+	<!-- Elegia Necklace -->
+	<item>
+		<ingredient id="3470" count="250" />
+		<production id="15719" count="1"/>
+	</item>
+	<!-- Elegia Earring -->
+	<item>
+		<ingredient id="3470" count="250" />
+		<production id="15718" count="1"/>
+	</item>
+	<!-- Elegia Ring -->
+	<item>
+		<ingredient id="3470" count="250" />
+		<production id="15717" count="1"/>
+	</item>
+	<!-- Vorpal Necklace -->
+	<item>
+		<ingredient id="3470" count="200" />
+		<production id="15722" count="1"/>
+	</item>
+	<!-- Vorpal Earring -->
+	<item>
+		<ingredient id="3470" count="200" />
+		<production id="15721" count="1"/>
+	</item>
+	<!-- Vorpal Ring -->
+	<item>
+		<ingredient id="3470" count="200" />
+		<production id="15720" count="1"/>
+	</item>
+	<!-- Vesper Necklace -->
+	<item>
+		<ingredient id="3470" count="150" />
+		<production id="14164" count="1"/>
+	</item>
+	<!-- Vesper Earring -->
+	<item>
+		<ingredient id="3470" count="150" />
+		<production id="14163" count="1"/>
+	</item>
+	<!-- Vesper Ring -->
+	<item>
+		<ingredient id="3470" count="150" />
+		<production id="14165" count="1"/>
+	</item>
+</list>

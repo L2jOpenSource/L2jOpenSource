@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- ssq13_npc2420_01 -->
+	<spawn zone="ssq13_npc2420_0101">
+		<npc id="31123" x="140784" y="79680" z="-5425" heading="16500" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq13_npc2420_02 -->
+	<spawn zone="ssq13_npc2420_0201">
+		<npc id="31117" x="140032" y="79680" z="-5427" heading="32500" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq13_npc2420_03 -->
+	<spawn zone="ssq13_npc2420_0301">
+		<npc id="31501" x="140532" y="79384" z="-5424" heading="16000" respawnDelay="60" /> <!-- Dimensional Gate Keeper -->
+	</spawn>
+	<!-- ssq_npc2420_01 -->
+	<spawn zone="ssq_npc2420_01m1">
+		<npc id="32572" x="137327" y="70583" z="-3688" heading="0" respawnDelay="60" /> <!-- Frog -->
+	</spawn>
+	<!-- ssq13_2420_ssq01 -->
+	<spawn zone="ssq13_2420_ssq01m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21248" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guardian -->
+		<npc id="21156" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21179" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq02 -->
+	<spawn zone="ssq13_2420_ssq02m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21248" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guardian -->
+		<npc id="21156" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21179" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq03 -->
+	<spawn zone="ssq13_2420_ssq03m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21249" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Sage -->
+		<npc id="21157" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21180" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq13_2420_ssq04 -->
+	<spawn zone="ssq13_2420_ssq04m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21248" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guardian -->
+		<npc id="21156" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21179" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq05 -->
+	<spawn zone="ssq13_2420_ssq05m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21248" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guardian -->
+		<npc id="21156" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21179" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq06 -->
+	<spawn zone="ssq13_2420_ssq06m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21249" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Sage -->
+		<npc id="21157" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21180" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq13_2420_ssq07 -->
+	<spawn zone="ssq13_2420_ssq07m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21248" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guardian -->
+		<npc id="21156" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21179" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq08 -->
+	<spawn zone="ssq13_2420_ssq08m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21248" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guardian -->
+		<npc id="21156" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21179" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Priest -->
+		<npc id="21200" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq09 -->
+	<spawn zone="ssq13_2420_ssq09m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21249" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Sage -->
+		<npc id="21157" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21180" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq13_2420_ssq10 -->
+	<spawn zone="ssq13_2420_ssq10m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21249" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Sage -->
+		<npc id="21157" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21180" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq13_2420_ssq11 -->
+	<spawn zone="ssq13_2420_ssq11m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21250" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Guardian -->
+		<npc id="21157" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21181" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq13_2420_ssq12 -->
+	<spawn zone="ssq13_2420_ssq12m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21251" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Sage -->
+		<npc id="21159" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Gargoyle -->
+		<npc id="21182" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Soldier -->
+		<npc id="21203" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Archbishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq13 -->
+	<spawn zone="ssq13_2420_ssq13m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21249" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Sage -->
+		<npc id="21157" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21180" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq13_2420_ssq14 -->
+	<spawn zone="ssq13_2420_ssq14m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21250" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Guardian -->
+		<npc id="21157" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21181" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq13_2420_ssq15 -->
+	<spawn zone="ssq13_2420_ssq15m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21251" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Sage -->
+		<npc id="21159" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Gargoyle -->
+		<npc id="21182" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Soldier -->
+		<npc id="21203" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Archbishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq16 -->
+	<spawn zone="ssq13_2420_ssq16m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21250" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Guardian -->
+		<npc id="21157" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21181" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq13_2420_ssq17 -->
+	<spawn zone="ssq13_2420_ssq17m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21250" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Guardian -->
+		<npc id="21157" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21181" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq13_2420_ssq18 -->
+	<spawn zone="ssq13_2420_ssq18m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21251" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Sage -->
+		<npc id="21159" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Gargoyle -->
+		<npc id="21182" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Soldier -->
+		<npc id="21203" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Archbishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq19 -->
+	<spawn zone="ssq13_2420_ssq19m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21249" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Sage -->
+		<npc id="21157" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21180" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq13_2420_ssq20 -->
+	<spawn zone="ssq13_2420_ssq20m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21249" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Sage -->
+		<npc id="21157" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21180" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq13_2420_ssq21 -->
+	<spawn zone="ssq13_2420_ssq21m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21250" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Guardian -->
+		<npc id="21157" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21181" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq13_2420_ssq22 -->
+	<spawn zone="ssq13_2420_ssq22m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21250" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Guardian -->
+		<npc id="21157" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21181" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq13_2420_ssq23 -->
+	<spawn zone="ssq13_2420_ssq23m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21250" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Guardian -->
+		<npc id="21157" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21181" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq13_2420_ssq24 -->
+	<spawn zone="ssq13_2420_ssq24m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21251" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Sage -->
+		<npc id="21159" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Gargoyle -->
+		<npc id="21182" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Soldier -->
+		<npc id="21203" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Archbishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq25 -->
+	<spawn zone="ssq13_2420_ssq25m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21251" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Sage -->
+		<npc id="21159" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Gargoyle -->
+		<npc id="21182" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Soldier -->
+		<npc id="21203" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Archbishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq26 -->
+	<spawn zone="ssq13_2420_ssq26m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21251" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Sage -->
+		<npc id="21159" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Gargoyle -->
+		<npc id="21182" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Soldier -->
+		<npc id="21203" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Archbishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq27 -->
+	<spawn zone="ssq13_2420_ssq27m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21251" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Sage -->
+		<npc id="21159" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Gargoyle -->
+		<npc id="21182" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Soldier -->
+		<npc id="21203" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Archbishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq28 -->
+	<spawn zone="ssq13_2420_ssq28m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21251" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Sage -->
+		<npc id="21159" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Gargoyle -->
+		<npc id="21182" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Soldier -->
+		<npc id="21203" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Archbishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq29 -->
+	<spawn zone="ssq13_2420_ssq29m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21252" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guard -->
+		<npc id="21160" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Liviona -->
+		<npc id="21183" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq13_2420_ssq30 -->
+	<spawn zone="ssq13_2420_ssq30m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21251" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Sage -->
+		<npc id="21159" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Gargoyle -->
+		<npc id="21182" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Soldier -->
+		<npc id="21203" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Archbishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq31 -->
+	<spawn zone="ssq13_2420_ssq31m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21252" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guard -->
+		<npc id="21160" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Liviona -->
+		<npc id="21183" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq13_2420_ssq32 -->
+	<spawn zone="ssq13_2420_ssq32m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21252" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guard -->
+		<npc id="21160" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Liviona -->
+		<npc id="21183" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq13_2420_ssq34 -->
+	<spawn zone="ssq13_2420_ssq34m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21252" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guard -->
+		<npc id="21160" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Liviona -->
+		<npc id="21183" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq13_2420_ssq35 -->
+	<spawn zone="ssq13_2420_ssq35m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21252" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guard -->
+		<npc id="21160" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Liviona -->
+		<npc id="21183" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq13_2420_ssq36 -->
+	<spawn zone="ssq13_2420_ssq36m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21251" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Tomb Sage -->
+		<npc id="21159" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Gargoyle -->
+		<npc id="21182" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Soldier -->
+		<npc id="21203" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Archbishop -->
+	</spawn>
+	<!-- ssq13_2420_ssq37 -->
+	<spawn zone="ssq13_2420_ssq37m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21252" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guard -->
+		<npc id="21160" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Liviona -->
+		<npc id="21183" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="2" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq13_2420_ssq38 -->
+	<spawn zone="ssq13_2420_ssq38m1">
+		<AIData>
+			<SSQTelPosX>137453</SSQTelPosX>
+			<SSQTelPosY>79665</SSQTelPosY>
+			<SSQTelPosZ>-3696</SSQTelPosZ>
+		</AIData>
+		<npc id="21252" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Crypt Guard -->
+		<npc id="21160" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Purgatory Liviona -->
+		<npc id="21183" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="1" respawnDelay="146" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- aden10_tb2420_02 -->
+	<spawn zone="aden10_tb02_m1">
+		<npc id="18272" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden10_tb2420_10 -->
+	<spawn zone="aden10_tb10_m1">
+		<npc id="18273" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden10_tb2420_23 -->
+	<spawn zone="aden10_tb23_m1">
+		<npc id="18273" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden10_tb2420_29 -->
+	<spawn zone="aden10_tb29_m1">
+		<npc id="18275" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden10_tb2420_39 -->
+	<spawn zone="aden10_tb39_m1">
+		<npc id="18276" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden10_2420_01 -->
+	<spawn zone="aden10_2420_01m1">
+		<npc id="20630" count="2" respawnDelay="23" /> <!-- Taik Orc -->
+		<npc id="20631" count="1" respawnDelay="23" /> <!-- Taik Orc Archer -->
+		<npc id="20632" count="1" respawnDelay="23" /> <!-- Taik Orc Warrior -->
+	</spawn>
+	<!-- aden10_2420_02 -->
+	<spawn zone="aden10_2420_02m1">
+		<npc id="20630" count="3" respawnDelay="23" /> <!-- Taik Orc -->
+		<npc id="20631" count="3" respawnDelay="23" /> <!-- Taik Orc Archer -->
+		<npc id="20632" count="3" respawnDelay="23" /> <!-- Taik Orc Warrior -->
+	</spawn>
+	<!-- aden10_2420_03 -->
+	<spawn zone="aden10_2420_03m1">
+		<npc id="20630" count="3" respawnDelay="23" /> <!-- Taik Orc -->
+		<npc id="20631" count="2" respawnDelay="23" /> <!-- Taik Orc Archer -->
+		<npc id="20632" count="2" respawnDelay="23" /> <!-- Taik Orc Warrior -->
+	</spawn>
+	<!-- aden10_2420_04 -->
+	<spawn zone="aden10_2420_04m1">
+		<npc id="20630" count="3" respawnDelay="23" /> <!-- Taik Orc -->
+		<npc id="20631" count="2" respawnDelay="23" /> <!-- Taik Orc Archer -->
+		<npc id="20632" count="3" respawnDelay="23" /> <!-- Taik Orc Warrior -->
+	</spawn>
+	<!-- aden10_2420_05 -->
+	<spawn zone="aden10_2420_05m1">
+		<npc id="20630" count="3" respawnDelay="23" /> <!-- Taik Orc -->
+		<npc id="20631" count="3" respawnDelay="23" /> <!-- Taik Orc Archer -->
+		<npc id="20632" count="3" respawnDelay="23" /> <!-- Taik Orc Warrior -->
+	</spawn>
+	<!-- aden10_2420_06 -->
+	<spawn zone="aden10_2420_06m1">
+		<npc id="20633" count="3" respawnDelay="23" /> <!-- Taik Orc Shaman -->
+		<npc id="20634" count="3" respawnDelay="23" /> <!-- Taik Orc Captain -->
+		<npc id="20635" count="3" respawnDelay="23" /> <!-- Carinkain -->
+	</spawn>
+	<!-- aden10_2420_07 -->
+	<spawn zone="aden10_2420_07m1">
+		<npc id="20633" count="3" respawnDelay="23" /> <!-- Taik Orc Shaman -->
+		<npc id="20634" count="2" respawnDelay="23" /> <!-- Taik Orc Captain -->
+		<npc id="20635" count="2" respawnDelay="23" /> <!-- Carinkain -->
+	</spawn>
+	<!-- aden10_2420_08 -->
+	<spawn zone="aden10_2420_08m1">
+		<npc id="20633" count="4" respawnDelay="23" /> <!-- Taik Orc Shaman -->
+		<npc id="20634" count="4" respawnDelay="23" /> <!-- Taik Orc Captain -->
+		<npc id="20635" count="4" respawnDelay="23" /> <!-- Carinkain -->
+	</spawn>
+	<!-- aden10_2420_09 -->
+	<spawn zone="aden10_2420_09m1">
+		<npc id="20633" count="1" respawnDelay="23" /> <!-- Taik Orc Shaman -->
+	</spawn>
+	<!-- aden10_2420_10 -->
+	<spawn zone="aden10_2420_10m1">
+		<npc id="20633" count="3" respawnDelay="23" /> <!-- Taik Orc Shaman -->
+		<npc id="20634" count="3" respawnDelay="23" /> <!-- Taik Orc Captain -->
+		<npc id="20635" count="3" respawnDelay="23" /> <!-- Carinkain -->
+	</spawn>
+	<!-- aden10_2420_11 -->
+	<spawn zone="aden10_2420_11m1">
+		<npc id="20633" count="3" respawnDelay="23" /> <!-- Taik Orc Shaman -->
+		<npc id="20634" count="3" respawnDelay="23" /> <!-- Taik Orc Captain -->
+		<npc id="20635" count="4" respawnDelay="23" /> <!-- Carinkain -->
+	</spawn>
+	<!-- aden10_2420_12 -->
+	<spawn zone="aden10_2420_12m1">
+		<npc id="20633" count="2" respawnDelay="23" /> <!-- Taik Orc Shaman -->
+		<npc id="20634" count="3" respawnDelay="23" /> <!-- Taik Orc Captain -->
+		<npc id="20635" count="2" respawnDelay="23" /> <!-- Carinkain -->
+	</spawn>
+	<!-- aden10_2420_13 -->
+	<spawn zone="aden10_2420_13m1">
+		<npc id="20636" count="2" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20637" count="2" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20638" count="2" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20639" count="2" respawnDelay="23" /> <!-- Mirror -->
+	</spawn>
+	<!-- aden10_2420_14 -->
+	<spawn zone="aden10_2420_14m1">
+		<npc id="20636" count="3" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20637" count="2" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20638" count="3" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20639" count="3" respawnDelay="23" /> <!-- Mirror -->
+	</spawn>
+	<!-- aden10_2420_15 -->
+	<spawn zone="aden10_2420_15m1">
+		<npc id="20636" count="1" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20637" count="1" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20638" count="1" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20639" count="1" respawnDelay="23" /> <!-- Mirror -->
+	</spawn>
+	<!-- aden10_2420_16 -->
+	<spawn zone="aden10_2420_16m1">
+		<npc id="20636" count="1" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20637" count="1" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20638" count="1" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20639" count="1" respawnDelay="23" /> <!-- Mirror -->
+	</spawn>
+	<!-- aden10_2420_17 -->
+	<spawn zone="aden10_2420_17m1">
+		<npc id="20636" count="1" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20637" count="1" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20638" count="1" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20639" count="1" respawnDelay="23" /> <!-- Mirror -->
+	</spawn>
+	<!-- aden10_2420_18 -->
+	<spawn zone="aden10_2420_18m1">
+		<npc id="20640" count="2" respawnDelay="23" /> <!-- Harit Lizardman -->
+		<npc id="20641" count="2" respawnDelay="23" /> <!-- Harit Lizardman Grunt -->
+		<npc id="20642" count="2" respawnDelay="23" /> <!-- Harit Lizardman Archer -->
+	</spawn>
+	<!-- aden10_2420_19 -->
+	<spawn zone="aden10_2420_19m1">
+		<npc id="20640" count="3" respawnDelay="23" /> <!-- Harit Lizardman -->
+		<npc id="20641" count="2" respawnDelay="23" /> <!-- Harit Lizardman Grunt -->
+		<npc id="20642" count="3" respawnDelay="23" /> <!-- Harit Lizardman Archer -->
+	</spawn>
+	<!-- aden10_2420_20 -->
+	<spawn zone="aden10_2420_20m1">
+		<npc id="20643" count="2" respawnDelay="23" /> <!-- Harit Lizardman Warrior -->
+		<npc id="20644" count="1" respawnDelay="23" /> <!-- Harit Lizardman Shaman -->
+		<npc id="20645" count="2" respawnDelay="23" /> <!-- Harit Lizardman Matriarch -->
+	</spawn>
+	<!-- aden10_2420_21 -->
+	<spawn zone="aden10_2420_21m1">
+		<npc id="20643" count="2" respawnDelay="23" /> <!-- Harit Lizardman Warrior -->
+		<npc id="20644" count="3" respawnDelay="23" /> <!-- Harit Lizardman Shaman -->
+		<npc id="20645" count="2" respawnDelay="23" /> <!-- Harit Lizardman Matriarch -->
+	</spawn>
+	<!-- aden10_2420_22 -->
+	<spawn zone="aden10_2420_22m1">
+		<npc id="20643" count="3" respawnDelay="23" /> <!-- Harit Lizardman Warrior -->
+		<npc id="20644" count="3" respawnDelay="23" /> <!-- Harit Lizardman Shaman -->
+		<npc id="20645" count="3" respawnDelay="23" /> <!-- Harit Lizardman Matriarch -->
+	</spawn>
+	<!-- aden10_2420_23 -->
+	<spawn zone="aden10_2420_23m1">
+		<npc id="20643" count="2" respawnDelay="23" /> <!-- Harit Lizardman Warrior -->
+		<npc id="20644" count="2" respawnDelay="23" /> <!-- Harit Lizardman Shaman -->
+		<npc id="20645" count="1" respawnDelay="23" /> <!-- Harit Lizardman Matriarch -->
+	</spawn>
+	<!-- aden10_2420_24 -->
+	<spawn zone="aden10_2420_24m1">
+		<npc id="20643" count="2" respawnDelay="23" /> <!-- Harit Lizardman Warrior -->
+		<npc id="20644" count="2" respawnDelay="23" /> <!-- Harit Lizardman Shaman -->
+		<npc id="20645" count="2" respawnDelay="23" /> <!-- Harit Lizardman Matriarch -->
+	</spawn>
+	<!-- aden10_2420_25 -->
+	<spawn zone="aden10_2420_25m1">
+		<npc id="20640" count="3" respawnDelay="23" /> <!-- Harit Lizardman -->
+		<npc id="20641" count="3" respawnDelay="23" /> <!-- Harit Lizardman Grunt -->
+		<npc id="20642" count="2" respawnDelay="23" /> <!-- Harit Lizardman Archer -->
+	</spawn>
+	<!-- aden10_2420_26 -->
+	<spawn zone="aden10_2420_26m1">
+		<npc id="20640" count="3" respawnDelay="23" /> <!-- Harit Lizardman -->
+		<npc id="20641" count="3" respawnDelay="23" /> <!-- Harit Lizardman Grunt -->
+		<npc id="20642" count="2" respawnDelay="23" /> <!-- Harit Lizardman Archer -->
+	</spawn>
+	<!-- aden10_2420_27 -->
+	<spawn zone="aden10_2420_27m1">
+		<npc id="20640" count="4" respawnDelay="23" /> <!-- Harit Lizardman -->
+		<npc id="20641" count="4" respawnDelay="23" /> <!-- Harit Lizardman Grunt -->
+		<npc id="20642" count="3" respawnDelay="23" /> <!-- Harit Lizardman Archer -->
+	</spawn>
+	<!-- aden10_2420_28 -->
+	<spawn zone="aden10_2420_28m1">
+		<npc id="20640" count="3" respawnDelay="23" /> <!-- Harit Lizardman -->
+		<npc id="20641" count="3" respawnDelay="23" /> <!-- Harit Lizardman Grunt -->
+		<npc id="20642" count="2" respawnDelay="23" /> <!-- Harit Lizardman Archer -->
+	</spawn>
+	<!-- aden10_2420_29 -->
+	<spawn zone="aden10_2420_29m1">
+		<npc id="20643" count="4" respawnDelay="23" /> <!-- Harit Lizardman Warrior -->
+		<npc id="20644" count="5" respawnDelay="23" /> <!-- Harit Lizardman Shaman -->
+		<npc id="20645" count="5" respawnDelay="23" /> <!-- Harit Lizardman Matriarch -->
+	</spawn>
+	<!-- aden10_2420_30 -->
+	<spawn zone="aden10_2420_30m1">
+		<npc id="20643" count="1" respawnDelay="23" /> <!-- Harit Lizardman Warrior -->
+		<npc id="20644" count="1" respawnDelay="23" /> <!-- Harit Lizardman Shaman -->
+		<npc id="20645" count="1" respawnDelay="23" /> <!-- Harit Lizardman Matriarch -->
+	</spawn>
+	<!-- aden10_2420_31 -->
+	<spawn zone="aden10_2420_31m1">
+		<npc id="20643" count="1" respawnDelay="23" /> <!-- Harit Lizardman Warrior -->
+		<npc id="20644" count="1" respawnDelay="23" /> <!-- Harit Lizardman Shaman -->
+		<npc id="20645" count="1" respawnDelay="23" /> <!-- Harit Lizardman Matriarch -->
+	</spawn>
+	<!-- aden10_2420_32 -->
+	<spawn zone="aden10_2420_32m1">
+		<npc id="20643" count="3" respawnDelay="23" /> <!-- Harit Lizardman Warrior -->
+		<npc id="20644" count="3" respawnDelay="23" /> <!-- Harit Lizardman Shaman -->
+		<npc id="20645" count="3" respawnDelay="23" /> <!-- Harit Lizardman Matriarch -->
+	</spawn>
+	<!-- aden10_2420_33 -->
+	<spawn zone="aden10_2420_33m1">
+		<npc id="20643" count="1" respawnDelay="23" /> <!-- Harit Lizardman Warrior -->
+		<npc id="20644" count="1" respawnDelay="23" /> <!-- Harit Lizardman Shaman -->
+		<npc id="20645" count="1" respawnDelay="23" /> <!-- Harit Lizardman Matriarch -->
+	</spawn>
+	<!-- aden10_2420_34 -->
+	<spawn zone="aden10_2420_34m1">
+		<npc id="20643" count="4" respawnDelay="23" /> <!-- Harit Lizardman Warrior -->
+		<npc id="20644" count="4" respawnDelay="23" /> <!-- Harit Lizardman Shaman -->
+		<npc id="20645" count="4" respawnDelay="23" /> <!-- Harit Lizardman Matriarch -->
+	</spawn>
+	<!-- aden10_2420_35 -->
+	<spawn zone="aden10_2420_35m1">
+		<npc id="20640" count="3" respawnDelay="23" /> <!-- Harit Lizardman -->
+		<npc id="20641" count="3" respawnDelay="23" /> <!-- Harit Lizardman Grunt -->
+		<npc id="20642" count="3" respawnDelay="23" /> <!-- Harit Lizardman Archer -->
+	</spawn>
+	<!-- aden10_2420_36 -->
+	<spawn zone="aden10_2420_36m1">
+		<npc id="20640" count="3" respawnDelay="23" /> <!-- Harit Lizardman -->
+		<npc id="20641" count="3" respawnDelay="23" /> <!-- Harit Lizardman Grunt -->
+		<npc id="20642" count="3" respawnDelay="23" /> <!-- Harit Lizardman Archer -->
+	</spawn>
+	<!-- aden10_2420_37 -->
+	<spawn zone="aden10_2420_37m1">
+		<npc id="20640" count="4" respawnDelay="23" /> <!-- Harit Lizardman -->
+		<npc id="20641" count="4" respawnDelay="23" /> <!-- Harit Lizardman Grunt -->
+		<npc id="20642" count="4" respawnDelay="23" /> <!-- Harit Lizardman Archer -->
+	</spawn>
+	<!-- aden10_2420_38 -->
+	<spawn zone="aden10_2420_38m1">
+		<npc id="20636" count="2" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20637" count="1" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20638" count="2" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20639" count="1" respawnDelay="23" /> <!-- Mirror -->
+	</spawn>
+	<!-- aden10_2420_39 -->
+	<spawn zone="aden10_2420_39m1">
+		<npc id="20640" count="2" respawnDelay="23" /> <!-- Harit Lizardman -->
+		<npc id="20641" count="2" respawnDelay="23" /> <!-- Harit Lizardman Grunt -->
+		<npc id="20642" count="1" respawnDelay="23" /> <!-- Harit Lizardman Archer -->
+	</spawn>
+	<!-- aden10_2420_40 -->
+	<spawn zone="aden10_2420_40m1">
+		<npc id="20636" count="3" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20637" count="2" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20638" count="3" respawnDelay="23" /> <!-- Forest of Mirrors Ghost -->
+		<npc id="20639" count="2" respawnDelay="23" /> <!-- Mirror -->
+	</spawn>
+	<!-- aden10_2420_41 -->
+	<spawn zone="aden10_2420_41m1">
+		<npc id="20633" count="3" respawnDelay="23" /> <!-- Taik Orc Shaman -->
+		<npc id="20634" count="3" respawnDelay="23" /> <!-- Taik Orc Captain -->
+		<npc id="20635" count="3" respawnDelay="23" /> <!-- Carinkain -->
+	</spawn>
+	<!-- aden10_2420_43 -->
+	<spawn zone="aden10_2420_43m1">
+		<npc id="20630" count="1" respawnDelay="23" /> <!-- Taik Orc -->
+		<npc id="20631" count="2" respawnDelay="23" /> <!-- Taik Orc Archer -->
+		<npc id="20632" count="1" respawnDelay="23" /> <!-- Taik Orc Warrior -->
+	</spawn>
+</list>

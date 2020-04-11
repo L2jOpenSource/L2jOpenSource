@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- dion10_npc2023_01 -->
+	<spawn zone="dion10_npc2023_0101">
+		<npc id="30079" x="17836" y="169853" z="-3494" heading="20000" respawnDelay="60" /> <!-- Barder -->
+		<npc id="31773" x="17788" y="169842" z="-3496" heading="20000" respawnDelay="60" /> <!-- Sonin -->
+	</spawn>
+	<!-- dion10_npc2023_02 -->
+	<spawn zone="dion10_npc2023_0201">
+		<npc id="30078" x="16970" y="170391" z="-3496" heading="61440" respawnDelay="60" /> <!-- Pano -->
+	</spawn>
+	<!-- dion10_npc2023_03 -->
+	<spawn zone="dion10_npc2023_0301">
+		<npc id="31571" x="17232" y="170528" z="-3498" heading="53000" respawnDelay="60" /> <!-- Hulfs -->
+	</spawn>
+	<!-- dion10_npc2023_04 -->
+	<spawn zone="dion10_npc2023_0401">
+		<npc id="31801" x="17972" y="169945" z="-3496" heading="20000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- dion10_npc2023_05 -->
+	<spawn zone="dion10_npc2023_0501">
+		<npc id="31802" x="14784" y="168800" z="-3504" heading="58000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- dion10_npc2023_06 -->
+	<spawn zone="dion10_npc2023_0601">
+		<npc id="31803" x="13520" y="169840" z="-3712" heading="2000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- dion10_npc2023_07 -->
+	<spawn zone="dion16_npc2023_0101">
+		<npc id="30291" x="20943" y="171358" z="-3548" heading="12288" respawnDelay="60" /> <!-- Alex -->
+	</spawn>
+	<!-- dion10_npc2023_08 -->
+	<spawn zone="dion16_npc2023_0301">
+		<npc id="30633" x="13258" y="169790" z="-3705" heading="1000" respawnDelay="60" /> <!-- Evert -->
+	</spawn>
+	<!-- dion10_npc2023_09 -->
+	<spawn zone="dion16_npc2023_0501">
+		<npc id="30609" x="17475" y="169556" z="-3493" heading="57344" respawnDelay="60" /> <!-- Creta -->
+	</spawn>
+	<!-- dion16_npc2023_02 -->
+	<spawn zone="dion16_npc2023_0201">
+		<npc id="30728" x="10699" y="171474" z="-3572" heading="0" respawnDelay="60" /> <!-- Leirynn -->
+	</spawn>
+	<!-- dion16_npc2023_04 -->
+	<spawn zone="dion16_npc2023_0401">
+		<npc id="30626" x="15734" y="174805" z="-3636" heading="0" respawnDelay="60" /> <!-- Hamil -->
+	</spawn>
+	<!-- dion16_npc2023_06 -->
+	<spawn zone="dion16_npc2023_0601">
+		<npc id="30616" x="12805" y="189249" z="-3601" heading="19000" respawnDelay="60" /> <!-- Kepra -->
+	</spawn>
+	<!-- dion16_npc2023_07 -->
+	<spawn zone="dion16_npc2023_0701">
+		<npc id="30636" x="23471" y="188092" z="-3604" heading="16384" respawnDelay="60" /> <!-- Camoniell -->
+	</spawn>
+	<!-- dion16_npc2023_08 -->
+	<spawn zone="dion16_npc2023_0801">
+		<npc id="30981" x="15520" y="174572" z="-3637" heading="57344" respawnDelay="60" /> <!-- Black Judge -->
+	</spawn>
+	<!-- dion16_npc2023_09 -->
+	<spawn zone="dion09_npc2022_00501">
+		<npc id="30627" x="10133" y="157155" z="-2383" heading="0" respawnDelay="60" /> <!-- Tree -->
+	</spawn>
+	<!-- dion16_npc2023_10 -->
+	<spawn zone="dion12_npc2023_0101">
+		<npc id="30979" x="50693" y="158674" z="376" heading="0" respawnDelay="60" /> <!-- Holy Ark of Secrecy 3 -->
+	</spawn>
+	<!-- dion12_npc2023_01 -->
+	<spawn zone="dion12_npc2023_0201">
+		 <npc id="31210" x="12882" y="181053" z="-3560" heading="49152" respawnDelay="60" /> <!-- Race Track Gatekeeper -->
+	</spawn>
+	<!-- dion22_npc2023_02 -->
+	<spawn zone="dion12_npc2023_02m1">
+		<npc id="30995" x="13691" y="182627" z="-3561" heading="49152" respawnDelay="60" /> <!-- Race Manager -->
+		<npc id="30995" x="12962" y="181603" z="-3561" heading="16384" respawnDelay="60" /> <!-- Race Manager -->
+	</spawn>
+	<!-- dion22_npc2023_02 -->
+	<spawn zone="dion22_npc2023_0201">
+		<npc id="31225" x="11895" y="183588" z="-3560" heading="1800" respawnDelay="60" /> <!-- Race Manager -->
+	</spawn>
+	<!-- dion10_npc2023_premium01 -->
+	<spawn zone="dion10_npc2023_premium01m1">
+		<npc id="32478" x="17740" y="169800" z="-3496" heading="20000" respawnDelay="60" /> <!-- Dimensional Merchant -->
+	</spawn>
+	<!-- dion10_npc2023_tk02 -->
+	<spawn zone="dion10_npc2023_tk02m1">
+		<npc id="30990" x="13015" y="181610" z="-3560" heading="16000" respawnDelay="60" /> <!-- Lottery Ticket Seller -->
+	</spawn>
+	<!-- dion10_npc2023_tk03 -->
+	<spawn zone="dion10_npc2023_tk03m1">
+		<npc id="30990" x="13637" y="182626" z="-3560" heading="48000" respawnDelay="60" /> <!-- Lottery Ticket Seller -->
+	</spawn>
+	<!-- broadcasting_tower_floran -->
+	<spawn zone="broadcasting_tower_floran">
+		<npc id="31031" x="17264" y="170160" z="-3509" heading="16384" respawnDelay="5" /> <!-- Broadcasting Tower -->
+	</spawn>
+	<!-- broadcasting_tower_derby -->
+	<spawn zone="broadcasting_tower_derby">
+		<npc id="31031" x="13168" y="182594" z="-3500" heading="16384" respawnDelay="5" /> <!-- Broadcasting Tower -->
+		<npc id="31031" x="13582" y="181667" z="-3500" heading="16384" respawnDelay="5" /> <!-- Broadcasting Tower -->
+	</spawn>
+	<!-- dion17_2023_01 -->
+	<spawn zone="dion17_2023_01">
+		<npc id="20205" count="5" respawnDelay="29" /> <!-- Dire Wolf -->
+		<npc id="20206" count="4" respawnDelay="29" /> <!-- Kadif Werewolf -->
+		<npc id="20068" count="2" respawnDelay="29" /> <!-- Monster Eye Destroyer -->
+	</spawn>
+	<!-- dion17_2023_02 -->
+	<spawn zone="dion17_2023_02">
+		<npc id="20068" count="3" respawnDelay="29" /> <!-- Monster Eye Destroyer -->
+		<npc id="20251" count="3" respawnDelay="29" /> <!-- Delu Lizardman -->
+	</spawn>
+	<!-- dion17_2023_03 -->
+	<spawn zone="dion17_2023_03">
+		<npc id="20068" count="6" respawnDelay="29" /> <!-- Monster Eye Destroyer -->
+		<npc id="20205" count="6" respawnDelay="29" /> <!-- Dire Wolf -->
+		<npc id="20206" count="6" respawnDelay="29" /> <!-- Kadif Werewolf -->
+	</spawn>
+	<!-- dion17_2023_04 -->
+	<spawn zone="dion17_2023_04">
+		<npc id="20251" count="6" respawnDelay="29" /> <!-- Delu Lizardman -->
+		<npc id="20250" count="6" respawnDelay="29" /> <!-- Glass Jaguar -->
+	</spawn>
+	<!-- dion17_2023_05 -->
+	<spawn zone="dion17_2023_05">
+		<npc id="20204" count="8" respawnDelay="29" /> <!-- Bloody Bee -->
+		<npc id="20205" count="9" respawnDelay="29" /> <!-- Dire Wolf -->
+		<npc id="20206" count="9" respawnDelay="29" /> <!-- Kadif Werewolf -->
+		<npc id="20068" count="9" respawnDelay="29" /> <!-- Monster Eye Destroyer -->
+	</spawn>
+	<!-- dion17_2023_06 -->
+	<spawn zone="dion17_2023_06">
+		<npc id="20205" count="8" respawnDelay="29" /> <!-- Dire Wolf -->
+		<npc id="20206" count="8" respawnDelay="29" /> <!-- Kadif Werewolf -->
+		<npc id="20068" count="8" respawnDelay="29" /> <!-- Monster Eye Destroyer -->
+	</spawn>
+	<!-- dion17_2023_07 -->
+	<spawn zone="dion17_2023_07">
+		<npc id="20206" count="8" respawnDelay="29" /> <!-- Kadif Werewolf -->
+		<npc id="20068" count="8" respawnDelay="29" /> <!-- Monster Eye Destroyer -->
+		<npc id="20250" count="9" respawnDelay="29" /> <!-- Glass Jaguar -->
+	</spawn>
+	<!-- dion17_2023_08 -->
+	<spawn zone="dion17_2023_08">
+		<npc id="20252" count="5" respawnDelay="29" /> <!-- Delu Lizardman Scout -->
+		<npc id="20168" count="6" respawnDelay="29" /> <!-- Silenos -->
+	</spawn>
+	<!-- dion17_2023_09 -->
+	<spawn zone="dion17_2023_09">
+		<npc id="20254" count="2" respawnDelay="29" /> <!-- Skeleton Axeman -->
+		<npc id="20190" count="1" respawnDelay="29" /> <!-- Skeleton Marauder -->
+		<npc id="20168" count="4" respawnDelay="29" /> <!-- Silenos -->
+	</spawn>
+	<!-- dion17_2023_10 -->
+	<spawn zone="dion17_2023_10">
+		<npc id="20254" count="6" respawnDelay="29" /> <!-- Skeleton Axeman -->
+		<npc id="20190" count="3" respawnDelay="29" /> <!-- Skeleton Marauder -->
+		<npc id="20168" count="5" respawnDelay="29" /> <!-- Silenos -->
+	</spawn>
+	<!-- dion17_2023_11 -->
+	<spawn zone="dion17_2023_11">
+		<npc id="20252" count="4" respawnDelay="29" /> <!-- Delu Lizardman Scout -->
+		<npc id="20253" count="5" respawnDelay="29" /> <!-- Delu Lizardman Warrior -->
+	</spawn>
+	<!-- dion17_2023_12 -->
+	<spawn zone="dion17_2023_12">
+		<npc id="20190" count="2" respawnDelay="29" /> <!-- Skeleton Marauder -->
+		<npc id="20252" count="4" respawnDelay="29" /> <!-- Delu Lizardman Scout -->
+		<npc id="20253" count="4" respawnDelay="29" /> <!-- Delu Lizardman Warrior -->
+	</spawn>
+	<!-- dion17_2023_13s -->
+	<spawn zone="dion17_2023_13s">
+		<npc id="20250" count="2" respawnDelay="29" /> <!-- Glass Jaguar -->
+		<npc id="20251" count="2" respawnDelay="29" /> <!-- Delu Lizardman -->
+	</spawn>
+	<!-- dion17_2023_14s -->
+	<spawn zone="dion17_2023_14s">
+		<npc id="20206" count="2" respawnDelay="29" /> <!-- Kadif Werewolf -->
+		<npc id="20068" count="2" respawnDelay="29" /> <!-- Monster Eye Destroyer -->
+	</spawn>
+	<!-- dion17_2023_15s -->
+	<spawn zone="dion17_2023_15s">
+		<npc id="20206" count="2" respawnDelay="29" /> <!-- Kadif Werewolf -->
+		<npc id="20068" count="2" respawnDelay="29" /> <!-- Monster Eye Destroyer -->
+	</spawn>
+	<!-- dion17_2023_16s -->
+	<spawn zone="dion17_2023_16s">
+		<npc id="20250" count="2" respawnDelay="29" /> <!-- Glass Jaguar -->
+		<npc id="20068" count="2" respawnDelay="29" /> <!-- Monster Eye Destroyer -->
+	</spawn>
+	<!-- dion17_2023_17s -->
+	<spawn zone="dion17_2023_17s">
+		<npc id="20250" count="2" respawnDelay="29" /> <!-- Glass Jaguar -->
+		<npc id="20251" count="2" respawnDelay="29" /> <!-- Delu Lizardman -->
+	</spawn>
+	<!-- dion17_2023_18s -->
+	<spawn zone="dion17_2023_18s">
+		<npc id="20250" count="1" respawnDelay="29" /> <!-- Glass Jaguar -->
+		<npc id="20251" count="3" respawnDelay="29" /> <!-- Delu Lizardman -->
+	</spawn>
+	<!-- dion17_2023_19s -->
+	<spawn zone="dion17_2023_19s">
+		<npc id="20251" count="3" respawnDelay="29" /> <!-- Delu Lizardman -->
+	</spawn>
+	<!-- dion16_2023_01 -->
+	<spawn zone="dion16_2023_01">
+		<npc id="21104" count="5" respawnDelay="30" /> <!-- Delu Lizardman Supplier -->
+		<npc id="21106" count="5" respawnDelay="30" /> <!-- Cursed Seer -->
+		<npc id="20781" count="4" respawnDelay="30" /> <!-- Delu Lizardman Shaman -->
+	</spawn>
+	<!-- dion16_2023_02 -->
+	<spawn zone="dion16_2023_02">
+		<npc id="21106" count="5" respawnDelay="30" /> <!-- Cursed Seer -->
+		<npc id="20781" count="4" respawnDelay="30" /> <!-- Delu Lizardman Shaman -->
+	</spawn>
+	<!-- dion16_2023_03 -->
+	<spawn zone="dion16_2023_03">
+		<npc id="21106" count="4" respawnDelay="30" /> <!-- Cursed Seer -->
+		<npc id="21107" count="5" respawnDelay="30" /> <!-- Delu Lizardman Commander -->
+		<npc id="20781" count="3" respawnDelay="30" /> <!-- Delu Lizardman Shaman -->
+	</spawn>
+	<!-- dion16_2023_04 -->
+	<spawn zone="dion16_2023_04">
+		<npc id="21106" count="4" respawnDelay="30" /> <!-- Cursed Seer -->
+		<npc id="21107" count="5" respawnDelay="30" /> <!-- Delu Lizardman Commander -->
+		<npc id="20781" count="3" respawnDelay="30" /> <!-- Delu Lizardman Shaman -->
+	</spawn>
+	<!-- dion16_2023_05 -->
+	<spawn zone="dion16_2023_05">
+		<npc id="21106" count="3" respawnDelay="30" /> <!-- Cursed Seer -->
+		<npc id="21103" count="2" respawnDelay="30" /> <!-- Roughly Hewn Rock Golem -->
+		<npc id="21105" count="5" respawnDelay="30" /> <!-- Delu Lizardman Special Agent -->
+	</spawn>
+	<!-- dion16_2023_06 -->
+	<spawn zone="dion16_2023_06">
+		<npc id="21106" count="3" respawnDelay="30" /> <!-- Cursed Seer -->
+		<npc id="21107" count="3" respawnDelay="30" /> <!-- Delu Lizardman Commander -->
+		<npc id="20781" count="2" respawnDelay="30" /> <!-- Delu Lizardman Shaman -->
+	</spawn>
+	<!-- dion16_2023_07 -->
+	<spawn zone="dion16_2023_07">
+		<npc id="21106" count="3" respawnDelay="30" /> <!-- Cursed Seer -->
+		<npc id="21107" count="4" respawnDelay="30" /> <!-- Delu Lizardman Commander -->
+		<npc id="20781" count="2" respawnDelay="30" /> <!-- Delu Lizardman Shaman -->
+	</spawn>
+	<!-- dion16_2023_08 -->
+	<spawn zone="dion16_2023_08">
+		<npc id="21106" count="4" respawnDelay="30" /> <!-- Cursed Seer -->
+		<npc id="21107" count="6" respawnDelay="30" /> <!-- Delu Lizardman Commander -->
+		<npc id="20781" count="5" respawnDelay="30" /> <!-- Delu Lizardman Shaman -->
+	</spawn>
+	<!-- dion16_2023_09 -->
+	<spawn zone="dion16_2023_09">
+		<npc id="21106" count="2" respawnDelay="30" /> <!-- Cursed Seer -->
+		<npc id="21107" count="2" respawnDelay="30" /> <!-- Delu Lizardman Commander -->
+		<npc id="20781" count="2" respawnDelay="30" /> <!-- Delu Lizardman Shaman -->
+	</spawn>
+	<!-- dion16_2023_10s -->
+	<spawn zone="dion16_2023_10s">
+		<npc id="21106" count="1" respawnDelay="30" /> <!-- Cursed Seer -->
+		<npc id="20781" count="1" respawnDelay="30" /> <!-- Delu Lizardman Shaman -->
+	</spawn>
+	<!-- dion16_2023_11s -->
+	<spawn zone="dion16_2023_11s">
+		<npc id="20781" count="2" respawnDelay="30" /> <!-- Delu Lizardman Shaman -->
+	</spawn>
+	<!-- dion16_2023_12s -->
+	<spawn zone="dion16_2023_12s">
+		<npc id="21106" count="2" respawnDelay="30" /> <!-- Cursed Seer -->
+		<npc id="21107" count="1" respawnDelay="30" /> <!-- Delu Lizardman Commander -->
+	</spawn>
+	<!-- dion16_2023_13s -->
+	<spawn zone="dion16_2023_13s">
+		<npc id="21105" count="2" respawnDelay="30" /> <!-- Delu Lizardman Special Agent -->
+		<npc id="21106" count="1" respawnDelay="30" /> <!-- Cursed Seer -->
+	</spawn>
+	<!-- dion14_2023_01 -->
+	<spawn zone="dion14_2023_01">
+		<npc id="20928" count="11" respawnDelay="32" /> <!-- Hatu Weird Bee -->
+		<npc id="20929" count="11" respawnDelay="32" /> <!-- Hatu Dire Wolf -->
+		<npc id="20930" count="11" respawnDelay="32" /> <!-- Hatu Brown Bear -->
+	</spawn>
+	<!-- dion14_2023_02 -->
+	<spawn zone="dion14_2023_02">
+		<npc id="20928" count="11" respawnDelay="32" /> <!-- Hatu Weird Bee -->
+		<npc id="20929" count="12" respawnDelay="32" /> <!-- Hatu Dire Wolf -->
+		<npc id="20930" count="11" respawnDelay="32" /> <!-- Hatu Brown Bear -->
+	</spawn>
+	<!-- dion14_2023_04 -->
+	<spawn zone="dion14_2023_04">
+		<npc id="20928" count="8" respawnDelay="32" /> <!-- Hatu Weird Bee -->
+		<npc id="20929" count="8" respawnDelay="32" /> <!-- Hatu Dire Wolf -->
+		<npc id="20930" count="8" respawnDelay="32" /> <!-- Hatu Brown Bear -->
+		<npc id="20934" count="8" respawnDelay="32" /> <!-- Wasp Worker -->
+		<npc id="20935" count="8" respawnDelay="32" /> <!-- Wasp Leader -->
+	</spawn>
+	<!-- dion14_2023_05 -->
+	<spawn zone="dion14_2023_05">
+		<npc id="20928" count="5" respawnDelay="32" /> <!-- Hatu Weird Bee -->
+		<npc id="20929" count="5" respawnDelay="32" /> <!-- Hatu Dire Wolf -->
+		<npc id="20930" count="6" respawnDelay="32" /> <!-- Hatu Brown Bear -->
+		<npc id="20934" count="5" respawnDelay="32" /> <!-- Wasp Worker -->
+		<npc id="20935" count="5" respawnDelay="32" /> <!-- Wasp Leader -->
+	</spawn>
+	<!-- dion14_2023_06 -->
+	<spawn zone="dion14_2023_06">
+		<npc id="20928" count="5" respawnDelay="32" /> <!-- Hatu Weird Bee -->
+		<npc id="20929" count="5" respawnDelay="32" /> <!-- Hatu Dire Wolf -->
+		<npc id="20930" count="5" respawnDelay="32" /> <!-- Hatu Brown Bear -->
+		<npc id="20934" count="5" respawnDelay="32" /> <!-- Wasp Worker -->
+		<npc id="20935" count="6" respawnDelay="32" /> <!-- Wasp Leader -->
+	</spawn>
+	<!-- dion14_2023_07 -->
+	<spawn zone="dion14_2023_07">
+		<npc id="20928" count="3" respawnDelay="32" /> <!-- Hatu Weird Bee -->
+		<npc id="20929" count="4" respawnDelay="32" /> <!-- Hatu Dire Wolf -->
+		<npc id="20930" count="4" respawnDelay="32" /> <!-- Hatu Brown Bear -->
+		<npc id="20934" count="4" respawnDelay="32" /> <!-- Wasp Worker -->
+		<npc id="20935" count="4" respawnDelay="32" /> <!-- Wasp Leader -->
+	</spawn>
+	<!-- dion14_2023_08 -->
+	<spawn zone="dion14_2023_08">
+		<npc id="20934" count="5" respawnDelay="32" /> <!-- Wasp Worker -->
+		<npc id="20935" count="5" respawnDelay="32" /> <!-- Wasp Leader -->
+		<npc id="20931" count="6" respawnDelay="32" /> <!-- Hatu Onyx Beast -->
+		<npc id="20932" count="5" respawnDelay="32" /> <!-- Hatu Crimson Bear -->
+		<npc id="20933" count="6" respawnDelay="32" /> <!-- Hatu Windsus -->
+	</spawn>
+	<!-- dion14_2023_09 -->
+	<spawn zone="dion14_2023_09">
+		<npc id="20934" count="6" respawnDelay="32" /> <!-- Wasp Worker -->
+		<npc id="20935" count="7" respawnDelay="32" /> <!-- Wasp Leader -->
+		<npc id="20931" count="6" respawnDelay="32" /> <!-- Hatu Onyx Beast -->
+		<npc id="20932" count="7" respawnDelay="32" /> <!-- Hatu Crimson Bear -->
+		<npc id="20933" count="6" respawnDelay="32" /> <!-- Hatu Windsus -->
+	</spawn>
+	<!-- dion14_2023_10 -->
+	<spawn zone="dion14_2023_10">
+		<npc id="20934" count="3" respawnDelay="32" /> <!-- Wasp Worker -->
+		<npc id="20935" count="3" respawnDelay="32" /> <!-- Wasp Leader -->
+		<npc id="20931" count="3" respawnDelay="32" /> <!-- Hatu Onyx Beast -->
+		<npc id="20932" count="3" respawnDelay="32" /> <!-- Hatu Crimson Bear -->
+		<npc id="20933" count="3" respawnDelay="32" /> <!-- Hatu Windsus -->
+	</spawn>
+	<!-- dion14_2023_11 -->
+	<spawn zone="dion14_2023_11">
+		<npc id="20934" count="4" respawnDelay="32" /> <!-- Wasp Worker -->
+		<npc id="20935" count="5" respawnDelay="32" /> <!-- Wasp Leader -->
+		<npc id="20931" count="4" respawnDelay="32" /> <!-- Hatu Onyx Beast -->
+		<npc id="20932" count="4" respawnDelay="32" /> <!-- Hatu Crimson Bear -->
+		<npc id="20933" count="4" respawnDelay="32" /> <!-- Hatu Windsus -->
+	</spawn>
+	<!-- dion14_2023_12 -->
+	<spawn zone="dion14_2023_12">
+		<npc id="20934" count="6" respawnDelay="32" /> <!-- Wasp Worker -->
+		<npc id="20935" count="7" respawnDelay="32" /> <!-- Wasp Leader -->
+		<npc id="20931" count="7" respawnDelay="32" /> <!-- Hatu Onyx Beast -->
+		<npc id="20932" count="7" respawnDelay="32" /> <!-- Hatu Crimson Bear -->
+		<npc id="20933" count="6" respawnDelay="32" /> <!-- Hatu Windsus -->
+	</spawn>
+	<!-- dion14_2023_13s -->
+	<spawn zone="dion14_2023_13s">
+		<npc id="20928" count="3" respawnDelay="32" /> <!-- Hatu Weird Bee -->
+		<npc id="20929" count="3" respawnDelay="32" /> <!-- Hatu Dire Wolf -->
+		<npc id="20930" count="3" respawnDelay="32" /> <!-- Hatu Brown Bear -->
+	</spawn>
+	<!-- dion14_2023_14s -->
+	<spawn zone="dion14_2023_14s">
+		<npc id="20928" count="3" respawnDelay="32" /> <!-- Hatu Weird Bee -->
+		<npc id="20929" count="3" respawnDelay="32" /> <!-- Hatu Dire Wolf -->
+		<npc id="20930" count="4" respawnDelay="32" /> <!-- Hatu Brown Bear -->
+		<npc id="20934" count="3" respawnDelay="32" /> <!-- Wasp Worker -->
+		<npc id="20935" count="3" respawnDelay="32" /> <!-- Wasp Leader -->
+	</spawn>
+	<!-- dion01_qm2023_01 -->
+	<spawn zone="dion01_qm2023_01m1">
+		<npc id="27112" count="1" respawnDelay="180" /> <!-- Gorr -->
+	</spawn>
+	<!-- dion01_qm2023_02 -->
+	<spawn zone="dion01_qm2023_02m1">
+		<npc id="27113" count="1" respawnDelay="180" /> <!-- Baraham -->
+	</spawn>
+	<!-- dion01_qm2023_03 -->
+	<spawn zone="dion01_qm2023_03m1">
+		<npc id="27099" count="8" respawnDelay="600" /> <!-- Nameless Revenant -->
+	</spawn>
+	<!-- dion01_qm2023_04 -->
+	<spawn zone="dion01_qm2023_04m1">
+		<npc id="27099" count="8" respawnDelay="600" /> <!-- Nameless Revenant -->
+	</spawn>
+	<!-- dion01_qm2023_05 -->
+	<spawn zone="dion01_qm2023_05m1">
+		<npc id="27103" count="1" respawnDelay="180" /> <!-- Racer the Unicorn -->
+	</spawn>
+	<!-- dion17_tb2023_01 -->
+	<spawn zone="dion17_tb01_m1">
+		<npc id="18266" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- dion17_tb2023_05 -->
+	<spawn zone="dion17_tb05_m1">
+		<npc id="18267" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- dion16_tb2023_01 -->
+	<spawn zone="dion16_tb101_m1">
+		<npc id="18269" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

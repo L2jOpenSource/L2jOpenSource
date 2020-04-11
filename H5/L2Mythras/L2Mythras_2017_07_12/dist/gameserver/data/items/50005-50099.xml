@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+
+<armor id="50005" name="Knights Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+
+<armor id="50006" name="Archer's Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+
+<armor id="50007" name="Enchanter's Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+
+<armor id="50008" name="Healer's Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+
+<armor id="50009" name="Rouge's Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+
+<armor id="50010" name="Warrior's Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+
+<armor id="50011" name="Summoner's Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+
+<armor id="50012" name="Wizard's Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="31721" name="Wizard's Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="31722" name="Wizard's Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="31723" name="Wizard's Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="31724" name="Wizard's Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="20"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="20"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="20"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+
+</list>

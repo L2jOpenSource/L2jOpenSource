@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<skill id="8000" levels="1" name="Increase PDef and MDef - Counter">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="DUMMY"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+	</skill>
+	<skill id="8001" levels="1" name="Increase PAtk and MAtk - Counter">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="DUMMY"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+	</skill>
+	<skill id="8002" levels="1" name="Increase Atk Speed and Magic Speed - Counter">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="DUMMY"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+	</skill>
+	<skill id="8003" levels="1" name="Great Recover HP and MP - Counter">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="DUMMY"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+	</skill>
+	<skill id="8004" levels="5" name="M - Def">
+		<table name="#mDef"> 1.02 1.4 1.6 1.9 1.15</table>
+		<set name="power" val="#mDef"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mDef" val="#mDef"/>
+		</for>
+	</skill>
+	<skill id="8005" levels="5" name="P - Def">
+		<table name="#pDef"> 1.02 1.4 1.6 1.9 1.15</table>
+		<set name="power" val="#pDef"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+		</for>
+	</skill>
+	<skill id="8006" levels="5" name="Max - HP">
+		<table name="#hp"> 1.02 1.04 1.07 1.10 1.15</table>
+		<set name="power" val="#hp"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxHp" val="#hp"/>
+		</for>
+	</skill>
+	<skill id="8007" levels="5" name="Max - MP">
+		<table name="#mp"> 1.04 1.07 1.10 1.15 1.25</table>
+		<set name="power" val="#mp"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxMp" val="#mp"/>
+		</for>
+	</skill>
+	<skill id="8008" levels="5" name="M - ATK">
+		<table name="#mAtk"> 1.01 1.03 1.05 1.07 1.10</table>
+		<set name="power" val="#mAtk"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mAtk" val="#mAtk"/>
+		</for>
+	</skill>
+	<skill id="8009" levels="5" name="....">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+	</skill>
+	<skill id="8010" levels="5" name="P - SPEED">
+		<table name="#pAtkSpd"> 1.01 1.02 1.03 1.04 1.06</table>
+		<set name="power" val="#pAtkSpd"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="#pAtkSpd"/>
+		</for>
+	</skill>
+	<skill id="8011" levels="5" name="P - ATK">
+		<table name="#pAtk"> 1.01 1.03 1.05 1.07 1.10</table>
+		<set name="power" val="#pAtk"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" val="#pAtk"/>
+		</for>
+	</skill>
+	<skill id="8012" levels="5" name="M - SPEED">
+		<table name="#mAtkSpd"> 1.01 1.02 1.03 1.04 1.06</table>
+		<set name="power" val="#mAtkSpd"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="#mAtkSpd"/>
+		</for>
+	</skill>
+	<skill id="8014" levels="5" name="HealHpToDefend - Counter">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="DUMMY"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+	</skill>
+	<skill id="8015" levels="5" name="HealMpToDefend - Counter">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="DUMMY"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+	</skill>
+	<skill id="8016" levels="5" name="HealMpToAttack - Counter">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="DUMMY"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+	</skill>
+	<skill id="8017" levels="5" name="HealMpToAttack - Counter">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="DUMMY"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+	</skill>
+</list>

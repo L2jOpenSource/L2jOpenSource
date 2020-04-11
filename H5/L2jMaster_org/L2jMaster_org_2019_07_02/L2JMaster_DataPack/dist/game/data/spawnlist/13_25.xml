@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<spawn zone="Unknown3">
+		<npc id="18690" x="-223331" y="233909" z="4166" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18690" x="-224189" y="233518" z="4569" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18690" x="-224618" y="237037" z="4867" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18690" x="-226334" y="232736" z="5046" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18690" x="-221615" y="233518" z="4360" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18690" x="-221615" y="232736" z="4569" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18691" x="-220757" y="233127" z="4864" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18691" x="-222044" y="233127" z="4246" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18691" x="-222473" y="237037" z="5276" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18691" x="-224189" y="233909" z="4879" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18691" x="-226763" y="233909" z="5393" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18691" x="-226334" y="234300" z="5411" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18691" x="-227192" y="233909" z="5229" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18692" x="-223760" y="237037" z="4733" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18692" x="-225476" y="238601" z="4107" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18692" x="-224618" y="232345" z="5341" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18692" x="-221186" y="232345" z="5436" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18692" x="-221186" y="235082" z="3960" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="18692" x="-222473" y="235473" z="4018" heading="0" respawnDelay="600" /> <!-- Green Star Stone -->
+		<npc id="32518" x="-204849" y="242148" z="1781" heading="0" respawnDelay="60" /> <!-- Vortex Gate  -->
+		<npc id="32519" x="-223211" y="247803" z="1781" heading="0" respawnDelay="60" /> <!-- Vortex Gate  -->
+	</spawn>	
+</list>

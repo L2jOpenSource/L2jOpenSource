@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event name="Squash Event" active="27 02 2008-28 02 2008" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/eventConfig.xsd">
+	<spawnlist>
+		<add npc="31860" x="82756" y="149727" z="-3477" heading="48909" /> <!-- Giran -->
+		<add npc="31860" x="148126" y="26602" z="-2213" heading="16152" /> <!-- Aden -->
+		<add npc="31860" x="148171" y="-57173" z="-2776" heading="32767" /> <!-- Goddard -->
+		<add npc="31860" x="44368" y="-48386" z="-805" heading="17216" /> <!-- Rune -->
+	</spawnlist>
+	<messages>
+		<add type="onEnd" text="Squash: Event end!" />
+		<add type="onEnter" text="Squash: Event started!" />
+	</messages>
+</event>

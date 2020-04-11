@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  
+	<!-- S80-Grade Armors -->
+	
+	<!-- Moirai Heavy -->
+	<item>
+		<ingredient id="57" count="200000000"/>
+		<production id="15609" count="1"/>
+		<production id="15606" count="1"/>
+		<production id="15612" count="1"/>
+		<production id="15615" count="1"/>
+		<production id="15618" count="1"/>
+	</item>
+	<!-- Moirai Leather -->
+	<item>
+		<ingredient id="57" count="200000000"/>
+		<production id="15610" count="1"/>
+		<production id="15607" count="1"/>
+		<production id="15613" count="1"/>
+		<production id="15616" count="1"/>
+		<production id="15619" count="1"/>
+	</item>
+	<!-- Moirai Robe -->
+	<item>
+		<ingredient id="57" count="200000000"/>
+		<production id="15611" count="1"/>
+		<production id="15608" count="1"/>
+		<production id="15614" count="1"/>
+		<production id="15617" count="1"/>
+		<production id="15620" count="1"/>
+	</item>
+	<!-- Moirai Shield -->
+	<item>
+		<ingredient id="57" count="200000000"/>
+		<production id="15621" count="1"/>
+	</item>
+	<!-- Moirai Sigil -->
+	<item>
+		<ingredient id="57" count="200000000"/>
+		<production id="15622" count="1"/>
+	</item>
+</list>

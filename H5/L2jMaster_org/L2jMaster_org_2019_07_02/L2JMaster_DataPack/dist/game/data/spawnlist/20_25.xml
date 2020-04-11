@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio12_2025_001 -->
+	<spawn zone="gludio12_2025_001m2">
+		<npc id="25614" count="5" respawnDelay="60" /> <!-- Floating Ghost -->
+		<npc id="25615" count="5" respawnDelay="60" /> <!-- Floating Ghost -->
+	</spawn>
+	<!-- gludio12_2025_002 -->
+	<spawn zone="gludio12_2025_002m1">
+		<npc id="25614" x="20728" y="244007" z="11088" heading="0" respawnDelay="0" /> <!-- Bridge Controller -->
+	</spawn>
+</list>

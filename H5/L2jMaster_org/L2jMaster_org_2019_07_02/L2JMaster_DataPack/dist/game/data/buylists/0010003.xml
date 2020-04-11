@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/buylist.xsd">
+	<item id="16289" price="0" /> <!-- Moirai Helmet -->
+	<item id="16290" price="0" /> <!-- Moirai Leather Helmet -->
+	<item id="16291" price="0" /> <!-- Moirai Circlet -->
+	<item id="16292" price="0" /> <!-- Moirai Breastplate -->
+	<item id="16293" price="0" /> <!-- Moirai Leather Breastplate -->
+	<item id="16294" price="0" /> <!-- Moirai Tunic -->
+	<item id="16295" price="0" /> <!-- Moirai Gaiters -->
+	<item id="16296" price="0" /> <!-- Moirai Leahter Legging -->
+	<item id="16297" price="0" /> <!-- Moirai Stockings -->
+	<item id="16298" price="0" /> <!-- Moirai Gantlet -->
+	<item id="16299" price="0" /> <!-- Moirai Leather Gloves -->
+	<item id="16300" price="0" /> <!-- Moirai Gloves -->
+	<item id="16301" price="0" /> <!-- Moirai Boots -->
+	<item id="16302" price="0" /> <!-- Moirai Leather Boots -->
+	<item id="16303" price="0" /> <!-- Moirai Shoes -->
+	<item id="16305" price="0" /> <!-- Moirai Sigil -->
+</list>

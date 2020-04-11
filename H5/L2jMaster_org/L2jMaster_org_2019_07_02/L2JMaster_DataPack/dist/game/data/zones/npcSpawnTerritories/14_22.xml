@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- kadif02_1422_01_townnpc -->
+	<zone name="kadif02_1422_01_townnpcm1" type="NpcSpawnTerritory" shape="NPoly" minZ="2403" maxZ="2803">
+		<node X="-178952" Y="152719" />
+		<node X="-177866" Y="152719" />
+		<node X="-177859" Y="154255" />
+		<node X="-178952" Y="154255" />
+	</zone>
+	<!-- kadif02_1422_02_townnpc -->
+	<zone name="kadif02_1422_02_townnpcm1" type="NpcSpawnTerritory" shape="NPoly" minZ="2643" maxZ="2843">
+		<node X="-181733" Y="152482" />
+		<node X="-180604" Y="152349" />
+		<node X="-181060" Y="155052" />
+		<node X="-181740" Y="154840" />
+	</zone>
+	<!-- kadif02_1422_03_townnpc -->
+	<zone name="kadif02_1422_03_townnpcm1" type="NpcSpawnTerritory" shape="NPoly" minZ="2607" maxZ="2907">
+		<node X="-176338" Y="152687" />
+		<node X="-175252" Y="152687" />
+		<node X="-175245" Y="155000" />
+		<node X="-176338" Y="155000" />
+	</zone>
+	<!-- kadif02_1422_04_townnpc -->
+	<zone name="kadif02_1422_04_townnpcm1" type="NpcSpawnTerritory" shape="NPoly" minZ="2073" maxZ="2273">
+		<node X="-179626" Y="145343" />
+		<node X="-177311" Y="145347" />
+		<node X="-177318" Y="147645" />
+		<node X="-179625" Y="147630" />
+	</zone>
+</list>

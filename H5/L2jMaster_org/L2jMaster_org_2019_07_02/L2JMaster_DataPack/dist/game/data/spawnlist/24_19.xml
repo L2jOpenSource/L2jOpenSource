@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- aden18_npc2419_01 -->
+	<spawn zone="aden18_npc2419_0101">
+		<npc id="31226" x="147508" y="47042" z="-3400" heading="49000" respawnDelay="60" /> <!-- Arena Director -->
+	</spawn>
+	<!-- aden18_npc2419_02 -->
+	<spawn zone="aden18_npc2419_0201">
+		<npc id="31226" x="151484" y="46383" z="-3400" heading="16000" respawnDelay="60" /> <!-- Arena Director -->
+	</spawn>
+	<!-- aden19_npc2419_01 -->
+	<spawn zone="aden19_npc2419_0101">
+		<npc id="31745" x="143200" y="44000" z="-3040" heading="0" respawnDelay="60" /> <!-- Lady of the Lake -->
+	</spawn>
+	<!-- ssq_npc2419_01 -->
+	<spawn zone="ssq_npc2419_01m1">
+		<npc id="32573" x="138476" y="61269" z="-3664" heading="40960" respawnDelay="60" /> <!-- Tess -->
+	</spawn>
+	<!-- ssq_npc2419_02 -->
+	<spawn zone="ssq_npc2419_02m1">
+		<npc id="32574" x="142807" y="46493" z="-3384" heading="24576" respawnDelay="60" /> <!-- Kuta -->
+	</spawn>
+	<!-- coliseum_broadcasting_tower -->
+	<spawn zone="coliseum_broadcasting_tower">
+		<npc id="31031" x="147446" y="47033" z="-3350" heading="16384" respawnDelay="5" /> <!-- Broadcasting Tower -->
+		<npc id="31031" x="151539" y="46381" z="-3350" heading="16384" respawnDelay="5" /> <!-- Broadcasting Tower -->
+	</spawn>
+</list>

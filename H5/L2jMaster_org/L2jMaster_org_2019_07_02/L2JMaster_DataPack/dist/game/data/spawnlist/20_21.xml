@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- dion05_npc2021_01 -->
+	<spawn zone="dion05_npc2021_0101">
+		<npc id="30483" x="17296" y="114176" z="-3439" heading="32768" respawnDelay="60" /> <!-- Mozella -->
+	</spawn>
+	<!-- dion05_npc2021_02 -->
+	<spawn zone="dion05_npc2021_0201">
+		<npc id="30484" x="17544" y="113970" z="-11672" heading="16384" respawnDelay="60" /> <!-- Ponti -->
+		<npc id="30487" x="17892" y="113973" z="-11672" heading="16384" respawnDelay="60" /> <!-- Penelope -->
+	</spawn>
+	<!-- dion05_npc2021_04 -->
+	<spawn zone="dion05_npc2021_0401">
+		<npc id="30485" x="17725" y="108220" z="-9057" heading="16384" respawnDelay="60" /> <!-- Capella -->
+	</spawn>
+	<!-- dion05_npc2021_05 -->
+	<spawn zone="dion05_npc2021_0501">
+		<npc id="30486" x="17722" y="119749" z="-9068" heading="49152" respawnDelay="60" /> <!-- Hanna -->
+	</spawn>
+	<!-- dion05_npc2021_06 -->
+	<spawn zone="dion05_npc2021_0601">
+		<npc id="30622" x="15433" y="119727" z="-12088" heading="25728" respawnDelay="60" /> <!-- Box Of Titan -->
+	</spawn>
+	<!-- dion04_npc2021_01 -->
+	<spawn zone="dion04_npc2021_0101">
+		<npc id="30637" x="23066" y="118944" z="-3705" heading="8192" respawnDelay="60" /> <!-- Belthus -->
+	</spawn>
+	<!-- dion04_npc2021_02 -->
+	<spawn zone="dion04_npc2021_0201">
+		<npc id="30673" x="16460" y="113488" z="-3575" heading="0" respawnDelay="60" /> <!-- Lorain -->
+	</spawn>
+	<!-- dion04_npc2021_04 -->
+	<spawn zone="dion04_npc2021_0401">
+		<npc id="30621" x="10580" y="118027" z="-3672" heading="59000" respawnDelay="60" /> <!-- Nikola -->
+	</spawn>
+	<!-- dion05_npc2021_07 -->
+	<spawn zone="dion05_npc2021_07m1">
+		<npc id="32366" x="16411" y="113498" z="-9064" heading="0" respawnDelay="60" /> <!-- Destroyed Device -->
+	</spawn>
+	<!-- dion04_2021_01 -->
+	<spawn zone="dion04_2021_01m1">
+		<npc id="20157" count="7" respawnDelay="25" /> <!-- Marsh Stakato -->
+		<npc id="20229" count="10" respawnDelay="25" /> <!-- Stinger Wasp -->
+		<npc id="20230" count="8" respawnDelay="25" /> <!-- Marsh Stakato Worker -->
+	</spawn>
+	<!-- dion04_2021_02 -->
+	<spawn zone="dion04_2021_02m1">
+		<npc id="20227" count="9" respawnDelay="25" /> <!-- Horror Mist Ripper -->
+		<npc id="20228" count="7" respawnDelay="25" /> <!-- Giant Crimson Ant -->
+		<npc id="20157" count="7" respawnDelay="25" /> <!-- Marsh Stakato -->
+	</spawn>
+	<!-- dion04_2021_03 -->
+	<spawn zone="dion04_2021_03m1">
+		<npc id="20225" count="8" respawnDelay="25" /> <!-- Giant Mist Leech -->
+		<npc id="20226" count="7" respawnDelay="25" /> <!-- Gray Ant -->
+		<npc id="20227" count="8" respawnDelay="25" /> <!-- Horror Mist Ripper -->
+	</spawn>      
+	<!-- dion04_2021_04 -->
+	<spawn zone="dion04_2021_04m1">
+		<npc id="20225" count="12" respawnDelay="25" /> <!-- Giant Mist Leech -->
+		<npc id="20226" count="10" respawnDelay="25" /> <!-- Gray Ant -->
+		<npc id="20227" count="8" respawnDelay="25" /> <!-- Horror Mist Ripper -->
+	</spawn>
+	<!-- dion04_2021_05 -->
+	<spawn zone="dion04_2021_05m1">
+		<npc id="20227" count="7" respawnDelay="25" /> <!-- Horror Mist Ripper -->
+		<npc id="20228" count="8" respawnDelay="25" /> <!-- Giant Crimson Ant -->
+		<npc id="20157" count="9" respawnDelay="25" /> <!-- Marsh Stakato -->
+	</spawn>
+	<!-- dion04_2021_06 -->
+	<spawn zone="dion04_2021_06m1">
+		<npc id="20229" count="12" respawnDelay="25" /> <!-- Stinger Wasp -->
+		<npc id="20230" count="10" respawnDelay="25" /> <!-- Marsh Stakato Worker -->
+		<npc id="20231" count="10" respawnDelay="25" /> <!-- Toad Lord -->
+	</spawn>
+	<!-- dion04_2021_07 -->
+	<spawn zone="dion04_2021_07m1">
+		<npc id="20231" count="5" respawnDelay="25" /> <!-- Toad Lord -->
+		<npc id="20232" count="5" respawnDelay="25" /> <!-- Marsh Stakato Soldier -->
+		<npc id="20233" count="7" respawnDelay="25" /> <!-- Marsh Spider -->
+		<npc id="20234" count="8" respawnDelay="25" /> <!-- Marsh Stakato Drone -->
+	</spawn>
+	<!-- dion04_2021_08 -->
+	<spawn zone="dion04_2021_08m1">
+		<npc id="20232" count="7" respawnDelay="25" /> <!-- Marsh Stakato Soldier -->
+		<npc id="20233" count="10" respawnDelay="25" /> <!-- Marsh Spider -->
+		<npc id="20234" count="8" respawnDelay="25" /> <!-- Marsh Stakato Drone -->
+	</spawn>
+	<!-- dion04_2021_09 -->
+	<spawn zone="dion04_2021_09m1">
+		<npc id="20231" count="10" respawnDelay="25" /> <!-- Toad Lord -->
+		<npc id="20232" count="8" respawnDelay="25" /> <!-- Marsh Stakato Soldier -->
+		<npc id="20233" count="7" respawnDelay="25" /> <!-- Marsh Spider -->
+	</spawn>
+	<!-- dion04_2021_10 -->
+	<spawn zone="dion04_2021_10m1">
+		<npc id="20229" count="6" respawnDelay="25" /> <!-- Stinger Wasp -->
+		<npc id="20230" count="10" respawnDelay="25" /> <!-- Marsh Stakato Worker -->
+		<npc id="20231" count="7" respawnDelay="25" /> <!-- Toad Lord -->
+		<npc id="20232" count="4" respawnDelay="25" /> <!-- Marsh Stakato Soldier -->
+	</spawn>
+	<!-- dion04_2021_11 -->
+	<spawn zone="dion04_2021_11m1">
+		<npc id="20227" count="6" respawnDelay="25" /> <!-- Horror Mist Ripper -->
+		<npc id="20228" count="4" respawnDelay="25" /> <!-- Giant Crimson Ant -->
+		<npc id="20157" count="6" respawnDelay="25" /> <!-- Marsh Stakato -->
+	</spawn>
+	<!-- dion04_2021_12 -->
+	<spawn zone="dion04_2021_12m1">
+		<npc id="20227" count="4" respawnDelay="25" /> <!-- Horror Mist Ripper -->
+		<npc id="20228" count="5" respawnDelay="25" /> <!-- Giant Crimson Ant -->
+		<npc id="20157" count="7" respawnDelay="25" /> <!-- Marsh Stakato -->
+	</spawn>
+	<!-- dion04_2021_13 -->
+	<spawn zone="dion04_2021_13m1">
+		<npc id="20229" count="6" respawnDelay="25" /> <!-- Stinger Wasp -->
+		<npc id="20230" count="8" respawnDelay="25" /> <!-- Marsh Stakato Worker -->
+		<npc id="20231" count="8" respawnDelay="25" /> <!-- Toad Lord -->
+	</spawn>
+	<!-- dion04_2021_14 -->
+	<spawn zone="dion04_2021_14m1">
+		<npc id="20232" count="6" respawnDelay="25" /> <!-- Marsh Stakato Soldier -->
+		<npc id="20233" count="5" respawnDelay="25" /> <!-- Marsh Spider -->
+		<npc id="20234" count="6" respawnDelay="25" /> <!-- Marsh Stakato Drone -->
+	</spawn>
+	<!-- dion04_2021_15 -->
+	<spawn zone="dion04_2021_15m1">
+		<npc id="20232" count="7" respawnDelay="25" /> <!-- Marsh Stakato Soldier -->
+		<npc id="20233" count="6" respawnDelay="25" /> <!-- Marsh Spider -->
+		<npc id="20234" count="7" respawnDelay="25" /> <!-- Marsh Stakato Drone -->
+	</spawn>
+	<!-- dion04_2021_16 -->
+	<spawn zone="dion04_2021_16m1">
+		<npc id="20231" count="2" respawnDelay="25" /> <!-- Toad Lord -->
+		<npc id="20232" count="4" respawnDelay="25" /> <!-- Marsh Stakato Soldier -->
+		<npc id="20233" count="4" respawnDelay="25" /> <!-- Marsh Spider -->
+	</spawn>
+	<!-- dion04_2021_17 -->
+	<spawn zone="dion04_2021_17m1">
+		<npc id="20230" count="2" respawnDelay="25" /> <!-- Marsh Stakato Worker -->
+		<npc id="20231" count="4" respawnDelay="25" /> <!-- Toad Lord -->
+		<npc id="20232" count="2" respawnDelay="25" /> <!-- Marsh Stakato Soldier -->
+	</spawn>
+	<!-- dion04_2021_18 -->
+	<spawn zone="dion04_2021_18m1">
+		<npc id="20230" count="6" respawnDelay="25" /> <!-- Marsh Stakato Worker -->
+		<npc id="20231" count="2" respawnDelay="25" /> <!-- Toad Lord -->
+	</spawn>
+	<!-- dion04_2021_19 -->
+	<spawn zone="dion04_2021_19m1">
+		<npc id="20229" count="3" respawnDelay="25" /> <!-- Stinger Wasp -->
+		<npc id="20230" count="5" respawnDelay="25" /> <!-- Marsh Stakato Worker -->
+	</spawn>
+	<!-- dion04_2021_20 -->
+	<spawn zone="dion04_2021_20m1">
+		<npc id="20229" count="3" respawnDelay="25" /> <!-- Stinger Wasp -->
+		<npc id="20230" count="7" respawnDelay="25" /> <!-- Marsh Stakato Worker -->
+	</spawn>
+	<!-- dion04_2021_21 -->
+	<spawn zone="dion04_2021_21m1">
+		<npc id="20230" count="5" respawnDelay="25" /> <!-- Marsh Stakato Worker -->
+		<npc id="20232" count="3" respawnDelay="25" /> <!-- Marsh Stakato Soldier -->
+	</spawn>
+	<!-- dion04_2021_22s -->
+	<spawn zone="dion04_2021_22sm1">
+		<npc id="20225" count="4" respawnDelay="25" /> <!-- Giant Mist Leech -->
+		<npc id="20226" count="3" respawnDelay="25" /> <!-- Gray Ant -->
+	</spawn>
+	<!-- dion04_2021_23s -->
+	<spawn zone="dion04_2021_23sm1">
+		<npc id="20228" count="2" respawnDelay="25" /> <!-- Giant Crimson Ant -->
+		<npc id="20229" count="5" respawnDelay="25" /> <!-- Stinger Wasp -->
+	</spawn>
+	<!-- dion18_2021_01 -->
+	<spawn zone="dion18_2021_01m1">
+		<npc id="20213" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20214" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20214" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="21035" count="3" respawnDelay="35" respawnRandom="15" /> <!-- Catherok -->
+		<npc id="21035" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion18_2021_02
+	<spawn zone="dion18_2021_02m1">
+		
+	</spawn> -->
+	<!-- dion18_2021_03 -->
+	<spawn zone="dion18_2021_03m1">
+		<npc id="20213" count="5" respawnDelay="34" respawnRandom="10" /> <!-- Porta -->
+	</spawn>
+	<!-- dion18_2021_04 -->
+	<spawn zone="dion18_2021_04m1">
+		<npc id="20213" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20214" count="3" respawnDelay="41" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20215" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Mordeo -->
+		<npc id="21035" count="3" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion18_2021_05 -->
+	<spawn zone="dion18_2021_05m1">
+		<npc id="20213" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20214" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20214" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20215" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Mordeo -->
+		<npc id="21035" count="3" respawnDelay="35" respawnRandom="15" /> <!-- Catherok -->
+		<npc id="21035" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion18_2021_06 -->
+	<spawn zone="dion18_2021_06m1">
+		<npc id="20213" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20213" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20214" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20214" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20215" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Mordeo -->
+		<npc id="20215" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Mordeo -->
+		<npc id="21035" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Catherok -->
+		<npc id="21035" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion18_2021_07 -->
+	<spawn zone="dion18_2021_07m1">
+		<npc id="20216" count="4" respawnDelay="35" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20216" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20217" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Krator -->
+		<npc id="20217" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Krator -->
+		<npc id="21035" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Catherok -->
+		<npc id="21035" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion18_2021_08 -->
+	<spawn zone="dion18_2021_08m1">
+		<npc id="20216" count="3" respawnDelay="35" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20216" count="3" respawnDelay="41" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20217" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Krator -->
+		<npc id="20217" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Krator -->
+		<npc id="20751" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Snipe -->
+		<npc id="21035" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Catherok -->
+		<npc id="21035" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion18_2021_12 -->
+	<spawn zone="dion18_2021_12m1">
+		<npc id="20216" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20216" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20218" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Premo -->
+		<npc id="20218" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Premo -->
+		<npc id="20751" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Snipe -->
+		<npc id="21036" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Shindebarn -->
+	</spawn>
+	<!-- dion18_2021_13 -->
+	<spawn zone="dion18_2021_13m1">
+		<npc id="20216" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20216" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20218" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Premo -->
+		<npc id="20218" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Premo -->
+		<npc id="21036" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Shindebarn -->
+		<npc id="21036" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Shindebarn -->
+	</spawn>
+	<!-- dion18_2021_14 -->
+	<spawn zone="dion18_2021_14m1">
+		<npc id="20216" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20217" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Krator -->
+		<npc id="20217" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Krator -->
+		<npc id="20218" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Premo -->
+		<npc id="20751" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Snipe -->
+		<npc id="21036" count="3" respawnDelay="35" respawnRandom="15" /> <!-- Shindebarn -->
+		<npc id="21036" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Shindebarn -->
+	</spawn>
+	<!-- dion18_2021_15 -->
+	<spawn zone="dion18_2021_15m1">
+		<npc id="20216" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20216" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20217" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Krator -->
+		<npc id="20217" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Krator -->
+		<npc id="21035" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Catherok -->
+		<npc id="21035" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion18_2021_16 -->
+	<spawn zone="dion18_2021_16m1">
+		<npc id="20216" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20216" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20217" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Krator -->
+		<npc id="20218" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Premo -->
+		<npc id="20751" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Snipe -->
+		<npc id="21036" count="4" respawnDelay="35" respawnRandom="15" /> <!-- Shindebarn -->
+		<npc id="21036" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Shindebarn -->
+	</spawn>
+	<!-- dion18_2021_17 -->
+	<spawn zone="dion18_2021_17m1">
+		<npc id="20216" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20217" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Krator -->
+		<npc id="20217" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Krator -->
+		<npc id="20218" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Premo -->
+		<npc id="20751" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Snipe -->
+		<npc id="21036" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Shindebarn -->
+		<npc id="21036" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Shindebarn -->
+	</spawn>
+	<!-- dion18_2021_18 -->
+	<spawn zone="dion18_2021_18m1">
+		<npc id="20216" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20216" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20217" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Krator -->
+		<npc id="20218" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Premo -->
+		<npc id="20751" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Snipe -->
+		<npc id="21036" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Shindebarn -->
+	</spawn>
+	<!-- dion18_2021_19 -->
+	<spawn zone="dion18_2021_19m1">
+		<npc id="20216" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20216" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Ricenseo -->
+		<npc id="20217" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Krator -->
+		<npc id="20218" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Premo -->
+		<npc id="20751" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Snipe -->
+		<npc id="21036" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Shindebarn -->
+	</spawn>
+	<!-- dion18_2021_20 -->
+	<spawn zone="dion18_2021_20m1">
+		<npc id="20213" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20213" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Porta -->
+		<npc id="21035" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Catherok -->
+		<npc id="21035" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion18_2021_21 -->
+	<spawn zone="dion18_2021_21m1">
+		<npc id="20213" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20213" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20214" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20214" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20215" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Mordeo -->
+		<npc id="20215" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Mordeo -->
+		<npc id="21035" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Catherok -->
+		<npc id="21035" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion18_2021_22 -->
+	<spawn zone="dion18_2021_22m1">
+		<npc id="20213" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20214" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20214" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20215" count="2" respawnDelay="41" respawnRandom="15" /> <!-- Mordeo -->
+		<npc id="21035" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Catherok -->
+		<npc id="21035" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion18_2021_23 -->
+	<spawn zone="dion18_2021_23m1">
+		<npc id="20213" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20213" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20214" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20215" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Mordeo -->
+		<npc id="20215" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Mordeo -->
+		<npc id="21035" count="3" respawnDelay="35" respawnRandom="15" /> <!-- Catherok -->
+		<npc id="21035" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion18_2021_24 -->
+	<spawn zone="dion18_2021_24m1">
+		<npc id="20213" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Porta -->
+		<npc id="20214" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20214" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Excuro -->
+		<npc id="20215" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Mordeo -->
+		<npc id="20215" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Mordeo -->
+		<npc id="21035" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Catherok -->
+		<npc id="21035" count="1" respawnDelay="41" respawnRandom="15" /> <!-- Catherok -->
+	</spawn>
+	<!-- dion19_2021_01 -->
+	<spawn zone="dion19_2021_01m1">
+		<npc id="20219" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Validus -->
+		<npc id="20219" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Validus -->
+		<npc id="20220" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Dicor -->
+		<npc id="20221" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Perum -->
+		<npc id="21037" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Ossiud -->
+	</spawn>
+	<!-- dion19_2021_02 -->
+	<spawn zone="dion19_2021_02m1">
+		<npc id="20219" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Validus -->
+		<npc id="20220" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Dicor -->
+		<npc id="20221" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Perum -->
+		<npc id="20221" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Perum -->
+		<npc id="20222" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Torfe -->
+		<npc id="20753" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Dark Lord -->
+		<npc id="21038" count="2" respawnDelay="35" respawnRandom="20" /> <!-- Liangma -->
+	</spawn>
+	<!-- dion19_2021_03 -->
+	<spawn zone="dion19_2021_03m1">
+		<npc id="20221" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Perum -->
+		<npc id="21037" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Ossiud -->
+		<npc id="21037" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Ossiud -->
+		<npc id="20222" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Torfe -->
+		<npc id="20222" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Torfe -->
+		<npc id="21038" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Liangma -->
+		<npc id="21038" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Liangma -->
+	</spawn>
+	<!-- dion19_2021_04 -->
+	<spawn zone="dion19_2021_04m1">
+		<npc id="20222" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Torfe -->
+		<npc id="20222" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Torfe -->
+		<npc id="20753" count="2" respawnDelay="45" respawnRandom="15" /> <!-- Dark Lord -->
+	</spawn>
+	<!-- dion19_2021_05 -->
+	<spawn zone="dion19_2021_05m1">
+		<npc id="20136" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Death Knight -->
+		<npc id="20220" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Dicor -->
+		<npc id="20221" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Perum -->
+		<npc id="20222" count="5" respawnDelay="35" respawnRandom="15" /> <!-- Torfe -->
+		<npc id="20753" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Dark Lord -->
+		<npc id="21037" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Ossiud -->
+		<npc id="21038" count="3" respawnDelay="35" respawnRandom="15" /> <!-- Liangma -->
+	</spawn>
+	<!-- dion19_2021_06 -->
+	<spawn zone="dion19_2021_06m1">
+		<npc id="20136" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Death Knight -->
+		<npc id="20221" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Perum -->
+		<npc id="20222" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Torfe -->
+		<npc id="21038" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Liangma -->
+		<npc id="21038" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Liangma -->
+		<npc id="20753" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Dark Lord -->
+	</spawn>
+	<!-- dion19_2021_07 -->
+	<spawn zone="dion19_2021_07m1">
+		<npc id="20136" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Death Knight -->
+		<npc id="20221" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Perum -->
+		<npc id="20222" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Torfe -->
+		<npc id="20753" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Dark Lord -->
+		<npc id="21038" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Liangma -->
+		<npc id="21038" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Liangma -->
+	</spawn>
+	<!-- dion19_2021_08 -->
+	<spawn zone="dion19_2021_08m1">
+		<npc id="20136" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Death Knight -->
+		<npc id="20222" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Torfe -->
+		<npc id="20222" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Torfe -->
+		<npc id="20753" count="1" respawnDelay="45" respawnRandom="15" /> <!-- Dark Lord -->
+		<npc id="21038" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Liangma -->
+		<npc id="21038" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Liangma -->
+	</spawn>
+	<!-- dion19_2021_09
+	<spawn zone="dion19_2021_09m1">
+		
+	</spawn> -->
+	<!-- dion19_2021_10 -->
+	<spawn zone="dion19_2021_10m1">
+		<npc id="20136" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Death Knight -->
+		<npc id="20220" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Dicor -->
+		<npc id="20221" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Perum -->
+		<npc id="21037" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Ossiud -->
+		<npc id="20222" count="5" respawnDelay="35" respawnRandom="15" /> <!-- Torfe -->
+		<npc id="20753" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Dark Lord -->
+		<npc id="21038" count="3" respawnDelay="35" respawnRandom="15" /> <!-- Liangma -->
+	</spawn>
+	<!-- dion19_2021_11 -->
+	<spawn zone="dion19_2021_11m1">
+		<npc id="20221" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Perum -->
+		<npc id="21037" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Ossiud -->
+		<npc id="20222" count="3" respawnDelay="35" respawnRandom="15" /> <!-- Torfe -->
+		<npc id="20222" count="2" respawnDelay="35" respawnRandom="20" /> <!-- Torfe -->
+		<npc id="20753" count="1" respawnDelay="60" respawnRandom="15" /> <!-- Dark Lord -->
+		<npc id="21038" count="1" respawnDelay="35" respawnRandom="20" /> <!-- Liangma -->
+	</spawn>
+	<!-- dion19_2021_12 -->
+	<spawn zone="dion19_2021_12m1">
+		<npc id="20221" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Perum -->
+		<npc id="21037" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Ossiud -->
+		<npc id="21037" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Ossiud -->
+		<npc id="20222" count="1" respawnDelay="35" respawnRandom="15" /> <!-- Torfe -->
+		<npc id="20222" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Torfe -->
+	</spawn>
+	<!-- dion19_2021_13 -->
+	<spawn zone="dion19_2021_13m1">
+		<npc id="20219" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Validus -->
+		<npc id="20219" count="2" respawnDelay="45" respawnRandom="20" /> <!-- Validus -->
+		<npc id="20220" count="2" respawnDelay="35" respawnRandom="15" /> <!-- Dicor -->
+		<npc id="20221" count="1" respawnDelay="45" respawnRandom="20" /> <!-- Perum -->
+	</spawn>
+	<!-- dion04_qm2021_00 -->
+	<spawn zone="dion04_qm2021_00m1">
+		<npc id="27139" x="9209" y="127105" z="-3640" heading="0" respawnDelay="180" /> <!-- Secret Keeper Tree -->
+	</spawn>
+	<!-- dion04_qm2021_01 -->
+	<spawn zone="dion04_qm2021_01m1">
+		<npc id="27104" x="23031" y="118953" z="-3704" heading="8192" respawnDelay="180" /> <!-- Shadow Turen -->
+	</spawn>
+	<!-- dion04_qm2021_02 -->
+	<spawn zone="dion04_qm2021_02m1">
+		<npc id="27106" count="1" respawnDelay="180" /> <!-- Unicorn Phantasm -->
+	</spawn>
+	<!-- dg_20_21_03f_004 -->
+	<spawn zone="dg_20_21_03f_004">
+		<npc id="29009" x="17579" y="112644" z="-6592" heading="0" count="6" respawnDelay="10800" /> <!-- Dicor -->
+		<npc id="29013" x="18145" y="112725" z="-6592" heading="0" count="2" respawnDelay="10800" /> <!-- Premo -->
+		<npc id="29011" x="17911" y="112632" z="-6592" heading="0" count="5" respawnDelay="10800" /> <!-- Susceptor -->
+		<npc id="29010" x="17581" y="112948" z="-6592" heading="0" count="3" respawnDelay="10800" /> <!-- Validus -->
+	</spawn>
+	<!-- dg_20_21_03f_tele -->
+	<spawn zone="dg_20_21_03f_tele">
+		<npc id="31843" x="17719" y="115430" z="-6582" heading="0" respawnDelay="180" /> <!-- Teleportation Cubic -->
+	</spawn>
+	<!-- dg_20_21_03f_004_02 -->
+	<spawn zone="dg_20_21_03f_004_02">
+		<npc id="29011" x="17637" y="112581" z="-6576" heading="0" respawnDelay="10800" /> <!-- Susceptor -->
+		<npc id="29009" x="17822" y="112576" z="-6576" heading="0" respawnDelay="10800" /> <!-- Dicor -->
+		<npc id="29012" x="17492" y="112583" z="-6576" heading="0" respawnDelay="10800" /> <!-- Perum -->
+		<npc id="29011" x="17957" y="112564" z="-6576" heading="0" respawnDelay="10800" /> <!-- Susceptor -->
+		<npc id="29009" x="17432" y="112679" z="-6576" heading="0" respawnDelay="10800" /> <!-- Dicor -->
+		<npc id="29012" x="18051" y="112636" z="-6576" heading="0" respawnDelay="10800" /> <!-- Perum -->
+		<npc id="29011" x="17729" y="112680" z="-6576" heading="0" respawnDelay="10800" /> <!-- Susceptor -->
+	</spawn>
+	<!-- dion18_tb2021_08 -->
+	<spawn zone="dion18_tb08_m1">
+		<npc id="18272" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- dion19_tb2021_01 -->
+	<spawn zone="dion19_tb01_m1">
+		<npc id="18272" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- dion18_tb2021_12 -->
+	<spawn zone="dion18_tb12_m1">
+		<npc id="18273" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

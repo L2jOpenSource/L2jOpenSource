@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- ssqteleport1_npc1622_01 -->
+	<spawn zone="ssqteleport1_01">
+		<npc id="31488" x="-114224" y="-181504" z="-6753" heading="32768" respawnDelay="60" /> <!-- Rift Post Recruit -->
+		<npc id="31489" x="-114216" y="-178698" z="-6753" heading="32768" respawnDelay="60" /> <!-- Rift Post Private -->
+		<npc id="31490" x="-114798" y="-178084" z="-6753" heading="49152" respawnDelay="60" /> <!-- Rift Post Officer -->
+		<npc id="31491" x="-115362" y="-178692" z="-6753" heading="0" respawnDelay="60" /> <!-- Rift Post Captain -->
+		<npc id="31492" x="-115364" y="-181517" z="-6753" heading="0" respawnDelay="60" /> <!-- Rift Post Commander -->
+		<npc id="31493" x="-114793" y="-182125" z="-6753" heading="16384" respawnDelay="60" /> <!-- Rift Post Hero -->
+	</spawn>
+</list>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- SmartGuard banlist file --><banlist>
+    <ban hwid="bfc1e97155e09654cef0b3c59ffc946f5613597d030f8f85" time="1474481206233" type="NORMAL">
+        <accounts>
+            <account time="1474481206233">candyspoil</account>
+            <account time="1474481206233">candyman</account>
+            <account time="1474481206233">candyheal</account>
+        </accounts>
+    </ban>
+    <ban hwid="592e8f6f506a10188c29e2b88ba87c36e0f70326e2971364" time="1473350989265" type="NORMAL">
+        <accounts>
+            <account time="1473350989265">czajadb3</account>
+            <account time="1473350989265">czajadb2</account>
+            <account time="1473350989265">czajadb4</account>
+            <account time="1473350989265">czajaol</account>
+        </accounts>
+    </ban>
+    <ban hwid="96ee5c5bca83d004637e4a4dab0a6989f4fc34d7a83eb0b9" time="1473949226540" type="NORMAL">
+        <accounts>
+            <account time="1473949226540">jkbvg2</account>
+            <account time="1473949226540">millennium</account>
+            <account time="1473949226540">12qaz12</account>
+            <account time="1473949226540">jkbvg3</account>
+            <account time="1473949226540">jkbvg4</account>
+            <account time="1473961394185">jkbvg1</account>
+        </accounts>
+    </ban>
+    <ban hwid="8e09b0d7b60ab1a3b419541738c299509cb289df26a19f1c" time="1473936077650" type="NORMAL">
+        <accounts>
+            <account time="1473936077650">vbnbdfgjdfg1</account>
+        </accounts>
+    </ban>
+    <ban hwid="305816f5828138ddef3ed1503113beb4dab8a04ec6a1f4ad" time="1474036311751" type="NORMAL">
+        <accounts>
+            <account time="1474036311751">amita7</account>
+            <account time="1474036311751">bj13</account>
+            <account time="1474036311751">bjsph</account>
+            <account time="1474036380833">bjbp1</account>
+            <account time="1474036311751">bjsorc</account>
+        </accounts>
+    </ban>
+    <ban hwid="05f760d1ec5c9bcf082d22ba1f6b1ac25f375b25a77ce723" time="1474231329085" type="NORMAL">
+        <accounts>
+            <account time="1474231329085">smusi1</account>
+        </accounts>
+    </ban>
+    <ban hwid="9e5ac7378e7aeea866dd15cc0629e9575f375b25a77ce723" time="1473534309086" type="NORMAL">
+        <accounts>
+            <account time="1473534309086">gumispl</account>
+            <account time="1473534309086">zbychupl</account>
+            <account time="1473780765273">zbychpl</account>
+        </accounts>
+    </ban>
+    <ban hwid="05e213ec2e2bb8d65a4f9d35277bb97c6e4eed8fa9d483af" time="1475248893933" type="NORMAL">
+        <accounts>
+            <account time="1475248954620">luisbg12l</account>
+            <account time="1475248985392">asdf321</account>
+            <account time="1475248893933">p0int999</account>
+            <account time="1475260022535">luisbg21l</account>
+            <account time="1475335317844">lusice</account>
+        </accounts>
+    </ban>
+    <ban hwid="45254f4f1c5ba6a6d931d23b1af4539ef21d165fe13865ed" time="1474553080738" type="NORMAL">
+        <accounts>
+            <account time="1474553080738">thup4</account>
+            <account time="1474553080738">thup3</account>
+            <account time="1474553080738">thup2</account>
+            <account time="1474553080738">thup1</account>
+            <account time="1474553080738">thup5</account>
+        </accounts>
+    </ban>
+    <ban hwid="e2799633d2aa1ccd23e29c3c707792a424c300c9f07c8bc1" time="1474307655361" type="NORMAL">
+        <accounts>
+            <account time="1474307655361">lord2121</account>
+            <account time="1474472062470">gujo</account>
+            <account time="1474308013850">drebito0o</account>
+            <account time="1474307844765">lord21</account>
+        </accounts>
+    </ban>
+    <ban hwid="a04a7732b7b2a3871e04d0a00780d8add1ff66b94fe6c4c1" time="1474567392007" type="NORMAL">
+        <accounts>
+            <account time="1474567392007">mithakos72</account>
+            <account time="1474567392007">mithakos3</account>
+        </accounts>
+    </ban>
+    <ban hwid="639558cea5ade3626cf7c28f2a82ed4f55d57441ea4c13c0" time="1475175233528" type="NORMAL">
+        <accounts>
+            <account time="1475175350865">trinojose</account>
+            <account time="1475175233528">trinojose1</account>
+            <account time="1475178560543">instancias5</account>
+            <account time="1475175409708">aq4487</account>
+        </accounts>
+    </ban>
+    <ban hwid="0128f07ea265a6d5fe3b1b2b62620e2de0f70326e2971364" time="1475173868757" type="NORMAL">
+        <accounts>
+            <account time="1475173868757">bronko</account>
+        </accounts>
+    </ban>
+    <ban hwid="fd939576e05a294c557ef8e7652c3f5fe7603f5a8c2c6d4f" time="1473356978237" type="NORMAL">
+        <accounts>
+            <account time="1473356978237">pupen2</account>
+            <account time="1473356978237">pupen1</account>
+            <account time="1473356978237">pupen4</account>
+            <account time="1473356978237">pupen3</account>
+            <account time="1473356978237">pupen5</account>
+        </accounts>
+    </ban>
+    <ban hwid="2c96a22a2d9bac17c9f27fa431ca6b8f2a08129af14bb4e3" time="1473351010472" type="NORMAL">
+        <accounts>
+            <account time="1473355929715">czajask1</account>
+            <account time="1473351438709">czajadb1</account>
+            <account time="1473475928384">czajadb8</account>
+            <account time="1473351010472">czajadb5</account>
+            <account time="1473351010472">czajatank</account>
+            <account time="1473351010472">czajabish</account>
+            <account time="1473351010472">czajabish2</account>
+            <account time="1473351010472">czajaspoil</account>
+        </accounts>
+    </ban>
+    <ban hwid="0c3025d754fbcc2feba656ff08d6e458a787f890406548a7" time="1473289644791" type="NORMAL">
+        <accounts>
+            <account time="1473806910047">manek18</account>
+        </accounts>
+        <comment>SCAMMER POZIOM</comment>
+    </ban>
+    <ban hwid="af6ceec01301dadf7835c2cb461c0ea2d7ed38fb909bda35" time="1474575555615" type="NORMAL">
+        <accounts>
+            <account time="1474628585963">pablex</account>
+            <account time="1474628596553">deadlysmile</account>
+            <account time="1474628621080">fsafsaf</account>
+        </accounts>
+        <comment>SCAMMER</comment>
+    </ban>
+    <ban hwid="5fcaa226ad33b065a1b1e2ada34bfff0152998cc09bcffce" time="1477061176220" type="NORMAL">
+        <accounts>
+            <account time="1477061176220">jerid1997</account>
+            <account time="1477061202599">jerid1996</account>
+            <account time="1477061320869">frank1932</account>
+        </accounts>
+    </ban>
+    <ban hwid="0c8382b8dc1abdc3d83bb8c8d65917a800a5cc25521cb4f5" time="1475779070728" type="NORMAL">
+        <accounts>
+            <account time="1475779070728">status26</account>
+            <account time="1475782576519">status342</account>
+        </accounts>
+    </ban>
+    <ban hwid="f6f97b7acd13324c33e56be28733faf15613597d030f8f85" time="1475578296739" type="NORMAL">
+        <accounts>
+            <account time="1475578296739">marmalad</account>
+            <account time="1475578373179">marmalad1</account>
+        </accounts>
+    </ban>
+    <ban hwid="d1951c4f5b70505087be5bf4ae212699313c0aad06612150" time="1473864531714" type="NORMAL">
+        <accounts>
+            <account time="1473864531714">status27</account>
+            <account time="1473866115391">status25</account>
+        </accounts>
+    </ban>
+    <ban hwid="04875a8a26717266081a1fe73bdc19e8d7ed38fb909bda35" time="1473707110255" type="NORMAL">
+        <accounts>
+            <account time="1473707110255">xbetox</account>
+            <account time="1473707932571">xxbetoxx</account>
+            <account time="1473707967647">xxxbetoxxx</account>
+            <account time="1473707110255">xxbxextxoxx</account>
+            <account time="1473707110255">xbxextxox</account>
+            <account time="1473707110255">xxxbxextxoxxx</account>
+        </accounts>
+    </ban>
+    <ban hwid="01f921e1dad278474aa6dcbe2f418ecaf21d165fe13865ed" time="1473356810906" type="NORMAL">
+        <accounts>
+            <account time="1473356810906">dubraska</account>
+            <account time="1473472305515">khavae1</account>
+            <account time="1473372008512">spoile1</account>
+            <account time="1473531532803">nanocosmi</account>
+            <account time="1473472900267">caracas</account>
+            <account time="1473906256662">mango1</account>
+            <account time="1474253556864">carac</account>
+            <account time="1473356810906">edwin</account>
+        </accounts>
+    </ban>
+    <ban hwid="384117611e490ebaa4cd3d6d672ed2c3d2c3972aee813115" time="1474730914484" type="NORMAL">
+        <accounts>
+            <account time="1474730914484">nickosvx</account>
+            <account time="1476184526752">nickosvx2</account>
+        </accounts>
+    </ban>
+    <ban hwid="574db088283c64808338a3f81b732b70e0f70326e2971364" time="1474567959765" type="NORMAL">
+        <accounts>
+            <account time="1474567959765">thedoombp</account>
+        </accounts>
+    </ban>
+    <ban hwid="8e09b0d7b60ab1a3b419541738c299507ac82c34ff97e523" time="1473350762020" type="NORMAL">
+        <accounts>
+            <account time="1473350762020">sdfsdfsdfsdf2</account>
+        </accounts>
+    </ban>
+    <ban hwid="b1d17dc8cd37510b5c6671ec25c595455f375b25a77ce723" time="1474389391296" type="NORMAL">
+        <accounts>
+            <account time="1474396394748">basmata2</account>
+            <account time="1474396721135">basmata11</account>
+            <account time="1474389391296">basmata</account>
+        </accounts>
+    </ban>
+</banlist>

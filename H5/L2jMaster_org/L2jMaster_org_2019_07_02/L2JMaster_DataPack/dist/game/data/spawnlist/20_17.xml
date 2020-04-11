@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- rune16_npc2017_01 -->
+	<spawn zone="rune16_npc2017_01m1">
+		<npc id="32109" x="23664" y="-8464" z="-1345" heading="33000" respawnDelay="60" /> <!-- Shilen's Stone Statue -->
+	</spawn>
+	<!-- rune16_npc2017_02 -->
+	<spawn zone="rune16_npc2017_02m1">
+		<npc id="32106" x="10304" y="-25024" z="-3680" heading="0" respawnDelay="60" /> <!-- Singsing -->
+	</spawn>
+	<!-- rune16_npc2017_03 -->
+	<spawn zone="rune16_npc2017_03m1">
+		<npc id="32105" x="11952" y="-24016" z="-3644" heading="32000" respawnDelay="60" /> <!-- Dinn -->
+	</spawn>
+	<!-- rune16_npc2017_04 -->
+	<spawn zone="rune16_npc2017_04m1">
+		<npc id="32714" x="11504" y="-23344" z="-3644" heading="39000" respawnDelay="60" /> <!-- Asher -->
+	</spawn>
+	<!-- rune16_npc2017_05 -->
+	<spawn zone="rune16_npc2017_05m1">
+		<npc id="32113" x="11712" y="-23616" z="-3644" heading="40000" respawnDelay="60" /> <!-- Marquez -->
+	</spawn>
+	<!-- rune16_npc2017_06 -->
+	<spawn zone="rune16_npc2017_06m1">
+		<npc id="32111" x="7344" y="-5440" z="-3219" heading="50000" respawnDelay="60" /> <!-- Orahochin -->
+	</spawn>
+	<!-- rune16_npc2017_07 -->
+	<spawn zone="rune16_npc2017_07m1">
+		<npc id="32116" x="12736" y="-14448" z="-3168" heading="0" respawnDelay="60" /> <!-- Kirikachin -->
+	</spawn>
+	<!-- rune16_npc2017_08 -->
+	<spawn zone="rune16_npc2017_08m1">
+		<npc id="32118" x="15748" y="-19810" z="-3008" heading="0" respawnDelay="60" /> <!-- Mantarasa Egg -->
+	</spawn>
+	<!-- rune16_npc2017_09 -->
+	<spawn zone="rune16_npc2017_09m1">
+		<npc id="32122" x="13123" y="-8895" z="-3122" heading="0" respawnDelay="60" /> <!-- Warrior's Grave -->
+	</spawn>
+	<!-- rune16_npc2017_10 -->
+	<spawn zone="rune16_npc2017_10m1">
+		<npc id="32121" x="18714" y="-9635" z="-2795" heading="0" respawnDelay="60" /> <!-- Chuta Kaimu -->
+	</spawn>
+	<!-- rune16_npc2017_11 -->
+	<spawn zone="rune16_npc2017_11m1">
+		<npc id="32120" x="27723" y="-11684" z="-2302" heading="0" respawnDelay="60" /> <!-- Balu Kaimu -->
+	</spawn>
+	<!-- rune16_npc2017_12 -->
+	<spawn zone="rune16_npc2017_12m1">
+		<npc id="32119" x="23707" y="-19108" z="-2820" heading="0" respawnDelay="60" /> <!-- Ulu Kaimu -->
+	</spawn>
+	<!-- rune16_npc2017_14 -->
+	<spawn zone="rune16_npc2017_14m1">
+		<npc id="32112" x="5376" y="-2720" z="-3200" heading="16500" respawnDelay="60" /> <!-- Gariachin -->
+	</spawn>
+	<!-- rune16_npc2017_15 -->
+	<spawn zone="rune16_npc2017_15m1">
+		<npc id="32114" x="6538" y="-2529" z="-2936" heading="16500" respawnDelay="60" /> <!-- Mushika -->
+		<npc id="32115" x="6360" y="-2573" z="-2936" heading="0" respawnDelay="60" /> <!-- Asamah -->
+		<npc id="32117" x="6264" y="-2187" z="-2960" heading="26000" respawnDelay="60" /> <!-- Karakawei -->
+	</spawn>
+	<!-- rune16_npc2017_sp01 -->
+	<spawn zone="rune16_npc2017_sp01m1">
+		<npc id="32108" x="25996" y="-28172" z="-2420" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp02 -->
+	<spawn zone="rune16_npc2017_sp02m1">
+		<npc id="32108" x="23672" y="-28116" z="-2388" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp03 -->
+	<spawn zone="rune16_npc2017_sp03m1">
+		<npc id="32108" x="19372" y="-28104" z="-2380" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp04 -->
+	<spawn zone="rune16_npc2017_sp04m1">
+		<npc id="32108" x="19376" y="-26376" z="-2320" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp05 -->
+	<spawn zone="rune16_npc2017_sp05m1">
+		<npc id="32108" x="14976" y="-23388" z="-848" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp06 -->
+	<spawn zone="rune16_npc2017_sp06m1">
+		<npc id="32108" x="10752" y="-19152" z="-692" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp07 -->
+	<spawn zone="rune16_npc2017_sp07m1">
+		<npc id="32108" x="10544" y="-7616" z="-208" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp08 -->
+	<spawn zone="rune16_npc2017_sp08m1">
+		<npc id="32108" x="14000" y="-7748" z="-720" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp09 -->
+	<spawn zone="rune16_npc2017_sp09m1">
+		<npc id="32108" x="17224" y="-5976" z="-1668" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp10 -->
+	<spawn zone="rune16_npc2017_sp10m1">
+		<npc id="32108" x="20672" y="-6940" z="-1360" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp12 -->
+	<spawn zone="rune16_npc2017_sp12m1">
+		<npc id="32108" x="10396" y="-12932" z="-2000" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp13 -->
+	<spawn zone="rune16_npc2017_sp13m1">
+		<npc id="32108" x="9572" y="-15560" z="-1700" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp14 -->
+	<spawn zone="rune16_npc2017_sp14m1">
+		<npc id="32108" x="26552" y="-8872" z="-564" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp15 -->
+	<spawn zone="rune16_npc2015_sp17m1">
+		<npc id="32108" x="22548" y="-13076" z="-628" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp16 -->
+	<spawn zone="rune16_npc2016_sp17m1">
+		<npc id="32108" x="19080" y="-13092" z="-836" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp17 -->
+	<spawn zone="rune16_npc2017_sp17m1">
+		<npc id="32108" x="28604" y="-13224" z="-752" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp18 -->
+	<spawn zone="rune16_npc2017_sp18m1">
+		<npc id="32108" x="22472" y="-12516" z="-692" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp19 -->
+	<spawn zone="rune16_npc2017_sp19m1">
+		<npc id="32108" x="29620" y="-16416" z="-1392" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp20 -->
+	<spawn zone="rune16_npc2017_sp20m1">
+		<npc id="32108" x="28912" y="-19312" z="-1004" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp21 -->
+	<spawn zone="rune16_npc2017_sp21m1">
+		<npc id="32108" x="26396" y="-20996" z="164" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp22 -->
+	<spawn zone="rune16_npc2017_sp22m1">
+		<npc id="32108" x="23548" y="-22832" z="-834" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp23 -->
+	<spawn zone="rune16_npc2017_sp23m1">
+		<npc id="32108" x="20204" y="-22152" z="-1308" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp24 -->
+	<spawn zone="rune16_npc2017_sp24m1">
+		<npc id="32108" x="17332" y="-21296" z="-950" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp25 -->
+	<spawn zone="rune16_npc2017_sp25m1">
+		<npc id="32108" x="15036" y="-20296" z="-1700" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp28 -->
+	<spawn zone="rune16_npc2017_sp28m1">
+		<npc id="32108" x="13280" y="-11612" z="-1800" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp29 -->
+	<spawn zone="rune16_npc2017_sp29m1">
+		<npc id="32108" x="5432" y="-22628" z="-950" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp30 -->
+	<spawn zone="rune16_npc2017_sp30m1">
+		<npc id="32108" x="2144" y="-18228" z="-1250" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp31 -->
+	<spawn zone="rune16_npc2017_sp31m1">
+		<npc id="32108" x="1532" y="-13976" z="-3232" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp32 -->
+	<spawn zone="rune16_npc2017_sp32m1">
+		<npc id="32108" x="2000" y="-8504" z="-1450" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp33 -->
+	<spawn zone="rune16_npc2017_sp33m1">
+		<npc id="32108" x="3876" y="-5572" z="-1150" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- rune16_npc2017_sp34 -->
+	<spawn zone="rune16_npc2017_sp34m1">
+		<npc id="32108" x="3440" y="-20708" z="-1250" heading="0" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- luckpy_80_2017_01 -->
+	<spawn zone="luckpy_luckpy_80_2017_001m1">
+		<npc id="2501" count="6" respawnDelay="14400" respawnRandom="13200" randRate="51" /> <!-- Lucky Pig -->
+	</spawn>
+	<!-- rune18_2017_01 -->
+	<spawn zone="rune18_2017_01m1">
+		<npc id="22214" count="1" respawnDelay="150" respawnRandom="30" /> <!-- Elroki -->
+	</spawn>
+	<!-- rune18_2017_02 -->
+	<spawn zone="rune18_2017_02m1">
+		<npc id="22214" count="1" respawnDelay="150" respawnRandom="30" /> <!-- Elroki -->
+	</spawn>
+	<!-- rune18_2017_03 -->
+	<spawn zone="rune18_2017_03m1">
+		<npc id="22214" count="1" respawnDelay="150" respawnRandom="30" /> <!-- Elroki -->
+	</spawn>
+	<!-- rune18_2017_04 -->
+	<spawn zone="rune18_2017_04m1">
+		<npc id="22214" count="1" respawnDelay="150" respawnRandom="30" /> <!-- Elroki -->
+	</spawn>
+	<!-- rune18_2017_05 -->
+	<spawn zone="rune18_2017_05m1">
+		<npc id="22214" count="1" respawnDelay="150" respawnRandom="30" /> <!-- Elroki -->
+	</spawn>
+	<!-- rune18_2017_06 -->
+	<spawn zone="rune18_2017_06m1">
+		<npc id="22214" count="1" respawnDelay="150" respawnRandom="30" /> <!-- Elroki -->
+	</spawn>
+	<!-- rune18_2017_11 -->
+	<spawn zone="rune18_2017_11m1">
+		<npc id="22221" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_13 -->
+	<spawn zone="rune18_2017_13m1">
+		<npc id="22221" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_15 -->
+	<spawn zone="rune18_2017_15m1">
+		<npc id="22221" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_17 -->
+	<spawn zone="rune18_2017_17m1">
+		<npc id="22221" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_19 -->
+	<spawn zone="rune18_2017_19m1">
+		<npc id="22221" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_21 -->
+	<spawn zone="rune18_2017_21m1">
+		<npc id="22221" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_23 -->
+	<spawn zone="rune18_2017_23m1">
+		<npc id="22221" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_25 -->
+	<spawn zone="rune18_2017_25m1">
+		<npc id="22221" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_27 -->
+	<spawn zone="rune18_2017_27m1">
+		<npc id="22221" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+	</spawn>
+	<!-- rune18_2017_29 -->
+	<spawn zone="rune18_2017_29m1">
+		<npc id="22221" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_31 -->
+	<spawn zone="rune18_2017_31m1">
+		<npc id="22221" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_33 -->
+	<spawn zone="rune18_2017_33m1">
+		<npc id="22221" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_35 -->
+	<spawn zone="rune18_2017_35m1">
+		<npc id="22221" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="2" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_37 -->
+	<spawn zone="rune18_2017_37m1">
+		<npc id="22221" count="4" respawnDelay="150" respawnRandom="20" /> <!-- Pachycephalosaurus -->
+		<npc id="22222" count="6" respawnDelay="150" respawnRandom="20" /> <!-- Wild Strider -->
+		<npc id="22219" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Ornithomimus -->
+		<npc id="22220" count="3" respawnDelay="150" respawnRandom="20" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp01 -->
+	<spawn zone="rune18_2017_sp01m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp17 -->
+	<spawn zone="rune18_2017_sp17m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp02 -->
+	<spawn zone="rune18_2017_sp02m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp18 -->
+	<spawn zone="rune18_2017_sp18m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp03 -->
+	<spawn zone="rune18_2017_sp03m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp19 -->
+	<spawn zone="rune18_2017_sp19m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp04 -->
+	<spawn zone="rune18_2017_sp04m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp06 -->
+	<spawn zone="rune18_2017_sp06m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp22 -->
+	<spawn zone="rune18_2017_sp22m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp21 -->
+	<spawn zone="rune18_2017_sp21m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp09 -->
+	<spawn zone="rune18_2017_sp09m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+		<npc id="22210" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Pachycephalosaurus -->
+		<npc id="22213" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Wild Strider -->
+	</spawn>
+	<!-- rune18_2017_sp24 -->
+	<spawn zone="rune18_2017_sp24m1">
+		<npc id="22742" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22743" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune18_2017_sp10 -->
+	<spawn zone="rune18_2017_sp10m1">
+		<npc id="22210" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Pachycephalosaurus -->
+		<npc id="22213" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Wild Strider -->
+	</spawn>
+	<!-- rune18_2017_sp23 -->
+	<spawn zone="rune18_2017_sp23m1">
+		<npc id="22210" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Pachycephalosaurus -->
+		<npc id="22213" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Wild Strider -->
+	</spawn>
+	<!-- rune18_2017_sp25 -->
+	<spawn zone="rune18_2017_sp25m1">
+		<npc id="22210" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Pachycephalosaurus -->
+		<npc id="22213" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Wild Strider -->
+	</spawn>
+	<!-- rune18_2017_sp13 -->
+	<spawn zone="rune18_2017_sp13m1">
+		<npc id="22210" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Pachycephalosaurus -->
+		<npc id="22213" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Wild Strider -->
+	</spawn>
+	<!-- rune18_2017_sp14 -->
+	<spawn zone="rune18_2017_sp14m1">
+		<npc id="22210" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Pachycephalosaurus -->
+		<npc id="22213" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Wild Strider -->
+	</spawn>
+	<!-- rune18_2017_sp16 -->
+	<spawn zone="rune18_2017_sp16m1">
+		<npc id="22210" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Pachycephalosaurus -->
+		<npc id="22213" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Wild Strider -->
+	</spawn>
+	<!-- rune18_2017_sp29 -->
+	<spawn zone="rune18_2017_sp29m1">
+		<npc id="22210" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Pachycephalosaurus -->
+		<npc id="22213" count="1" respawnDelay="350" respawnRandom="100" /> <!-- Wild Strider -->
+	</spawn>
+		<!-- rune17_2017_01 -->
+	<spawn zone="rune17_2017_01m1">
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_02 -->
+	<spawn zone="rune17_2017_02m1">
+		<npc id="22196" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_03 -->
+	<spawn zone="rune17_2017_03m1">
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_04 -->
+	<spawn zone="rune17_2017_04m1">
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+		<npc id="22218" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22220" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_05 -->
+	<spawn zone="rune17_2017_05m1">
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_06 -->
+	<spawn zone="rune17_2017_06m1">
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22218" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_07 -->
+	<spawn zone="rune17_2017_07m1">
+		<npc id="22224" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22225" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_08 -->
+	<spawn zone="rune17_2017_08m1">
+		<npc id="22225" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="22218" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_09 -->
+	<spawn zone="rune17_2017_09m1">
+		<npc id="22224" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_10 -->
+	<spawn zone="rune17_2017_10m1">
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="22196" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_11 -->
+	<spawn zone="rune17_2017_11m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_12 -->
+	<spawn zone="rune17_2017_12m1">
+		<npc id="22196" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="22225" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_13 -->
+	<spawn zone="rune17_2017_13m1">
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_14 -->
+	<spawn zone="rune17_2017_14m1">
+		<npc id="22218" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_15 -->
+	<spawn zone="rune17_2017_15m1">
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22224" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+	</spawn>
+	<!-- rune17_2017_16 -->
+	<spawn zone="rune17_2017_16m1">
+		<npc id="22218" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="22225" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_17 -->
+	<spawn zone="rune17_2017_17m1">
+		<npc id="22224" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+	</spawn>
+	<!-- rune17_2017_18 -->
+	<spawn zone="rune17_2017_18m1">
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_19 -->
+	<spawn zone="rune17_2017_19m1">
+		<npc id="22218" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="18345" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="22225" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18344" count="2" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_20 -->
+	<spawn zone="rune17_2017_20m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_21 -->
+	<spawn zone="rune17_2017_21m1">
+		<npc id="22220" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="22196" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_22 -->
+	<spawn zone="rune17_2017_22m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="22225" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_23 -->
+	<spawn zone="rune17_2017_23m1">
+		<npc id="22218" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_24 -->
+	<spawn zone="rune17_2017_24m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_25 -->
+	<spawn zone="rune17_2017_25m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_26 -->
+	<spawn zone="rune17_2017_26m1">
+		<npc id="22218" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="3" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22196" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_27 -->
+	<spawn zone="rune17_2017_27m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22224" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+	</spawn>
+	<!-- rune17_2017_28 -->
+	<spawn zone="rune17_2017_28m1">
+		<npc id="22219" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="22225" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_29 -->
+	<spawn zone="rune17_2017_29m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22224" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22225" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_30 -->
+	<spawn zone="rune17_2017_30m1">
+		<npc id="22219" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_31 -->
+	<spawn zone="rune17_2017_31m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22216" count="1" respawnDelay="3600" respawnRandom="1800" /> <!-- Tyrannosaurus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22224" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+	</spawn>	
+	<!-- rune17_2017_32 -->
+	<spawn zone="rune17_2017_32m1">
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="22225" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18344" count="2" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_33 -->
+	<spawn zone="rune17_2017_33m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22216" count="1" respawnDelay="3600" respawnRandom="1800" /> <!-- Tyrannosaurus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_34 -->
+	<spawn zone="rune17_2017_34m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_35 -->
+	<spawn zone="rune17_2017_35m1">
+		<npc id="22218" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_36 -->
+	<spawn zone="rune17_2017_36m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+	</spawn>
+	<!-- rune17_2017_37 -->
+	<spawn zone="rune17_2017_37m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_38 -->
+	<spawn zone="rune17_2017_38m1">
+		<npc id="22218" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_39 -->
+	<spawn zone="rune17_2017_39m1">
+		<npc id="22199" count="2" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="22196" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_40 -->
+	<spawn zone="rune17_2017_40m1">
+		<npc id="22218" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_41 -->
+	<spawn zone="rune17_2017_41m1">
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_42 -->
+	<spawn zone="rune17_2017_42m1">
+		<npc id="22199" count="2" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_43 -->
+	<spawn zone="rune17_2017_43m1">
+		<npc id="22218" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="22225" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_44 -->
+	<spawn zone="rune17_2017_44m1">
+		<npc id="22199" count="3" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22224" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22225" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_45 -->
+	<spawn zone="rune17_2017_45m1">
+		<npc id="22199" count="3" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_46 -->
+	<spawn zone="rune17_2017_46m1">
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22223" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22224" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="18345" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="2" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_47 -->
+	<spawn zone="rune17_2017_47m1">
+		<npc id="22218" count="5" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22220" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_48 -->
+	<spawn zone="rune17_2017_48m1">
+		<npc id="22218" count="4" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22220" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_49 -->
+	<spawn zone="rune17_2017_49m1">
+		<npc id="22199" count="3" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22218" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_50 -->
+	<spawn zone="rune17_2017_50m1">
+		<npc id="22218" count="4" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22220" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_51 -->
+	<spawn zone="rune17_2017_51m1">
+		<npc id="22218" count="4" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22220" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_52 -->
+	<spawn zone="rune17_2017_52m1">
+		<npc id="22199" count="3" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22218" count="4" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22220" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_53 -->
+	<spawn zone="rune17_2017_53m1">
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="22218" count="4" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_54 -->
+	<spawn zone="rune17_2017_54m1">
+		<npc id="22218" count="4" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_55 -->
+	<spawn zone="rune17_2017_55m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22218" count="4" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_56 -->
+	<spawn zone="rune17_2017_56m1">
+		<npc id="22218" count="3" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="18344" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Ancient Egg -->
+	</spawn>
+	<!-- rune17_2017_58 -->
+	<spawn zone="rune17_2017_58m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22218" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22220" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_59 -->
+	<spawn zone="rune17_2017_59m1">
+		<npc id="22218" count="3" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22220" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_60 -->
+	<spawn zone="rune17_2017_60m1">
+		<npc id="22218" count="3" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22220" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_61 -->
+	<spawn zone="rune17_2017_61m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22218" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_62 -->
+	<spawn zone="rune17_2017_62m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="22218" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_63 -->
+	<spawn zone="rune17_2017_63m1">
+		<npc id="22215" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="22218" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_64 -->
+	<spawn zone="rune17_2017_64m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22218" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_65 -->
+	<spawn zone="rune17_2017_65m1">
+		<npc id="22199" count="1" respawnDelay="250" respawnRandom="55" /> <!-- Pterosaur -->
+		<npc id="22218" count="3" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="1" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_66 -->
+	<spawn zone="rune17_2017_66m1">
+		<npc id="22218" count="4" respawnDelay="100" respawnRandom="35" /> <!-- Velociraptor -->
+		<npc id="22219" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Ornithomimus -->
+		<npc id="22220" count="2" respawnDelay="100" respawnRandom="35" /> <!-- Deinonychus -->
+		<npc id="18345" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+		<npc id="18346" count="1" respawnDelay="200" respawnRandom="30" /> <!-- Sprigant -->
+	</spawn>
+	<!-- rune17_2017_67 -->
+	<spawn zone="rune17_2017_67m1">
+		<npc id="22216" count="1" respawnDelay="3600" respawnRandom="1800" /> <!-- Tyrannosaurus -->
+	</spawn>
+	<!-- rune17_2017_69 -->
+	<spawn zone="rune17_2017_69m1">
+		<npc id="22216" count="1" respawnDelay="3600" respawnRandom="1800" /> <!-- Tyrannosaurus -->
+	</spawn>
+	<!-- rune17_2017_sp01 -->
+	<spawn zone="rune17_2017_sp01m1">
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp03 -->
+	<spawn zone="rune17_2017_sp03m1">
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp05 -->
+	<spawn zone="rune17_2017_sp05m1">
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_sp07 -->
+	<spawn zone="rune17_2017_sp07m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp09 -->
+	<spawn zone="rune17_2017_sp09m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+	</spawn>
+	<!-- rune17_2017_sp12 -->
+	<spawn zone="rune17_2017_sp12m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+	</spawn>
+	<!-- rune17_2017_sp15 -->
+	<spawn zone="rune17_2017_sp15m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp17 -->
+	<spawn zone="rune17_2017_sp17m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp19 -->
+	<spawn zone="rune17_2017_sp19m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp21 -->
+	<spawn zone="rune17_2017_sp21m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22217" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+	</spawn>
+	<!-- rune17_2017_sp23 -->
+	<spawn zone="rune17_2017_sp23m1">
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp25 -->
+	<spawn zone="rune17_2017_sp25m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+	</spawn>
+	<!-- rune17_2017_sp27 -->
+	<spawn zone="rune17_2017_sp27m1">
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp29 -->
+	<spawn zone="rune17_2017_sp29m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_sp31 -->
+	<spawn zone="rune17_2017_sp31m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp33 -->
+	<spawn zone="rune17_2017_sp33m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+	</spawn>
+	<!-- rune17_2017_sp35 -->
+	<spawn zone="rune17_2017_sp35m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp37 -->
+	<spawn zone="rune17_2017_sp37m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_sp39 -->
+	<spawn zone="rune17_2017_sp39m1">
+		<npc id="22217" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp41 -->
+	<spawn zone="rune17_2017_sp41m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+	</spawn>
+	<!-- rune17_2017_sp43 -->
+	<spawn zone="rune17_2017_sp43m1">
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp45 -->
+	<spawn zone="rune17_2017_sp45m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_sp47 -->
+	<spawn zone="rune17_2017_sp47m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp48 -->
+	<spawn zone="rune17_2017_sp48m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+	</spawn>
+	<!-- rune17_2017_sp51 -->
+	<spawn zone="rune17_2017_sp51m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp53 -->
+	<spawn zone="rune17_2017_sp53m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_sp55 -->
+	<spawn zone="rune17_2017_sp55m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp57 -->
+	<spawn zone="rune17_2017_sp57m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_sp59 -->
+	<spawn zone="rune17_2017_sp59m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp61 -->
+	<spawn zone="rune17_2017_sp61m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_sp63 -->
+	<spawn zone="rune17_2017_sp63m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp65 -->
+	<spawn zone="rune17_2017_sp65m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_sp67 -->
+	<spawn zone="rune17_2017_sp67m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp69 -->
+	<spawn zone="rune17_2017_sp69m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+	</spawn>
+	<!-- rune17_2017_sp71 -->
+	<spawn zone="rune17_2017_sp71m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp73 -->
+	<spawn zone="rune17_2017_sp73m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_sp75 -->
+	<spawn zone="rune17_2017_sp75m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp77 -->
+	<spawn zone="rune17_2017_sp77m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+	</spawn>
+	<!-- rune17_2017_sp79 -->
+	<spawn zone="rune17_2017_sp79m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22217" count="1" respawnDelay="300" respawnRandom="100" /> <!-- Tyrannosaurus -->
+	</spawn>
+	<!-- rune17_2017_sp81 -->
+	<spawn zone="rune17_2017_sp81m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+	</spawn>
+	<!-- rune17_2017_sp83 -->
+	<spawn zone="rune17_2017_sp83m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+	<!-- rune17_2017_sp85 -->
+	<spawn zone="rune17_2017_sp85m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+	</spawn>
+	<!-- rune17_2017_sp87 -->
+	<spawn zone="rune17_2017_sp87m1">
+		<npc id="22198" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Velociraptor -->
+		<npc id="22202" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Ornithomimus -->
+		<npc id="22205" count="1" respawnDelay="150" respawnRandom="100" /> <!-- Deinonychus -->
+	</spawn>
+</list>

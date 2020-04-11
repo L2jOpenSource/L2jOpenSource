@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Krateis Cube (80)" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/instance.xsd">
+	<activityTime val="20" />
+	<allowSummon val="false" />
+	<emptyDestroyTime val="1200" />
+	<exitPoint x="-70128" y="-71063" z="-1420" />
+	<spawnlist>
+		<group name="general">
+			<spawn npcId="32506" x="-53912" y="-82732" z="-8340" heading="0" respawn="30"/>
+			<!-- {18595,18597,18596,18598,18593,18600,18594,18599}; -->
+			<spawn npcId="18595" x="-52334" y="-86668" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-53030" y="-86638" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-53048" y="-87300" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-52395" y="-87280" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-50399" y="-86651" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-51044" y="-86640" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-51040" y="-87283" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-50403" y="-87288" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-48407" y="-86656" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-49030" y="-86643" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-49041" y="-87277" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-48417" y="-87279" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-46413" y="-86646" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-47039" y="-86645" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-47033" y="-87290" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-46406" y="-87278" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-45038" y="-86651" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-45045" y="-87286" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-44404" y="-87278" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-44407" y="-86656" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-45046" y="-85274" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-44401" y="-85285" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-44402" y="-84646" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-45034" y="-84635" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-47048" y="-85293" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-46426" y="-85279" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-46410" y="-84647" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-47038" y="-84645" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-49036" y="-85289" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-48420" y="-85280" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-48407" y="-84654" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-49039" y="-84636" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-51036" y="-85280" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-50404" y="-85289" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-50406" y="-84651" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-51055" y="-84640" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-53050" y="-84651" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-53041" y="-85283" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-52406" y="-85289" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-52394" y="-84647" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-52409" y="-82664" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-53035" y="-82648" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-53043" y="-83295" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-52396" y="-83290" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-50403" y="-82654" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-50998" y="-82634" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-51041" y="-83276" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-50398" y="-83280" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-48409" y="-82653" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-49046" y="-82644" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-49038" y="-83291" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-48404" y="-83285" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-46399" y="-82654" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-47041" y="-82637" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-47038" y="-83287" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-46403" y="-83280" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-44408" y="-82649" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-45038" y="-82644" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-45040" y="-83291" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-44408" y="-83281" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-45042" y="-81282" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-44403" y="-81280" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-44399" y="-80647" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-45038" y="-80639" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-47040" y="-81267" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-46399" y="-81294" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-46403" y="-80648" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-47037" y="-80644" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-49049" y="-81283" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-48416" y="-81281" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-48402" y="-80649" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-49048" y="-80638" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-51050" y="-81267" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-50416" y="-81289" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-50393" y="-80649" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-51034" y="-80648" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-53038" y="-81281" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-53055" y="-80636" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-52405" y="-80640" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-52392" y="-81288" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-52399" y="-78651" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-53044" y="-78648" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-53036" y="-79284" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-52409" y="-79277" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-50421" y="-78659" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-51040" y="-78651" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-51038" y="-79280" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-50410" y="-79274" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-48404" y="-78657" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-49036" y="-78641" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-49054" y="-79297" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-48410" y="-79278" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18593" x="-46409" y="-78657" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18600" x="-47034" y="-78644" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18594" x="-47048" y="-79272" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18599" x="-46407" y="-79286" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18595" x="-44411" y="-78651" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18597" x="-45048" y="-78644" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18596" x="-45039" y="-79280" z="-8325" heading="0" respawn="30"/>
+			<spawn npcId="18598" x="-44413" y="-79281" z="-8325" heading="0" respawn="30"/>
+		</group>
+	</spawnlist>
+	<doorlist>
+		<door doorId="18150207"/>
+		<door doorId="18150209"/>
+		<door doorId="18150211"/>
+		<door doorId="18150213"/>
+		<door doorId="18150216"/>
+		<door doorId="18150217"/>
+		<door doorId="18150218"/>
+		<door doorId="18150219"/>
+		<door doorId="18150220"/>
+		<door doorId="18150227"/>
+		<door doorId="18150229"/>
+		<door doorId="18150231"/>
+		<door doorId="18150233"/>
+		<door doorId="18150236"/>
+		<door doorId="18150237"/>
+		<door doorId="18150238"/>
+		<door doorId="18150239"/>
+		<door doorId="18150240"/>
+		<door doorId="18150247"/>
+		<door doorId="18150249"/>
+		<door doorId="18150251"/>
+		<door doorId="18150253"/>
+		<door doorId="18150256"/>
+		<door doorId="18150257"/>
+		<door doorId="18150258"/>
+		<door doorId="18150259"/>
+		<door doorId="18150260"/>
+		<door doorId="18150267"/>
+		<door doorId="18150269"/>
+		<door doorId="18150271"/>
+		<door doorId="18150273"/>
+		<door doorId="18150276"/>
+		<door doorId="18150277"/>
+		<door doorId="18150278"/>
+		<door doorId="18150279"/>
+		<door doorId="18150280"/>
+		<door doorId="18150287"/>
+		<door doorId="18150289"/>
+		<door doorId="18150291"/>
+		<door doorId="18150293"/>
+		<door doorId="18150208"/>
+		<door doorId="18150210"/>
+		<door doorId="18150212"/>
+		<door doorId="18150214"/>
+		<door doorId="18150221"/>
+		<door doorId="18150222"/>
+		<door doorId="18150223"/>
+		<door doorId="18150224"/>
+		<door doorId="18150225"/>
+		<door doorId="18150228"/>
+		<door doorId="18150230"/>
+		<door doorId="18150232"/>
+		<door doorId="18150234"/>
+		<door doorId="18150241"/>
+		<door doorId="18150242"/>
+		<door doorId="18150243"/>
+		<door doorId="18150244"/>
+		<door doorId="18150245"/>
+		<door doorId="18150248"/>
+		<door doorId="18150250"/>
+		<door doorId="18150252"/>
+		<door doorId="18150254"/>
+		<door doorId="18150261"/>
+		<door doorId="18150262"/>
+		<door doorId="18150263"/>
+		<door doorId="18150264"/>
+		<door doorId="18150265"/>
+		<door doorId="18150268"/>
+		<door doorId="18150270"/>
+		<door doorId="18150272"/>
+		<door doorId="18150274"/>
+		<door doorId="18150281"/>
+		<door doorId="18150282"/>
+		<door doorId="18150283"/>
+		<door doorId="18150284"/>
+		<door doorId="18150285"/>
+		<door doorId="18150288"/>
+		<door doorId="18150290"/>
+		<door doorId="18150292"/>
+		<door doorId="18150294"/>
+	</doorlist>
+</instance>

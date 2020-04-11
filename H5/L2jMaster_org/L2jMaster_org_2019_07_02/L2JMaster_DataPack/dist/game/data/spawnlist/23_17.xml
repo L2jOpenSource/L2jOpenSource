@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- aden17_npc2317_01 -->
+	<spawn zone="aden17_npc2317_01m1">
+		<npc id="31677" x="110960" y="-10304" z="-1936" heading="25000" respawnDelay="60" /> <!-- Border Patrol -->
+	</spawn>
+	<!-- aden17_npc2317_02 -->
+	<spawn zone="aden17_npc2317_02m1">
+		<npc id="31677" x="111324" y="-10280" z="-1700" heading="23000" respawnDelay="60" /> <!-- Border Patrol -->
+	</spawn>
+	<!-- aden17_npc2317_03 -->
+	<spawn zone="aden17_npc2317_03m1">
+		<npc id="31677" x="110520" y="-10804" z="-1656" heading="19000" respawnDelay="60" /> <!-- Border Patrol -->
+	</spawn>
+	<!-- aden17_npc2317_04 -->
+	<spawn zone="aden17_npc2317_04m1">
+		<npc id="31677" x="110812" y="-10816" z="-1856" heading="5000" respawnDelay="60" /> <!-- Border Patrol -->
+		<npc id="31677" x="110836" y="-10864" z="-1841" heading="5000" respawnDelay="60" /> <!-- Border Patrol -->
+	</spawn>
+	<!-- aden17_npc2317_05 -->
+	<spawn zone="aden17_npc2317_05m1">
+		<npc id="31677" x="112352" y="-12512" z="-1712" heading="33000" respawnDelay="60" /> <!-- Border Patrol -->
+	</spawn>
+	<!-- aden17_npc2317_06 -->
+	<spawn zone="aden17_npc2317_06m1">
+		<npc id="31677" x="110784" y="-11984" z="-1754" heading="0" respawnDelay="60" /> <!-- Border Patrol -->
+	</spawn>
+	<!-- aden17_npc2317_07 -->
+	<spawn zone="aden17_npc2317_07m1">
+		<npc id="31675" x="111184" y="-13248" z="-1703" heading="16500" respawnDelay="60" /> <!-- Viktor Van Deik -->
+	</spawn>
+	<!-- aden17_npc2317_08 -->
+	<spawn zone="aden17_npc2317_08m1">
+		<npc id="31677" x="111536" y="-13248" z="-1703" heading="16500" respawnDelay="60" /> <!-- Border Patrol -->
+	</spawn>
+	<!-- aden17_npc2317_09 -->
+	<spawn zone="aden17_npc2317_09m1">
+		<npc id="31679" x="111536" y="-17264" z="-1703" heading="49000" respawnDelay="60" /> <!-- Eustace Van Essen -->
+	</spawn>
+	<!-- aden17_npc2317_10 -->
+	<spawn zone="aden17_npc2317_10m1">
+		<npc id="31677" x="111184" y="-17264" z="-1703" heading="49000" respawnDelay="60" /> <!-- Border Patrol -->
+	</spawn>
+	<!-- aden17_npc2317_11 -->
+	<spawn zone="aden17_npc2317_11m1">
+		<npc id="31681" x="111248" y="-18656" z="-1680" heading="0" respawnDelay="60" /> <!-- Frontier Guard -->
+	</spawn>
+	<!-- aden17_npc2317_12 -->
+	<spawn zone="aden17_npc2317_12m1">
+		<npc id="31681" x="113600" y="-18096" z="-1703" heading="49000" respawnDelay="60" /> <!-- Frontier Guard -->
+	</spawn>
+	<!-- aden17_npc2317_13 -->
+	<spawn zone="aden17_npc2317_13m1">
+		<npc id="31681" x="117636" y="-20288" z="-2364" heading="0" respawnDelay="60" /> <!-- Frontier Guard -->
+	</spawn>
+	<!-- aden17_npc2317_14 -->
+	<spawn zone="aden17_npc2317_14m1">
+		<npc id="31681" x="118024" y="-20232" z="-2528" heading="0" respawnDelay="60" /> <!-- Frontier Guard -->
+	</spawn>
+	<!-- aden17_npc2317_15 -->
+	<spawn zone="aden17_npc2317_15m1">
+		<npc id="31681" x="118192" y="-19872" z="-2537" heading="56000" respawnDelay="60" /> <!-- Frontier Guard -->
+	</spawn>
+	<!-- aden17_npc2317_16 -->
+	<spawn zone="aden17_npc2317_16m1">
+		<npc id="31681" x="119212" y="-19868" z="-2791" heading="61000" respawnDelay="60" /> <!-- Frontier Guard -->
+	</spawn>
+	<!-- aden17_npc2317_17 -->
+	<spawn zone="aden17_npc2317_17m1">
+		<npc id="31681" x="118992" y="-20312" z="-2832" heading="61000" respawnDelay="60" /> <!-- Frontier Guard -->
+	</spawn>
+	<!-- godard01_npc2317_01 -->
+	<spawn zone="godard01_npc2317_0101">
+		<npc id="31651" x="119472" y="-28688" z="-3776" heading="7000" respawnDelay="60" /> <!-- Tablet of Vision -->
+	</spawn>
+	<!-- oren31_2317_01 -->
+	<spawn zone="oren31_2317_01m1">
+		<npc id="20161" count="3" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum -->
+		<npc id="20575" count="3" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum Warrior -->
+		<npc id="20576" count="4" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum Witch Doctor -->
+		<npc id="21261" count="1" respawnDelay="41" respawnRandom="5" /> <!-- Ol Mahum Transcender -->
+	</spawn>
+	<!-- oren31_2317_02 -->
+	<spawn zone="oren31_2317_02m1">
+		<npc id="20161" count="2" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum -->
+		<npc id="21261" count="1" respawnDelay="41" respawnRandom="5" /> <!-- Ol Mahum Transcender -->
+		<npc id="20241" count="3" respawnDelay="41" respawnRandom="5" /> <!-- Hunter Gargoyle -->
+	</spawn>
+	<!-- oren31_2317_02s -->
+	<spawn zone="oren31_2317_02sm1">
+		<npc id="20576" count="2" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum Witch Doctor -->
+		<npc id="20241" count="2" respawnDelay="41" respawnRandom="5" /> <!-- Hunter Gargoyle -->
+	</spawn>
+	<!-- oren31_2317_03 -->
+	<spawn zone="oren31_2317_03m1">
+		<npc id="20575" count="4" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum Warrior -->
+		<npc id="20576" count="4" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum Witch Doctor -->
+		<npc id="21261" count="1" respawnDelay="41" respawnRandom="5" /> <!-- Ol Mahum Transcender -->
+	</spawn>
+	<!-- oren31_2317_04 -->
+	<spawn zone="oren31_2317_04m1">
+		<npc id="20241" count="3" respawnDelay="41" respawnRandom="5" /> <!-- Hunter Gargoyle -->
+		<npc id="20576" count="4" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum Witch Doctor -->
+		<npc id="21261" count="1" respawnDelay="41" respawnRandom="5" /> <!-- Ol Mahum Transcender -->
+	</spawn>
+	<!-- oren31_2317_05 -->
+	<spawn zone="oren31_2317_05m1">
+		<npc id="20161" count="2" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum -->
+		<npc id="20575" count="1" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum Warrior -->
+		<npc id="20241" count="1" respawnDelay="41" respawnRandom="5" /> <!-- Hunter Gargoyle -->
+		<npc id="21261" count="1" respawnDelay="41" respawnRandom="5" /> <!-- Ol Mahum Transcender -->
+	</spawn>
+	<!-- oren31_2317_05s -->
+	<spawn zone="oren31_2317_05sm1">
+		<npc id="20575" count="2" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum Warrior -->
+		<npc id="20576" count="2" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum Witch Doctor -->
+	</spawn>
+	<!-- oren31_2317_06 -->
+	<spawn zone="oren31_2317_06m1">
+		<npc id="20575" count="2" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum Warrior -->
+		<npc id="20576" count="2" respawnDelay="41" respawnRandom="5" /> <!-- Oel Mahum Witch Doctor -->
+		<npc id="20241" count="2" respawnDelay="41" respawnRandom="5" /> <!-- Hunter Gargoyle -->
+		<npc id="21261" count="1" respawnDelay="41" respawnRandom="5" /> <!-- Ol Mahum Transcender -->
+	</spawn>
+	<!-- aden21_2317_08 -->
+	<spawn zone="aden21_2317_08m1">
+		<npc id="20956" count="3" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+	</spawn>
+	<!-- aden21_2317_09 -->
+	<spawn zone="aden21_2317_09m1">
+		<npc id="20956" count="3" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+	</spawn>
+	<!-- aden21_2317_10 -->
+	<spawn zone="aden21_2317_10m1">
+		<npc id="20956" count="3" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+	</spawn>
+	<!-- aden21_2317_11 -->
+	<spawn zone="aden21_2317_11m1">
+		<npc id="20956" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+		<npc id="20963" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+	</spawn>
+	<!-- aden21_2317_11s -->
+	<spawn zone="aden21_2317_11sm1">
+		<npc id="20956" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+		<npc id="20963" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+	</spawn>
+	<!-- aden21_2317_12 -->
+	<spawn zone="aden21_2317_12m1">
+		<npc id="20956" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+		<npc id="20963" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+	</spawn>
+	<!-- aden21_2317_13 -->
+	<spawn zone="aden21_2317_13m1">
+		<npc id="20956" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+		<npc id="20963" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+	</spawn>
+	<!-- aden21_2317_14 -->
+	<spawn zone="aden21_2317_14m1">
+		<npc id="20963" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+		<npc id="20959" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Dark Guard -->
+	</spawn>
+	<!-- aden21_2317_15 -->
+	<spawn zone="aden21_2317_15m1">
+		<npc id="20963" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+		<npc id="20959" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Dark Guard -->
+	</spawn>
+	<!-- aden21_2317_16 -->
+	<spawn zone="aden21_2317_16m1">
+		<npc id="20963" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+		<npc id="20959" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Dark Guard -->
+	</spawn>
+	<!-- aden21_2317_17 -->
+	<spawn zone="aden21_2317_17m1">
+		<npc id="20963" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+		<npc id="20959" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Dark Guard -->
+	</spawn>
+	<!-- aden21_2317_18 -->
+	<spawn zone="aden21_2317_18m1">
+		<npc id="20963" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+		<npc id="20959" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Dark Guard -->
+	</spawn>
+	<!-- aden21_2317_18s -->
+	<spawn zone="aden21_2317_18sm1">
+		<npc id="20959" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Dark Guard -->
+	</spawn>
+	<!-- aden21_2317_20 -->
+	<spawn zone="aden21_2317_20m1">
+		<npc id="20963" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+	</spawn>
+	<!-- aden21_2317_21 -->
+	<spawn zone="aden21_2317_21m1">
+		<npc id="20956" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+		<npc id="20963" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+	</spawn>
+	<!-- aden21_2317_23 -->
+	<spawn zone="aden21_2317_23m1">
+		<npc id="20956" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+		<npc id="20963" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+	</spawn>
+	<!-- aden21_2317_24 -->
+	<spawn zone="aden21_2317_24m1">
+		<npc id="20956" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+		<npc id="20963" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+	</spawn>
+	<!-- aden21_2317_25 -->
+	<spawn zone="aden21_2317_25m1">
+		<npc id="20956" count="2" respawnDelay="37" respawnRandom="10" /> <!-- Past Knight -->
+		<npc id="20963" count="1" respawnDelay="37" respawnRandom="10" /> <!-- Bloody Lord -->
+	</spawn>
+</list>

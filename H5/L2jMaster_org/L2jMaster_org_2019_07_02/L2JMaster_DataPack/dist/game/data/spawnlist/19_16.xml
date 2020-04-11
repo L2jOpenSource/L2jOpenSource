@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- rune14_npc1916_01 -->
+	<spawn zone="rune14_npc1916_01m1">
+		<npc id="32040" x="-11986" y="-35903" z="-10857" heading="31655" respawnDelay="60" /> <!-- Triol's Mirror -->
+	</spawn>
+	<!-- rune14_npc1916_02 -->
+	<spawn zone="rune14_npc1916_02m1">
+		<npc id="32034" x="-15928" y="-36621" z="-10688" heading="16384" respawnDelay="60" /> <!-- Temple Gatekeeper -->
+	</spawn>
+	<!-- rune14_npc1916_03 -->
+	<spawn zone="rune14_npc1916_03m1">
+		<npc id="32035" x="-16650" y="-36889" z="-10724" heading="49152" respawnDelay="60" /> <!-- Temple Gatekeeper -->
+	</spawn>
+	<!-- rune14_npc1916_04 -->
+	<spawn zone="rune14_npc1916_04m1">
+		<npc id="32036" x="-15856" y="-43824" z="-10688" heading="16384" respawnDelay="60" /> <!-- Temple Gatekeeper -->
+	</spawn>
+	<!-- rune14_npc1916_05 -->
+	<spawn zone="rune14_npc1916_05m1">
+		<npc id="32037" x="-16625" y="-44292" z="-10724" heading="49152" respawnDelay="60" /> <!-- Temple Gatekeeper -->
+	</spawn>
+	<!-- rune14_1916_rb01 -->
+	<spawn zone="rune14_1916_rb01m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" x="-19992" y="-37953" z="-10761" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_01 -->
+	<spawn zone="rune14_1916_01m1">
+		<npc id="22141" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Forgotten Victim -->
+		<npc id="22139" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Old Aristocrat's Soldier -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_rb02 -->
+	<spawn zone="rune14_1916_rb02m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22143" x="-23024" y="-37952" z="-10954" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Believer -->
+	</spawn>
+	<!-- rune14_1916_02 -->
+	<spawn zone="rune14_1916_02m1">
+		<npc id="22144" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Resurrected Temple Knight -->
+		<npc id="22145" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_rb03 -->
+	<spawn zone="rune14_1916_rb03m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" x="-19989" y="-39813" z="-10761" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_03 -->
+	<spawn zone="rune14_1916_03m1">
+		<npc id="22141" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Forgotten Victim -->
+		<npc id="22139" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Old Aristocrat's Soldier -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_rb04 -->
+	<spawn zone="rune14_1916_rb04m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22143" x="-23021" y="-39822" z="-10954" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Believer -->
+	</spawn>
+	<!-- rune14_1916_04 -->
+	<spawn zone="rune14_1916_04m1">
+		<npc id="22144" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Resurrected Temple Knight -->
+		<npc id="22145" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_rb05 -->
+	<spawn zone="rune14_1916_rb05m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" x="-19986" y="-41702" z="-10761" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_05 -->
+	<spawn zone="rune14_1916_05m1">
+		<npc id="22141" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Forgotten Victim -->
+		<npc id="22139" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Old Aristocrat's Soldier -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_rb06 -->
+	<spawn zone="rune14_1916_rb06m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22143" x="-23024" y="-41693" z="-10954" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Believer -->
+	</spawn>
+	<!-- rune14_1916_06 -->
+	<spawn zone="rune14_1916_06m1">
+		<npc id="22144" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Resurrected Temple Knight -->
+		<npc id="22145" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_rb07 -->
+	<spawn zone="rune14_1916_rb07m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" x="-19992" y="-43562" z="-10761" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_07 -->
+	<spawn zone="rune14_1916_07m1">
+		<npc id="22141" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Forgotten Victim -->
+		<npc id="22139" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Old Aristocrat's Soldier -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_rb08 -->
+	<spawn zone="rune14_1916_rb08m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22143" x="-23022" y="-43556" z="-10954" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Believer -->
+	</spawn>
+	<!-- rune14_1916_08 -->
+	<spawn zone="rune14_1916_08m1">
+		<npc id="22144" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Resurrected Temple Knight -->
+		<npc id="22145" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_rb09 -->
+	<spawn zone="rune14_1916_rb09m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" x="-12735" y="-37938" z="-10761" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_09 -->
+	<spawn zone="rune14_1916_09m1">
+		<npc id="22141" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Forgotten Victim -->
+		<npc id="22139" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Old Aristocrat's Soldier -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_rb10 -->
+	<spawn zone="rune14_1916_rb10m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22143" x="-9708" y="-37943" z="-10954" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Believer -->
+	</spawn>
+	<!-- rune14_1916_10 -->
+	<spawn zone="rune14_1916_10m1">
+		<npc id="22144" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Resurrected Temple Knight -->
+		<npc id="22145" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_rb11 -->
+	<spawn zone="rune14_1916_rb11m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" x="-12737" y="-39810" z="-10761" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_11 -->
+	<spawn zone="rune14_1916_11m1">
+		<npc id="22141" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Forgotten Victim -->
+		<npc id="22139" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Old Aristocrat's Soldier -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_rb12 -->
+	<spawn zone="rune14_1916_rb12m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22143" x="-9707" y="-39820" z="-10954" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Believer -->
+	</spawn>
+	<!-- rune14_1916_12 -->
+	<spawn zone="rune14_1916_12m1">
+		<npc id="22144" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Resurrected Temple Knight -->
+		<npc id="22145" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_rb13 -->
+	<spawn zone="rune14_1916_rb13m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" x="-12736" y="-41694" z="-10760" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_13 -->
+	<spawn zone="rune14_1916_13m1">
+		<npc id="22141" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Forgotten Victim -->
+		<npc id="22139" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Old Aristocrat's Soldier -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_rb14 -->
+	<spawn zone="rune14_1916_rb14m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22143" x="-9708" y="-41687" z="-10954" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Believer -->
+	</spawn>
+	<!-- rune14_1916_14 -->
+	<spawn zone="rune14_1916_14m1">
+		<npc id="22144" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Resurrected Temple Knight -->
+		<npc id="22145" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_rb15 -->
+	<spawn zone="rune14_1916_rb15m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" x="-12739" y="-43552" z="-10761" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_15 -->
+	<spawn zone="rune14_1916_15m1">
+		<npc id="22141" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Forgotten Victim -->
+		<npc id="22139" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Old Aristocrat's Soldier -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_rb16 -->
+	<spawn zone="rune14_1916_rb16m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22143" x="-9708" y="-43545" z="-10954" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Believer -->
+	</spawn>
+	<!-- rune14_1916_16 -->
+	<spawn zone="rune14_1916_16m1">
+		<npc id="22144" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Resurrected Temple Knight -->
+		<npc id="22145" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22142" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+	</spawn>
+	<!-- rune14_1916_17 -->
+	<spawn zone="rune14_1916_17m1">
+		<npc id="22147" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22149" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<!-- <npc id="22149" count="2" respawnDelay="0" /> Ritual Offering -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-17436" y="-45169" z="-10767" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_18 -->
+	<spawn zone="rune14_1916_18m1">
+		<npc id="22147" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22142" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+		<!-- <npc id="22147" count="2" respawnDelay="0" /> Ritual Offering -->
+		<!-- <npc id="22148" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-19049" y="-45334" z="-10774" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_19 -->
+	<spawn zone="rune14_1916_19m1">
+		<npc id="22147" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22150" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Believer -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<!-- <npc id="22148" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-20505" y="-45221" z="-10774" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_20 -->
+	<spawn zone="rune14_1916_20m1">
+		<npc id="22147" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22149" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<!-- <npc id="22149" count="2" respawnDelay="0" /> Ritual Offering -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-15242" y="-45142" z="-10767" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_21 -->
+	<spawn zone="rune14_1916_21m1">
+		<npc id="22147" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22142" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+		<!-- <npc id="22147" count="2" respawnDelay="0" /> Ritual Offering -->
+		<!-- <npc id="22148" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-13679" y="-45329" z="-10774" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_22 -->
+	<spawn zone="rune14_1916_22m1">
+		<npc id="22147" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22150" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Believer -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<!-- <npc id="22148" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-12079" y="-45203" z="-10774" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_23 -->
+	<spawn zone="rune14_1916_23m1">
+		<npc id="22147" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22149" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22149" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22150" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-17464" y="-47182" z="-10878" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_24 -->
+	<spawn zone="rune14_1916_24m1">
+		<npc id="22147" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22142" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+		<!-- <npc id="22147" count="2" respawnDelay="0" /> Ritual Offering -->
+		<!-- <npc id="22148" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-19119" y="-47395" z="-10885" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_25 -->
+	<spawn zone="rune14_1916_25m1">
+		<npc id="22147" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22150" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Believer -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<!-- <npc id="22148" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-20493" y="-47204" z="-10885" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_26 -->
+	<spawn zone="rune14_1916_26m1">
+		<npc id="22147" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22149" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<!-- <npc id="22149" count="2" respawnDelay="0" /> Ritual Offering -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-15250" y="-47142" z="-10875" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_27 -->
+	<spawn zone="rune14_1916_27m1">
+		<npc id="22147" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22142" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Layperson -->
+		<!-- <npc id="22147" count="2" respawnDelay="0" /> Ritual Offering -->
+		<!-- <npc id="22148" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-13676" y="-47395" z="-10882" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_28 -->
+	<spawn zone="rune14_1916_28m1">
+		<npc id="22147" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Ritual Offering -->
+		<npc id="22150" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Believer -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<!-- <npc id="22148" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22146" x="-12088" y="-47203" z="-10882" heading="0" respawnDelay="30" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_29 -->
+	<spawn zone="rune14_1916_29m1">
+		<npc id="22152" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="2" respawnDelay="600" respawnRandom="400" /> <!-- Ritual Sacrifice -->
+		<!-- <npc id="22152" count="4" respawnDelay="0" /> Temple Guard -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22151" x="-17440" y="-49230" z="-10912" heading="0" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_30 -->
+	<spawn zone="rune14_1916_30m1">
+		<npc id="22152" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="2" respawnDelay="600" respawnRandom="400" /> <!-- Ritual Sacrifice -->
+		<!-- <npc id="22152" count="4" respawnDelay="0" /> Temple Guard -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22151" x="-19063" y="-49441" z="-10912" heading="0" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_31 -->
+	<spawn zone="rune14_1916_31m1">
+		<npc id="22152" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="2" respawnDelay="600" respawnRandom="400" /> <!-- Ritual Sacrifice -->
+		<!-- <npc id="22152" count="4" respawnDelay="0" /> Temple Guard -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22151" x="-20501" y="-49230" z="-10912" heading="0" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_32 -->
+	<spawn zone="rune14_1916_32m1">
+		<npc id="22152" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="2" respawnDelay="600" respawnRandom="400" /> <!-- Ritual Sacrifice -->
+		<!-- <npc id="22152" count="4" respawnDelay="0" /> Temple Guard -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22151" x="-15178" y="-49165" z="-10912" heading="0" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_33 -->
+	<spawn zone="rune14_1916_33m1">
+		<npc id="22152" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="2" respawnDelay="600" respawnRandom="400" /> <!-- Ritual Sacrifice -->
+		<!-- <npc id="22152" count="4" respawnDelay="0" /> Temple Guard -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22151" x="-13679" y="-49431" z="-10912" heading="0" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_34 -->
+	<spawn zone="rune14_1916_34m1">
+		<npc id="22152" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="2" respawnDelay="600" respawnRandom="400" /> <!-- Ritual Sacrifice -->
+		<!-- <npc id="22152" count="4" respawnDelay="0" /> Temple Guard -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22151" x="-12089" y="-49226" z="-10912" heading="0" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_35 -->
+	<spawn zone="rune14_1916_35m1">
+		<npc id="22152" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="2" respawnDelay="600" respawnRandom="400" /> <!-- Ritual Sacrifice -->
+		<!-- <npc id="22152" count="4" respawnDelay="0" /> Temple Guard -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22151" x="-18976" y="-51454" z="-11008" heading="0" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_36 -->
+	<spawn zone="rune14_1916_36m1">
+		<npc id="22152" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="2" respawnDelay="600" respawnRandom="400" /> <!-- Ritual Sacrifice -->
+		<!-- <npc id="22152" count="4" respawnDelay="0" /> Temple Guard -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22151" x="-20488" y="-51386" z="-11008" heading="0" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_37 -->
+	<spawn zone="rune14_1916_37m1">
+		<npc id="22152" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="2" respawnDelay="600" respawnRandom="400" /> <!-- Ritual Sacrifice -->
+		<!-- <npc id="22152" count="4" respawnDelay="0" /> Temple Guard -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22151" x="-13741" y="-51489" z="-11008" heading="0" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_38 -->
+	<spawn zone="rune14_1916_38m1">
+		<npc id="22152" count="3" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="2" respawnDelay="600" respawnRandom="400" /> <!-- Ritual Sacrifice -->
+		<!-- <npc id="22152" count="4" respawnDelay="0" /> Temple Guard -->
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22151" x="-12080" y="-51308" z="-11008" heading="0" respawnDelay="60" respawnRandom="20" /> <!-- Triol's Priest -->
+	</spawn>
+	<!-- rune14_1916_39 -->
+	<spawn zone="rune14_1916_39m1">
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<!-- <npc id="22147" count="2" respawnDelay="0" /> Ritual Offering -->
+		<npc id="22154" count="1" respawnDelay="420" respawnRandom="220" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<!-- <npc id="22151" count="1" respawnDelay="0" /> Triol's Priest -->
+		<npc id="22155" count="1" respawnDelay="100" respawnRandom="40" /> <!-- Triol's High Priest -->
+	</spawn>
+	<!-- rune14_1916_40 -->
+	<spawn zone="rune14_1916_40m1">
+		<npc id="22152" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="1" respawnDelay="420" respawnRandom="220" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<!-- <npc id="22151" count="1" respawnDelay="0" /> Triol's Priest -->
+		<npc id="22155" count="1" respawnDelay="100" respawnRandom="40" /> <!-- Triol's High Priest -->
+	</spawn>
+	<!-- rune14_1916_41 -->
+	<spawn zone="rune14_1916_41m1">
+		<!-- <npc id="22150" count="2" respawnDelay="0" /> Triol's Believer -->
+		<!-- <npc id="22147" count="3" respawnDelay="0" /> Ritual Offering -->
+		<npc id="22154" count="1" respawnDelay="420" respawnRandom="220" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<!-- <npc id="22151" count="1" respawnDelay="0" /> Triol's Priest -->
+		<npc id="22155" count="1" respawnDelay="100" respawnRandom="40" /> <!-- Triol's High Priest -->
+	</spawn>
+	<!-- rune14_1916_42 -->
+	<spawn zone="rune14_1916_42m1">
+		<npc id="22152" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard -->
+		<npc id="22153" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Temple Guard Captain -->
+		<npc id="22154" count="1" respawnDelay="420" respawnRandom="220" /> <!-- Ritual Sacrifice -->
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<!-- <npc id="22151" count="1" respawnDelay="0" /> Triol's Priest -->
+		<npc id="22155" count="1" respawnDelay="100" respawnRandom="40" /> <!-- Triol's High Priest -->
+	</spawn>
+	<!-- rune14_1916_43 -->
+	<!-- rune14_1916_44 -->
+	<spawn zone="rune14_1916_43m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22155" count="2" respawnDelay="90" respawnRandom="40" /> <!-- Triol's High Priest -->
+		<npc id="22159" count="2" respawnDelay="90" respawnRandom="40" /> <!-- Triol's High Priest -->
+		<npc id="22163" count="2" respawnDelay="90" respawnRandom="40" /> <!-- Triol's High Priest -->
+		<npc id="22167" count="1" respawnDelay="90" respawnRandom="40" /> <!-- Triol's High Priest -->
+		<npc id="22171" count="1" respawnDelay="90" respawnRandom="40" /> <!-- Triol's High Priest -->
+	</spawn>
+	<!-- rune14_1916_48 -->
+	<!-- rune14_1916_91 -->
+	<!-- rune14_1916_92 -->
+	<spawn zone="rune14_1916_48m1">
+		<npc id="22155" count="2" respawnDelay="90" respawnRandom="40" /> <!-- Triol's High Priest -->
+		<npc id="22159" count="2" respawnDelay="90" respawnRandom="40" /> <!-- Triol's High Priest -->
+		<npc id="22163" count="2" respawnDelay="90" respawnRandom="40" /> <!-- Triol's High Priest -->
+		<npc id="22167" x="-15009" y="-57012" z="-10851" heading="31655" respawnDelay="90" respawnRandom="40" /> <!-- Triol's High Priest -->
+		<npc id="22171" x="-17681" y="-57028" z="-10851" heading="31655" respawnDelay="90" respawnRandom="40" /> <!-- Triol's High Priest -->
+	</spawn>
+	<spawn zone="rune14_1916_48m2">
+		<npc id="22167" count="1" respawnDelay="90" respawnRandom="50" /> <!-- Triol's High Priest -->
+	</spawn>
+	<spawn zone="rune14_1916_48m3">
+		<npc id="22171" count="1" respawnDelay="90" respawnRandom="50" /> <!-- Triol's High Priest -->
+	</spawn>
+	<!-- rune14_1916_75 -->
+	<spawn zone="rune14_1916_75m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="3" respawnDelay="1800" respawnRandom="600" /> <!-- Zombie Worker -->
+		<npc id="22149" count="3" respawnDelay="1800" respawnRandom="600" /> <!-- Ritual Offering -->
+	</spawn>
+	<!-- rune14_1916_51 -->
+	<spawn zone="rune14_1916_51m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="3" respawnDelay="800" respawnRandom="200" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_62 -->
+	<spawn zone="rune14_1916_62m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="3" respawnDelay="800" respawnRandom="200" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_63 -->
+	<spawn zone="rune14_1916_63m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="3" respawnDelay="800" respawnRandom="200" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_64 -->
+	<spawn zone="rune14_1916_64m1">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22140" count="3" respawnDelay="800" respawnRandom="200" /> <!-- Zombie Worker -->
+	</spawn>
+	<!-- rune14_1916_52 -->
+	<spawn zone="rune14_1916_52m1">
+		<npc id="22194" x="-21520" y="-37855" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21520" y="-37920" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21520" y="-37984" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21520" y="-38052" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_53 -->
+	<spawn zone="rune14_1916_53m1">
+		<npc id="22194" x="-21520" y="-39721" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21520" y="-39787" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21520" y="-39853" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21520" y="-39918" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_54 -->
+	<spawn zone="rune14_1916_54m1">
+		<npc id="22194" x="-21536" y="-41590" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21536" y="-41656" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21536" y="-41720" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21536" y="-41783" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_55 -->
+	<spawn zone="rune14_1916_55m1">
+		<npc id="22194" x="-21522" y="-43457" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21522" y="-43526" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21522" y="-43588" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-21522" y="-43656" z="-10804" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_56 -->
+	<spawn zone="rune14_1916_56m1">
+		<npc id="22137" x="-20495" y="-42600" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-20429" y="-42600" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-20362" y="-42599" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-20297" y="-42598" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_57 -->
+	<spawn zone="rune14_1916_57m1">
+		<npc id="22137" x="-19681" y="-40745" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-19613" y="-40745" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-19550" y="-40744" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-19486" y="-40743" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_58 -->
+	<spawn zone="rune14_1916_58m1">
+		<npc id="22137" x="-20494" y="-38893" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-20428" y="-38893" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-20363" y="-38892" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-20296" y="-38891" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_59 -->
+	<spawn zone="rune14_1916_59m1">
+		<npc id="22137" x="-23231" y="-38893" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-23166" y="-38892" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-23099" y="-38891" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-23031" y="-38891" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_60 -->
+	<spawn zone="rune14_1916_60m1">
+		<npc id="22137" x="-22519" y="-40750" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-22453" y="-40750" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-22385" y="-40749" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-22320" y="-40748" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_61 -->
+	<spawn zone="rune14_1916_61m1">
+		<npc id="22137" x="-23228" y="-42602" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-23163" y="-42601" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-23094" y="-42600" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-23027" y="-42600" z="-10911" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_65 -->
+	<spawn zone="rune14_1916_65m1">
+		<npc id="22194" x="-11196" y="-37849" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11196" y="-37914" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11196" y="-37981" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11196" y="-38048" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_66 -->
+	<spawn zone="rune14_1916_66m1">
+		<npc id="22194" x="-11195" y="-39717" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11195" y="-39783" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11195" y="-39847" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11195" y="-39917" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_67 -->
+	<spawn zone="rune14_1916_67m1">
+		<npc id="22194" x="-11197" y="-41589" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11197" y="-41654" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11197" y="-41720" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11197" y="-41786" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_68 -->
+	<spawn zone="rune14_1916_68m1">
+		<npc id="22194" x="-11200" y="-43454" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11200" y="-43520" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11200" y="-43587" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22194" x="-11200" y="-43652" z="-10818" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_69 -->
+	<spawn zone="rune14_1916_69m1">
+		<npc id="22137" x="-12441" y="-42594" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-12376" y="-42593" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-12311" y="-42593" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-12248" y="-42592" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_70 -->
+	<spawn zone="rune14_1916_70m1">
+		<npc id="22137" x="-9693" y="-42612" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-9626" y="-42611" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-9559" y="-42610" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-9495" y="-42610" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_71 -->
+	<spawn zone="rune14_1916_71m1">
+		<npc id="22137" x="-13241" y="-40727" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-13174" y="-40727" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-13106" y="-40726" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-13041" y="-40726" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_72 -->
+	<spawn zone="rune14_1916_72m1">
+		<npc id="22137" x="-10409" y="-40756" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-10344" y="-40755" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-10279" y="-40754" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-10213" y="-40754" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_73 -->
+	<spawn zone="rune14_1916_73m1">
+		<npc id="22137" x="-12429" y="-38897" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-12363" y="-38896" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-12296" y="-38895" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-12230" y="-38895" z="-10716" heading="16384" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_74 -->
+	<spawn zone="rune14_1916_74m1">
+		<npc id="22137" x="-9689" y="-38907" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-9624" y="-38907" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-9558" y="-38906" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+		<npc id="22137" x="-9491" y="-38905" z="-10909" heading="49264" respawnDelay="90" respawnRandom="40" /> <!-- Penance Guard -->
+	</spawn>
+	<!-- rune14_1916_77 -->
+	<spawn zone="rune14_1916_77m1">
+		<npc id="22138" x="-19888" y="-45547" z="-10720" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-19888" y="-45619" z="-10720" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-19888" y="-45691" z="-10720" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18324" y="-44438" z="-10720" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18324" y="-44582" z="-10720" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18324" y="-44516" z="-10720" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14477" y="-44437" z="-10720" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14477" y="-44511" z="-10720" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14477" y="-44582" z="-10720" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12929" y="-45549" z="-10720" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12930" y="-45619" z="-10720" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12929" y="-45688" z="-10720" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-19884" y="-47598" z="-10816" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-19885" y="-47667" z="-10816" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-19883" y="-47740" z="-10816" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18329" y="-46501" z="-10816" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18330" y="-46571" z="-10816" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18329" y="-46643" z="-10816" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14479" y="-46506" z="-10816" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14480" y="-46576" z="-10816" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14479" y="-46643" z="-10816" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12925" y="-47599" z="-10816" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12925" y="-47669" z="-10816" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12925" y="-47740" z="-10816" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-19883" y="-49658" z="-10912" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-19884" y="-49719" z="-10912" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-19883" y="-49780" z="-10912" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18340" y="-48560" z="-10912" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18341" y="-48623" z="-10912" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18340" y="-48684" z="-10912" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14483" y="-48552" z="-10912" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14484" y="-48620" z="-10912" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14483" y="-48693" z="-10912" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12922" y="-49647" z="-10912" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12922" y="-49720" z="-10912" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12922" y="-49787" z="-10912" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-19893" y="-51687" z="-11008" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-19894" y="-51759" z="-11008" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-19893" y="-51831" z="-11008" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12928" y="-51686" z="-11008" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12928" y="-51758" z="-11008" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-12928" y="-51830" z="-11008" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16814" y="-45742" z="-10720" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16814" y="-45827" z="-10720" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16814" y="-45910" z="-10720" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16814" y="-45993" z="-10720" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15936" y="-45732" z="-10720" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15936" y="-45813" z="-10720" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15936" y="-45896" z="-10720" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15936" y="-45976" z="-10720" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16805" y="-47800" z="-10816" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16805" y="-47879" z="-10816" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16805" y="-47957" z="-10816" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16805" y="-48037" z="-10816" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15935" y="-47790" z="-10816" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15936" y="-47868" z="-10816" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15935" y="-47949" z="-10816" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15935" y="-48028" z="-10816" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16859" y="-49890" z="-10912" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16896" y="-49967" z="-10912" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16927" y="-50045" z="-10912" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-16952" y="-50127" z="-10912" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15899" y="-49871" z="-10912" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15870" y="-49949" z="-10912" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15842" y="-50026" z="-10912" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-15812" y="-50107" z="-10912" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18325" y="-50610" z="-11008" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18326" y="-50684" z="-11008" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-18325" y="-50757" z="-11008" heading="0" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14466" y="-50612" z="-11008" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14466" y="-50684" z="-11008" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+		<npc id="22138" x="-14466" y="-50759" z="-11008" heading="32768" respawnDelay="90" respawnRandom="40" /> <!-- Chapel Guard -->
+	</spawn>
+	<!-- rune14_mb1916_02 -->
+	<spawn zone="rune14_andreas_m4">
+		<npc id="32068" x="-16395" y="-54055" z="-10439" heading="15992" respawnDelay="129600" respawnRandom="86400" /> <!-- Triol's Revelation -->
+	</spawn>
+	<!-- AreaData -->
+	<spawn zone="rune14_mb1916_39">
+		<npc id="32058" x="-20117" y="-52683" z="-10974" heading="0" respawnDelay="129600" respawnRandom="86400" /> <!-- Triol's Revelation -->
+		<npc id="32059" x="-20137" y="-54371" z="-11170" heading="0" respawnDelay="129600" respawnRandom="86400" /> <!-- Triol's Revelation -->
+		<npc id="32060" x="-12710" y="-52677" z="-10974" heading="0" respawnDelay="129600" respawnRandom="86400" /> <!-- Triol's Revelation -->
+		<npc id="32061" x="-12660" y="-54379" z="-11170" heading="0" respawnDelay="129600" respawnRandom="86400" /> <!-- Triol's Revelation -->
+		<npc id="32062" x="-17826" y="-53426" z="-11624" heading="0" respawnDelay="129600" respawnRandom="86400" /> <!-- Triol's Revelation -->
+		<npc id="32063" x="-17068" y="-53440" z="-11624" heading="0" respawnDelay="129600" respawnRandom="86400" /> <!-- Triol's Revelation -->
+		<npc id="32064" x="-16353" y="-53549" z="-11624" heading="0" respawnDelay="129600" respawnRandom="86400" /> <!-- Triol's Revelation -->
+		<npc id="32065" x="-15655" y="-53869" z="-11624" heading="0" respawnDelay="129600" respawnRandom="86400" /> <!-- Triol's Revelation -->
+		<npc id="32066" x="-15005" y="-53132" z="-11624" heading="0" respawnDelay="129600" respawnRandom="86400" /> <!-- Triol's Revelation -->
+		<npc id="32067" x="-16316" y="-56842" z="-10900" heading="0" respawnDelay="129600" respawnRandom="86400" /> <!-- Triol's Revelation -->
+	</spawn>
+	<!-- rune14_mb1916_03 -->
+	<spawn zone="rune14_mb1916_03">
+		<AIData>
+			<disableRandomAnimation>true</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="22175" x="-18008" y="-53394" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17653" y="-53399" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17827" y="-53575" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-18008" y="-53749" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17653" y="-53754" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17827" y="-53930" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-18008" y="-54100" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17653" y="-54105" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17275" y="-52577" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-16917" y="-52577" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-16738" y="-52577" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17003" y="-52404" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17353" y="-52404" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17362" y="-52752" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17006" y="-52752" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17721" y="-52752" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17648" y="-52968" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-17292" y="-52968" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-16374" y="-52577" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-16648" y="-52404" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-16284" y="-52404" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-16013" y="-52577" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15658" y="-52577" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15306" y="-52577" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15923" y="-52404" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15568" y="-52404" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15216" y="-52404" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15745" y="-52752" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15394" y="-52752" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15475" y="-52969" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15119" y="-52969" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15149" y="-53411" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-14794" y="-53416" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-14968" y="-53592" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15149" y="-53766" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-14794" y="-53771" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-14968" y="-53947" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-15149" y="-54117" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+		<npc id="22175" x="-14794" y="-54122" z="-10594" heading="16384" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+	</spawn>
+	<!-- rune14_mb1916_03 -->
+	<spawn zone="rune14_mb1916_03">
+		<npc id="22188" x="-16392" y="-52124" z="-10592" heading="0" respawnDelay="129600" respawnRandom="86400" /> <!-- Andreas' Captain of the Royal Guard -->
+	</spawn>
+</list>

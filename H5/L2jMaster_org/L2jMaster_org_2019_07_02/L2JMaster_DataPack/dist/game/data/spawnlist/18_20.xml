@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- oren12_npc1820_001 -->
+	<spawn zone="oren_npc1820_00101">
+		<npc id="30663" x="-42525" y="80087" z="-3855" heading="49152" respawnDelay="60" /> <!-- Slein Shining Blade -->
+	</spawn>
+	<!-- oren12_npc1820_002 -->
+	<spawn zone="oren_npc1820_00201">
+		<npc id="30661" x="-44358" y="79442" z="-3709" heading="48000" respawnDelay="60" /> <!-- Mysterious Dark Elf -->
+	</spawn>
+	<!-- oren07_npc1820_003 -->
+	<spawn zone="oren_npc1820_00301">
+		<npc id="30665" x="-53664" y="85862" z="-3508" heading="53248" respawnDelay="60" /> <!-- Kristina -->
+	</spawn>
+	<!-- oren12_npc1820_005 -->
+	<spawn zone="oren12_npc1820_00501">
+		<npc id="30421" x="-44225" y="79721" z="-3652" heading="47152" respawnDelay="60" /> <!-- Varika -->
+		<npc id="30419" x="-44015" y="79683" z="-3652" heading="47152" respawnDelay="60" /> <!-- Arkenia -->
+	</spawn>
+	<!-- oren25_npc1820_004 -->
+	<spawn zone="oren25_npc1820_00401">
+		<npc id="30661" x="-59985" y="79234" z="-3502" heading="5300" respawnDelay="60" /> <!-- Mysterious Dark Elf -->
+		<npc id="30664" x="-59997" y="79458" z="-3526" heading="0" respawnDelay="60" /> <!-- Cain Flying Knife -->
+	</spawn>
+	<!-- oren25_npc1820_006 -->
+	<spawn zone="oren25_npc1820_00601">
+		<npc id="30420" x="-61717" y="75401" z="-3356" heading="58500" respawnDelay="60" /> <!-- Tyra -->
+	</spawn>
+	<!-- ssq02_npc1820_01 -->
+	<spawn zone="ssq02_npc1820_0101">
+		<npc id="31107" x="-51920" y="79104" z="-4737" heading="0" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq02_npc1820_02 -->
+	<spawn zone="ssq02_npc1820_0201">
+		<npc id="31099" x="-52784" y="79104" z="-4739" heading="33000" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq02_npc1820_03 -->
+	<spawn zone="ssq02_npc1820_0301">
+		<npc id="31502" x="-52142" y="78814" z="-4736" heading="16000" respawnDelay="60" /> <!-- Dimensional Gate Keeper -->
+	</spawn>
+	<!-- oren01_qm1820_01 -->
+	<spawn zone="oren01_qm1820_01m1">
+		<npc id="27070" count="15" respawnDelay="180" /> <!-- Tumran Orc Brigand -->
+	</spawn>
+	<!-- oren07_npc1820_gd01 -->
+	<spawn zone="oren_npc1820_gd01m1">
+		<npc id="31845" count="1" respawnDelay="60" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren07_npc1820_gd02 -->
+	<spawn zone="oren_npc1820_gd02m1">
+		<npc id="31850" count="1" respawnDelay="60" /> <!-- Blight Treant -->
+	</spawn>
+	<!-- oren07_npc1820_gd03 -->
+	<spawn zone="oren_npc1820_gd03m1">
+		<npc id="31850" count="1" respawnDelay="60" /> <!-- Blight Treant -->
+	</spawn>
+	<!-- oren07_npc1820_gd04 -->
+	<spawn zone="oren_npc1820_gd04m1">
+		<npc id="31845" count="1" respawnDelay="60" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren07_npc1820_gd05 -->
+	<spawn zone="oren_npc1820_gd05m1">
+		<npc id="31845" count="1" respawnDelay="60" /> <!-- Bloody Pixy -->
+	</spawn>
+	<!-- oren07_npc1820_gd06 -->
+	<spawn zone="oren_npc1820_gd06m1">
+		<npc id="31850" count="1" respawnDelay="60" /> <!-- Blight Treant -->
+	</spawn>
+	<!-- oren24_1820_01 -->
+	<spawn zone="oren24_1820_01m1">
+		<npc id="20380" count="7" respawnDelay="20" /> <!-- Stone Guardian -->
+		<npc id="20034" count="5" respawnDelay="20" /> <!-- Prowler -->
+	</spawn>
+	<!-- oren24_1820_02 -->
+	<spawn zone="oren24_1820_02m1">
+		<npc id="20380" count="6" respawnDelay="20" /> <!-- Stone Guardian -->
+		<npc id="20034" count="9" respawnDelay="20" /> <!-- Prowler -->
+	</spawn>
+	<!-- oren24_1820_03s -->
+	<spawn zone="oren24_1820_03sm1">
+		<npc id="20380" count="3" respawnDelay="20" /> <!-- Stone Guardian -->
+	</spawn>
+	<!-- oren24_1820_04s -->
+	<spawn zone="oren24_1820_04sm1">
+		<npc id="20034" count="3" respawnDelay="20" /> <!-- Prowler -->
+	</spawn>
+	<!-- oren25_1820_01 -->
+	<spawn zone="oren25_1820_01m1">
+		<npc id="20034" count="6" respawnDelay="20" /> <!-- Prowler -->
+		<npc id="20038" count="6" respawnDelay="20" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- oren25_1820_02 -->
+	<spawn zone="oren25_1820_02m1">
+		<npc id="20380" count="5" respawnDelay="20" /> <!-- Stone Guardian -->
+		<npc id="20038" count="8" respawnDelay="20" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- oren25_1820_03 -->
+	<spawn zone="oren25_1820_03m1">
+		<npc id="20034" count="8" respawnDelay="20" /> <!-- Prowler -->
+		<npc id="20038" count="4" respawnDelay="20" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- oren25_1820_04 -->
+	<spawn zone="oren25_1820_04m1">
+		<npc id="20034" count="8" respawnDelay="20" /> <!-- Prowler -->
+		<npc id="20418" count="8" respawnDelay="20" /> <!-- Crystalline Beast -->
+	</spawn>
+	<!-- oren25_1820_05 -->
+	<spawn zone="oren25_1820_05m1">
+		<npc id="20034" count="5" respawnDelay="20" /> <!-- Prowler -->
+		<npc id="20418" count="5" respawnDelay="20" /> <!-- Crystalline Beast -->
+	</spawn>
+	<!-- oren25_1820_06 -->
+	<spawn zone="oren25_1820_06m1">
+		<npc id="20034" count="3" respawnDelay="20" /> <!-- Prowler -->
+		<npc id="20038" count="5" respawnDelay="20" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- oren25_1820_08 -->
+	<spawn zone="oren25_1820_08m1">
+		<npc id="20380" count="4" respawnDelay="20" /> <!-- Stone Guardian -->
+		<npc id="20034" count="4" respawnDelay="20" /> <!-- Prowler -->
+		<npc id="20038" count="4" respawnDelay="20" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- oren25_1820_09 -->
+	<spawn zone="oren25_1820_09m1">
+		<npc id="20380" count="5" respawnDelay="20" /> <!-- Stone Guardian -->
+		<npc id="20034" count="5" respawnDelay="20" /> <!-- Prowler -->
+	</spawn>
+	<!-- oren25_1820_10 -->
+	<spawn zone="oren25_1820_10m1">
+		<npc id="20380" count="5" respawnDelay="20" /> <!-- Stone Guardian -->
+		<npc id="20034" count="5" respawnDelay="20" /> <!-- Prowler -->
+	</spawn>
+	<!-- oren25_1820_11 -->
+	<spawn zone="oren25_1820_11m1">
+		<npc id="20034" count="5" respawnDelay="20" /> <!-- Prowler -->
+		<npc id="20038" count="5" respawnDelay="20" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- oren25_1820_12s -->
+	<spawn zone="oren25_1820_12sm1">
+		<npc id="20418" count="3" respawnDelay="20" /> <!-- Crystalline Beast -->
+	</spawn>
+	<!-- oren25_1820_13s -->
+	<spawn zone="oren25_1820_13sm1">
+		<npc id="20038" count="3" respawnDelay="20" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- oren25_1820_14s -->
+	<spawn zone="oren25_1820_14sm1">
+		<npc id="20043" count="3" respawnDelay="20" /> <!-- Arachnid Tracker -->
+	</spawn>
+	<!-- oren25_1820_15s -->
+	<spawn zone="oren25_1820_15sm1">
+		<npc id="20418" count="3" respawnDelay="20" /> <!-- Crystalline Beast -->
+	</spawn>
+	<!-- oren25_1820_18s -->
+	<spawn zone="oren25_1820_18sm1">
+		<npc id="20038" count="3" respawnDelay="20" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- oren25_1820_19s -->
+	<spawn zone="oren25_1820_19sm1">
+		<npc id="20038" count="3" respawnDelay="20" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- oren25_1820_20s -->
+	<spawn zone="oren25_1820_20sm1">
+		<npc id="20034" count="2" respawnDelay="20" /> <!-- Prowler -->
+	</spawn>
+	<!-- oren25_1820_21s -->
+	<spawn zone="oren25_1820_21sm1">
+		<npc id="20038" count="3" respawnDelay="20" /> <!-- Venomous Spider -->
+	</spawn>
+	<!-- ssq02_1820_ssq02 -->
+	<spawn zone="ssq02_1820_ssq02m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21224" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21225" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Sage -->
+		<npc id="21179" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Seer -->
+		<npc id="21200" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq02_1820_ssq03 -->
+	<spawn zone="ssq02_1820_ssq03m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21224" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21225" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Sage -->
+		<npc id="21179" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Seer -->
+		<npc id="21200" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq02_1820_ssq04 -->
+	<spawn zone="ssq02_1820_ssq04m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21224" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21225" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Sage -->
+		<npc id="21179" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Seer -->
+		<npc id="21200" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq02_1820_ssq05 -->
+	<spawn zone="ssq02_1820_ssq05m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21224" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21225" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Sage -->
+		<npc id="21179" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Seer -->
+		<npc id="21200" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq02_1820_ssq06 -->
+	<spawn zone="ssq02_1820_ssq06m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21224" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21225" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Sage -->
+		<npc id="21179" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Seer -->
+		<npc id="21200" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq02_1820_ssq07 -->
+	<spawn zone="ssq02_1820_ssq07m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21224" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21225" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Sage -->
+		<npc id="21179" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Seer -->
+		<npc id="21200" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq02_1820_ssq08 -->
+	<spawn zone="ssq02_1820_ssq08m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21224" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21225" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Sage -->
+		<npc id="21179" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Seer -->
+		<npc id="21200" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq02_1820_ssq09 -->
+	<spawn zone="ssq02_1820_ssq09m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21224" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21225" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Sage -->
+		<npc id="21179" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Seer -->
+		<npc id="21200" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq02_1820_ssq10 -->
+	<spawn zone="ssq02_1820_ssq10m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21224" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21225" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Sage -->
+		<npc id="21179" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Seer -->
+		<npc id="21200" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Bishop -->
+	</spawn>
+	<!-- ssq02_1820_ssq11 -->
+	<spawn zone="ssq02_1820_ssq11m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21226" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21156" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21180" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq02_1820_ssq12 -->
+	<spawn zone="ssq02_1820_ssq12m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21226" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21156" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21180" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq02_1820_ssq13 -->
+	<spawn zone="ssq02_1820_ssq13m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21226" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21156" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21180" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq02_1820_ssq14 -->
+	<spawn zone="ssq02_1820_ssq14m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21226" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21156" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21180" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq02_1820_ssq15 -->
+	<spawn zone="ssq02_1820_ssq15m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21226" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21156" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21180" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq02_1820_ssq16 -->
+	<spawn zone="ssq02_1820_ssq16m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21226" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21156" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21180" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq02_1820_ssq17 -->
+	<spawn zone="ssq02_1820_ssq17m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21226" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21156" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21180" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq02_1820_ssq18 -->
+	<spawn zone="ssq02_1820_ssq18m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21226" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21156" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21180" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq02_1820_ssq19 -->
+	<spawn zone="ssq02_1820_ssq19m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21226" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Sepulcher Guardian -->
+		<npc id="21156" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Shadow -->
+		<npc id="21180" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Knight -->
+		<npc id="21201" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Centurion -->
+	</spawn>
+	<!-- ssq02_1820_ssq20 -->
+	<spawn zone="ssq02_1820_ssq20m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21157" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21158" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Hell Keeper Crimson Doll -->
+		<npc id="21181" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq02_1820_ssq21 -->
+	<spawn zone="ssq02_1820_ssq21m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21157" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21158" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Hell Keeper Crimson Doll -->
+		<npc id="21181" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq02_1820_ssq22 -->
+	<spawn zone="ssq02_1820_ssq22m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21157" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21158" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Hell Keeper Crimson Doll -->
+		<npc id="21181" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq02_1820_ssq23 -->
+	<spawn zone="ssq02_1820_ssq23m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21157" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21158" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Hell Keeper Crimson Doll -->
+		<npc id="21181" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq02_1820_ssq24 -->
+	<spawn zone="ssq02_1820_ssq24m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21157" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21158" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Hell Keeper Crimson Doll -->
+		<npc id="21181" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq02_1820_ssq25 -->
+	<spawn zone="ssq02_1820_ssq25m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21157" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21158" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Hell Keeper Crimson Doll -->
+		<npc id="21181" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq02_1820_ssq26 -->
+	<spawn zone="ssq02_1820_ssq26m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21157" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21158" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Hell Keeper Crimson Doll -->
+		<npc id="21181" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq02_1820_ssq27 -->
+	<spawn zone="ssq02_1820_ssq27m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21157" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21158" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Hell Keeper Crimson Doll -->
+		<npc id="21181" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="1" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+	<!-- ssq02_1820_ssq28 -->
+	<spawn zone="ssq02_1820_ssq28m1">
+		<AIData>
+			<SSQTelPosX>-55634</SSQTelPosX>
+			<SSQTelPosY>78653</SSQTelPosY>
+			<SSQTelPosZ>-3008</SSQTelPosZ>
+		</AIData>
+		<npc id="21157" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Purgatory Tarantula -->
+		<npc id="21158" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Hell Keeper Crimson Doll -->
+		<npc id="21181" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Lilim Assassin -->
+		<npc id="21202" count="2" respawnDelay="138" respawnRandom="40" /> <!-- Nephilim Scout -->
+	</spawn>
+</list>

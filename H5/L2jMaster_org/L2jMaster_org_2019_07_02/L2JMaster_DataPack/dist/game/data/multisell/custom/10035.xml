@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37617</npc> <!-- Donate Merchant -->
+	</npcs>
+
+	<!-- Scrolls -->
+	
+	<!-- Blessed Scroll: Enchant Armor (B-Grade) -->
+	<item>
+		<ingredient id="23004" count="2"/>
+		<production id="6572" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Weapon (B-Grade) -->
+	<item>
+		<ingredient id="23004" count="3"/>
+		<production id="6571" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Armor (A-Grade) -->
+	<item>
+		<ingredient id="23004" count="3"/>
+		<production id="6570" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Weapon (A-Grade) -->
+	<item>
+		<ingredient id="23004" count="4"/>
+		<production id="6569" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Armor (S-Grade) -->
+	<item>
+		<ingredient id="23004" count="4"/>
+		<production id="6578" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Weapon (S-Grade) -->
+	<item>
+		<ingredient id="23004" count="5"/>
+		<production id="6577" count="1"/>
+	</item>
+</list>

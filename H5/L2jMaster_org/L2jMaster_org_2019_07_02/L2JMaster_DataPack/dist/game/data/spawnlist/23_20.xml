@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- ssq12_npc2320_02 -->
+	<spawn zone="ssq12_npc2320_0201">
+		<npc id="31119" x="113552" y="84544" z="-6544" heading="32500" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- aden14_npc2320__01 -->
+	<spawn zone="aden14_npc2320__0101">
+		<npc id="30764" x="117380" y="75616" z="-2664" heading="26000" respawnDelay="60" /> <!-- Balthazar -->
+	</spawn>
+	<!-- aden14_npc2320__02 -->
+	<spawn zone="aden14_npc2320__0201">
+		<npc id="30831" x="117432" y="76044" z="-2716" heading="15000" respawnDelay="60" /> <!-- Nelson -->
+		<npc id="31207" x="117432" y="76044" z="-2716" heading="15000" respawnDelay="60" /> <!-- Sardinia -->
+	</spawn>
+	<!-- aden14_npc2320__03 -->
+	<spawn zone="aden14_npc2320__0301">
+		<npc id="30745" x="115952" y="76000" z="-2721" heading="0" respawnDelay="60" /> <!-- Tor -->
+	</spawn>
+	<!-- aden14_npc2320__04 -->
+	<spawn zone="aden14_npc2320__0401">
+		<npc id="30744" x="117980" y="76704" z="-2597" heading="32768" respawnDelay="60" /> <!-- Grey -->
+	</spawn>
+	<!-- aden14_npc2320__05 -->
+	<spawn zone="aden14_npc2320__0501">
+		<npc id="30746" x="116085" y="74728" z="-2582" heading="10000" respawnDelay="60" /> <!-- Cybellin -->
+	</spawn>
+	<!-- aden14_npc2320_101 -->
+	<spawn zone="aden14_npc2320_10101">
+		<npc id="30655" x="115791" y="75867" z="-2714" heading="3000" respawnDelay="60" /> <!-- Isael Silvershadow -->
+	</spawn>
+	<!-- aden14_npc2320_102 -->
+	<spawn zone="aden14_npc2320_10201">
+		<npc id="30610" x="117866" y="76483" z="-2692" heading="35768" respawnDelay="60" /> <!-- Cronos -->
+	</spawn>
+	<!-- aden14_npc2320_103 -->
+	<spawn zone="aden14_npc2320_10301">
+		<npc id="30230" x="115116" y="75923" z="-2580" heading="59000" respawnDelay="60" /> <!-- Edroc -->
+		<npc id="30684" x="115310" y="75447" z="-2581" heading="12288" respawnDelay="60" /> <!-- Viktor -->
+	</spawn>
+	<!-- aden14_npc2320_104 -->
+	<spawn zone="aden14_npc2320_10401">
+		<npc id="30231" x="116109" y="75022" z="-2583" heading="57344" respawnDelay="60" /> <!-- Garette -->
+		<npc id="30301" x="116646" y="74820" z="-2581" heading="28672" respawnDelay="60" /> <!-- Hally -->
+	</spawn>
+	<!-- aden14_npc2320_105 -->
+	<spawn zone="aden14_npc2320_10501">
+		<npc id="30685" x="115647" y="77114" z="-2649" heading="40960" respawnDelay="60" /> <!-- Baxt -->
+		<npc id="30232" x="115271" y="76705" z="-2650" heading="0" respawnDelay="60" /> <!-- Sorint -->
+		<npc id="30686" x="115435" y="76541" z="-2649" heading="12000" respawnDelay="60" /> <!-- Silva -->
+	</spawn>
+	<!-- aden14_npc2320_106 -->
+	<spawn zone="aden14_npc2320_10601">
+		<npc id="30687" x="117649" y="75415" z="-2646" heading="32768" respawnDelay="60" /> <!-- Vergara -->
+		<npc id="30688" x="117613" y="75310" z="-2648" heading="24576" respawnDelay="60" /> <!-- Duning -->
+	</spawn>
+	<!-- aden14_npc2320_107 -->
+	<spawn zone="aden14_npc2320_10701">
+		<npc id="30233" x="117129" y="76917" z="-2689" heading="34000" respawnDelay="60" /> <!-- Esmeralda -->
+	</spawn>
+	<!-- aden14_npc2320_108 -->
+	<spawn zone="aden14_npc2320_10801">
+		<npc id="30689" x="119673" y="77618" z="-2243" heading="39864" respawnDelay="60" /> <!-- Siria -->
+		<npc id="30690" x="119472" y="77835" z="-2243" heading="49152" respawnDelay="60" /> <!-- Luther -->
+		<npc id="30691" x="119249" y="77663" z="-2243" heading="0" respawnDelay="60" /> <!-- Aren Athebaldt -->
+		<npc id="30692" x="119892" y="77284" z="-2243" heading="28672" respawnDelay="60" /> <!-- Stedmiel -->
+		<npc id="30693" x="119727" y="77137" z="-2243" heading="16384" respawnDelay="60" /> <!-- Queenien -->
+	</spawn>
+	<!-- aden14_npc2320_109 -->
+	<spawn zone="aden14_npc2320_10901">
+		<npc id="30694" x="119043" y="78586" z="-2158" heading="39000" respawnDelay="60" /> <!-- Scraide -->
+		<npc id="30695" x="119156" y="78356" z="-2158" heading="28672" respawnDelay="60" /> <!-- Moses -->
+		<npc id="30696" x="118890" y="78104" z="-2158" heading="16384" respawnDelay="60" /> <!-- Page -->
+		<npc id="30697" x="118887" y="78752" z="-2158" heading="49152" respawnDelay="60" /> <!-- Videlrien -->
+		<npc id="30698" x="118571" y="78513" z="-2158" heading="0" respawnDelay="60" /> <!-- Evelyn -->
+	</spawn>
+	<!-- aden14_npc2320_110 -->
+	<spawn zone="aden14_npc2320_11001">
+		<npc id="30699" x="120249" y="76031" z="-2259" heading="31768" respawnDelay="60" /> <!-- Medown -->
+		<npc id="30700" x="120251" y="76247" z="-2260" heading="40960" respawnDelay="60" /> <!-- Prestan -->
+		<npc id="30701" x="120180" y="75807" z="-2260" heading="18384" respawnDelay="60" /> <!-- Errickin -->
+	</spawn>
+	<!-- aden14_npc2320_111 -->
+	<spawn zone="aden14_npc2320_11101">
+		<npc id="30702" x="117598" y="77264" z="-2585" heading="53248" respawnDelay="60" /> <!-- Bernard -->
+		<npc id="30703" x="117717" y="77273" z="-2585" heading="45056" respawnDelay="60" /> <!-- Colin -->
+	</spawn>
+	<!-- aden14_npc2320_113 -->
+	<spawn zone="aden14_npc2320_11301">
+		<npc id="30707" x="116468" y="77871" z="-2684" heading="40000" respawnDelay="60" /> <!-- Raigen -->
+	</spawn>
+	<!-- aden14_npc2320_114 -->
+	<spawn zone="aden14_npc2320_11401">
+		<npc id="30708" x="118210" y="76078" z="-2690" heading="32768" respawnDelay="60" /> <!-- Nasign -->
+	</spawn>
+	<!-- aden14_npc2320_115 -->
+	<spawn zone="aden14_npc2320_11501">
+		<npc id="30709" x="114564" y="78107" z="-2595" heading="28672" respawnDelay="60" /> <!-- Norton -->
+		<npc id="30710" x="114512" y="77966" z="-2593" heading="28672" respawnDelay="60" /> <!-- Weston -->
+	</spawn>
+	<!-- aden14_npc2320_116 -->
+	<spawn zone="aden14_npc2320_11601">
+		<npc id="30711" x="115032" y="74395" z="-2589" heading="45056" respawnDelay="60" /> <!-- Byron -->
+		<npc id="30712" x="115207" y="74239" z="-2593" heading="40000" respawnDelay="60" /> <!-- Makhis -->
+	</spawn>
+	<!-- aden14_npc2320_117 -->
+	<spawn zone="aden14_npc2320_11701">
+		<npc id="30713" x="118437" y="74051" z="-2381" heading="50000" respawnDelay="60" /> <!-- Gardner -->
+		<npc id="30714" x="118306" y="74040" z="-2371" heading="50000" respawnDelay="60" /> <!-- Paros -->
+	</spawn>
+	<!-- aden14_npc2320_118 -->
+	<spawn zone="aden14_npc2320_11801">
+		<npc id="31051" x="116320" y="74688" z="-2582" heading="16300" respawnDelay="60" /> <!-- Keach -->
+	</spawn>
+	<!-- aden14_npc2320_119 -->
+	<spawn zone="aden14_npc2320_11901">
+		<npc id="35277" x="116780" y="75504" z="-2727" heading="20000" respawnDelay="60" /> <!-- Manor Manager -->
+	</spawn>
+	<!-- aden14_npc2320_120 -->
+	<spawn zone="aden14_npc2320_12001">
+		<npc id="31169" x="116642" y="77560" z="-2688" heading="45000" respawnDelay="60" /> <!-- Dusk Priestess -->
+	</spawn>
+	<!-- aden14_npc2320_121 -->
+	<spawn zone="aden14_npc2320_12101">
+		<npc id="31092" x="120493" y="76520" z="-2136" heading="35500" respawnDelay="60" /> <!-- Black Marketeer of Mammon -->
+	</spawn>
+	<!-- aden14_npc2320_122 -->
+	<spawn zone="aden14_npc2320_12201">
+		<npc id="31168" x="115136" y="74767" z="-2608" heading="62000" respawnDelay="60" /> <!-- Priest of Dawn -->
+	</spawn>
+	<!-- aden14_npc2320_123 -->
+	<spawn zone="aden14_npc2320_12301">
+		<npc id="30704" x="120100" y="74739" z="-2372" heading="31000" respawnDelay="60" /> <!-- Garvarentz -->
+		<npc id="30705" x="120079" y="74847" z="-2374" heading="31000" respawnDelay="60" /> <!-- Chakiris -->
+		<npc id="30706" x="120039" y="74650" z="-2374" heading="31000" respawnDelay="60" /> <!-- Lazenby -->
+	</spawn>
+	<!-- aden14_npc2320_124 -->
+	<spawn zone="aden14_npc2320_12401">
+		<npc id="31576" x="116048" y="74716" z="-2582" heading="7000" respawnDelay="60" /> <!-- Berix -->
+	</spawn>
+	<!-- aden14_npc2320_125 -->
+	<spawn zone="aden14_npc2320_12501">
+		<npc id="31669" x="117572" y="75592" z="-2648" heading="40000" respawnDelay="60" /> <!-- Onyx -->
+	</spawn>
+	<!-- aden14_npc2320_127 -->
+	<spawn zone="aden14_npc2320_12701">
+		<npc id="31603" x="117536" y="77264" z="-2592" heading="56000" respawnDelay="60" /> <!-- Black Cat -->
+	</spawn>
+	<!-- aden14_npc2320_128 -->
+	<spawn zone="aden14_npc2320_12801">
+		<npc id="31604" x="115664" y="77136" z="-2650" heading="50000" respawnDelay="60" /> <!-- Grimst -->
+	</spawn>
+	<!-- aden14_npc2320_129 -->
+	<spawn zone="aden14_npc2320_12901">
+		<npc id="31688" x="116144" y="77856" z="-2688" heading="49000" respawnDelay="60" /> <!-- Grand Olympiad Manager -->
+		<npc id="31690" x="116096" y="77856" z="-2688" heading="49000" respawnDelay="60" /> <!-- Monument of Heroes -->
+	</spawn>
+	<!-- aden14_npc2320_130 -->
+	<spawn zone="aden14_npc2320_13001">
+		<npc id="31823" x="115056" y="74560" z="-2608" heading="9000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- aden14_npc2320_131 -->
+	<spawn zone="aden14_npc2320_13101">
+		<npc id="31824" x="115552" y="76416" z="-2672" heading="58000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- aden14_npc2320_132 -->
+	<spawn zone="aden14_npc2320_13201">
+		<npc id="31825" x="114592" y="77904" z="-2604" heading="60000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- aden14_npc2320_133 -->
+	<spawn zone="aden14_npc2320_13301">
+		<npc id="31826" x="118096" y="74272" z="-2404" heading="0" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- aden24_npc2320_01 -->
+	<spawn zone="aden24_npc2320_01m1">
+		<npc id="31659" x="124304" y="82128" z="-2795" heading="5000" respawnDelay="60" /> <!-- Tablet of Vision -->
+	</spawn>
+	<!-- aden14_npc2320_bene01 -->
+	<spawn zone="aden14_npc2320_bene01m1">
+		<npc id="32327" x="116935" y="77258" z="-2688" heading="40960" respawnDelay="60" /> <!-- Adventurers' Guide -->
+	</spawn>
+	<!-- aden14_npc2320_134 -->
+	<spawn zone="aden14_npc2320_134m1">
+		<npc id="32217" x="116080" y="79179" z="-2392" heading="49151" respawnDelay="60" /> <!-- Barta -->
+		<npc id="32218" x="115920" y="79179" z="-2392" heading="49151" respawnDelay="60" /> <!-- Miya -->
+		<npc id="32219" x="116119" y="79150" z="-2392" heading="49151" respawnDelay="60" /> <!-- Fabnor -->
+		<npc id="32220" x="115886" y="79145" z="-2392" heading="49151" respawnDelay="60" /> <!-- Selsia -->
+	</spawn>
+	<!-- aden14_npc2320_tk01 -->
+	<spawn zone="aden14_npc2320_tk01m1">
+		<npc id="30990" x="117148" y="76865" z="-2688" heading="34000" respawnDelay="60" /> <!-- Lottery Ticket Seller -->
+	</spawn>
+	<!-- aden14_npc2320_premium01 -->
+	<spawn zone="aden14_npc2320_premium01m1">
+		<npc id="32478" x="115656" y="76620" z="-2672" heading="60000" respawnDelay="60" /> <!-- Dimensional Merchant -->
+	</spawn>
+	<!-- broadcasting_tower -->
+	<spawn zone="broadcasting_tower_hunter">
+		<npc id="31031" x="116036" y="76319" z="-2703" heading="16384" respawnDelay="60" /> <!-- Broadcasting Tower -->
+	</spawn>
+	<!-- aden24_tb2320_05 -->
+	<spawn zone="aden24_tb05_m1">
+		<npc id="18272" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden24_tb2320_16 -->
+	<spawn zone="aden24_tb16_m1">
+		<npc id="18273" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- aden24_2320_05 -->
+	<spawn zone="aden24_2320_05m1">
+		<npc id="20600" count="2" respawnDelay="25" /> <!-- Karul Bugbear -->
+		<npc id="20601" count="1" respawnDelay="25" /> <!-- Tamlin Orc -->
+		<npc id="20602" count="1" respawnDelay="25" /> <!-- Tamlin Orc Archer -->
+	</spawn>
+	<!-- aden24_2320_06 -->
+	<spawn zone="aden24_2320_06m1">
+		<npc id="20600" count="7" respawnDelay="25" /> <!-- Karul Bugbear -->
+		<npc id="20601" count="5" respawnDelay="25" /> <!-- Tamlin Orc -->
+		<npc id="20602" count="4" respawnDelay="25" /> <!-- Tamlin Orc Archer -->
+	</spawn>
+	<!-- aden24_2320_07 -->
+	<spawn zone="aden24_2320_07m1">
+		<npc id="20600" count="2" respawnDelay="25" /> <!-- Karul Bugbear -->
+		<npc id="20601" count="2" respawnDelay="25" /> <!-- Tamlin Orc -->
+		<npc id="20602" count="1" respawnDelay="25" /> <!-- Tamlin Orc Archer -->
+	</spawn>
+	<!-- aden24_2320_08 -->
+	<spawn zone="aden24_2320_08m1">
+		<npc id="20600" count="3" respawnDelay="25" /> <!-- Karul Bugbear -->
+		<npc id="20601" count="2" respawnDelay="25" /> <!-- Tamlin Orc -->
+		<npc id="20602" count="1" respawnDelay="25" /> <!-- Tamlin Orc Archer -->
+	</spawn>
+	<!-- aden24_2320_09 -->
+	<spawn zone="aden24_2320_09m1">
+		<npc id="20600" count="2" respawnDelay="25" /> <!-- Karul Bugbear -->
+		<npc id="20601" count="2" respawnDelay="25" /> <!-- Tamlin Orc -->
+		<npc id="20602" count="2" respawnDelay="25" /> <!-- Tamlin Orc Archer -->
+	</spawn>
+	<!-- aden24_2320_10 -->
+	<spawn zone="aden24_2320_10m1">
+		<npc id="20603" count="7" respawnDelay="25" /> <!-- Kronbe Spider -->
+		<npc id="20604" count="8" respawnDelay="25" /> <!-- Lakin -->
+		<npc id="20605" count="7" respawnDelay="25" /> <!-- Weird Drake -->
+	</spawn>
+	<!-- aden24_2320_11 -->
+	<spawn zone="aden24_2320_11m1">
+		<npc id="20603" count="3" respawnDelay="25" /> <!-- Kronbe Spider -->
+		<npc id="20604" count="3" respawnDelay="25" /> <!-- Lakin -->
+		<npc id="20605" count="3" respawnDelay="25" /> <!-- Weird Drake -->
+	</spawn>
+	<!-- aden24_2320_12 -->
+	<spawn zone="aden24_2320_12m1">
+		<npc id="20603" count="4" respawnDelay="25" /> <!-- Kronbe Spider -->
+		<npc id="20604" count="3" respawnDelay="25" /> <!-- Lakin -->
+		<npc id="20605" count="4" respawnDelay="25" /> <!-- Weird Drake -->
+	</spawn>
+	<!-- aden24_2320_13 -->
+	<spawn zone="aden24_2320_13m1">
+		<npc id="20603" count="1" respawnDelay="25" /> <!-- Kronbe Spider -->
+		<npc id="20604" count="2" respawnDelay="25" /> <!-- Lakin -->
+		<npc id="20605" count="1" respawnDelay="25" /> <!-- Weird Drake -->
+	</spawn>
+	<!-- aden24_2320_14 -->
+	<spawn zone="aden24_2320_14m1">
+		<npc id="20603" count="1" respawnDelay="25" /> <!-- Kronbe Spider -->
+		<npc id="20604" count="2" respawnDelay="25" /> <!-- Lakin -->
+		<npc id="20605" count="1" respawnDelay="25" /> <!-- Weird Drake -->
+	</spawn>
+	<!-- aden24_2320_16 -->
+	<spawn zone="aden24_2320_16m1">
+		<npc id="20603" count="2" respawnDelay="25" /> <!-- Kronbe Spider -->
+		<npc id="20604" count="2" respawnDelay="25" /> <!-- Lakin -->
+		<npc id="20605" count="3" respawnDelay="25" /> <!-- Weird Drake -->
+	</spawn>
+	<!-- aden24_2320_17 -->
+	<spawn zone="aden24_2320_17m1">
+		<npc id="20600" count="10" respawnDelay="25" /> <!-- Karul Bugbear -->
+		<npc id="20601" count="7" respawnDelay="25" /> <!-- Tamlin Orc -->
+		<npc id="20602" count="5" respawnDelay="25" /> <!-- Tamlin Orc Archer -->
+	</spawn>
+	<!-- aden24_2320_18 -->
+	<spawn zone="aden24_2320_18m1">
+		<npc id="20600" count="3" respawnDelay="25" /> <!-- Karul Bugbear -->
+		<npc id="20601" count="3" respawnDelay="25" /> <!-- Tamlin Orc -->
+		<npc id="20602" count="2" respawnDelay="25" /> <!-- Tamlin Orc Archer -->
+	</spawn>
+	<!-- aden24_2320_19 -->
+	<spawn zone="aden24_2320_19m1">
+		<npc id="20600" count="2" respawnDelay="25" /> <!-- Karul Bugbear -->
+		<npc id="20601" count="2" respawnDelay="25" /> <!-- Tamlin Orc -->
+		<npc id="20602" count="1" respawnDelay="25" /> <!-- Tamlin Orc Archer -->
+	</spawn>
+	<!-- aden24_2320_24 -->
+	<spawn zone="aden24_2320_24m1">
+		<npc id="20600" count="2" respawnDelay="25" /> <!-- Karul Bugbear -->
+		<npc id="20601" count="1" respawnDelay="25" /> <!-- Tamlin Orc -->
+		<npc id="20602" count="1" respawnDelay="25" /> <!-- Tamlin Orc Archer -->
+	</spawn>
+	<!-- aden24_2320_29 -->
+	<spawn zone="aden24_2320_29m1">
+		<npc id="20600" count="1" respawnDelay="25" /> <!-- Karul Bugbear -->
+		<npc id="20601" count="2" respawnDelay="25" /> <!-- Tamlin Orc -->
+		<npc id="20602" count="1" respawnDelay="25" /> <!-- Tamlin Orc Archer -->
+	</spawn>
+	<!-- aden24_qm2320_01 -->
+	<spawn zone="aden24_qm2320_01m1">
+		<npc id="27185" x="113356" y="93848" z="-2072" heading="28672" respawnDelay="60" /> <!-- Fairy Tree of Wind -->
+	</spawn>
+	<!-- aden24_qm2320_02 -->
+	<spawn zone="aden24_qm2320_02m1">
+		<npc id="27186" x="117733" y="94108" z="-2068" heading="57344" respawnDelay="60" /> <!-- Fairy Tree of Star -->
+	</spawn>
+	<!-- aden24_qm2320_03 -->
+	<spawn zone="aden24_qm2320_03m1">
+		<npc id="27187" x="127714" y="90495" z="-2095" heading="0" respawnDelay="60" /> <!-- Fairy Tree of Twilight -->
+	</spawn>
+	<!-- aden24_qm2320_04 -->
+	<spawn zone="aden24_qm2320_04m1">
+		<npc id="27188" x="106671" y="93905" z="-2070" heading="49152" respawnDelay="60" /> <!-- Fairy Tree of Abyss -->
+	</spawn>
+</list>

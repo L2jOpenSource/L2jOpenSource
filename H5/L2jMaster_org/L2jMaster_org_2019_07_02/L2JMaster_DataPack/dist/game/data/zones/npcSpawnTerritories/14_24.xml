@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- rumwarsha12_1424_default -->
+	<zone name="grumwarsha12_1424_defaultm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12947" maxZ="-12847">
+		<node X="-182744" Y="206015" />
+		<node X="-182744" Y="206472" />
+		<node X="-183070" Y="206800" />
+		<node X="-183534" Y="206796" />
+		<node X="-183867" Y="206470" />
+		<node X="-183865" Y="205994" />
+		<node X="-183525" Y="205662" />
+		<node X="-183052" Y="205668" />
+	</zone>
+	<!-- rumwarsha12_1424_gateroom -->
+	<zone name="rumwarsha12_1424_gateroomm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12947" maxZ="-12847">
+		<node X="-182744" Y="206015" />
+		<node X="-182744" Y="206472" />
+		<node X="-183070" Y="206800" />
+		<node X="-183534" Y="206796" />
+		<node X="-183867" Y="206470" />
+		<node X="-183865" Y="205994" />
+		<node X="-183525" Y="205662" />
+		<node X="-183052" Y="205668" />
+	</zone>
+</list>

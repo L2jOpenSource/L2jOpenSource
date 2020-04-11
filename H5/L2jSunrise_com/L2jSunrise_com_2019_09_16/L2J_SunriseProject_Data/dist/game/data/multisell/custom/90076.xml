@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Non-grade items exchange, just for education -->
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15913" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15983" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15984" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15985" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15914" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15986" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15987" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15988" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15915" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15989" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15990" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15991" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15916" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15992" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15993" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15994" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15917" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15995" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15996" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15997" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15918" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15998" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15999" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16000" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15919" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16001" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16002" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16003" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15920" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16004" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16005" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16006" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15921" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16007" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16008" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16009" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15922" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16010" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16011" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16012" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15923" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16013" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16014" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16015" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15924" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16016" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16017" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16018" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15925" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16019" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16020" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16021" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="15926" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16022" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16023" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16024" count="1" />
+	</item>
+
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16157" count="1" />
+	</item>
+	<!-- s84 PvP weapons -->
+	<item>
+		<ingredient id="40002" count="120" />
+		<production id="16159" count="1" />
+	</item>
+
+</list>

@@ -1,0 +1,14 @@
+<!ELEMENT list (Knoriks)* >
+<!ELEMENT Knoriks (pathRoute)* >
+<!ELEMENT pathRoute EMPTY >
+
+<!ATTLIST Knoriks
+	id CDATA #REQUIRED
+>
+
+<!ATTLIST pathRoute
+	position CDATA #REQUIRED
+	locX CDATA #REQUIRED
+	locY CDATA #REQUIRED
+	locZ CDATA #REQUIRED
+>

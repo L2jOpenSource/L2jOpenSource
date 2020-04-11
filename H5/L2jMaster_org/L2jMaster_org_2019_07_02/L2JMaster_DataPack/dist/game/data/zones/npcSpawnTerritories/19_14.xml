@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- lyonn08_1914_01 -->
+	<zone name="lyonn08_1914_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1392" maxZ="-992">
+		<node X="-31428" Y="-127472" />
+		<node X="-29104" Y="-128572" />
+		<node X="-27104" Y="-128344" />
+		<node X="-31364" Y="-125524" />
+	</zone>
+	<!-- lyonn08_1914_02 -->
+	<zone name="lyonn08_1914_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1180" maxZ="-480">
+		<node X="-26512" Y="-130916" />
+		<node X="-21344" Y="-130920" />
+		<node X="-21520" Y="-130424" />
+		<node X="-24656" Y="-128684" />
+		<node X="-27008" Y="-128400" />
+		<node X="-27796" Y="-128556" />
+	</zone>
+	<!-- lyonn08_1914_03 -->
+	<zone name="lyonn08_1914_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2592" maxZ="-1842">
+		<node X="-29420" Y="-125668" />
+		<node X="-27504" Y="-126336" />
+		<node X="-25932" Y="-123680" />
+		<node X="-29356" Y="-122896" />
+		<node X="-31624" Y="-124464" />
+	</zone>
+	<!-- lyonn08_1914_04 -->
+	<zone name="lyonn08_1914_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2248" maxZ="-1448">
+		<node X="-29212" Y="-122716" />
+		<node X="-25836" Y="-123004" />
+		<node X="-23084" Y="-120028" />
+		<node X="-23232" Y="-119048" />
+		<node X="-24896" Y="-117084" />
+		<node X="-28208" Y="-116392" />
+		<node X="-29352" Y="-119996" />
+	</zone>
+	<!-- lyonn08_1914_05 -->
+	<zone name="lyonn08_1914_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2532" maxZ="-1682">
+		<node X="-28152" Y="-116252" />
+		<node X="-24752" Y="-116856" />
+		<node X="-24384" Y="-112600" />
+		<node X="-26772" Y="-110272" />
+	</zone>
+	<!-- lyonn08_1914_06 -->
+	<zone name="lyonn08_1914_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2232" maxZ="-1282">
+		<node X="-25500" Y="-111024" />
+		<node X="-24464" Y="-111120" />
+		<node X="-24492" Y="-108280" />
+		<node X="-25940" Y="-107624" />
+		<node X="-26220" Y="-109900" />
+	</zone>
+	<!-- lyonn08_1914_07 -->
+	<zone name="lyonn08_1914_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3216" maxZ="-2966">
+		<node X="-29712" Y="-103956" />
+		<node X="-28700" Y="-104024" />
+		<node X="-27196" Y="-101524" />
+		<node X="-27948" Y="-100984" />
+		<node X="-28900" Y="-101036" />
+		<node X="-29928" Y="-102116" />
+		<node X="-30180" Y="-102992" />
+	</zone>
+	<!-- lyonn08_1914_08 -->
+	<zone name="lyonn08_1914_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3048" maxZ="-2348">
+		<node X="-32664" Y="-102604" />
+		<node X="-31104" Y="-103592" />
+		<node X="-30176" Y="-101164" />
+		<node X="-31392" Y="-100808" />
+		<node X="-32636" Y="-101460" />
+	</zone>
+	<!-- lyonn08_1914_09 -->
+	<zone name="lyonn08_1914_09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2796" maxZ="-2196">
+		<node X="-27724" Y="-100308" />
+		<node X="-26264" Y="-101608" />
+		<node X="-23440" Y="-98604" />
+		<node X="-27644" Y="-98624" />
+	</zone>
+	<!-- lyonn08_1914_10 -->
+	<zone name="lyonn08_1914_10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2900" maxZ="-2500">
+		<node X="-29760" Y="-100572" />
+		<node X="-27776" Y="-100316" />
+		<node X="-27756" Y="-98632" />
+		<node X="-29204" Y="-98616" />
+	</zone>
+	<!-- lyonn08_1914_11 -->
+	<zone name="lyonn08_1914_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3064" maxZ="-2064">
+		<node X="-27084" Y="-127172" />
+		<node X="-22316" Y="-127464" />
+		<node X="-20188" Y="-124508" />
+		<node X="-21536" Y="-120900" />
+		<node X="-23536" Y="-121256" />
+		<node X="-25572" Y="-123824" />
+	</zone>
+	<!-- lyonn08_1914_12 -->
+	<zone name="lyonn08_1914_12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2412" maxZ="-1762">
+		<node X="-20188" Y="-130892" />
+		<node X="-15620" Y="-130892" />
+		<node X="-18668" Y="-128052" />
+		<node X="-20308" Y="-127648" />
+	</zone>
+	<!-- lyonn08_1914_13 -->
+	<zone name="lyonn08_1914_13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3052" maxZ="-2502">
+		<node X="-14692" Y="-130916" />
+		<node X="-10292" Y="-130892" />
+		<node X="-10464" Y="-129804" />
+		<node X="-17500" Y="-127804" />
+	</zone>
+	<!-- lyonn08_1914_14 -->
+	<zone name="lyonn08_1914_14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2232" maxZ="-1632">
+		<node X="-18640" Y="-102200" />
+		<node X="-16708" Y="-101868" />
+		<node X="-16580" Y="-100684" />
+		<node X="-18308" Y="-99944" />
+		<node X="-19620" Y="-99944" />
+		<node X="-19252" Y="-101548" />
+	</zone>
+	<!-- lyonn08_1914_15 -->
+	<zone name="lyonn08_1914_15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3076" maxZ="-2676">
+		<node X="-22556" Y="-118584" />
+		<node X="-21560" Y="-118612" />
+		<node X="-20328" Y="-117280" />
+		<node X="-19784" Y="-114864" />
+		<node X="-20428" Y="-114016" />
+		<node X="-22116" Y="-114004" />
+		<node X="-23496" Y="-115352" />
+		<node X="-23820" Y="-117020" />
+	</zone>
+	<!-- lyonn08_1914_16 -->
+	<zone name="lyonn08_1914_16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2340" maxZ="-1040">
+		<node X="-21376" Y="-108112" />
+		<node X="-18580" Y="-105412" />
+		<node X="-21480" Y="-102904" />
+		<node X="-24000" Y="-103524" />
+	</zone>
+	<!-- lyonn08_1914_17 -->
+	<zone name="lyonn08_1914_17m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-1704" maxZ="-404">
+		<node X="-19564" Y="-104300" />
+		<node X="-15932" Y="-105040" />
+		<node X="-13876" Y="-103252" />
+		<node X="-15856" Y="-102564" />
+	</zone>
+	<!-- lyonn08_1914_18 -->
+	<zone name="lyonn08_1914_18m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2884" maxZ="-2084">
+		<node X="-5300" Y="-95084" />
+		<node X="-4692" Y="-94332" />
+		<node X="-4648" Y="-92180" />
+		<node X="-8324" Y="-94424" />
+		<node X="-6128" Y="-95288" />
+	</zone>
+	<!-- lyonn08_1914_19 -->
+	<zone name="lyonn08_1914_19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2552" maxZ="-1852">
+		<node X="-15088" Y="-117452" />
+		<node X="-12724" Y="-117536" />
+		<node X="-10944" Y="-116928" />
+		<node X="-10812" Y="-115636" />
+		<node X="-13088" Y="-113756" />
+		<node X="-14780" Y="-115340" />
+	</zone>
+	<!-- lyonn08_1914_20 -->
+	<zone name="lyonn08_1914_20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2652" maxZ="-1952">
+		<node X="-19896" Y="-118192" />
+		<node X="-15896" Y="-119276" />
+		<node X="-15200" Y="-117424" />
+		<node X="-14936" Y="-115340" />
+		<node X="-19392" Y="-115764" />
+	</zone>
+	<!-- lyonn08_1914_21 -->
+	<zone name="lyonn08_1914_21m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2552" maxZ="-1952">
+		<node X="-19460" Y="-123984" />
+		<node X="-13832" Y="-123220" />
+		<node X="-15808" Y="-119432" />
+		<node X="-20592" Y="-118752" />
+		<node X="-20776" Y="-120536" />
+	</zone>
+	<!-- lyonn08_1914_22 -->
+	<zone name="lyonn08_1914_22m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2492" maxZ="-1492">
+		<node X="-17044" Y="-126540" />
+		<node X="-13328" Y="-127964" />
+		<node X="-12732" Y="-126488" />
+		<node X="-14080" Y="-123448" />
+		<node X="-18552" Y="-124076" />
+	</zone>
+	<!-- lyonn08_1914_30 -->
+	<zone name="lyonn08_1914_30m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2252" maxZ="-1752">
+		<node X="-24440" Y="-121172" />
+		<node X="-23420" Y="-120048" />
+		<node X="-24592" Y="-118656" />
+		<node X="-26444" Y="-118628" />
+		<node X="-26280" Y="-120676" />
+	</zone>
+	<!-- lyonn08_1914_31 -->
+	<zone name="lyonn08_1914_31m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3036" maxZ="-2236">
+		<node X="-23980" Y="-125872" />
+		<node X="-22244" Y="-125880" />
+		<node X="-21332" Y="-124492" />
+		<node X="-21928" Y="-122688" />
+		<node X="-24208" Y="-124208" />
+	</zone>
+	<!-- lyonn08_1914_32 -->
+	<zone name="lyonn08_1914_32m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3080" maxZ="-2680">
+		<node X="-21876" Y="-117392" />
+		<node X="-21084" Y="-117284" />
+		<node X="-20656" Y="-116660" />
+		<node X="-20500" Y="-115928" />
+		<node X="-20620" Y="-115300" />
+		<node X="-21484" Y="-114868" />
+		<node X="-22816" Y="-115608" />
+		<node X="-22996" Y="-116640" />
+		<node X="-22608" Y="-117092" />
+	</zone>
+	<!-- lyonn08_1914_33 -->
+	<zone name="lyonn08_1914_33m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2100" maxZ="-1300">
+		<node X="-21240" Y="-106496" />
+		<node X="-20200" Y="-105428" />
+		<node X="-20808" Y="-104204" />
+		<node X="-22132" Y="-103864" />
+		<node X="-22412" Y="-105196" />
+	</zone>
+	<!-- lyonn08_1914_34 -->
+	<zone name="lyonn08_1914_34m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2436" maxZ="-1836">
+		<node X="-16164" Y="-111300" />
+		<node X="-14532" Y="-111032" />
+		<node X="-14100" Y="-109488" />
+		<node X="-16052" Y="-109064" />
+		<node X="-16980" Y="-110004" />
+		<node X="-16996" Y="-110868" />
+	</zone>
+	<!-- lyonn08_1914_35 -->
+	<zone name="lyonn08_1914_35m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2352" maxZ="-1852">
+		<node X="-19200" Y="-109516" />
+		<node X="-17364" Y="-108516" />
+		<node X="-18556" Y="-106612" />
+		<node X="-20896" Y="-108308" />
+	</zone>
+	<!-- lyonn08_1914_36 -->
+	<zone name="lyonn08_1914_36m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2412" maxZ="-1912">
+		<node X="-17660" Y="-122644" />
+		<node X="-15884" Y="-122448" />
+		<node X="-16568" Y="-119984" />
+		<node X="-18584" Y="-119224" />
+		<node X="-19144" Y="-120424" />
+		<node X="-19108" Y="-121664" />
+	</zone>
+	<!-- lyonn09_1914_23 -->
+	<zone name="lyonn09_1914_23m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3020" maxZ="-2020">
+		<node X="-4284" Y="-104428" />
+		<node X="-268" Y="-104080" />
+		<node X="-216" Y="-98600" />
+		<node X="-4096" Y="-98680" />
+		<node X="-4996" Y="-101508" />
+	</zone>
+	<!-- lyonn09_1914_24 -->
+	<zone name="lyonn09_1914_24m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2820" maxZ="-2320">
+		<node X="-4104" Y="-111884" />
+		<node X="-292" Y="-112836" />
+		<node X="-344" Y="-104192" />
+		<node X="-4112" Y="-104484" />
+		<node X="-4744" Y="-109744" />
+	</zone>
+	<!-- lyonn09_1914_25 -->
+	<zone name="lyonn09_1914_25m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3628" maxZ="-3228">
+		<node X="-4652" Y="-114732" />
+		<node X="-264" Y="-115416" />
+		<node X="-328" Y="-114576" />
+		<node X="-2512" Y="-113624" />
+	</zone>
+	<!-- lyonn09_1914_26 -->
+	<zone name="lyonn09_1914_26m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2976" maxZ="-2276">
+		<node X="-2868" Y="-118668" />
+		<node X="-324" Y="-118600" />
+		<node X="-296" Y="-117164" />
+		<node X="-4216" Y="-117052" />
+	</zone>
+	<!-- lyonn09_1914_27 -->
+	<zone name="lyonn09_1914_27m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3052" maxZ="-2152">
+		<node X="-4644" Y="-123488" />
+		<node X="-388" Y="-124068" />
+		<node X="-440" Y="-119488" />
+		<node X="-3824" Y="-119084" />
+	</zone>
+	<!-- lyonn09_1914_28 -->
+	<zone name="lyonn09_1914_28m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3372" maxZ="-2472">
+		<node X="-3432" Y="-129244" />
+		<node X="-416" Y="-127604" />
+		<node X="-396" Y="-124124" />
+		<node X="-4656" Y="-123496" />
+		<node X="-5608" Y="-124820" />
+		<node X="-5400" Y="-127416" />
+	</zone>
+	<!-- lyonn09_1914_29 -->
+	<zone name="lyonn09_1914_29m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3216" maxZ="-2616">
+		<node X="-7220" Y="-130924" />
+		<node X="-4208" Y="-130884" />
+		<node X="-3544" Y="-129424" />
+		<node X="-5396" Y="-127676" />
+	</zone>
+</list>

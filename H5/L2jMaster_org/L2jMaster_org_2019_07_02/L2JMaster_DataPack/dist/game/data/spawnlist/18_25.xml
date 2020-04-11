@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio22_npc1824_001 -->
+	<spawn zone="gludio_npc1824_00101">
+		<npc id="18494" x="-46200" y="246120" z="-9120" heading="0" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="18495" x="-48148" y="249165" z="-9120" heading="32768" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="18496" x="-51625" y="246509" z="-9984" heading="-16384" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="18497" x="-49749" y="243406" z="-9984" heading="0" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="18498" x="-46185" y="245905" z="-9984" heading="16380" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="18499" x="-48682" y="248290" z="-9984" heading="32768" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="18500" x="-51633" y="246339" z="-10848" heading="-16384" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="18501" x="-49150" y="243968" z="-10848" heading="0" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="18502" x="-46227" y="245908" z="-11704" heading="16384" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="18503" x="-48706" y="248287" z="-11712" heading="32768" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="18504" x="-51630" y="246340" z="-12568" heading="-16384" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="18505" x="-48537" y="243648" z="-13376" heading="-13094" respawnDelay="60" /> <!-- Ingenious Contraption -->
+		<npc id="32370" x="-45531" y="245872" z="-14192" heading="49151" respawnDelay="60" /> <!-- Old Dwarven Ghost -->
+	</spawn>
+</list>

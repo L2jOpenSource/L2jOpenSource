@@ -1,0 +1,95 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>13184</npc> <!-- Santa Claus -->
+	</npcs> 
+	
+	<!-- Santa's Antlers -->
+	<item>
+		<ingredient id="14612" count="300"/>
+		<production id="8936" count="1"/>
+	</item>
+	<!-- Santa's Hat -->
+	<item>
+		<ingredient id="14612" count="300"/>
+		<production id="7836" count="1"/>
+	</item>
+	<!-- Gran Kain's Firework  -->
+	<item>
+		<ingredient id="14612" count="100"/>
+		<production id="13268" count="10"/>
+	</item>
+	<!-- Gran Kain's Large Firework -->
+	<item>
+		<ingredient id="14612" count="100"/>
+		<production id="13269" count="10"/>
+	</item>
+	<!-- Red Firework -->
+	<item>
+		<ingredient id="14612" count="250"/>
+		<production id="20870" count="5"/>
+	</item>
+	<!-- Gold Firework -->
+	<item>
+		<ingredient id="14612" count="250"/>
+		<production id="20871" count="5"/>
+	</item>
+	<!-- Blue Firework -->
+	<item>
+		<ingredient id="14612" count="250"/>
+		<production id="20872" count="5"/>
+	</item>
+	<!-- Pink Firework -->
+	<item>
+		<ingredient id="14612" count="250"/>
+		<production id="20873" count="5"/>
+	</item>
+	<!-- White Firework -->
+	<item>
+		<ingredient id="14612" count="250"/>
+		<production id="20874" count="5"/>
+	</item>
+	<!-- Silver Firework -->
+	<item>
+		<ingredient id="14612" count="250"/>
+		<production id="20875" count="5"/>
+	</item>
+	<!-- Revita-Pop -->
+	<item>
+		<ingredient id="14612" count="300"/>
+		<production id="20034" count="5"/>
+	</item>
+	<!-- Agathion Seal Bracelet - Rudolph -->
+	<item>
+		<ingredient id="14612" count="15"/>
+		<production id="14617" count="1"/>
+	</item>
+	<!-- Color Name -->
+	<item>
+		<ingredient id="14612" count="10"/>
+		<production id="13021" count="1"/>
+	</item>
+	<!-- Santa Shirt -->
+	<item>
+		<ingredient id="14612" count="500"/>
+		<production id="20759" count="1"/>
+	</item>
+	<!-- Rudolph Nose -->
+	<item>
+		<ingredient id="14612" count="15"/>
+		<production id="14673" count="1"/>
+	</item>
+	<!-- Christmas Tree -->
+	<item>
+		<ingredient id="5556" count="4"/>
+		<ingredient id="5557" count="4"/>
+		<ingredient id="5558" count="10"/>
+		<ingredient id="5559" count="1"/>
+		<production id="5560" count="1"/>
+	</item>
+	<!-- Special Christmas Tree -->
+	<item>
+		<ingredient id="5560" count="10"/>
+		<production id="5561" count="1"/>
+	</item>
+</list>

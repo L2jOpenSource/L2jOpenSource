@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37618</npc> <!-- Vote Shop -->
+	</npcs>
+
+	<!-- Skill Clan -->
+	
+	<!-- Blood Mark -->
+	<item>
+		<ingredient id="23003" count="5"/>
+		<production id="1419" count="1"/>
+	</item>
+	<!-- Seal of Aspiration -->
+	<item>
+		<ingredient id="23003" count="10"/>
+		<production id="3870" count="1"/>
+	</item>
+	<!-- Alliance Manifesto -->
+	<item>
+		<ingredient id="23003" count="20"/>
+		<production id="3874" count="1"/>
+	</item>
+	<!-- Angelic Essence -->
+	<item>
+		<ingredient id="23003" count="20"/>
+		<production id="9818" count="10"/>
+	</item>
+	<!-- Cradle of Creation -->
+	<item>
+		<ingredient id="23003" count="20"/>
+		<production id="8175" count="10"/>
+	</item>
+	<!-- Destruction Tombstone -->
+	<item>
+		<ingredient id="23003" count="20"/>
+		<production id="8176" count="10"/>
+	</item>
+	<!-- Dragon Heart -->
+	<item>
+		<ingredient id="23003" count="20"/>
+		<production id="9815" count="10"/>
+	</item>
+	<!-- Earth Egg -->
+	<item>
+		<ingredient id="23003" count="20"/>
+		<production id="9816" count="10"/>
+	</item>
+	<!-- Memento Mori -->
+	<item>
+		<ingredient id="23003" count="20"/>
+		<production id="9814" count="10"/>
+	</item>
+	<!-- Nonliving Nucleus -->
+	<item>
+		<ingredient id="23003" count="20"/>
+		<production id="9817" count="10"/>
+	</item>
+</list>

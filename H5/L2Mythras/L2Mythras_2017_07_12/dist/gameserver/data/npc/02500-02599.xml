@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="2501" name="Luckpy Luckpy" title="The Spirit of Pigs">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="FortuneBug" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="680" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="0" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="11" />
+		<set name="baseMAtkSpd" value="253" />
+		<set name="baseMDef" value="375180" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="2000" />
+		<set name="baseMpReg" value="0.9" />
+		<set name="basePAtk" value="17" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="101400" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="30.0" />
+		<set name="collision_radius" value="20.0" />
+		<set name="level" value="80" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="Monster" />
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+	<npc id="2502" name="Wingless Luckpy Luckpy" title="L2Mythras Reward System - Normal">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="FortuneBug" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="680" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="0" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="11" />
+		<set name="baseMAtkSpd" value="253" />
+		<set name="baseMDef" value="55180" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="2000" />
+		<set name="baseMpReg" value="0.9" />
+		<set name="basePAtk" value="17" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="51400" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="30.0" />
+		<set name="collision_radius" value="20.0" />
+		<set name="level" value="80" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="Monster" />
+		<rewardlist type="RATED_GROUPED">
+			<group chance="100.0">
+				<reward item_id="57" min="1853" max="3785" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="25.0">
+				<reward item_id="6673" min="1" max="1" chance="7.0000" /> <!--Festival Adena-->
+				<reward item_id="4356" min="1" max="1" chance="0.5600" /> <!--Gold Einhasad-->
+				<reward item_id="9627" min="1" max="1" chance="7.0000" /> <!--Mastery-->
+				<reward item_id="6392" min="3" max="5" chance="20.0000" /> <!--Bronze Goblet-->
+				<reward item_id="6393" min="1" max="3" chance="15.0000" /> <!--Golden Goblet-->
+				<reward item_id="6578" min="1" max="1" chance="3.0000" /> <!--Blessed Scroll: Enchant Armor (S Grade)-->
+				<reward item_id="6577" min="1" max="1" chance="3.0000" /> <!--Blessed Scroll: Enchant Weapon (S Grade)-->
+				<reward item_id="6570" min="1" max="1" chance="10.0000" /> <!--Blessed Scroll: Enchant Armor (A Grade)-->
+				<reward item_id="6569" min="1" max="1" chance="10.0000" /> <!--Blessed Scroll: Enchant Weapon (A Grade)-->
+				<reward item_id="9575" min="1" max="1" chance="33.0000" /> <!--High-Grade Life Stone - Level 80-->
+				<reward item_id="14169" min="1" max="1" chance="33.0000" /> <!--Top-Grade Life Stone - Level 84-->
+				<reward item_id="12821" min="1" max="1" chance="33.0000" /> <!--Accessory Life Stone - Level 80-->
+				<reward item_id="14052" min="1" max="5" chance="20.0000" /> <!--Noble Enhancement Stone-->
+				<reward item_id="15542" min="1" max="1" chance="0.9900" /> <!--Blue Soul Cry - Stage 17-->
+				<reward item_id="15541" min="1" max="1" chance="0.9900" /> <!--Red Soul Cry - Stage 17-->
+				<reward item_id="15543" min="1" max="1" chance="0.9900" /> <!--Green Soul Cry - Stage 17-->				
+			</group>
+		</rewardlist>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+	<npc id="2503" name="Wingless Luckpy Luckpy" title="L2Mythras Reward System - Gold">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="FortuneBug" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="680" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="0" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="11" />
+		<set name="baseMAtkSpd" value="253" />
+		<set name="baseMDef" value="55180" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="2000" />
+		<set name="baseMpReg" value="0.9" />
+		<set name="basePAtk" value="17" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="51400" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="30.0" />
+		<set name="collision_radius" value="20.0" />
+		<set name="level" value="80" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="Monster" />
+		<rewardlist type="RATED_GROUPED">
+		<group chance="100.0">
+				<reward item_id="57" min="1853" max="3785" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="25.0">
+				<reward item_id="6673" min="1" max="2" chance="3.0000" /> <!--Festival Adena-->
+				<reward item_id="37000" min="1" max="1" chance="0.0678" /> <!--Donator Coin-->
+				<reward item_id="15827" min="1" max="1" chance="0.6788" /> <!--Blue Soul Crystal - Stage 18-->
+				<reward item_id="15826" min="1" max="1" chance="0.6788" /> <!--Red Soul Crystal - Stage 18-->
+				<reward item_id="15828" min="1" max="1" chance="0.6788" /> <!--Green Soul Crystal - Stage 18-->
+				<reward item_id="13547" min="1" max="1" chance="0.6788" /> <!--Tawny-Maned Lion Mount Bracelet-->
+				<reward item_id="10273" min="1" max="1" chance="0.6788" /> <!--Wolf Summoning Bracelet-->
+				<reward item_id="20029" min="1" max="1" chance="0.6788" /> <!--Light Purple-Maned Horse Mount Bracelet-->
+			</group>
+		</rewardlist>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+</list>

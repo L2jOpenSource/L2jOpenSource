@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- ssq11_npc2220_02 -->
+	<spawn zone="ssq11_npc2220_0201">
+		<npc id="31116" x="77312" y="78400" z="-5123" heading="32500" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- oren28_2220_05 -->
+	<spawn zone="oren28_2220_05m1">
+		<npc id="20585" count="6" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20586" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Warrior -->
+		<npc id="20587" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Shaman -->
+	</spawn>
+	<!-- oren28_2220_05s -->
+	<spawn zone="oren28_2220_05sm1">
+		<npc id="20585" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20586" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Warrior -->
+		<npc id="20584" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_2220_06 -->
+	<spawn zone="oren28_2220_06m1">
+		<npc id="20585" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20586" count="4" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Warrior -->
+		<npc id="20584" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_2220_06s -->
+	<spawn zone="oren28_2220_06sm1">
+		<npc id="20585" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20586" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Warrior -->
+		<npc id="20584" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_2220_07 -->
+	<spawn zone="oren28_2220_07m1">
+		<npc id="20585" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20586" count="6" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Warrior -->
+		<npc id="20584" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_2220_071s -->
+	<spawn zone="oren28_2220_071sm1">
+		<npc id="20585" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20586" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Warrior -->
+		<npc id="20584" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_2220_072s -->
+	<spawn zone="oren28_2220_072sm1">
+		<npc id="20585" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20586" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Warrior -->
+		<npc id="20584" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_2220_08 -->
+	<spawn zone="oren28_2220_08m1">
+		<npc id="20585" count="4" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20583" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc -->
+		<npc id="20584" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_2220_08s -->
+	<spawn zone="oren28_2220_08sm1">
+		<npc id="20585" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20583" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc -->
+		<npc id="20584" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_2220_09 -->
+	<spawn zone="oren28_2220_09m1">
+		<npc id="20585" count="4" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20583" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc -->
+		<npc id="20584" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_2220_09s -->
+	<spawn zone="oren28_2220_09sm1">
+		<npc id="20585" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20583" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc -->
+		<npc id="20584" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_2220_10 -->
+	<spawn zone="oren28_2220_10m1">
+		<npc id="20585" count="6" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20583" count="6" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc -->
+		<npc id="20584" count="4" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_2220_11 -->
+	<spawn zone="oren28_2220_11m1">
+		<npc id="20585" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Soldier -->
+		<npc id="20583" count="2" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc -->
+		<npc id="20584" count="1" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Archer -->
+	</spawn>
+	<!-- oren28_p2220_05 -->
+	<spawn zone="oren28_p2220_05m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_p2220_06 -->
+	<spawn zone="oren28_p2220_06m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_p2220_07 -->
+	<spawn zone="oren28_p2220_07m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_p2220_08 -->
+	<spawn zone="oren28_p2220_08m1">
+		<npc id="20767" count="4" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_p2220_09 -->
+	<spawn zone="oren28_p2220_09m1">
+		<npc id="20767" count="4" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_p2220_10 -->
+	<spawn zone="oren28_p2220_10m1">
+		<npc id="20767" count="4" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren28_p2220_11 -->
+	<spawn zone="oren28_p2220_11m1">
+		<npc id="20767" count="3" respawnDelay="40" respawnRandom="10" /> <!-- Timak Orc Troop Leader -->
+	</spawn>
+	<!-- oren21_2220_doma01 -->
+	<spawn zone="oren21_2220_doma01m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma02 -->
+	<spawn zone="oren21_2220_doma02m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma03 -->
+	<spawn zone="oren21_2220_doma03m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma04 -->
+	<spawn zone="oren21_2220_doma04m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma05 -->
+	<spawn zone="oren21_2220_doma05m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma06 -->
+	<spawn zone="oren21_2220_doma06m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma07 -->
+	<spawn zone="oren21_2220_doma07m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma08 -->
+	<spawn zone="oren21_2220_doma08m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma09 -->
+	<spawn zone="oren21_2220_doma09m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma10 -->
+	<spawn zone="oren21_2220_doma10m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma11 -->
+	<spawn zone="oren21_2220_doma11m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma12 -->
+	<spawn zone="oren21_2220_doma12m1">
+		<npc id="22768" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="3" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_mb2220_ugozg02 -->
+	<spawn zone="oren21_mb2220_ugozg02m1">
+		<npc id="18868" count="12" respawnDelay="10" respawnRandom="5" /> <!-- Energy Plant -->
+		<npc id="18867" count="12" respawnDelay="10" respawnRandom="5" /> <!-- Abyss Weed -->
+	</spawn>
+	<!-- oren21_mb2220_ugozg03 -->
+	<spawn zone="oren21_mb2220_ugozg03m1">
+		<npc id="32740" x="94874" y="83585" z="-3416" heading="29836" respawnDelay="60" /> <!-- Batracos -->
+	</spawn>
+	<!-- oren21_mb2220_ugoz01 -->
+	<spawn zone="oren21_mb2220_ugoz01m1">
+		<npc id="18863" x="96804" y="85604" z="-3720" heading="31176" respawnDelay="300" /> <!-- Tanta Seer Ugoros -->
+	</spawn>
+	<!-- oren21_qm2220_01 -->
+	<spawn zone="oren21_qm2220_01m1">
+		<npc id="20577" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman -->
+		<npc id="20578" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman Archer -->
+		<npc id="20579" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman Soldier -->
+		<npc id="20580" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman Warrior -->
+		<npc id="20581" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman Shaman -->
+		<npc id="20582" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman Overlord -->
+	</spawn>
+	<!-- oren21_qm2220_02 -->
+	<spawn zone="oren21_qm2220_02m1">
+		<npc id="20577" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman -->
+		<npc id="20578" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman Archer -->
+		<npc id="20579" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman Soldier -->
+		<npc id="20580" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman Warrior -->
+		<npc id="20581" count="2" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman Shaman -->
+		<npc id="20582" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Leto Lizardman Overlord -->
+	</spawn>
+	<!-- oren21_qm2220_03 -->
+	<spawn zone="oren21_qm2220_03m1">
+		<npc id="32741" x="86486" y="86105" z="-2872" heading="14500" respawnDelay="60" /> <!-- Ankumi -->
+		<npc id="32744" x="86522" y="85792" z="-2888" heading="8292" respawnDelay="60" /> <!-- Johnny -->
+		<npc id="32743" x="86381" y="85967" z="-2860" heading="5884" respawnDelay="60" /> <!-- Sally -->
+		<npc id="32742" x="86351" y="85797" z="-2856" heading="1424" respawnDelay="60" /> <!-- Laki -->
+	</spawn>
+	<!-- oren21_qm2220_04 -->
+	<spawn zone="oren21_qm2220_04m1">
+		<npc id="20780" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Bloody Axe Elite -->
+	</spawn>
+	<!-- oren21_qm2220_05 -->
+	<spawn zone="oren21_qm2220_05m1">
+		<npc id="20780" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Bloody Axe Elite -->
+	</spawn>
+	<!-- oren21_qm2220_06 -->
+	<spawn zone="oren21_qm2220_06m1"> 
+		<npc id="27323" count="5" respawnDelay="15" /> <!-- Divine Emissary -->
+	</spawn>
+	<!-- oren21_2220_Hdoma01 -->
+	<spawn zone="oren21_2220_Hdoma01m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_Hdoma02 -->
+	<spawn zone="oren21_2220_Hdoma02m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_Hdoma03 -->
+	<spawn zone="oren21_2220_Hdoma03m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_Hdoma04 -->
+	<spawn zone="oren21_2220_Hdoma04m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_Hdoma05 -->
+	<spawn zone="oren21_2220_Hdoma05m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_Hdoma06 -->
+	<spawn zone="oren21_2220_Hdoma06m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_Hdoma07 -->
+	<spawn zone="oren21_2220_Hdoma07m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_Hdoma08 -->
+	<spawn zone="oren21_2220_Hdoma08m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_Hdoma09 -->
+	<spawn zone="oren21_2220_Hdoma09m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_Hdoma10 -->
+	<spawn zone="oren21_2220_Hdoma10m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_Hdoma11 -->
+	<spawn zone="oren21_2220_Hdoma11m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_Hdoma12 -->
+	<spawn zone="oren21_2220_Hdoma12m1">
+		<npc id="18864" count="2" respawnDelay="20" respawnRandom="5" /> <!-- Fantasy Mushroom -->
+	</spawn>
+	<!-- oren21_2220_rrug01 -->
+	<spawn zone="oren21_2220_rrug01m1">
+		<npc id="18868" count="16" respawnDelay="10" respawnRandom="5" /> <!-- Energy Plant -->
+		<npc id="18866" count="7" respawnDelay="20" respawnRandom="5" /> <!-- Rainbow Frog -->
+		<npc id="18865" count="7" respawnDelay="30" respawnRandom="5" /> <!-- Sticky Mushroom -->
+	</spawn>
+	<!-- oren21_2220_rrug02 -->
+	<spawn zone="oren21_2220_rrug02m1">
+		<npc id="18868" count="20" respawnDelay="10" respawnRandom="5" /> <!-- Energy Plant -->
+		<npc id="18866" count="9" respawnDelay="20" respawnRandom="5" /> <!-- Rainbow Frog -->
+		<npc id="18865" count="9" respawnDelay="30" respawnRandom="5" /> <!-- Sticky Mushroom -->
+	</spawn>
+	<!-- oren21_2220_rrug03 -->
+	<spawn zone="oren21_2220_rrug03m1">
+		<npc id="18868" count="10" respawnDelay="10" respawnRandom="5" /> <!-- Energy Plant -->
+		<npc id="18866" count="4" respawnDelay="20" respawnRandom="5" /> <!-- Rainbow Frog -->
+		<npc id="18865" count="4" respawnDelay="30" respawnRandom="5" /> <!-- Sticky Mushroom -->
+	</spawn>
+	<!-- oren21_2220_rrug04 -->
+	<spawn zone="oren21_2220_rrug04m1">
+		<npc id="18868" count="12" respawnDelay="10" respawnRandom="5" /> <!-- Energy Plant -->
+		<npc id="18866" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Rainbow Frog -->
+		<npc id="18865" count="5" respawnDelay="30" respawnRandom="5" /> <!-- Sticky Mushroom -->
+	</spawn>
+	<!-- oren21_2220_rrug05 -->
+	<spawn zone="oren21_2220_rrug05m1">
+		<npc id="18868" count="14" respawnDelay="10" respawnRandom="5" /> <!-- Energy Plant -->
+		<npc id="18866" count="6" respawnDelay="20" respawnRandom="5" /> <!-- Rainbow Frog -->
+		<npc id="18865" count="6" respawnDelay="30" respawnRandom="5" /> <!-- Sticky Mushroom -->
+	</spawn>
+	<!-- oren21_2220_rug01 -->
+	<spawn zone="oren21_2220_rug01m1">
+		<npc id="18865" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Sticky Mushroom -->
+	</spawn>
+	<!-- oren21_2220_rug02 -->
+	<spawn zone="oren21_2220_rug02m1">
+		<npc id="18865" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Sticky Mushroom -->
+	</spawn>
+	<!-- oren21_2220_rug03 -->
+	<spawn zone="oren21_2220_rug03m1">
+		<npc id="18865" count="5" respawnDelay="20" respawnRandom="5" /> <!-- Sticky Mushroom -->
+	</spawn>
+	<!-- oren21_2220_rug04 -->
+	<spawn zone="oren21_2220_rug04m1">
+		<npc id="18865" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Sticky Mushroom -->
+	</spawn>
+	<!-- oren21_2220_rug05 -->
+	<spawn zone="oren21_2220_rug05m1">
+		<npc id="18865" count="3" respawnDelay="20" respawnRandom="5" /> <!-- Sticky Mushroom -->
+	</spawn>
+	<!-- oren21_2220_doma_a1 -->
+	<spawn zone="oren21_2220_doma_a1m1">
+		<npc id="22768" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma_a2 -->
+	<spawn zone="oren21_2220_doma_a2m1">
+		<npc id="22768" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma_a3 -->
+	<spawn zone="oren21_2220_doma_a3m1">
+		<npc id="22768" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma_a4 -->
+	<spawn zone="oren21_2220_doma_a4m1">
+		<npc id="22768" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22769" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Warrior -->
+		<npc id="22770" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren21_2220_doma_a5 -->
+	<spawn zone="oren21_2220_doma_a5m1">
+		<npc id="22768" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Scout -->
+		<npc id="22770" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Soldier -->
+		<npc id="22771" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Berserker -->
+		<npc id="22772" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Archer -->
+		<npc id="22773" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Magician -->
+		<npc id="22774" count="1" respawnDelay="30" respawnRandom="5" /> <!-- Tanta Lizardman Summoner -->
+	</spawn>
+	<!-- oren22_2220_e01 -->
+	<spawn name="oren22_2220_e01m1">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22775" x="77578" y="66004" z="-3164" heading="16648" respawnDelay="90" /> <!-- Sel Mahum Drill Sergeant -->
+			<npc id="22782" x="77418" y="66228" z="-3191" heading="-16280" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77576" y="66227" z="-3191" heading="-16192" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77732" y="66232" z="-3191" heading="-19376" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77419" y="66335" z="-3191" heading="-16128" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77575" y="66350" z="-3191" heading="-18872" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77741" y="66355" z="-3191" heading="-26144" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77417" y="66455" z="-3191" heading="-15680" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77579" y="66466" z="-3191" heading="-15752" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77736" y="66475" z="-3191" heading="-16488" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77413" y="66569" z="-3191" heading="-13568" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77579" y="66579" z="-3191" heading="-19168" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="77739" y="66583" z="-3191" heading="-17512" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2220_e02 -->
+	<spawn name="oren22_2220_e02m1">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22775" x="78620" y="65996" z="-3164" heading="16688" respawnDelay="90" /> <!-- Sel Mahum Drill Sergeant -->
+			<npc id="22782" x="78383" y="66236" z="-3200" heading="-15944" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78526" y="66238" z="-3200" heading="-15512" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78669" y="66245" z="-3200" heading="-17816" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78802" y="66238" z="-3200" heading="-17792" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78390" y="66349" z="-3200" heading="-16144" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78527" y="66356" z="-3200" heading="-16488" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78673" y="66365" z="-3200" heading="-15776" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78812" y="66357" z="-3200" heading="-16384" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78389" y="66466" z="-3200" heading="-16920" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78526" y="66469" z="-3200" heading="-16840" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78670" y="66475" z="-3200" heading="-18360" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78817" y="66471" z="-3200" heading="-18016" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78397" y="66594" z="-3200" heading="-17440" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78531" y="66587" z="-3200" heading="-17632" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78677" y="66593" z="-3200" heading="-16640" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="78821" y="66593" z="-3200" heading="-22304" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2220_e03 -->
+	<spawn name="oren22_2220_e03m1">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22775" x="79688" y="65999" z="-3174" heading="16480" respawnDelay="90" /> <!-- Sel Mahum Drill Sergeant -->
+			<npc id="22782" x="79427" y="66223" z="-3200" heading="-14240" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79533" y="66234" z="-3200" heading="-15536" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79651" y="66243" z="-3200" heading="-17216" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79793" y="66242" z="-3200" heading="-17008" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79936" y="66234" z="-3200" heading="-18240" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79427" y="66343" z="-3200" heading="-17104" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79535" y="66362" z="-3200" heading="-16056" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79656" y="66378" z="-3200" heading="-16064" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79798" y="66380" z="-3200" heading="-16992" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79938" y="66369" z="-3200" heading="-16752" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79423" y="66466" z="-3200" heading="-14600" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79536" y="66482" z="-3200" heading="-16296" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79661" y="66495" z="-3200" heading="-15680" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79795" y="66502" z="-3200" heading="-17088" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79930" y="66500" z="-3200" heading="-17824" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79431" y="66599" z="-3200" heading="-13544" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79545" y="66617" z="-3200" heading="-16552" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79676" y="66624" z="-3200" heading="-17616" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79803" y="66625" z="-3200" heading="-19536" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22782" x="79941" y="66620" z="-3200" heading="-18440" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2220_e04 -->
+	<spawn name="oren22_2220_e04m1">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22776" x="78127" y="67305" z="-3165" heading="16880" respawnDelay="90" /> <!-- Sel Mahum Training Officer -->
+			<npc id="22783" x="78425" y="67509" z="-3200" heading="-16488" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78309" y="67518" z="-3200" heading="-16400" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78162" y="67529" z="-3200" heading="-16616" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78005" y="67541" z="-3200" heading="-16456" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77879" y="67549" z="-3200" heading="-16104" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77759" y="67544" z="-3200" heading="-9992" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78430" y="67619" z="-3200" heading="-16040" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78313" y="67629" z="-3200" heading="-16432" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78166" y="67635" z="-3200" heading="-17024" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78009" y="67640" z="-3200" heading="-16344" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77885" y="67647" z="-3200" heading="-16544" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77749" y="67646" z="-3200" heading="-7560" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77753" y="67759" z="-3200" heading="-14480" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="77881" y="67743" z="-3200" heading="-15400" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78006" y="67744" z="-3200" heading="-16968" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78168" y="67748" z="-3200" heading="-16120" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78320" y="67744" z="-3200" heading="-17408" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78426" y="67746" z="-3216" heading="-16408" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+	</spawn>
+	<!-- oren22_2220_e05 -->
+	<spawn name="oren22_2220_e05m1">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22776" x="79121" y="67309" z="-3160" heading="17688" respawnDelay="90" /> <!-- Sel Mahum Training Officer -->
+			<npc id="22783" x="78928" y="67520" z="-3200" heading="-15384" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79062" y="67518" z="-3200" heading="-17752" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79207" y="67524" z="-3200" heading="-14440" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79305" y="67533" z="-3200" heading="-17104" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78923" y="67656" z="-3200" heading="-27136" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79065" y="67651" z="-3200" heading="-18392" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79201" y="67651" z="-3200" heading="-19704" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79324" y="67661" z="-3200" heading="-17208" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="78927" y="67780" z="-3200" heading="-15568" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79078" y="67778" z="-3200" heading="-18760" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79213" y="67776" z="-3200" heading="-16824" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22783" x="79313" y="67777" z="-3200" heading="-17296" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+	</spawn>
+	<!-- oren22_2220_f01 -->
+	<spawn name="oren22_2220_f01m1">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22778" x="83532" y="66959" z="-2963" heading="944" respawnDelay="90" /> <!-- Sel Mahum Drill Sergeant -->
+			<npc id="22785" x="83735" y="66916" z="-2992" heading="32272" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83742" y="67038" z="-2992" heading="-32000" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83751" y="67149" z="-2992" heading="31768" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83734" y="66804" z="-2992" heading="28752" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83863" y="66799" z="-2992" heading="31984" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83866" y="66918" z="-2992" heading="32128" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83875" y="67030" z="-2992" heading="-31952" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83873" y="67141" z="-2992" heading="-28864" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83987" y="66789" z="-2992" heading="28448" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83996" y="66914" z="-2992" heading="-32144" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83996" y="67033" z="-2992" heading="-31024" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84004" y="67150" z="-2992" heading="31784" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84120" y="67036" z="-2992" heading="32240" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84105" y="66836" z="-2992" heading="30872" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+	</spawn>
+	<!-- oren22_2220_f02 -->
+	<spawn name="oren22_2220_f02m1">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22778" x="83532" y="67973" z="-2961" heading="56" respawnDelay="90" /> <!-- Sel Mahum Drill Sergeant -->
+			<npc id="22785" x="83707" y="67833" z="-2982" heading="31760" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83802" y="67832" z="-2982" heading="31560" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83925" y="67829" z="-2982" heading="30568" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84026" y="67833" z="-2982" heading="-31472" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83713" y="67969" z="-2982" heading="-32640" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83811" y="67972" z="-2982" heading="-32704" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83926" y="67969" z="-2982" heading="32176" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84037" y="67976" z="-2982" heading="32584" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83721" y="68100" z="-2982" heading="-30176" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83822" y="68103" z="-2982" heading="32080" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="83930" y="68110" z="-2982" heading="-31840" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+			<npc id="22785" x="84047" y="68105" z="-2982" heading="-32760" respawnDelay="90" /> <!-- Sel Mahum Soldier -->
+	</spawn>
+	<!-- oren22_2220_f03 -->
+	<spawn name="oren22_2220_f03m1">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22778" x="82164" y="66420" z="-2958" heading="-752" respawnDelay="90" /> <!-- Sel Mahum Drill Sergeant -->
+			<npc id="22784" x="82384" y="66240" z="-2992" heading="32456" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82391" y="66359" z="-2992" heading="30544" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82402" y="66483" z="-2992" heading="30952" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82395" y="66614" z="-2992" heading="-31840" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82511" y="66236" z="-2992" heading="-32728" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82517" y="66351" z="-3008" heading="32568" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82521" y="66480" z="-2992" heading="-30152" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82526" y="66607" z="-2992" heading="31832" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82633" y="66236" z="-3008" heading="28936" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82642" y="66350" z="-3008" heading="31792" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82646" y="66478" z="-2992" heading="-32352" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82652" y="66606" z="-2992" heading="-32496" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82773" y="66230" z="-3008" heading="29992" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82774" y="66347" z="-3008" heading="31344" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82784" y="66476" z="-3008" heading="-31576" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82785" y="66599" z="-3008" heading="-29208" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2220_f04 -->
+	<spawn name="oren22_2220_f04m1">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22778" x="82174" y="67483" z="-2957" heading="2312" respawnDelay="90" /> <!-- Sel Mahum Drill Sergeant -->
+			<npc id="22784" x="82384" y="67279" z="-2992" heading="31408" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82391" y="67404" z="-2992" heading="-31088" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82397" y="67537" z="-2992" heading="-31416" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82403" y="67664" z="-2992" heading="-29584" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82509" y="67281" z="-2992" heading="32376" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82509" y="67415" z="-2992" heading="-31440" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82520" y="67539" z="-2992" heading="32768" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82524" y="67669" z="-2992" heading="-29192" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82623" y="67280" z="-2992" heading="28960" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82638" y="67423" z="-2992" heading="31392" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82641" y="67519" z="-2992" heading="-31744" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82644" y="67638" z="-2992" heading="32632" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82757" y="67278" z="-2992" heading="30976" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82762" y="67397" z="-2992" heading="-32624" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82773" y="67533" z="-2992" heading="30696" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82773" y="67661" z="-2992" heading="-32136" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_2220_f05 -->
+	<spawn name="oren22_2220_f05m1">
+			<AIData>
+				<disableRandomAnimation>true</disableRandomAnimation>
+				<disableRandomWalk>true</disableRandomWalk>
+			</AIData>
+			<npc id="22778" x="82175" y="68529" z="-2957" heading="0" respawnDelay="90" /> <!-- Sel Mahum Drill Sergeant -->
+			<npc id="22784" x="82346" y="68317" z="-2992" heading="32352" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82389" y="68434" z="-2992" heading="32056" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82392" y="68575" z="-2992" heading="-32568" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82378" y="68698" z="-2992" heading="32664" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82497" y="68692" z="-2992" heading="-31888" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82500" y="68576" z="-2992" heading="-31392" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82500" y="68440" z="-2992" heading="30320" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82478" y="68319" z="-2992" heading="31768" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82612" y="68701" z="-2992" heading="-27488" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82628" y="68580" z="-2992" heading="-29984" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82627" y="68455" z="-2992" heading="30760" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82624" y="68326" z="-2992" heading="27424" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82748" y="68323" z="-2992" heading="31584" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82760" y="68444" z="-2992" heading="31352" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82763" y="68584" z="-2992" heading="32520" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+			<npc id="22784" x="82756" y="68706" z="-2992" heading="-30776" respawnDelay="90" /> <!-- Sel Mahum Recruit -->
+	</spawn>
+	<!-- oren22_firezone01 -->
+	<spawn zone="oren22_firezone01m1">
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone02 -->
+	<spawn zone="oren22_firezone02m1">
+		<npc id="18908" x="83724" y="62668" z="-3472" heading="0" respawnDelay="180" /> <!-- Sel Mahum Chef -->
+		<npc id="18927" x="84477" y="63108" z="-3600" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone03 -->
+	<spawn zone="oren22_firezone03m1">
+		<npc id="18927" x="86472" y="60872" z="-3504" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="86022" y="61912" z="-3488" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="85682" y="63067" z="-3648" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone04 -->
+	<spawn zone="oren22_firezone04m1">
+		<npc id="18927" x="87344" y="62175" z="-3712" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="87045" y="62622" z="-3712" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="87876" y="62590" z="-3712" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone05 -->
+	<spawn zone="oren22_firezone05m1">
+		<npc id="18908" x="87612" y="59356" z="-3552" heading="0" respawnDelay="180" /> <!-- Sel Mahum Chef -->
+		<npc id="18908" x="88414" y="60269" z="-3584" heading="0" respawnDelay="180" /> <!-- Sel Mahum Chef -->
+		<npc id="18927" x="88092" y="60352" z="-3584" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="89265" y="60176" z="-3648" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="90031" y="60799" z="-3664" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="88672" y="59842" z="-3568" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="90863" y="59871" z="-3664" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone06 -->
+	<spawn zone="oren22_firezone06m1">
+		<npc id="18908" x="85852" y="53212" z="-3624" heading="0" respawnDelay="180" /> <!-- Sel Mahum Chef -->
+		<npc id="18927" x="85764" y="54368" z="-3604" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="86760" y="53968" z="-3696" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="87310" y="54592" z="-3648" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="88272" y="54171" z="-3600" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="89017" y="54030" z="-3712" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="89936" y="54224" z="-3760" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="18927" x="90647" y="54350" z="-3776" heading="0" respawnDelay="60" /> <!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone07 -->
+	<spawn zone="oren22_firezone07m1">
+		<npc id="18908" x="93964" y="55692" z="-3448" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+		<npc id="18927" x="91260" y="55012" z="-3760" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="94418" y="54744" z="-3576" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="93952" y="54461" z="-3632" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="92713" y="54672" z="-3680" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="91712" y="55664" z="-3648" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="91744" y="56688" z="-3568" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone08 -->
+	<spawn zone="oren22_firezone08m1">
+		<npc id="18927" x="91174" y="57769" z="-3744" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone09 -->
+	<spawn zone="oren22_firezone09m1">
+		<npc id="18908" x="93003" y="60829" z="-3288" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+		<npc id="18927" x="93416" y="60046" z="-3328" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="92174" y="60399" z="-3392" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="93090" y="61839" z="-3264" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="93377" y="62926" z="-3312" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone10 -->
+	<spawn zone="oren22_firezone10m1">
+		<npc id="18927" x="89663" y="65106" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="87463" y="63886" z="-3664" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="88378" y="64266" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="86512" y="64884" z="-3568" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone11 -->
+	<spawn zone="oren22_firezone11m1">
+		<npc id="18927" x="82537" y="63719" z="-3520" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="80992" y="63760" z="-3600" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone12 -->
+	<spawn zone="oren22_firezone12m1">
+		<npc id="18908" x="78332" y="63440" z="-3640" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+		<npc id="18927" x="79053" y="63696" z="-3616" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone13 -->
+	<spawn zone="oren22_firezone13m1">
+		<npc id="18927" x="80352" y="64898" z="-3312" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="79154" y="65040" z="-3376" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone14 -->
+	<spawn zone="oren22_firezone14m1">
+		<npc id="18908" x="77836" y="68796" z="-3312" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+		<npc id="18927" x="78040" y="69515" z="-3136" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="79168" y="69256" z="-3328" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader-->
+	</spawn>
+	<!-- oren22_firezone15 -->
+	<spawn zone="oren22_firezone15m1">
+		<npc id="18927" x="80090" y="69178" z="-3424" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="80832" y="68663" z="-3472" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="80630" y="67817" z="-3440" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="80096" y="68304" z="-3328" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="81406" y="68669" z="-3344" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone16 -->
+	<spawn zone="oren22_firezone16m1">
+		<npc id="18908" x="83404" y="65772" z="-3032" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+		<npc id="18927" x="83631" y="66179" z="-3040" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="84128" y="65740" z="-3152" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone17 -->
+	<spawn zone="oren22_firezone17m1">
+		<npc id="18927" x="85344" y="65712" z="-3232" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="85748" y="66494" z="-3264" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="86736" y="65907" z="-3584" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="88097" y="65803" z="-3728" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone18 -->
+	<spawn zone="oren22_firezone18m1">
+		<npc id="18927" x="86448" y="68448" z="-3056" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="86896" y="68784" z="-3056" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone19 -->
+	<spawn zone="oren22_firezone19m1">
+		<npc id="18927" x="89312" y="67152" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="89792" y="67680" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="89759" y="67135" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="89296" y="67712" z="-3712" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone20 -->
+	<spawn zone="oren22_firezone20m1">
+		<npc id="18908" x="91238" y="67728" z="-3631" heading="0" respawnDelay="180" /> <!-- Sel Mahum Chef -->
+		<npc id="18927" x="91216" y="67311" z="-3632" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="91824" y="67728" z="-3632" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="91472" y="68048" z="-3568" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone21 -->
+	<spawn zone="oren22_firezone21m1">
+		<npc id="18927" x="89967" y="69311" z="-3488" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="88640" y="69583" z="-3296" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="90529" y="70479" z="-3520" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="2" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone22 -->
+	<spawn zone="oren22_firezone22m1">
+		<npc id="18908" x="96509" y="69432" z="-3408" heading="0" respawnDelay="180" /> <!-- Sel Mahum Chef -->
+		<npc id="18927" x="95888" y="68496" z="-3312" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="95008" y="67856" z="-3344" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="93680" y="67215" z="-3552" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="92751" y="68560" z="-3600" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="92574" y="69663" z="-3568" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="92671" y="70672" z="-3568" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="93856" y="70400" z="-3664" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="93773" y="71024" z="-3664" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="93408" y="69072" z="-3616" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="18927" x="94144" y="68144" z="-3632" heading="0" respawnDelay="60" />	<!-- Fire -->
+		<npc id="22787" count="10" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- oren22_firezone23 -->
+	<spawn zone="oren22_firezone23m1">
+		<npc id="18908" x="82814" y="69481" z="-3192" heading="0" respawnDelay="180" />	<!-- Sel Mahum Chef -->
+		<npc id="22787" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22786" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+		<npc id="22788" count="1" respawnDelay="60" /> <!-- Sel Mahum Squad Leader -->
+	</spawn>
+	<!-- luckpy_luckpy_80_2220_doma01 -->
+	<spawn zone="luckpy_80_2220_jackpot001m1">
+		<npc id="2501" count="6" respawnDelay="14400" respawnRandom="13200" randRate="51" /> <!-- Lucky Pig -->
+	</spawn>
+	<!-- luckpy_luckpy_80_2219_a01 -->
+	<spawn zone="luckpy_80_2220_jackpot002m1">
+		<npc id="2501" count="6" respawnDelay="14400" respawnRandom="13200" randRate="51" /> <!-- Lucky Pig -->
+	</spawn>
+	<!-- oren21_tb2220_31 -->
+	<spawn zone="oren21_tb31_m1">
+		<npc id="18285" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- oren21_tb2220_32 -->
+	<spawn zone="oren21_tb32_m1">
+		<npc id="18286" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

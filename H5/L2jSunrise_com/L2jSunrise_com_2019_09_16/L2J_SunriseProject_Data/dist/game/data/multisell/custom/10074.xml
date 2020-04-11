@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Non-grade items exchange, just for education -->
+<list maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<item>
+		<ingredient id="40000" count="8" />
+		<production id="14163" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="8" />
+		<production id="14164" count="1" enchantmentLevel="25" />
+	</item>
+
+	<item>
+		<ingredient id="40000" count="8" />
+		<production id="14165" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Vorpal Necklace -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15722" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Vorpal Earring -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15721" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Vorpal Ring -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="15720" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- Elegia Necklace -->
+	<item>
+		<ingredient id="40000" count="12" />
+		<production id="15719" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Elegia Earring -->
+	<item>
+		<ingredient id="40000" count="12" />
+		<production id="15718" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Elegia Ring -->
+	<item>
+		<ingredient id="40000" count="12" />
+		<production id="15717" count="1" enchantmentLevel="25" />
+	</item>
+
+</list>

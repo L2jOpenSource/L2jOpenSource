@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance" ns0:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item>
+		<!-- Event Medal -->
+		<ingredient count="1" id="6393" />
+
+		<!-- Glittering -->
+		<production count="50" id="6392" />
+	</item>
+	<item>
+		<!-- Event Medal -->
+		<ingredient count="50" id="6392" />
+
+		<!-- Glittering -->
+		<production count="1" id="6393" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+
+		<!-- Gold Bar -->
+		<production count="1" id="4356" />
+	</item>
+	<item>
+		<!-- Gold Bar -->
+		<ingredient count="1" id="4356" />
+
+		<!-- Adena -->
+		<production count="1000000000" id="57" />
+	</item>
+
+	<item>
+		<!-- vote -->
+		<ingredient count="50" id="37007" />
+
+		<!-- donate -->
+		<production count="1" id="37000" />
+	</item>
+	
+		<item>
+		<!-- FA -->
+		<ingredient count="1" id="6673" />
+
+		<!-- Vote -->
+		<production count="1" id="37007" />
+	</item>
+</list>

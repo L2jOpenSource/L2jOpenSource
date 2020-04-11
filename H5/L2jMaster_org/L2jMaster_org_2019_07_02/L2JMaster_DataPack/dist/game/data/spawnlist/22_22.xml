@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- giran11_npc2222_01 -->
+	<spawn zone="giran11_npc2222_0101">
+		<npc id="30081" x="80518" y="147922" z="-3506" heading="32768" respawnDelay="60" /> <!-- Helvetia -->
+		<npc id="30082" x="80518" y="147873" z="-3506" heading="32768" respawnDelay="60" /> <!-- Denkus -->
+	</spawn>
+	<!-- giran11_npc2222_02 -->
+	<spawn zone="giran11_npc2222_0201">
+		<npc id="30084" x="79747" y="146492" z="-3518" heading="16384" respawnDelay="60" /> <!-- Graham -->
+		<npc id="30085" x="79801" y="146493" z="-3518" heading="16384" respawnDelay="60" /> <!-- Stanford -->
+	</spawn>
+	<!-- giran11_npc2222_03 -->
+	<spawn zone="giran11_npc2222_0301">
+		<npc id="30087" x="79711" y="150788" z="-3520" heading="49152" respawnDelay="60" /> <!-- Peta -->
+		<npc id="30088" x="79654" y="150788" z="-3520" heading="49152" respawnDelay="60" /> <!-- Radia -->
+	</spawn>
+	<!-- giran11_npc2222_04 -->
+	<spawn zone="giran11_npc2222_0401">
+		<npc id="30093" x="83305" y="150521" z="-3514" heading="32768" respawnDelay="60" /> <!-- Groot -->
+		<npc id="30094" x="83317" y="150821" z="-3514" heading="32768" respawnDelay="60" /> <!-- Gentler -->
+	</spawn>
+	<!-- giran11_npc2222_05 -->
+	<spawn zone="giran11_npc2222_0501">
+		<npc id="30511" x="83263" y="146667" z="-3464" heading="32768" respawnDelay="60" /> <!-- Gesto -->
+		<npc id="30103" x="83264" y="146602" z="-3464" heading="32768" respawnDelay="60" /> <!-- Valkon -->
+		<npc id="30104" x="83263" y="146736" z="-3464" heading="32768" respawnDelay="60" /> <!-- Parman -->
+	</spawn>
+	<!-- giran11_npc2222_06 -->
+	<spawn zone="giran11_npc2222_0601">
+		<npc id="30512" x="77659" y="148089" z="-3595" heading="16384" respawnDelay="60" /> <!-- Kusto -->
+		<npc id="30300" x="77458" y="148169" z="-3595" heading="0" respawnDelay="60" /> <!-- Pushkin -->
+		<npc id="30471" x="77712" y="148288" z="-3595" heading="28672" respawnDelay="60" /> <!-- Rupio -->
+	</spawn>
+	<!-- giran11_npc2222_07 -->
+	<spawn zone="giran11_npc2222_0701">
+		<npc id="30115" x="85823" y="153248" z="-3494" heading="49152" respawnDelay="60" /> <!-- Jurek -->
+		<npc id="30110" x="85289" y="153341" z="-3494" heading="57344" respawnDelay="60" /> <!-- Iker -->
+		<npc id="30111" x="86359" y="152970" z="-3494" heading="24576" respawnDelay="60" /> <!-- Dieter -->
+		<npc id="30112" x="86362" y="153337" z="-3494" heading="40960" respawnDelay="60" /> <!-- Maurius -->
+		<npc id="30113" x="85253" y="153153" z="-3494" heading="0" respawnDelay="60" /> <!-- Juris -->
+		<npc id="30114" x="85297" y="152963" z="-3494" heading="8192" respawnDelay="60" /> <!-- Roa -->
+	</spawn>
+	<!-- giran11_npc2222_08 -->
+	<spawn zone="giran11_npc2222_0801">
+		<npc id="30829" x="81100" y="145840" z="-3531" heading="32768" respawnDelay="60" /> <!-- Cooper -->
+		<npc id="31205" x="81100" y="145840" z="-3531" heading="32768" respawnDelay="60" /> <!-- Katz -->
+	</spawn>
+	<!-- giran11_npc2222_09 -->
+	<spawn zone="giran11_npc2222_0901">
+		<npc id="30756" x="84521" y="146372" z="-3404" heading="16384" respawnDelay="60" /> <!-- Sir Kristof Rodemai -->
+	</spawn>
+	<!-- giran11_npc2222_10 -->
+	<spawn zone="giran11_npc2222_1001">
+		<npc id="30120" x="87058" y="148634" z="-3392" heading="32768" respawnDelay="60" /> <!-- Maximilian -->
+		<npc id="30116" x="86912" y="148802" z="-3392" heading="40960" respawnDelay="60" /> <!-- Dustin -->
+	</spawn>
+	<!-- giran11_npc2222_11 -->
+	<spawn zone="giran11_npc2222_1101">
+		<npc id="30118" x="86485" y="148384" z="-3392" heading="16384" respawnDelay="60" /> <!-- Pupina -->
+		<npc id="30117" x="86472" y="148848" z="-3392" heading="49152" respawnDelay="60" /> <!-- Primos -->
+		<npc id="30473" x="85829" y="148365" z="-3392" heading="16384" respawnDelay="60" /> <!-- Bandellos -->
+		<npc id="30119" x="85828" y="148894" z="-3392" heading="49152" respawnDelay="60" /> <!-- Isabellin -->
+	</spawn>
+	<!-- giran11_npc2222_12 -->
+	<spawn zone="giran11_npc2222_1201">
+		<npc id="30108" x="85055" y="146560" z="-3399" heading="32768" respawnDelay="60" /> <!-- Macken -->
+	</spawn>
+	<!-- giran11_npc2222_13 -->
+	<spawn zone="giran11_npc2222_1301">
+		<npc id="30109" x="85655" y="146471" z="-3399" heading="32768" respawnDelay="60" /> <!-- Hannavalt -->
+		<npc id="30105" x="85505" y="146208" z="-3399" heading="16384" respawnDelay="60" /> <!-- Genwitter -->
+		<npc id="30107" x="85502" y="146752" z="-3399" heading="49152" respawnDelay="60" /> <!-- Goldian -->
+		<npc id="30106" x="85234" y="146634" z="-3399" heading="0" respawnDelay="60" /> <!-- Dufner -->
+		<npc id="30472" x="85231" y="146328" z="-3399" heading="0" respawnDelay="60" /> <!-- Rosheria -->
+	</spawn>
+	<!-- giran11_npc2222_14 -->
+	<spawn zone="giran11_npc2222_141">
+		<npc id="30645" x="84274" y="143740" z="-3403" heading="32768" respawnDelay="60" /> <!-- Martien -->
+	</spawn>
+	<!-- giran11_npc2222_15 -->
+	<spawn zone="giran11_npc2222_1501">
+		<npc id="30624" x="79253" y="147049" z="-3529" heading="0" respawnDelay="60" /> <!-- Ascalon -->
+	</spawn>
+	<!-- giran11_npc2222_16 -->
+	<spawn zone="giran11_npc2222_1601">
+		<npc id="30614" x="87509" y="149655" z="-3402" heading="0" respawnDelay="60" /> <!-- Metheus -->
+	</spawn>
+	<!-- giran11_npc2222_17 -->
+	<spawn zone="giran11_npc2222_1701">
+		<npc id="30090" x="80511" y="149183" z="-3508" heading="32768" respawnDelay="60" /> <!-- Sandra -->
+		<npc id="30091" x="80510" y="149250" z="-3508" heading="32768" respawnDelay="60" /> <!-- Ellie -->
+	</spawn>
+	<!-- giran11_npc2222_18 -->
+	<spawn zone="giran11_npc2222_1801">
+		<npc id="30474" x="79059" y="149457" z="-3596" heading="41500" respawnDelay="60" /> <!-- Angus -->
+		<npc id="30475" x="78766" y="149239" z="-3596" heading="16384" respawnDelay="60" /> <!-- Stapin -->
+		<npc id="30476" x="78928" y="149041" z="-3596" heading="0" respawnDelay="60" /> <!-- Kaira -->
+	</spawn>
+	<!-- giran11_npc2222_19 -->
+	<spawn zone="giran11_npc2222_1901">
+		<npc id="30097" x="79599" y="145522" z="-3494" heading="0" respawnDelay="60" /> <!-- Galladucci -->
+		<npc id="30098" x="79599" y="145457" z="-3494" heading="0" respawnDelay="60" /> <!-- Alexandria -->
+	</spawn>
+	<!-- giran11_npc2222_20 -->
+	<spawn zone="giran11_npc2222_2001">
+		<npc id="30128" x="90498" y="147535" z="-3528" heading="0" respawnDelay="60" /> <!-- Atanas -->
+		<npc id="30478" x="90501" y="147180" z="-3530" heading="0" respawnDelay="60" /> <!-- Reikin -->
+	</spawn>
+	<!-- giran11_npc2222_21 -->
+	<spawn zone="giran11_npc2222_2101">
+		<npc id="30126" x="84064" y="141438" z="-3526" heading="49152" respawnDelay="60" /> <!-- Rath -->
+		<npc id="30125" x="83705" y="141439" z="-3530" heading="49152" respawnDelay="60" /> <!-- Belton -->
+	</spawn>
+	<!-- giran11_npc2222_22 -->
+	<spawn zone="giran11_npc2222_2201">
+		<npc id="30123" x="81424" y="143472" z="-3529" heading="49152" respawnDelay="60" /> <!-- Vesa -->
+		<npc id="30124" x="81616" y="143464" z="-3529" heading="49152" respawnDelay="60" /> <!-- Zerome -->
+	</spawn>
+	<!-- giran11_npc2222_23 -->
+	<spawn zone="giran11_npc2222_2301">
+		<npc id="30452" x="77026" y="148813" z="-3598" heading="32768" respawnDelay="60" /> <!-- Kurt -->
+		<npc id="30477" x="77029" y="148447" z="-3599" heading="32768" respawnDelay="60" /> <!-- Sir Ortho Lancer -->
+	</spawn>
+	<!-- giran11_npc2222_24 -->
+	<spawn zone="giran11_npc2222_2401">
+		<npc id="30121" x="81436" y="152958" z="-3532" heading="16384" respawnDelay="60" /> <!-- Jeronin -->
+		<npc id="30122" x="81642" y="152976" z="-3526" heading="16384" respawnDelay="60" /> <!-- Bane -->
+	</spawn>
+	<!-- giran11_npc2222_25 -->
+	<spawn zone="giran11_npc2222_2501">
+		<npc id="30083" x="80329" y="145482" z="-3533" heading="0" respawnDelay="60" /> <!-- Pochi -->
+	</spawn>
+	<!-- giran11_npc2222_26 -->
+	<spawn zone="giran11_npc2222_2601">
+		<npc id="30086" x="80752" y="146400" z="-3533" heading="16384" respawnDelay="60" /> <!-- Taurin -->
+	</spawn>
+	<!-- giran11_npc2222_27 -->
+	<spawn zone="giran11_npc2222_2701">
+		<npc id="30092" x="79248" y="149552" z="-3531" heading="0" respawnDelay="60" /> <!-- Collob -->
+	</spawn>
+	<!-- giran11_npc2222_28 -->
+	<spawn zone="giran11_npc2222_2801">
+		<npc id="30095" x="82405" y="149905" z="-3520" heading="16384" respawnDelay="60" /> <!-- Randolf -->
+	</spawn>
+	<!-- giran11_npc2222_29 -->
+	<spawn zone="giran11_npc2222_2901">
+		<npc id="30080" x="83396" y="147904" z="-3404" heading="16384" respawnDelay="60" /> <!-- Clarissa -->
+	</spawn>
+	<!-- giran11_npc2222_30 -->
+	<spawn zone="giran11_npc2222_3001">
+		<npc id="31049" x="83264" y="150176" z="-3520" heading="24576" respawnDelay="60" /> <!-- Pepper -->
+	</spawn>
+	<!-- giran11_npc2222_31 -->
+	<spawn zone="giran11_npc2222_3101">
+		<npc id="35187" x="81936" y="149584" z="-3472" heading="36864" respawnDelay="60" /> <!-- Manor Manager -->
+	</spawn>
+	<!-- giran11_npc2222_32 -->
+	<spawn zone="giran11_npc2222_3201">
+		<npc id="35187" x="79296" y="148128" z="-3536" heading="53248" respawnDelay="60" /> <!-- Manor Manager -->
+	</spawn>
+	<!-- giran11_npc2222_33 -->
+	<spawn zone="giran11_npc2222_3301">
+		<npc id="35187" x="80544" y="152288" z="-3536" heading="24576" respawnDelay="60" /> <!-- Manor Manager -->
+	</spawn>
+	<!-- giran11_npc2222_34 -->
+	<spawn zone="giran11_npc2222_3401">
+		<npc id="31081" x="83369" y="149273" z="-3400" heading="32500" respawnDelay="60" /> <!-- Priest of Dawn -->
+	</spawn>
+	<!-- giran11_npc2222_35 -->
+	<spawn zone="giran11_npc2222_3501">
+		<npc id="31088" x="81623" y="148606" z="-3464" heading="32500" respawnDelay="60" /> <!-- Dusk Priestess -->
+	</spawn>
+	<!-- giran11_npc2222_36 -->
+	<spawn zone="giran11_npc2222_3601">
+		<npc id="31092" x="81360" y="150016" z="-3528" heading="16000" respawnDelay="60" /> <!-- Black Marketeer of Mammon -->
+	</spawn>
+	<!-- giran11_npc2222_37 -->
+	<spawn zone="giran11_npc2222_3701">
+		<npc id="35454" x="81776" y="145200" z="-3529" heading="32000" respawnDelay="60" /> <!-- Rosconne -->
+	</spawn>
+	<!-- giran11_npc2222_38 -->
+	<spawn zone="giran11_npc2222_3801">
+		<npc id="35453" x="81876" y="145392" z="-3520" heading="0" respawnDelay="60" /> <!-- Adrienne -->
+	</spawn>
+	<!-- giran11_npc2222_39 -->
+	<spawn zone="giran11_npc2222_3901">
+		<npc id="35456" x="83680" y="145456" z="-3408" heading="0" respawnDelay="60" /> <!-- Stewart -->
+	</spawn>
+	<!-- giran11_npc2222_40 -->
+	<spawn zone="giran11_npc2222_4001">
+		<npc id="35455" x="83568" y="145264" z="-3388" heading="32000" respawnDelay="60" /> <!-- Bianca -->
+	</spawn>
+	<!-- giran11_npc2222_41 -->
+	<spawn zone="giran11_npc2222_4101">
+		<npc id="35452" x="78448" y="148400" z="-3600" heading="16000" respawnDelay="60" /> <!-- Theobolt -->
+	</spawn>
+	<!-- giran11_npc2222_42 -->
+	<spawn zone="giran11_npc2222_4201">
+		<npc id="35451" x="78652" y="148280" z="-3580" heading="48000" respawnDelay="60" /> <!-- Emma -->
+	</spawn>
+	<!-- giran11_npc2222_43 -->
+	<spawn zone="giran11_npc2222_4301">
+		<npc id="35458" x="81264" y="151728" z="-3536" heading="48000" respawnDelay="60" /> <!-- Theron -->
+	</spawn>
+	<!-- giran11_npc2222_44 -->
+	<spawn zone="giran11_npc2222_4401">
+		<npc id="35457" x="81133" y="151537" z="-3512" heading="32000" respawnDelay="60" /> <!-- Gladys -->
+	</spawn>
+	<!-- giran11_npc2222_45 -->
+	<spawn zone="giran11_npc2222_4501">
+		<npc id="35460" x="81808" y="151776" z="-3536" heading="32000" respawnDelay="60" /> <!-- Trey -->
+	</spawn>
+	<!-- giran11_npc2222_46 -->
+	<spawn zone="giran11_npc2222_4601">
+		<npc id="35459" x="81920" y="151968" z="-3520" heading="0" respawnDelay="60" /> <!-- Regina -->
+	</spawn>
+	<!-- giran11_npc2222_47 -->
+	<spawn zone="giran11_npc2222_4701">
+		<npc id="30513" x="80420" y="144499" z="-3536" heading="0" respawnDelay="60" /> <!-- Penatus -->
+		<npc id="30515" x="80459" y="144592" z="-3529" heading="0" respawnDelay="60" /> <!-- Manakia -->
+		<npc id="30514" x="80456" y="144376" z="-3536" heading="0" respawnDelay="60" /> <!-- Vokian -->
+	</spawn>
+	<!-- giran11_npc2222_50 -->
+	<spawn zone="giran11_npc2222_5001">
+		<npc id="31435" x="77652" y="148328" z="-3600" heading="48000" respawnDelay="60" /> <!-- Daeger -->
+		<npc id="31442" x="77446" y="148302" z="-3600" heading="58000" respawnDelay="60" /> <!-- Kiki -->
+	</spawn>
+	<!-- giran11_npc2222_51 -->
+	<spawn zone="giran11_npc2222_5101">
+		<npc id="31572" x="80512" y="147712" z="-3502" heading="32000" respawnDelay="60" /> <!-- O'Fulle -->
+	</spawn>
+	<!-- giran11_npc2222_52 -->
+	<spawn zone="giran11_npc2222_5201">
+		<npc id="31688" x="82053" y="147526" z="-3464" heading="16500" respawnDelay="60" /> <!-- Grand Olympiad Manager -->
+		<npc id="31690" x="82118" y="147524" z="-3464" heading="16500" respawnDelay="60" /> <!--Monument of Heroes -->
+	</spawn>
+	<!-- giran11_npc2222_53 -->
+	<spawn zone="giran11_npc2222_5301">
+		<npc id="31804" x="88384" y="147176" z="-3408" heading="33000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- giran11_npc2222_54 -->
+	<spawn zone="giran11_npc2222_5401">
+		<npc id="31805" x="82840" y="147796" z="-3472" heading="16500" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- giran11_npc2222_55 -->
+	<spawn zone="giran11_npc2222_5501">
+		<npc id="31806" x="83680" y="143616" z="-3408" heading="16500" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- giran11_npc2222_56 -->
+	<spawn zone="giran11_npc2222_5601">
+		<npc id="31807" x="82768" y="146320" z="-3536" heading="33000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- giran11_npc2222_57 -->
+	<spawn zone="giran11_npc2222_5701">
+		<npc id="31808" x="77424" y="148432" z="-3600" heading="16500" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- giran11_npc2222_58 -->
+	<spawn zone="giran11_npc2222_5801">
+		<npc id="31809" x="81660" y="152675" z="-3536" heading="49000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- giran11_npc2222_59 -->
+	<spawn zone="giran11_npc2222_5901">
+		<npc id="30767" x="81424" y="149728" z="-3472" heading="49000" respawnDelay="60" /> <!-- Auctioneer -->
+		<npc id="30753" x="81347" y="149728" z="-3472" heading="49000" respawnDelay="60" /> <!-- Gabrielle -->
+	</spawn>
+	<!-- dion13_npc2222_001 -->
+	<spawn zone="dion13_npc2222_001m1">
+		<npc id="32252" x="73339" y="133935" z="-3528" heading="20960" respawnDelay="60" /> <!-- Caravaner Gort -->
+	</spawn>
+	<!-- giran11_npc2222_102 -->
+	<spawn zone="giran11_npc2222_102m1">
+		<npc id="32327" x="82839" y="149377" z="-3456" heading="-16312" respawnDelay="60" /> <!-- Adventurers' Guide -->
+	</spawn>
+	<!-- giran11_npc2222_105 -->
+	<spawn zone="giran11_npc2222_105m1">
+		<npc id="32320" x="81069" y="149398" z="-3464" heading="-7224" respawnDelay="60" /> <!-- Item Broker -->
+	</spawn>
+	<!-- giran11_npc2222_km1 -->
+	<spawn zone="giran11_npc2222_km1m1">
+		<npc id="32213" x="81041" y="150731" z="-3520" heading="39915" respawnDelay="60" /> <!-- Vitus -->
+		<npc id="32214" x="81066" y="150706" z="-3520" heading="39915" respawnDelay="60" /> <!-- Meldina -->
+		<npc id="32215" x="81061" y="150669" z="-3520" heading="39915" respawnDelay="60" /> <!-- Tenain -->
+		<npc id="32216" x="81004" y="150734" z="-3520" heading="39915" respawnDelay="60" /> <!-- Noir -->
+	</spawn>
+	<!-- giran11_qnpc2222_001 -->
+	<spawn zone="giran11_qnpc2222_001m1">
+		<npc id="32487" x="72540" y="148050" z="-3320" heading="0" respawnDelay="60" /> <!-- Mark -->
+	</spawn>
+	<!-- giran11_npc2222_9876 -->
+	<spawn zone="giran11_npc2222_9876m1">
+		<npc id="32632" x="83659" y="148382" z="-3400" heading="32768" respawnDelay="60" /> <!-- Gracian Survivor -->
+	</spawn>
+	<!-- giran11_npc2222_premium01 -->
+	<spawn zone="giran11_npc2222_premium01m1">
+		<npc id="32478" x="82672" y="146752" z="-3467" heading="33000" respawnDelay="60" /> <!-- Dimensional Merchant -->
+		<npc id="31031" x="82272" y="147072" z="-3514" heading="16384" respawnDelay="5" /> <!-- Broadcasting Tower -->
+	</spawn>
+	<!-- pailaka_2211_82 -->
+	<spawn zone="pailaka_2211_82m1">
+		<npc id="32498" x="85104" y="147616" z="-3435" heading="53248" respawnDelay="60" /> <!-- Devil's Isle Survivor -->
+	</spawn>
+	<!-- giran_prophet -->
+	<spawn zone="giran_prophet">
+		<npc id="4310" x="84858" y="147764" z="-3400" heading="7788" respawnDelay="60" /> <!-- Prophet -->
+	</spawn>
+	<!-- giran11_npc2222_tk01 -->
+	<spawn zone="giran11_npc2222_tk01m1">
+		<npc id="30990" x="83331" y="147905" z="-3400" heading="16700" respawnDelay="60" /> <!-- Lottery Ticket Seller -->
+	</spawn>
+	<!-- dion13_2222_01 -->
+	<spawn zone="dion13_2222_01">
+		<npc id="20944" count="5" respawnDelay="45" /> <!-- Nightmare Lord -->
+		<npc id="20941" count="5" respawnDelay="45" /> <!-- Tanor Silenos Chieftain -->
+	</spawn>
+	<!-- dion13_2222_02 -->
+	<spawn zone="dion13_2222_02">
+		<npc id="20944" count="2" respawnDelay="45" /> <!-- Nightmare Lord -->
+		<npc id="20941" count="2" respawnDelay="45" /> <!-- Tanor Silenos Chieftain -->
+	</spawn>
+	<!-- dion13_2222_03 -->
+	<spawn zone="dion13_2222_03">
+		<npc id="20944" count="2" respawnDelay="45" /> <!-- Nightmare Lord -->
+		<npc id="20941" count="1" respawnDelay="45" /> <!-- Tanor Silenos Chieftain -->
+	</spawn>
+	<!-- dion13_2222_04 -->
+	<spawn zone="dion13_2222_04">
+		<npc id="20944" count="6" respawnDelay="45" /> <!-- Nightmare Lord -->
+		<npc id="20941" count="4" respawnDelay="45" /> <!-- Tanor Silenos Chieftain -->
+	</spawn>
+	<!-- giran06_2222_01 -->
+	<spawn zone="giran06_2222_01m1">
+		<npc id="20199" count="2" respawnDelay="33" /> <!-- Amber Basilisk -->
+		<npc id="20267" count="1" respawnDelay="33" /> <!-- Breka Orc -->
+		<npc id="20268" count="2" respawnDelay="33" /> <!-- Breka Orc Archer -->
+	</spawn>
+	<!-- giran06_2222_02 -->
+	<spawn zone="giran06_2222_02m1">
+		<npc id="20199" count="2" respawnDelay="33" /> <!-- Amber Basilisk -->
+		<npc id="20267" count="1" respawnDelay="33" /> <!-- Breka Orc -->
+		<npc id="20268" count="2" respawnDelay="33" /> <!-- Breka Orc Archer -->
+	</spawn>
+	<!-- giran06_2222_03 -->
+	<spawn zone="giran06_2222_03m1">
+		<npc id="20271" count="1" respawnDelay="33" /> <!-- Breka Orc Warrior -->
+		<npc id="20269" count="2" respawnDelay="33" /> <!-- Breka Orc Shaman -->
+		<npc id="20270" count="2" respawnDelay="33" /> <!-- Breka Orc Overlord -->
+	</spawn>
+	<!-- giran06_2222_04 -->
+	<spawn zone="giran06_2222_04m1">
+		<npc id="20199" count="2" respawnDelay="33" /> <!-- Amber Basilisk -->
+		<npc id="20267" count="3" respawnDelay="33" /> <!-- Breka Orc -->
+		<npc id="20268" count="2" respawnDelay="33" /> <!-- Breka Orc Archer -->
+	</spawn>
+	<!-- giran01_qm2222_01 -->
+	<spawn zone="giran01_qm2222_01m1">
+		<npc id="27093" x="28448" y="174080" z="-3408" heading="0" respawnDelay="60" /> <!-- Delu Chief Kalkis -->
+	</spawn>
+</list>

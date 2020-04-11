@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event name="TheAvatarElement" active="01 01 2001-01 01 2022" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/eventConfig.xsd">
+	<spawnlist>
+		<add npc="506" x="82800" y="147529" z="-3477" heading="15689" />
+		<add npc="506" x="148004" y="26604" z="-2200" heading="16152" />
+		<add npc="506" x="147374" y="-56785" z="-2783" heading="63255" />
+		<add npc="506" x="44160" y="-48823" z="-799" heading="29412" />
+	</spawnlist>
+	<messages>
+		<add type="onEnd" text="TAE Event end!" />
+		<add type="onEnter" text="TAE Event Start!" />
+	</messages>
+</event>

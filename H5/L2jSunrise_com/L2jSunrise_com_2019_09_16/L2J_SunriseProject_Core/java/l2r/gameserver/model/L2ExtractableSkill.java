@@ -1,0 +1,60 @@
+/*
+ * Copyright (C) 2004-2015 L2J Server
+ * 
+ * This file is part of L2J Server.
+ * 
+ * L2J Server is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * L2J Server is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ * General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+package l2r.gameserver.model;
+
+import java.util.List;
+
+/**
+ * Extractable skill DTO.
+ * @author Zoey76
+ */
+public class L2ExtractableSkill
+{
+	private final int _hash;
+	private final List<L2ExtractableProductItem> _product;
+	
+	/**
+	 * Instantiates a new extractable skill.
+	 * @param hash the hash
+	 * @param products the products
+	 */
+	public L2ExtractableSkill(int hash, List<L2ExtractableProductItem> products)
+	{
+		_hash = hash;
+		_product = products;
+	}
+	
+	/**
+	 * Gets the skill hash.
+	 * @return the skill hash
+	 */
+	public int getSkillHash()
+	{
+		return _hash;
+	}
+	
+	/**
+	 * Gets the product items.
+	 * @return the product items
+	 */
+	public List<L2ExtractableProductItem> getProductItems()
+	{
+		return _product;
+	}
+}

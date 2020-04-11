@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- belts -->
+
+
+<list maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- mp recovery -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="14929" count="1" />
+	</item>
+	<!-- hp recovery -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="14937" count="1" />
+	</item>
+	<!-- physical attack -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="14953" count="1" />
+	</item>
+	<!-- skill attack -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="14957" count="1" />
+	</item>
+	<!-- PvP defence -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="14961" count="1" />
+	</item>
+	<!-- nephilim lord -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="5799" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- soul cloak zaken -->
+	<item>
+		<ingredient id="40000" count="15" />
+		<production id="21719" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- soul cloak freya -->
+	<item>
+		<ingredient id="40000" count="15" />
+		<production id="21720" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- soul cloak tezza -->
+	<item>
+		<ingredient id="40000" count="15" />
+		<production id="21721" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- cloak zaken -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="21716" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- cloak freya -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="21717" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- cloak tezza -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="21718" count="1" enchantmentLevel="25" />
+	</item>
+
+	<!-- Striped Mithril Shirt -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="9588" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- Striped Mithril Shirt - Striped Mithril Shirt - HP -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="10512" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- Striped Mithril Shirt - Striped Mithril Shirt - MP -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="10513" count="1" enchantmentLevel="25" />
+	</item>
+	<!-- Striped Mithril Shirt - Striped Mithril Shirt - CP -->
+	<item>
+		<ingredient id="40000" count="10" />
+		<production id="10514" count="1" enchantmentLevel="25" />
+	</item>
+
+</list>

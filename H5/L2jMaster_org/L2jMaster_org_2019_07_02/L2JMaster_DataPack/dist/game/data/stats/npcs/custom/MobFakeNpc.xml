@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/npcs.xsd">
+	<npc id="1013" displayId="1565" name="Fake Npc" usingServerSideName="true" title="L2JMaster" usingServerSideTitle="true" type="L2Monster">
+		<acquire expRate="70.2042959387752" sp="47912" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="18734.280667127" hpRegen="190.897045965523" mp="1777.4" mpRegen="3" />
+			<attack physical="10547.7177964874" magical="7328.35281549957" random="30" critical="4" accuracy="0" attackSpeed="253" type="SWORD" range="80" distance="80" width="120" />
+			<defence physical="595.195674418605" magical="653.307558139535" />
+			<attribute>
+				<attack type="DARK" value="200" />
+				<defence fire="170" water="170" wind="170" earth="170" holy="120" dark="200" default="150" />
+			</attribute>
+			<speed>
+				<walk ground="46" />
+				<run ground="180" />
+			</speed>
+			<hitTime>510</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" canMove="true"/>
+		<skillList>
+			<skill id="4086" level="1" /> <!--Critical Chance -->
+			<skill id="4408" level="13" /> <!--HP Increase (5x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="8" /> <!--Weak P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="3" /> <!--Light Armor Type -->
+			<skill id="5467" level="1" /> <!--Dark Attacks -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>5</sNpcPropHpRate>
+		<dropLists>
+			<death>
+				<group chance="70">
+					<item id="57" min="37911" max="75926" chance="100" /> <!-- Adena -->
+				</group>
+			</death>
+		</dropLists>
+		<collision>
+			<radius normal="28" />
+			<height normal="52.5" />
+		</collision>
+	</npc>	
+</list>

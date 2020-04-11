@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- innadrile_chamberlain_etc -->
+	<zone name="innadrile_chamberlain_etc" type="NpcSpawnTerritory" shape="NPoly" minZ="-2787" maxZ="33270">
+		<node X="123333" Y="252779" />
+		<node X="112962" Y="252779" />
+		<node X="112963" Y="241706" />
+		<node X="123333" Y="241706" />
+	</zone>
+	<!-- innadrile_m_teleporter -->
+	<zone name="innadrile_m_teleporter" type="NpcSpawnTerritory" shape="NPoly" minZ="-130" maxZ="31228">
+		<node X="115137" Y="249333" />
+		<node X="114183" Y="249333" />
+		<node X="114183" Y="248980" />
+		<node X="115136" Y="248979" />
+	</zone>
+	<!-- innadril12_npc2325_01 -->
+	<zone name="innadril12_npc2325_0101" type="NpcSpawnTerritory" shape="NPoly" minZ="-828" maxZ="-628">
+		<node X="115708" Y="249452" />
+		<node X="115908" Y="249452" />
+		<node X="115908" Y="249652" />
+		<node X="115708" Y="249652" />
+	</zone>
+	<!-- innadril12_npc2325_02 -->
+	<zone name="innadril12_npc2325_0201" type="NpcSpawnTerritory" shape="NPoly" minZ="-979" maxZ="-779">
+		<node X="115580" Y="249164" />
+		<node X="115780" Y="249164" />
+		<node X="115780" Y="249364" />
+		<node X="115580" Y="249364" />
+	</zone>
+	<!-- innadril12_npc2325_03 -->
+	<zone name="innadril12_npc2325_0301" type="NpcSpawnTerritory" shape="NPoly" minZ="-1089" maxZ="-889">
+		<node X="115964" Y="248428" />
+		<node X="116164" Y="248428" />
+		<node X="116164" Y="248628" />
+		<node X="115964" Y="248628" />
+	</zone>
+	<!-- innadril12_npc2325_04 -->
+	<zone name="innadril12_npc2325_0401" type="NpcSpawnTerritory" shape="NPoly" minZ="-362" maxZ="-162">
+		<node X="115756" Y="250300" />
+		<node X="115956" Y="250300" />
+		<node X="115956" Y="250500" />
+		<node X="115756" Y="250500" />
+	</zone>
+	<!-- innadril12_npc2325_05 -->
+	<zone name="innadril12_npc2325_0501" type="NpcSpawnTerritory" shape="NPoly" minZ="-856" maxZ="-656">
+		<node X="116156" Y="249500" />
+		<node X="116356" Y="249500" />
+		<node X="116356" Y="249700" />
+		<node X="116156" Y="249700" />
+	</zone>
+	<!-- innadril12_npc2325_06 -->
+	<zone name="innadril12_npc2325_0601" type="NpcSpawnTerritory" shape="NPoly" minZ="-988" maxZ="-888">
+		<node X="115965" Y="249276" />
+		<node X="116165" Y="249276" />
+		<node X="116165" Y="249476" />
+		<node X="115965" Y="249476" />
+	</zone>
+</list>

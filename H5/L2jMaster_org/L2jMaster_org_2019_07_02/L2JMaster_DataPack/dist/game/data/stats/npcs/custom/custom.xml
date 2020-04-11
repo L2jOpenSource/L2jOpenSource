@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/npcs.xsd">
+	<npc id="50007" displayId="31324" name="Andromeda" usingServerSideName="true" title="Wedding Manager" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="8" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="70010" displayId="31606" name="Catrina" usingServerSideName="true" title="TvT Event Manager" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="8" />
+			<height normal="15" />
+		</collision>
+	</npc>
+	<npc id="900100" displayId="20432" level="1" name="Elpy" type="L2EventMonster">
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="40" hpRegen="3" mp="36" mpRegen="1" />
+			<attack physical="8" magical="7" />
+			<defence physical="25" magical="40" />
+		</stats>
+		<status undying="false" />
+		<collision>
+			<radius normal="5" />
+			<height normal="4.5" />
+		</collision>
+	</npc>
+	<npc id="900101" displayId="32365" name="Snowden" usingServerSideName="true" title="Event Manager">
+		<collision>
+			<radius normal="5" />
+			<height normal="12.5" />
+		</collision>
+	</npc>
+	<npc id="900102" displayId="13098" level="80" name="Event Treasure Chest" type="L2Monster">
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2880" mp="1524" />
+			<defence physical="1499" magical="1035.28" />
+		</stats>
+		<collision>
+			<radius normal="8.5" />
+			<height normal="8.5" />
+		</collision>
+	</npc>
+	<npc id="900103" displayId="32365" name="Start" usingServerSideName="true" title="Event Manager">
+		<collision>
+			<radius normal="5" />
+			<height normal="12.5" />
+		</collision>
+	</npc>
+	<npc id="900104" displayId="32365" name="Finish" usingServerSideName="true" title="Event Manager">
+		<collision>
+			<radius normal="5" />
+			<height normal="12.5" />
+		</collision>
+	</npc>
+	<npc id="1000003" displayId="32226" name="Shiela" usingServerSideName="true" title="L2J NPC Buffer" usingServerSideTitle="true" type="L2NpcBuffer">
+		<collision>
+			<radius normal="11" />
+			<height normal="22.25" />
+		</collision>
+	</npc>
+		<npc id="36600" displayId="30026" name="Ermak" usingServerSideName="true" title="EventEngine" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="8" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36601" displayId="35062" name="Flag" usingServerSideName="true" title="" usingServerSideTitle="false" type="L2Npc">
+		<collision>
+			<radius normal="11" />
+			<height normal="22.25" />
+		</collision>
+	</npc>
+	<npc id="36603" displayId="32027" name="Holder" usingServerSideName="true" title="" usingServerSideTitle="false" type="L2Npc">
+		<collision>
+			<radius normal="11" />
+			<height normal="22.25" />
+		</collision>
+	</npc>	
+	<npc id="37616" displayId="32736" name="Medal Shop" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="10" />
+			<height normal="22" />
+		</collision>
+	</npc>
+	<npc id="37617" displayId="32586" name="Donate Shop" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="15" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="37618" displayId="32587" name="Vote Shop" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="15" />
+			<height normal="24" />
+		</collision>
+	</npc>	
+	<npc id="37619" displayId="32733" name="Forgotten Shop" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="15" />
+			<height normal="27.5" />
+		</collision>
+	</npc>
+	<npc id="37620" displayId="32237" name="Aden" usingServerSideName="true" title="Cloak Manager" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="37621" displayId="32237" name="Dion" usingServerSideName="true" title="Cloak Manager" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="37622" displayId="32237" name="Giran" usingServerSideName="true" title="Cloak Manager" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="37623" displayId="32237" name="Gludio" usingServerSideName="true" title="Cloak Manager" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="37624" displayId="32237" name="Goddard" usingServerSideName="true" title="Cloak Manager" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="37625" displayId="32237" name="Innadril" usingServerSideName="true" title="Cloak Manager" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="37626" displayId="32237" name="Oren" usingServerSideName="true" title="Cloak Manager" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="37627" displayId="32237" name="Rune" usingServerSideName="true" title="Cloak Manager" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="37628" displayId="32237" name="Schuttgart" usingServerSideName="true" title="Cloak Manager" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="37629" displayId="1565" name="Casino" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="14.5" />
+			<height normal="17.5" />
+		</collision>
+	</npc>	
+	<npc id="37632" displayId="1564" name="Top PvP Pk" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="13.2" />
+			<height normal="16.9" />
+		</collision>
+	</npc>	
+	<npc id="36630" displayId="32548" name="Bug Report" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="12.5" />
+			<height normal="25" />
+		</collision>
+	</npc>	
+	<npc id="36631" displayId="13298" name="Services" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="11" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="502" displayId="103" name="Christmas" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="8" />
+			<height normal="24" />
+		</collision>
+	</npc>	
+	<npc id="504" displayId="125" name="Halloween" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="11" />
+			<height normal="23" />
+		</collision>
+	</npc>	
+	<npc id="505" displayId="13135" name="Scarecrow" usingServerSideName="true" title="Halloween Ghost" usingServerSideTitle="true" type="L2Monster">
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2880" mp="1524" />
+			<defence physical="1499" magical="1035.28" />
+		</stats>
+		<collision>
+			<radius normal="13" />
+			<height normal="30" />
+		</collision>
+	</npc>	
+	<npc id="506" displayId="25613" name="Element Energy" usingServerSideName="true" title="TAE Manager" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="8.5" />
+			<height normal="25" />
+		</collision>
+	</npc>	
+	<npc id="9999" displayId="30135" name="Buffer" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2NpcBuffer">
+		<collision>
+			<radius normal="8.00" />
+			<height normal="24.00" />
+		</collision>
+	</npc>
+	<npc id="9997" displayId="30148" name="VIP Buffer" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2NpcBuffer">
+		<collision>
+			<radius normal="8.00" />
+			<height normal="24.00" />
+		</collision>
+	</npc>
+	<npc id="958" displayId="30110" name="Global Gk" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="11" />
+			<height normal="22.25" />
+		</collision>
+	</npc>
+	<npc id="1010" displayId="30110" name="Delevel" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="11" />
+			<height normal="22.25" />
+		</collision>
+	</npc>
+	<npc id="1011" displayId="30110" name="UpLevel" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="11" />
+			<height normal="22.25" />
+		</collision>
+	</npc>
+	<npc id="9994" displayId="135" name="Enchant" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="11" />
+			<height normal="22.25" />
+		</collision>
+	</npc>
+	<npc id="1012" displayId="1565" name="Achievement" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="14.5" />
+			<height normal="17.5" />
+		</collision>
+	</npc>
+	<npc id="10002" displayId="1565" name="GM Shop" usingServerSideName="true" title="L2JMaster.com" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="14.5" />
+			<height normal="17.5" />
+		</collision>
+	</npc>	
+</list>

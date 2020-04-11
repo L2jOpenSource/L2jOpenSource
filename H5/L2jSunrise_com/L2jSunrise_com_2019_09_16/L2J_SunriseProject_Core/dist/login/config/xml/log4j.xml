@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<!-- ===================================================================== -->
+<!-- -->
+<!-- Log4j Configuration -->
+<!-- -->
+<!-- ===================================================================== -->
+<!--
+| For more configuration infromation and examples see the Jakarta Log4j
+| owebsite: http://jakarta.apache.org/log4j
+
+debug=false => no debug informations from log4j
+threshold=info => overall trace level is info. Debug are filtered.
+
+For developer :
+To activate logs in debug, modify threshold to debug and don't forget to modify the threshold for the appender.
+-->
+
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/" debug="false" threshold="info" >
+
+<!--
+appenders definition :
+log4j.appender."appender".layout.ConversionPattern
+Error message format
+char string with those patterns:
+	%p : trace level
+	%t : thread name
+	%r : time since program start
+	%x : Nested Diagnostic Context
+	%c : Class name
+	%d{HH:mm:ss,SSS} or %d{dd MMM yyyy HH:mm:ss,SSS}.
+	If no date format is given, use format ISO8601.
+		%m : message
+		%X{localisation} : localisation for trace = class name(filename:line)
+		%X{timestamp} :  date in milliseconds
+		%n : line carriage
+	With ExtendedPatternLayout :
+	: stacktrace
+-->
+
+	<!--
+	appender class="org.apache.log4j.AsyncAppender" name="ASYNC">
+		<appender-ref ref="FILELOG"/>
+			<appender-ref ref="CONSOLE"/>
+	</appender
+	-->
+
+	<!-- Setup the Root logger -->
+
+	<!-- Console appender -->
+	<appender name="CONSOLE" class="org.apache.log4j.ConsoleAppender">
+		<param name="Threshold" value="INFO" />
+		<param name="Target" value="System.out" />
+		<layout class="org.apache.log4j.EnhancedPatternLayout">
+			<param name="ConversionPattern" value="[%d{HH:mm:ss}] %p: %m %n" />
+		</layout>
+	</appender>
+
+	<!-- file log appender -->
+	<appender name="FILELOG" class="org.apache.log4j.RollingFileAppender">
+		<param name="Threshold" value="INFO" />
+		<param name="Encoding" value="UTF-8" />
+		<param name="File" value="log/main/java.log" />
+		<param name="Append" value="false" />
+		<param name="MaxFileSize" value="1024KB" />
+		<param name="MaxBackupIndex" value="5" />
+		<layout class="org.apache.log4j.EnhancedPatternLayout">
+			<param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %p: %m%n" />
+		</layout>
+	</appender>
+
+	<!-- game log appender -->
+	<appender name="GAMELOG" class="org.apache.log4j.RollingFileAppender">
+		<param name="Threshold" value="INFO" />
+		<param name="Encoding" value="UTF-8" />
+		<param name="File" value="log/main/game.log" />
+		<param name="Append" value="true" />
+		<param name="MaxFileSize" value="1024KB" />
+		<param name="MaxBackupIndex" value="5" />
+		<layout class="org.apache.log4j.EnhancedPatternLayout">
+			<param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %p: %m%n" />
+		</layout>
+	</appender>
+
+	<!-- warnings log appender -->
+	<appender name="WARNLOG" class="org.apache.log4j.RollingFileAppender">
+		<param name="Threshold" value="WARN" />
+		<param name="Encoding" value="UTF-8" />
+		<param name="File" value="log/main/warnings.log" />
+		<param name="Append" value="true" />
+		<param name="MaxFileSize" value="1024KB" />
+		<param name="MaxBackupIndex" value="5" />
+		<layout class="org.apache.log4j.EnhancedPatternLayout">
+			<param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %p:%m%n" />
+		</layout>
+	</appender>
+
+	<!-- errors log appender -->
+	<appender name="ERRORLOG" class="org.apache.log4j.RollingFileAppender">
+		<param name="Threshold" value="ERROR" />
+		<param name="Encoding" value="UTF-8" />
+		<param name="File" value="log/main/errors.log" />
+		<param name="Append" value="true" />
+		<param name="MaxFileSize" value="1024KB" />
+		<param name="MaxBackupIndex" value="5" />
+		<layout class="org.apache.log4j.EnhancedPatternLayout">
+			<param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %p:%m%n" />
+		</layout>
+	</appender>
+	
+	<root>
+		<appender-ref ref="CONSOLE" />
+		<appender-ref ref="FILELOG" />
+		<appender-ref ref="GAMELOG" />
+		<appender-ref ref="WARNLOG" />
+		<appender-ref ref="ERRORLOG" />
+	</root>
+</log4j:configuration>

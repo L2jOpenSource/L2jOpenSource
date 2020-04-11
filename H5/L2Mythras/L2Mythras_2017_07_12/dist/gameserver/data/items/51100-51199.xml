@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+  <armor id="51100" name="Buffalo Mounting Bracelet">
+    <set name="freightable" value="true"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="BranchSys2.icon.br_z_bike_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="30"/>
+    <equip>
+      <slot id="LEFT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="10001" level="1"/>
+    </skills>
+  </armor>
+  <armor id="51101" name="Lion Mounting Bracelet">
+    <set name="freightable" value="true"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="BranchSys2.icon.br_z_bike_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="30"/>
+    <equip>
+      <slot id="LEFT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="10002" level="1"/>
+    </skills>
+  </armor>
+  <armor id="51102" name="Fauve Mounting Bracelet">
+    <set name="freightable" value="true"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="BranchSys2.icon.br_z_bike_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="30"/>
+    <equip>
+      <slot id="LEFT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="10003" level="1"/>
+    </skills>
+  </armor>
+  <armor id="51103" name="Ant Mounting Bracelet">
+    <set name="freightable" value="true"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="BranchSys2.icon.br_z_bike_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="30"/>
+    <equip>
+      <slot id="LEFT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="10004" level="1"/>
+    </skills>
+  </armor>
+  <armor id="51104" name="Halisha Mounting Bracelet">
+    <set name="freightable" value="true"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="BranchSys2.icon.br_z_bike_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="30"/>
+    <equip>
+      <slot id="LEFT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="10005" level="1"/>
+    </skills>
+  </armor>
+</list>

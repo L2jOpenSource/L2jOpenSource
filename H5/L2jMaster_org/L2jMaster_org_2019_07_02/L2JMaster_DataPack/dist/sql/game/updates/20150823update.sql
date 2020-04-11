@@ -1,0 +1,1 @@
+UPDATE character_quests SET name='Q00330_AdeptOfTaste' WHERE name='330_AdeptOfTaste'; 

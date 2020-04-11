@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37619</npc> <!-- Forgotten Shop -->
+	</npcs>
+	
+	<!-- Adventurer -->
+
+	<!-- Archer's Will -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10553" count="1" />
+	</item>
+	<!-- Fighter's Will -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10552" count="1" />
+	</item>
+	<!-- Protection of Alignment -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10551" count="1" />
+	</item>
+	<!-- Protection of Elemental -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10550" count="1" />
+	</item>
+	<!-- Protection of Rune -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10549" count="1" />
+	</item>
+	<!-- Expose Weak Point -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10560" count="1" />
+	</item>
+	<!-- Sixth Sense -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10559" count="1" />
+	</item>
+	<!-- Exciting Adventure 83 -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14175" count="1" />
+	</item>
+	<!-- Hide -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14209" count="1" />
+	</item>
+	<!-- Dual Dagger Mastery -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14210" count="1" />
+	</item>
+	<!-- Shadow Step -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="12771" count="1" />
+	</item>
+	<!-- Dual Blow -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14218" count="1" />
+	</item>
+	<!-- Evasion Haste -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="12770" count="1" />
+	</item>
+</list> 

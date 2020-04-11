@@ -1,0 +1,9 @@
+[21.07.17 16:35:27:830]  INFO loginserver.Config: Loaded 127 server names
+[21.07.17 16:35:28:039]  INFO loginserver.Config: Loaded whirlpool2 as default crypt.
+[21.07.17 16:35:28:532]  INFO loginserver.Config: Cached 10 KeyPairs for RSA communication
+[21.07.17 16:35:28:551]  INFO loginserver.Config: Stored 20 keys for Blowfish communication
+[21.07.17 16:35:28:565]  INFO loginserver.GameServerManager: Loaded 0 registered GameServer(s).
+[21.07.17 16:35:28:613]  INFO loginserver.AuthServer: Listening for gameservers on 127.0.0.1:9014
+[21.07.17 16:35:28:613]  INFO loginserver.AuthServer: Listening for clients on *:2106
+[21.07.17 16:35:56:188]  INFO gspackets.AuthRequest: Trying to register gameserver: 4 [127.0.0.1]
+[21.07.17 16:35:56:189]  INFO gspackets.AuthRequest: Gameserver registration successful.

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- kadif02_1422_01_townnpc -->
+	<spawn zone="kadif02_1422_01_townnpcm1">
+		<npc id="32734" x="-178467" y="153371" z="2472" heading="11632" respawnDelay="60" />	<!-- Klemis -->
+	</spawn>
+	<!-- kadif02_1422_02_townnpc -->
+	<spawn zone="kadif02_1422_02_townnpcm1">
+		<npc id="32737" x="-181199" y="153605" z="2704" heading="11632" respawnDelay="60" />	<!-- Seyo -->
+	</spawn>
+	<!-- kadif02_1422_03_townnpc -->
+	<spawn zone="kadif02_1422_03_townnpcm1">
+		<npc id="32735" x="-175533" y="153808" z="2704" heading="16016" respawnDelay="60" />	<!-- Nemo -->
+		<npc id="32779" x="-175533" y="154851" z="2720" heading="16016" respawnDelay="60" />	<!-- Flight Control -->
+	</spawn>
+</list>

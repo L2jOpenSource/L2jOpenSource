@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./xsd/RaidsLocations.xsd">
+	<raid locName="Dragon Valley" x="71640" y="117976" z="-3680"/>
+	<raid locName="The Outsides of Elven Village" x="54184" y="44440" z="-3584"/>
+	<raid locName="Hellbound Island - Anomic Foundry" x="26648" y="247144" z="-3232"/>
+	<raid locName="Beast Farm" x="52456" y="-79512" z="-3104"/>
+	<raid locName="Anghel Waterfall" x="170728" y="85352" z="-1984"/>
+	<raid locName="Tower of Insolence 11 Floor" x="114648" y="16088" z="6992"/>
+</list>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- etc09_1716_036 -->
+	<spawn zone="etc09_1716_036m1">
+		<npc id="32491" x="-82168" y="-49167" z="-10326" heading="32084" respawnDelay="0" /> <!-- Underground Coliseum Helper -->
+	</spawn>
+	<!-- etc09_1716_001 -->
+	<!-- etc09_1716_002 -->
+	<!-- etc09_1716_003 -->
+	<!-- etc09_1716_004 -->
+	<!-- etc09_1716_005 -->
+	<!-- etc09_1716_006 -->
+	<spawn zone="etc09_1716_001m1">
+		<npc id="32516" x="-86359" y="-50593" z="-10684" heading="3704" respawnDelay="0" /> <!-- Candice -->
+	</spawn>
+	<!-- etc09_1716_007 -->
+	<!-- etc09_1716_008 -->
+	<!-- etc09_1716_009 -->
+	<!-- etc09_1716_010 -->
+	<!-- etc09_1716_011 -->
+	<!-- etc09_1716_012 -->
+	<spawn zone="etc09_1716_007m1">
+		<npc id="32515" x="-81904" y="-53904" z="-10668" heading="17044" respawnDelay="0" /> <!-- Leo -->
+	</spawn>
+	<!-- etc09_1716_013 -->
+	<!-- etc09_1716_014 -->
+	<!-- etc09_1716_015 -->
+	<!-- etc09_1716_016 -->
+	<!-- etc09_1716_017 -->
+	<!-- etc09_1716_018 -->
+	<spawn zone="etc09_1716_013m1">
+		<npc id="32514" x="-77408" y="-50656" z="-10688" heading="29664" respawnDelay="0" /> <!-- Tarion -->
+	</spawn>
+	<!-- etc09_1716_019 -->
+	<!-- etc09_1716_020 -->
+	<!-- etc09_1716_021 -->
+	<!-- etc09_1716_022 -->
+	<!-- etc09_1716_023 -->
+	<!-- etc09_1716_024 -->
+	<spawn zone="etc09_1716_019m1">
+		<npc id="32377" x="-79120" y="-45440" z="-10688" heading="-23248" respawnDelay="0" /> <!-- Kuram -->
+	</spawn>
+	<!-- etc09_1716_025 -->
+	<!-- etc09_1716_026 -->
+	<!-- etc09_1716_027 -->
+	<!-- etc09_1716_028 -->
+	<!-- etc09_1716_029 -->
+	<!-- etc09_1716_030 -->
+	<spawn zone="etc09_1716_019m1">
+		<npc id="32513" x="-84640" y="-45360" z="-10688" heading="9380" respawnDelay="0" /> <!-- Kun -->
+	</spawn>
+</list>

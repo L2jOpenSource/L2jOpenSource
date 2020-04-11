@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Dyes -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+
+	<!-- Greater Dye of Strength <Str +1 Con -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4553" count="10" />
+	</item>
+	<!-- Greater Dye of Strength <Str +1 Dex -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4554" count="10" />
+	</item>
+	<!-- Greater Dye of Constitution <Con +1 Str -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4555" count="10" />
+	</item>
+	<!-- Greater Dye of Constitution <Con +1 Dex -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4556" count="10" />
+	</item>
+	<!-- Greater Dye of Dexterity <Dex +1 Str -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4557" count="10" />
+	</item>
+	<!-- Greater Dye of Dexterity <Dex +1 Con -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4558" count="10" />
+	</item>
+	<!-- Greater Dye of Intelligence <Int +1 Men -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4559" count="10" />
+	</item>
+	<!-- Greater Dye of Intelligence <Int +1 Wit -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4560" count="10" />
+	</item>
+	<!-- Greater Dye of Mental Strength <Men +1 Int -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4561" count="10" />
+	</item>
+	<!-- Greater Dye of Mental Strength <Men +1 Wit -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4562" count="10" />
+	</item>
+	<!-- Greater Dye of Wit <Wit +1 Int -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4563" count="10" />
+	</item>
+	<!-- Greater Dye of Wit <Wit +1 Men -1> for 60000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="60000" />
+		<production id="4564" count="10" />
+	</item>
+	<!-- Greater Dye of Strength <Str +2 Con -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4589" count="10" />
+	</item>
+	<!-- Greater Dye of Strength <Str +2 Dex -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4590" count="10" />
+	</item>
+	<!-- Greater Dye of Constitution <Con +2 Str -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4591" count="10" />
+	</item>
+	<!-- Greater Dye of Constitution <Con +2 Dex -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4592" count="10" />
+	</item>
+	<!-- Greater Dye of Dexterity <Dex +2 Str -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4593" count="10" />
+	</item>
+	<!-- Greater Dye of Dexterity <Dex +2 Con -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4594" count="10" />
+	</item>
+	<!-- Greater Dye of Intelligence <Int +2 Men -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4595" count="10" />
+	</item>
+	<!-- Greater Dye of Intelligence <Int +2 Wit -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4596" count="10" />
+	</item>
+	<!-- Greater Dye of Mental Strength <Men +2 Int -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4597" count="10" />
+	</item>
+	<!-- Greater Dye of Mental Strength <Men +2 Wit -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4598" count="10" />
+	</item>
+	<!-- Greater Dye of Wit <Wit +2 Int -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4599" count="10" />
+	</item>
+	<!-- Greater Dye of Wit <Wit +2 Men -2> for 72000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="72000" />
+		<production id="4600" count="10" />
+	</item>
+	<!-- Greater Dye of Strength <Str +3 Con -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4601" count="10" />
+	</item>
+	<!-- Greater Dye of Strength <Str +3 Dex -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4602" count="10" />
+	</item>
+	<!-- Greater Dye of Constitution <Con +3 Str -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4603" count="10" />
+	</item>
+	<!-- Greater Dye of Constitution <Con +3 Dex -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4604" count="10" />
+	</item>
+	<!-- Greater Dye of Dexterity <Dex +3 Str -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4605" count="10" />
+	</item>
+	<!-- Greater Dye of Dexterity <Dex +3 Con -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4606" count="10" />
+	</item>
+	<!-- Greater Dye of Intelligence <Int +3 Men -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4607" count="10" />
+	</item>
+	<!-- Greater Dye of Intelligence <Int +3 Wit -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4608" count="10" />
+	</item>
+	<!-- Greater Dye of Mental Strength <Men +3 Int -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4609" count="10" />
+	</item>
+	<!-- Greater Dye of Mental Strength <Men +3 Wit -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4610" count="10" />
+	</item>
+	<!-- Greater Dye of Wit <Wit +3 Int -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4611" count="10" />
+	</item>
+	<!-- Greater Dye of Wit <Wit +3 Men -3> for 108000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="108000" />
+		<production id="4612" count="10" />
+	</item>
+	<!-- Greater Dye of Strength <Str +4 Con -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4613" count="10" />
+	</item>
+	<!-- Greater Dye of Strength <Str +4 Dex -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4614" count="10" />
+	</item>
+	<!-- Greater Dye of Constitution <Con +4 Str -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4615" count="10" />
+	</item>
+	<!-- Greater Dye of Constitution <Con +4 Dex -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4616" count="10" />
+	</item>
+	<!-- Greater Dye of Dexterity <Dex +4 Str -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4617" count="10" />
+	</item>
+	<!-- Greater Dye of Dexterity <Dex +4 Con -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4618" count="10" />
+	</item>
+	<!-- Greater Dye of Intelligence <Int +4 Men -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4619" count="10" />
+	</item>
+	<!-- Greater Dye of Intelligence <Int +4 Wit -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4620" count="10" />
+	</item>
+	<!-- Greater Dye of Mental Strength <Men +4 Int -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4621" count="10" />
+	</item>
+	<!-- Greater Dye of Mental Strength <Men +4 Wit -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4622" count="10" />
+	</item>
+	<!-- Greater Dye of Wit <Wit +4 Int -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4623" count="10" />
+	</item>
+	<!-- Greater Dye of Wit <Wit +4 Men -4> for 174000 Ancient Adena -->
+	<item>
+		<ingredient id="57" count="174000" />
+		<production id="4624" count="10" />
+	</item>
+
+</list>

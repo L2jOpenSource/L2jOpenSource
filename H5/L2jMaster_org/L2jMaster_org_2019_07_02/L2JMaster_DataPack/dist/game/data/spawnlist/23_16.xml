@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- godard28_npc2316_02 -->
+	<spawn zone="godard28_npc2316_0201">
+		<npc id="31561" x="106288" y="-53808" z="-2288" heading="33000" respawnDelay="60" /> <!-- Udan Mardui's Box -->
+	</spawn>
+	<!-- godard28_npc2316_03 -->
+	<spawn zone="godard28_npc2316_0301">
+		<npc id="31378" x="125440" y="-40944" z="-3701" heading="7000" respawnDelay="60" /> <!-- Naran Ashanuk -->
+	</spawn>
+	<!-- godard28_npc2316_04 -->
+	<spawn zone="godard28_npc2316_0401">
+		<npc id="31377" x="106880" y="-53792" z="-2278" heading="0" respawnDelay="60" /> <!-- Ashas Varka Durai -->
+	</spawn>
+	<!-- godard28_npc2316_05 -->
+	<spawn zone="godard28_npc2316_0501">
+		<npc id="31380" x="107296" y="-54576" z="-2393" heading="0" respawnDelay="60" /> <!-- Diyabu -->
+	</spawn>
+	<!-- godard28_npc2316_06 -->
+	<spawn zone="godard28_npc2316_0601">
+		<npc id="31381" x="107376" y="-55424" z="-2393" heading="6000" respawnDelay="60" /> <!-- Hagos -->
+	</spawn>
+	<!-- godard28_npc2316_07 -->
+	<spawn zone="godard28_npc2316_0701">
+		<npc id="31382" x="107232" y="-52776" z="-2393" heading="60000" respawnDelay="60" /> <!-- Shikon -->
+	</spawn>
+	<!-- godard28_npc2316_08 -->
+	<spawn zone="godard28_npc2316_0801">
+		<npc id="31383" x="107680" y="-52112" z="-2405" heading="60000" respawnDelay="60" /> <!-- Teranu Mardui -->
+	</spawn>
+	<!-- godard28_npc2316_09 -->
+	<spawn zone="godard28_npc2316_0901">
+		<npc id="31379" x="109156" y="-53392" z="-2672" heading="45000" respawnDelay="60" /> <!-- Udan Mardui -->
+	</spawn>
+	<!-- godard28_2316_01 -->
+	<spawn zone="godard28_2316_01m1">
+		<npc id="21350" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Recruit -->
+		<npc id="21351" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Footman -->
+		<npc id="21352" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Antelope -->
+	</spawn>
+	<!-- godard28_2316_02 -->
+	<spawn zone="godard28_2316_02m1">
+		<npc id="21350" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Recruit -->
+		<npc id="21351" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Footman -->
+		<npc id="21352" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Antelope -->
+	</spawn>
+	<!-- godard28_2316_03 -->
+	<spawn zone="godard28_2316_03m1">
+		<npc id="21350" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Recruit -->
+		<npc id="21351" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Footman -->
+		<npc id="21352" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Antelope -->
+	</spawn>
+	<!-- godard28_2316_04 -->
+	<spawn zone="godard28_2316_04m1">
+		<npc id="21350" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Recruit -->
+		<npc id="21351" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Footman -->
+		<npc id="21352" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Antelope -->
+	</spawn>
+	<!-- godard28_2316_05 -->
+	<spawn zone="godard28_2316_05m1">
+		<npc id="21350" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Recruit -->
+		<npc id="21351" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Footman -->
+		<npc id="21352" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Antelope -->
+	</spawn>
+	<!-- godard28_2316_06 -->
+	<spawn zone="godard28_2316_06m1">
+		<npc id="21350" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Recruit -->
+		<npc id="21351" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Footman -->
+		<npc id="21352" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Antelope -->
+	</spawn>
+	<!-- godard28_2316_07 -->
+	<spawn zone="godard28_2316_07m1">
+		<npc id="21353" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Scout -->
+		<npc id="21354" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Hunter -->
+		<npc id="21355" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Shaman -->
+		<npc id="21356" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Nepenthes -->
+	</spawn>
+	<!-- godard28_2316_08 -->
+	<spawn zone="godard28_2316_08m1">
+		<npc id="21353" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Scout -->
+		<npc id="21354" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Hunter -->
+		<npc id="21355" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Shaman -->
+		<npc id="21356" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Nepenthes -->
+	</spawn>
+	<!-- godard28_2316_09 -->
+	<spawn zone="godard28_2316_09m1">
+		<npc id="21353" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Scout -->
+		<npc id="21354" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Hunter -->
+		<npc id="21355" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Shaman -->
+		<npc id="21356" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Nepenthes -->
+		<npc id="21369" count="1" respawnDelay="103" respawnRandom="30" /> <!-- Varka's Commander -->
+	</spawn>
+	<!-- godard28_2316_11 -->
+	<spawn zone="godard28_2316_11m1">
+		<npc id="21353" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Scout -->
+		<npc id="21354" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Hunter -->
+		<npc id="21355" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Shaman -->
+		<npc id="21356" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Nepenthes -->
+		<npc id="21369" count="1" respawnDelay="103" respawnRandom="30" /> <!-- Varka's Commander -->
+	</spawn>
+	<!-- godard28_2316_14 -->
+	<spawn zone="godard28_2316_14m1">
+		<npc id="21354" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Hunter -->
+		<npc id="21356" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Nepenthes -->
+		<npc id="21357" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Priest -->
+		<npc id="21358" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Warrior -->
+	</spawn>
+	<!-- godard28_2316_16 -->
+	<spawn zone="godard28_2316_16m1">
+		<npc id="21357" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Priest -->
+		<npc id="21358" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Warrior -->
+		<npc id="21359" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Bandersnatch -->
+		<npc id="21360" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Medium -->
+		<npc id="21369" count="2" respawnDelay="103" respawnRandom="30" /> <!-- Varka's Commander -->
+	</spawn>
+	<!-- godard28_2316_19 -->
+	<spawn zone="godard28_2316_19m1">
+		<npc id="21354" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Hunter -->
+		<npc id="21356" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Nepenthes -->
+	</spawn>
+	<!-- godard28_2316_20 -->
+	<spawn zone="godard28_2316_20m1">
+		<npc id="21359" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Bandersnatch -->
+		<npc id="21356" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Nepenthes -->
+		<npc id="21354" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Hunter -->
+		<npc id="21360" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Medium -->
+		<npc id="21357" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Priest -->
+		<npc id="21353" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Scout -->
+		<npc id="21355" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Shaman -->
+		<npc id="21358" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Warrior -->
+	</spawn>
+	<!-- godard28_2316_23 -->
+	<spawn zone="godard28_2316_23m1">
+		<npc id="21357" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Priest -->
+		<npc id="21358" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Warrior -->
+		<npc id="21359" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Bandersnatch -->
+		<npc id="21360" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Medium -->
+	</spawn>
+	<!-- godard28_2316_27 -->
+	<spawn zone="godard28_2316_27m1">
+		<npc id="21357" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Priest -->
+		<npc id="21358" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Warrior -->
+		<npc id="21359" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Bandersnatch -->
+		<npc id="21360" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Medium -->
+	</spawn>
+	<!-- godard28_2316_28 -->
+	<spawn zone="godard28_2316_28m1">
+		<npc id="21357" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Priest -->
+		<npc id="21358" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Warrior -->
+		<npc id="21359" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Bandersnatch -->
+		<npc id="21360" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Medium -->
+	</spawn>
+	<!-- godard28_2316_29 -->
+	<spawn zone="godard28_2316_29m1">
+		<npc id="21361" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Magus -->
+		<npc id="21362" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Officer -->
+		<npc id="21363" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Flava -->
+		<npc id="21364" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Seer -->
+	</spawn>
+	<!-- godard28_2316_30 -->
+	<spawn zone="godard28_2316_30m1">
+		<npc id="21361" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Magus -->
+		<npc id="21362" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Officer -->
+		<npc id="21363" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Flava -->
+		<npc id="21364" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Seer -->
+		<npc id="21371" count="1" respawnDelay="103" respawnRandom="30" /> <!-- Varka's Head Magus -->
+	</spawn>
+	<!-- godard28_2316_31 -->
+	<spawn zone="godard28_2316_31m1">
+		<npc id="21361" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Magus -->
+		<npc id="21362" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Officer -->
+		<npc id="21363" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Flava -->
+		<npc id="21364" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Seer -->
+		<npc id="21371" count="1" respawnDelay="103" respawnRandom="30" /> <!-- Varka's Head Magus -->
+	</spawn>
+	<!-- godard28_2316_33 -->
+	<spawn zone="godard28_2316_33m1">
+		<npc id="21365" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Magus -->
+		<npc id="21366" count="4" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos General -->
+		<npc id="21367" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Elder Antelope -->
+		<npc id="21368" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Grand Priest -->
+		<npc id="21371" count="1" respawnDelay="103" respawnRandom="30" /> <!-- Varka's Head Magus -->
+		<npc id="21373" count="1" respawnDelay="103" respawnRandom="30" /> <!-- Varka's Prophet -->
+	</spawn>
+	<!-- godard28_2316_34 -->
+	<spawn zone="godard28_2316_34m1">
+		<npc id="21365" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Magus -->
+		<npc id="21366" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos General -->
+		<npc id="21367" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Elder Antelope -->
+		<npc id="21368" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Grand Priest -->
+		<npc id="21371" count="1" respawnDelay="103" respawnRandom="30" /> <!-- Varka's Head Magus -->
+		<npc id="21373" count="1" respawnDelay="103" respawnRandom="30" /> <!-- Varka's Prophet -->
+	</spawn>
+	<!-- godard28_2316_35 -->
+	<spawn zone="godard28_2316_35m1">
+		<npc id="21365" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Magus -->
+		<npc id="21366" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos General -->
+		<npc id="21367" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Elder Antelope -->
+		<npc id="21368" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Grand Priest -->
+	</spawn>
+	<!-- godard28_2316_37 -->
+	<spawn zone="godard28_2316_37m1">
+		<npc id="21365" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Magus -->
+		<npc id="21367" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Elder Antelope -->
+		<npc id="21368" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Grand Priest -->
+	</spawn>
+	<!-- godard28_2316_44 -->
+	<spawn zone="godard28_2316_44m1">
+		<npc id="21371" count="1" respawnDelay="100" respawnRandom="40" /> <!-- Varka's Head Magus -->
+		<npc id="21373" count="1" respawnDelay="100" respawnRandom="40" /> <!-- Varka's Prophet -->
+	</spawn>
+	<!-- godard28_2316_45 -->
+	<!-- godard28_2316_46 -->
+	<spawn zone="godard28_2316_45m1">
+		<npc id="21365" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Magus -->
+		<npc id="21366" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos General -->
+		<npc id="21367" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Elder Antelope -->
+		<npc id="21368" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Grand Priest -->
+		<npc id="21371" count="2" respawnDelay="109" respawnRandom="70" /> <!-- Varka's Head Magus -->
+		<npc id="21373" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka's Prophet -->
+	</spawn>
+	<!-- godard28_2316_47 -->
+	<spawn zone="godard28_2316_47m1">
+		<npc id="21366" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos General -->
+		<npc id="21367" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Elder Antelope -->
+		<npc id="21368" count="3" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Grand Priest -->
+		<npc id="21373" count="2" respawnDelay="103" respawnRandom="30" /> <!-- Varka's Prophet -->
+	</spawn>
+	<!-- godard28_2316_55 -->
+	<spawn zone="godard28_2316_55m1">
+		<npc id="21350" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Recruit -->
+		<npc id="21351" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Footman -->
+		<npc id="21352" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Antelope -->
+	</spawn>
+	<!-- godard28_2316_56 -->
+	<spawn zone="godard28_2316_56m1">
+		<npc id="21350" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Recruit -->
+		<npc id="21351" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Footman -->
+		<npc id="21352" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Antelope -->
+	</spawn>
+	<!-- godard28_2316_57 -->
+	<spawn zone="godard28_2316_57m1">
+		<npc id="21350" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Recruit -->
+		<npc id="21351" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Footman -->
+		<npc id="21352" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Antelope -->
+	</spawn>
+	<!-- godard28_2316_58 -->
+	<spawn zone="godard28_2316_58m1">
+		<npc id="21350" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Recruit -->
+		<npc id="21351" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Varka Silenos Footman -->
+		<npc id="21352" count="1" respawnDelay="109" respawnRandom="70" /> <!-- Grazing Antelope -->
+	</spawn>
+	<!-- godard31_2316_01 -->
+	<spawn zone="godard31_2316_01m1">
+		<npc id="21438" count="6" respawnDelay="37" respawnRandom="10" /> <!-- Heathen Warrior -->
+		<npc id="21439" count="6" respawnDelay="37" respawnRandom="10" /> <!-- Heathen Executed -->
+		<npc id="21440" count="6" respawnDelay="37" respawnRandom="10" /> <!-- Heathen Archer -->
+		<npc id="21441" count="6" respawnDelay="37" respawnRandom="10" /> <!-- Heathen Grunt -->
+		<npc id="21442" count="6" respawnDelay="37" respawnRandom="10" /> <!-- Heathen Knight -->
+	</spawn>
+	<!-- godard31_2316_02 -->
+	<spawn zone="godard31_2316_02m1">
+		<npc id="21438" count="6" respawnDelay="37" respawnRandom="10" /> <!-- Heathen Warrior -->
+		<npc id="21439" count="6" respawnDelay="37" respawnRandom="10" /> <!-- Heathen Executed -->
+		<npc id="21440" count="6" respawnDelay="37" respawnRandom="10" /> <!-- Heathen Archer -->
+		<npc id="21441" count="6" respawnDelay="37" respawnRandom="10" /> <!-- Heathen Grunt -->
+		<npc id="21442" count="6" respawnDelay="37" respawnRandom="10" /> <!-- Heathen Knight -->
+	</spawn>
+	<!-- godard28_tb2316_01 -->
+	<spawn zone="godard28_tb01_m1">
+		<npc id="18284" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- godard28_tb2316_12 -->
+	<spawn zone="godard28_tb08_m1">
+		<npc id="18285" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

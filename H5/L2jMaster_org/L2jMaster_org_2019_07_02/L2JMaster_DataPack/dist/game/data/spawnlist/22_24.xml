@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- ssq08_npc2224_01 -->
+	<spawn zone="ssq08_npc2224_0101">
+		<npc id="31110" x="83440" y="209216" z="-5440" heading="16500" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq08_npc2224_02 -->
+	<spawn zone="ssq08_npc2224_0201">
+		<npc id="31102" x="82688" y="209216" z="-5437" heading="32500" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- ssq08_npc2224_03 -->
+	<spawn zone="ssq08_npc2224_0301">
+		<npc id="31505" x="83187" y="208917" z="-5465" heading="16000" respawnDelay="60" /> <!-- Dimensional Gate Keeper -->
+	</spawn>
+	<!-- luckpy_80_2224_01 -->
+	<spawn zone="luckpy_80_2224_jackpot001m1">
+		<npc id="2501" count="6" respawnDelay="14400" respawnRandom="13200" randRate="51" /> <!-- Lucky Pig -->
+	</spawn>
+	<!-- innadril04_2224_bzr01 -->
+	<spawn zone="innadril04_2224_bzr01m1">
+		<npc id="22658" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Sentinel Waterspirit -->
+		<npc id="22659" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Guardian Waterspirit -->
+		<npc id="18806" count="3" respawnDelay="15" /> <!-- Brazier of Purity -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_bzr02 -->
+	<spawn zone="innadril04_2224_bzr02m1">
+		<npc id="22658" count="11" respawnDelay="40" respawnRandom="10" /> <!-- Sentinel Waterspirit -->
+		<npc id="22659" count="11" respawnDelay="40" respawnRandom="10" /> <!-- Guardian Waterspirit -->
+		<npc id="18806" count="5" respawnDelay="15" /> <!-- Brazier of Purity -->
+		<npc id="18936" count="22" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_bzr03 -->
+	<spawn zone="innadril04_2224_bzr03m1">
+		<npc id="22658" count="13" respawnDelay="40" respawnRandom="10" /> <!-- Sentinel Waterspirit -->
+		<npc id="22659" count="137" respawnDelay="40" respawnRandom="10" /> <!-- Guardian Waterspirit -->
+		<npc id="18806" count="5" respawnDelay="15" /> <!-- Brazier of Purity -->
+		<npc id="18936" count="26" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_bzr04 -->
+	<spawn zone="innadril04_2224_bzr04m1">
+		<npc id="22658" count="11" respawnDelay="40" respawnRandom="10" /> <!-- Sentinel Waterspirit -->
+		<npc id="22659" count="11" respawnDelay="40" respawnRandom="10" /> <!-- Guardian Waterspirit -->
+		<npc id="18806" count="5" respawnDelay="15" /> <!-- Brazier of Purity -->
+		<npc id="18936" count="22" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_bzr05 -->
+	<spawn zone="innadril04_2224_bzr05m1">
+		<npc id="22658" count="13" respawnDelay="40" respawnRandom="10" /> <!-- Sentinel Waterspirit -->
+		<npc id="22659" count="13" respawnDelay="40" respawnRandom="10" /> <!-- Guardian Waterspirit -->
+		<npc id="18806" count="5" respawnDelay="15" /> <!-- Brazier of Purity -->
+		<npc id="18936" count="26" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_bzr06 -->
+	<spawn zone="innadril04_2224_bzr06m1">
+		<npc id="22658" count="13" respawnDelay="40" respawnRandom="10" /> <!-- Sentinel Waterspirit -->
+		<npc id="22659" count="13" respawnDelay="40" respawnRandom="10" /> <!-- Guardian Waterspirit -->
+		<npc id="18806" count="5" respawnDelay="15" /> <!-- Brazier of Purity -->
+		<npc id="18936" count="26" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_bdr01 -->
+	<spawn zone="innadril04_2224_bdr01m1">
+		<npc id="22658" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Sentinel Waterspirit -->
+		<npc id="22659" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Guardian Waterspirit -->
+		<npc id="18806" count="3" respawnDelay="15" /> <!-- Brazier of Purity -->
+		<npc id="22650" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_bdr02 -->
+	<spawn zone="innadril04_2224_bdr02m1">
+		<npc id="22658" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Sentinel Waterspirit -->
+		<npc id="22659" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Guardian Waterspirit -->
+		<npc id="18806" count="3" respawnDelay="15" /> <!-- Brazier of Purity -->
+		<npc id="22650" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="28" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_bdr03 -->
+	<spawn zone="innadril04_2224_bdr03m1">
+		<npc id="22658" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Sentinel Waterspirit -->
+		<npc id="22659" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Guardian Waterspirit -->
+		<npc id="18806" count="1" respawnDelay="15" /> <!-- Brazier of Purity -->
+		<npc id="22650" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="20" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_11 -->
+	<spawn zone="innadril04_2224_11m1">
+		<npc id="22650" count="11" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="11" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="22" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_15 -->
+	<spawn zone="innadril04_2224_15m1">
+		<npc id="22650" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_16 -->
+	<spawn zone="innadril04_2224_16m1">
+		<npc id="22650" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_17 -->
+	<spawn zone="innadril04_2224_17m1">
+		<npc id="22650" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_18 -->
+	<spawn zone="innadril04_2224_18m1">
+		<npc id="22650" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_19 -->
+	<spawn zone="innadril04_2224_19m1">
+		<npc id="22650" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_21 -->
+	<spawn zone="innadril04_2224_21m1">
+		<npc id="22650" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_22 -->
+	<spawn zone="innadril04_2224_22m1">
+		<npc id="22650" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_12 -->
+	<spawn zone="innadril04_2224_12m1">
+		<npc id="22650" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_13 -->
+	<spawn zone="innadril04_2224_13m1">
+		<npc id="22650" count="11" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="11" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="22" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_14 -->
+	<spawn zone="innadril04_2224_14m1">
+		<npc id="22650" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_23 -->
+	<spawn zone="innadril04_2224_23m1">
+		<npc id="22650" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_24 -->
+	<spawn zone="innadril04_2224_24m1">
+		<npc id="22650" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_25 -->
+	<spawn zone="innadril04_2224_25m1">
+		<npc id="22650" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_26 -->
+	<spawn zone="innadril04_2224_26m1">
+		<npc id="22650" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_27 -->
+	<spawn zone="innadril04_2224_27m1">
+		<npc id="22650" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_01 -->
+	<spawn zone="innadril04_2224_01m1">
+		<npc id="22650" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_02 -->
+	<spawn zone="innadril04_2224_02m1">
+		<npc id="22650" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_28s -->
+	<spawn zone="innadril04_2224_28sm1">
+		<npc id="22652" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_29s -->
+	<spawn zone="innadril04_2224_29sm1">
+		<npc id="22652" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_30s -->
+	<spawn zone="innadril04_2224_30sm1">
+		<npc id="22652" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_31s -->
+	<spawn zone="innadril04_2224_31sm1">
+		<npc id="22652" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_32s -->
+	<spawn zone="innadril04_2224_32sm1">
+		<npc id="22652" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_2224_33s -->
+	<spawn zone="innadril04_2224_33sm1">
+		<npc id="22652" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40" respawnRandom="10" /> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril04_npc2224_01 -->
+	<spawn zone="innadril04_npc2224_01m1">
+		<npc id="32643" x="81181" y="226516" z="-3600" heading="0" respawnDelay="60" /> <!-- Athenia -->
+		<npc id="32644" x="81404" y="226771" z="-3616" heading="-14576" respawnDelay="60" /> <!-- Piazza -->
+		<npc id="32647" x="81232" y="226688" z="-3616" heading="-8536" respawnDelay="60" /> <!-- Atra -->
+	</spawn>
+	<!-- ssq08_2224_ssq01 -->
+	<spawn zone="ssq08_2224_ssq01m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21228" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21161" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Soldier -->
+		<npc id="21183" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq08_2224_ssq02 -->
+	<spawn zone="ssq08_2224_ssq02m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21228" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21161" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Soldier -->
+		<npc id="21183" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq08_2224_ssq03 -->
+	<spawn zone="ssq08_2224_ssq03m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21228" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21161" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Soldier -->
+		<npc id="21183" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq08_2224_ssq04 -->
+	<spawn zone="ssq08_2224_ssq04m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21228" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21161" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Soldier -->
+		<npc id="21183" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq08_2224_ssq05 -->
+	<spawn zone="ssq08_2224_ssq05m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21228" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21161" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Soldier -->
+		<npc id="21183" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq08_2224_ssq06 -->
+	<spawn zone="ssq08_2224_ssq06m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21228" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21161" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Soldier -->
+		<npc id="21183" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq08_2224_ssq07 -->
+	<spawn zone="ssq08_2224_ssq07m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21228" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21161" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Soldier -->
+		<npc id="21183" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq08_2224_ssq08 -->
+	<spawn zone="ssq08_2224_ssq08m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21228" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21161" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Soldier -->
+		<npc id="21183" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Knight Commander -->
+		<npc id="21204" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Praetorian -->
+	</spawn>
+	<!-- ssq08_2224_ssq09 -->
+	<spawn zone="ssq08_2224_ssq09m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21229" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Preacher -->
+		<npc id="21162" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq08_2224_ssq10 -->
+	<spawn zone="ssq08_2224_ssq10m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21229" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Preacher -->
+		<npc id="21162" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq08_2224_ssq11 -->
+	<spawn zone="ssq08_2224_ssq11m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21229" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Preacher -->
+		<npc id="21162" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq08_2224_ssq12 -->
+	<spawn zone="ssq08_2224_ssq12m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21229" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Preacher -->
+		<npc id="21162" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq08_2224_ssq13 -->
+	<spawn zone="ssq08_2224_ssq13m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21229" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Preacher -->
+		<npc id="21162" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq08_2224_ssq14 -->
+	<spawn zone="ssq08_2224_ssq14m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21229" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Preacher -->
+		<npc id="21162" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq08_2224_ssq15 -->
+	<spawn zone="ssq08_2224_ssq15m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21229" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Preacher -->
+		<npc id="21162" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq08_2224_ssq16 -->
+	<spawn zone="ssq08_2224_ssq16m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21229" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Preacher -->
+		<npc id="21162" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq08_2224_ssq17 -->
+	<spawn zone="ssq08_2224_ssq17m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21229" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Preacher -->
+		<npc id="21162" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq08_2224_ssq18 -->
+	<spawn zone="ssq08_2224_ssq18m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21229" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Preacher -->
+		<npc id="21162" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Scout -->
+		<npc id="21184" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Slayer -->
+		<npc id="21205" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Royal Guard -->
+	</spawn>
+	<!-- ssq08_2224_ssq19 -->
+	<spawn zone="ssq08_2224_ssq19m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21230" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21163" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq08_2224_ssq20 -->
+	<spawn zone="ssq08_2224_ssq20m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21230" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21163" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq08_2224_ssq21 -->
+	<spawn zone="ssq08_2224_ssq21m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21230" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21163" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq08_2224_ssq22 -->
+	<spawn zone="ssq08_2224_ssq22m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21230" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21163" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq08_2224_ssq23 -->
+	<spawn zone="ssq08_2224_ssq23m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21230" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21163" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq08_2224_ssq24 -->
+	<spawn zone="ssq08_2224_ssq24m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21230" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21163" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq08_2224_ssq25 -->
+	<spawn zone="ssq08_2224_ssq25m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21230" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21163" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq08_2224_ssq26 -->
+	<spawn zone="ssq08_2224_ssq26m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21230" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21163" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq08_2224_ssq27 -->
+	<spawn zone="ssq08_2224_ssq27m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21230" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21163" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq08_2224_ssq28 -->
+	<spawn zone="ssq08_2224_ssq28m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21230" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21163" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="2" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- ssq08_2224_ssq29 -->
+	<spawn zone="ssq08_2224_ssq29m1">
+		<AIData>
+			<SSQTelPosX>80094</SSQTelPosX>
+			<SSQTelPosY>209142</SSQTelPosY>
+			<SSQTelPosZ>-3704</SSQTelPosZ>
+		</AIData>
+		<npc id="21230" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Sepulcher Guard -->
+		<npc id="21163" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lesser Ancient Shaman -->
+		<npc id="21185" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Lilim Great Magus -->
+		<npc id="21206" count="1" respawnDelay="123" respawnRandom="40" /> <!-- Nephilim Cardinal -->
+	</spawn>
+	<!-- innadril04_tb2224_01 -->
+	<spawn zone="innadril04_tb01_m1">
+		<npc id="18286" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- innadril04_tb2224_21 -->
+	<spawn zone="innadril04_tb21_m1">
+		<npc id="18286" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

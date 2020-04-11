@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Festival Adena -->
+	<item>
+		<ingredient id="57" count="1500000"/>
+		<production id="6673" count="1"/>
+	</item>
+	<!-- Knight's Epaulette -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="9912" count="1"/>
+	</item>
+	<!-- Ancient Adena -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="5575" count="1000000"/>
+	</item>
+</list>

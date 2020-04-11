@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- dion02_npc2122_01 -->
+	<spawn zone="dion02_npc2122_0101">
+		<npc id="30631" x="44694" y="146500" z="-3682" heading="12288" respawnDelay="60" /> <!-- Roderik -->
+	</spawn>
+	<!-- dion02_npc2122_02 -->
+	<spawn zone="dion02_npc2122_0201">
+		<npc id="30632" x="45411" y="149100" z="-3681" heading="42000" respawnDelay="60" /> <!-- Endrigo -->
+	</spawn>
+	<!-- ssq06_npc2122_02 -->
+	<spawn zone="ssq06_npc2122_0201">
+		<npc id="31114" x="42608" y="143952" z="-5379" heading="32500" respawnDelay="60" /> <!-- Gatekeeper Ziggurat -->
+	</spawn>
+	<!-- dion15_2122_01 -->
+	<spawn zone="dion15_2122_01">
+		<npc id="20205" count="5" respawnDelay="24" /> <!-- Dire Wolf -->
+		<npc id="20266" count="6" respawnDelay="24" /> <!-- Monster Eye Gazer -->
+	</spawn>
+	<!-- dion15_2122_02 -->
+	<spawn zone="dion15_2122_02">
+		<npc id="20205" count="2" respawnDelay="24" /> <!-- Dire Wolf -->
+		<npc id="20266" count="4" respawnDelay="24" /> <!-- Monster Eye Gazer -->
+	</spawn>
+	<!-- dion15_2122_03s -->
+	<spawn zone="dion15_2122_03s">
+		<npc id="20265" count="2" respawnDelay="24" /> <!-- Monster Eye Searcher -->
+		<npc id="20266" count="2" respawnDelay="24" /> <!-- Monster Eye Gazer -->
+	</spawn>
+	<!-- dion02_2122_18 -->
+	<spawn zone="dion02_2122_18">
+		<npc id="20223" count="2" respawnDelay="35" /> <!-- Mandragora Sprout -->
+		<npc id="20154" count="4" respawnDelay="35" /> <!-- Mandragora Sprout -->
+	</spawn>
+	<!-- dion02_2122_19 -->
+	<spawn zone="dion02_2122_19">
+		<npc id="20223" count="2" respawnDelay="35" /> <!-- Mandragora Sprout -->
+		<npc id="20154" count="4" respawnDelay="35" /> <!-- Mandragora Sprout -->
+	</spawn>
+	<!-- dion02_2122_20s -->
+	<spawn zone="dion02_2122_20s">
+		<npc id="20155" count="2" respawnDelay="35" /> <!-- Mandragora Sapling -->
+		<npc id="20156" count="3" respawnDelay="35" /> <!-- Mandragora Blossom -->
+	</spawn>
+	<!-- dion02_2122_21s -->
+	<spawn zone="dion02_2122_21s">
+		<npc id="20155" count="3" respawnDelay="35" /> <!-- Mandragora Sapling -->
+		<npc id="20156" count="2" respawnDelay="35" /> <!-- Mandragora Blossom -->
+	</spawn>
+	<!-- dion02_2122_22 -->
+	<spawn zone="dion02_2122_22">
+		<npc id="20201" count="5" respawnDelay="35" /> <!-- Ghoul -->
+		<npc id="20083" count="5" respawnDelay="35" /> <!-- Granite Golem -->
+		<npc id="20202" count="5" respawnDelay="35" /> <!-- Dead Seeker -->
+	</spawn>
+	<!-- dion02_2122_23 -->
+	<spawn zone="dion02_2122_23">
+		<npc id="20160" count="4" respawnDelay="35" /> <!-- Neer Crawler -->
+		<npc id="20198" count="4" respawnDelay="35" /> <!-- Neer Ghoul Berserker -->
+		<npc id="20199" count="6" respawnDelay="35" /> <!-- Amber Basilisk -->
+		<npc id="20200" count="6" respawnDelay="35" /> <!-- Strain -->
+	</spawn>
+	<!-- dion02_2122_24 -->
+	<spawn zone="dion02_2122_24">
+		<npc id="20083" count="4" respawnDelay="35" /> <!-- Granite Golem -->
+		<npc id="20202" count="4" respawnDelay="35" /> <!-- Dead Seeker -->
+		<npc id="20144" count="6" respawnDelay="35" /> <!-- Hangman Tree -->
+	</spawn>
+	<!-- dion02_2122_25 -->
+	<spawn zone="dion02_2122_25">
+		<npc id="20201" count="2" respawnDelay="35" /> <!-- Ghoul -->
+		<npc id="20083" count="2" respawnDelay="35" /> <!-- Granite Golem -->
+		<npc id="20202" count="2" respawnDelay="35" /> <!-- Dead Seeker -->
+	</spawn>
+	<!-- dion02_2122_26 -->
+	<spawn zone="dion02_2122_26">
+		<npc id="20201" count="3" respawnDelay="35" /> <!-- Ghoul -->
+		<npc id="20202" count="3" respawnDelay="35" /> <!-- Dead Seeker -->
+		<npc id="20144" count="3" respawnDelay="35" /> <!-- Hangman Tree -->
+	</spawn>
+	<!-- dion02_2122_27 -->
+	<spawn zone="dion02_2122_27">
+		<npc id="20202" count="3" respawnDelay="35" /> <!-- Dead Seeker -->
+		<npc id="20199" count="2" respawnDelay="35" /> <!-- Amber Basilisk -->
+		<npc id="20200" count="2" respawnDelay="35" /> <!-- Strain -->
+	</spawn>
+	<!-- dion02_2122_29 -->
+	<spawn zone="dion02_2122_29">
+		<npc id="20160" count="7" respawnDelay="35" /> <!-- Neer Crawler -->
+		<npc id="20198" count="7" respawnDelay="35" /> <!-- Neer Ghoul Berserker -->
+	</spawn>
+	<!-- dion02_2122_30 -->
+	<spawn zone="dion02_2122_30">
+		<npc id="20200" count="2" respawnDelay="35" /> <!-- Strain -->
+		<npc id="20202" count="1" respawnDelay="35" /> <!-- Dead Seeker -->
+	</spawn>
+	<!-- dion02_2122_31 -->
+	<spawn zone="dion02_2122_31">
+		<npc id="20200" count="2" respawnDelay="35" /> <!-- Strain -->
+		<npc id="20202" count="2" respawnDelay="35" /> <!-- Dead Seeker -->
+	</spawn>
+	<!-- dion02_2122_32 -->
+	<spawn zone="dion02_2122_32">
+		<npc id="20171" count="5" respawnDelay="35" /> <!-- Specter -->
+		<npc id="20197" count="4" respawnDelay="35" /> <!-- Sorrow Maiden -->
+		<npc id="20160" count="6" respawnDelay="35" /> <!-- Neer Crawler -->
+	</spawn>
+	<!-- dion02_2122_33 -->
+	<spawn zone="dion02_2122_33">
+		<npc id="20171" count="4" respawnDelay="35" /> <!-- Specter -->
+		<npc id="20197" count="5" respawnDelay="35" /> <!-- Sorrow Maiden -->
+	</spawn>
+	<!-- dion02_2122_34 -->
+	<spawn zone="dion02_2122_34">
+		<npc id="20171" count="3" respawnDelay="35" /> <!-- Specter -->
+		<npc id="20197" count="2" respawnDelay="35" /> <!-- Sorrow Maiden -->
+	</spawn>
+	<!-- dion02_2122_35 -->
+	<spawn zone="dion02_2122_35">
+		<npc id="20156" count="2" respawnDelay="35" /> <!-- Mandragora Blossom -->
+		<npc id="20171" count="2" respawnDelay="35" /> <!-- Specter -->
+	</spawn>
+	<!-- dion02_2122_36 -->
+	<spawn zone="dion02_2122_36">
+		<npc id="20156" count="2" respawnDelay="35" /> <!-- Mandragora Blossom -->
+		<npc id="20171" count="3" respawnDelay="35" /> <!-- Specter -->
+	</spawn>
+	<!-- dion02_2122_37 -->
+	<spawn zone="dion02_2122_37">
+		<npc id="20171" count="3" respawnDelay="35" /> <!-- Specter -->
+		<npc id="20197" count="2" respawnDelay="35" /> <!-- Sorrow Maiden -->
+	</spawn>
+	<!-- dion02_2122_38s -->
+	<spawn zone="dion02_2122_38s">
+		<npc id="20200" count="2" respawnDelay="35" /> <!-- Strain -->
+	</spawn>
+	<!-- dion02_2122_39s -->
+	<spawn zone="dion02_2122_39s">
+		<npc id="20201" count="2" respawnDelay="35" /> <!-- Ghoul -->
+	</spawn>
+	<!-- dion02_2122_40s -->
+	<spawn zone="dion02_2122_40s">
+		<npc id="20201" count="2" respawnDelay="35" /> <!-- Ghoul -->
+		<npc id="20144" count="2" respawnDelay="35" /> <!-- Hangman Tree -->
+	</spawn>
+	<!-- dion02_2122_41s -->
+	<spawn zone="dion02_2122_41s">
+		<npc id="20202" count="2" respawnDelay="35" /> <!-- Dead Seeker -->
+		<npc id="20144" count="2" respawnDelay="35" /> <!-- Hangman Tree -->
+	</spawn>
+	<!-- dion02_2122_42s -->
+	<spawn zone="dion02_2122_42s">
+		<npc id="20200" count="3" respawnDelay="35" /> <!-- Strain -->
+	</spawn>
+	<!-- dion02_2122_43s -->
+	<spawn zone="dion02_2122_43s">
+		<npc id="20144" count="3" respawnDelay="35" /> <!-- Hangman Tree -->
+	</spawn>
+	<!-- dion02_2122_44s -->
+	<spawn zone="dion02_2122_44s">
+		<npc id="20144" count="3" respawnDelay="35" /> <!-- Hangman Tree -->
+	</spawn>
+	<!-- dion02_2122_45s -->
+	<spawn zone="dion02_2122_45s">
+		<npc id="20202" count="2" respawnDelay="35" /> <!-- Dead Seeker -->
+	</spawn>
+	<!-- dion02_2122_46s -->
+	<spawn zone="dion02_2122_46s">
+		<npc id="20201" count="2" respawnDelay="35" /> <!-- Ghoul -->
+		<npc id="20198" count="2" respawnDelay="35" /> <!-- Neer Ghoul Berserker -->
+	</spawn>
+	<!-- dion02_2122_47s -->
+	<spawn zone="dion02_2122_47s">
+		<npc id="20144" count="2" respawnDelay="35" /> <!-- Hangman Tree -->
+	</spawn>
+	<!-- dion02_2122_48s -->
+	<spawn zone="dion02_2122_48s">
+		<npc id="20202" count="2" respawnDelay="35" /> <!-- Dead Seeker -->
+	</spawn>
+	<!-- dion02_2122_49s -->
+	<spawn zone="dion02_2122_49s">
+		<npc id="20200" count="2" respawnDelay="35" /> <!-- Strain -->
+	</spawn>
+	<!-- dion02_2122_50s -->
+	<spawn zone="dion02_2122_50s">
+		<npc id="20200" count="3" respawnDelay="35" /> <!-- Strain -->
+	</spawn>
+	<!-- dion02_2122_51s -->
+	<spawn zone="dion02_2122_51s">
+		<npc id="20198" count="2" respawnDelay="35" /> <!-- Neer Ghoul Berserker -->
+	</spawn>
+	<!-- dion02_2122_52s -->
+	<spawn zone="dion02_2122_52s">
+		<npc id="20160" count="2" respawnDelay="35" /> <!-- Neer Crawler -->
+	</spawn>
+	<!-- dion02_2122_53s -->
+	<spawn zone="dion02_2122_53s">
+		<npc id="20197" count="2" respawnDelay="35" /> <!-- Sorrow Maiden -->
+	</spawn>
+	<!-- dion13_2122_01 -->
+	<spawn zone="dion13_2122_01">
+		<npc id="20939" count="10" respawnDelay="45" /> <!-- Tanor Silenos Warrior -->
+	</spawn>
+	<!-- dion13_2122_02 -->
+	<spawn zone="dion13_2122_02">
+		<npc id="20939" count="8" respawnDelay="45" /> <!-- Tanor Silenos Warrior -->
+		<npc id="20944" count="4" respawnDelay="45" /> <!-- Nightmare Lord -->
+	</spawn>
+	<!-- dion13_2122_03 -->
+	<spawn zone="dion13_2122_03">
+		<npc id="20939" count="2" respawnDelay="45" /> <!-- Tanor Silenos Warrior -->
+		<npc id="20944" count="4" respawnDelay="45" /> <!-- Nightmare Lord -->
+	</spawn>
+	<!-- dion13_2122_04 -->
+	<spawn zone="dion13_2122_04">
+		<npc id="20939" count="4" respawnDelay="45" /> <!-- Tanor Silenos Warrior -->
+		<npc id="20941" count="6" respawnDelay="45" /> <!-- Tanor Silenos Chieftain -->
+		<npc id="20944" count="10" respawnDelay="45" /> <!-- Nightmare Lord -->
+	</spawn>
+	<!-- dion13_2122_05 -->
+	<spawn zone="dion13_2122_05">
+		<npc id="20939" count="2" respawnDelay="45" /> <!-- Tanor Silenos Warrior -->
+		<npc id="20941" count="1" respawnDelay="45" /> <!-- Tanor Silenos Chieftain -->
+		<npc id="20944" count="2" respawnDelay="45" /> <!-- Nightmare Lord -->
+	</spawn>
+	<!-- dion13_2122_06 -->
+	<spawn zone="dion13_2122_06">
+		<npc id="20939" count="2" respawnDelay="45" /> <!-- Tanor Silenos Warrior -->
+		<npc id="20944" count="1" respawnDelay="45" /> <!-- Nightmare Lord -->
+	</spawn>
+	<!-- dion13_2122_08s -->
+	<spawn zone="dion13_2122_08s">
+		<npc id="20939" count="3" respawnDelay="45" /> <!-- Tanor Silenos Warrior -->
+	</spawn>
+	<!-- dion13_2122_09s -->
+	<spawn zone="dion13_2122_09s">
+		<npc id="20944" count="3" respawnDelay="45" /> <!-- Nightmare Lord -->
+	</spawn>
+	<!-- dion13_2122_10s -->
+	<spawn zone="dion13_2122_10s">
+		<npc id="20941" count="3" respawnDelay="45" /> <!-- Tanor Silenos Chieftain -->
+	</spawn>
+	<!-- dion06_tb2122_20s -->
+	<spawn zone="dion06_tb20_m1">
+		<npc id="18265" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- dion02_tb2122_23 -->
+	<spawn zone="dion02_tb23_m1">
+		<npc id="18267" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- dion02_tb2122_24 -->
+	<spawn zone="dion02_tb24_m1">
+		<npc id="18269" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- dion02_tb2122_29 -->
+	<spawn zone="dion02_tb29_m1">
+		<npc id="18268" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

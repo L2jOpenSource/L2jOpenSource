@@ -1,0 +1,579 @@
+<!--
+Author: Grivesky & Tigris :*
+Revision: 112
+The system has been for an easier way of making the stats in any class and 
+nothing from Java neither template will be changed , example if you want add or remove hp you can put
+ADD
+<stat name="maxHp" fValue="30" pValue="1" />
+OR
+<stat name="maxHp" fValue="-30" pValue="1" />
+REMOVE
+
+EXAMPLE ONE = (+30 HP + FULL HP) X2
+EXAMPLE TWO = (-30 HP + FULL HP) X2
+
+-->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/balancestats.xsd">
+    <class id="0"> <!-- Human Fighter -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="1"> <!-- Warrior -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="2"> <!-- Gladiator -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="0.94" />
+    </class>
+	<class id="3"> <!-- Warlord -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="4"> <!-- Human Knight -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="5"> <!-- Paladin -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="6"> <!-- Dark Avenger -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="7"> <!-- Rogue -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="8"> <!-- Treasure Hunter -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="1.15" />
+    </class>
+	<class id="9"> <!-- Hawkeye -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="10"> <!-- Human Mage -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="11"> <!-- Human Wizard -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="12"> <!-- Sorcerer -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="13"> <!-- Necromancer -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="14"> <!-- Warlock -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="15"> <!-- Cleric -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="16"> <!-- Bishop -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="17"> <!-- Human Prophet -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="18"> <!-- Elf Fighter -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="19"> <!-- Elf Knight -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="20"> <!-- Temple Knight -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="1.10" />
+    </class>
+	<class id="21"> <!-- Swordsinger -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="22"> <!-- Scout -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="23"> <!-- Plains Walker -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="1.15" />
+    </class>
+	<class id="24"> <!-- Silver Ranger -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="25"> <!-- Elf Mage -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="26"> <!-- Elf Wizard -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="27"> <!-- Spellsinger -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="28"> <!-- Elemental Summoner -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="pDef" fValue="3" pValue="0.80" />
+		<stat name="mDef" fValue="3" pValue="0.80" />
+    </class>
+	<class id="29"> <!-- Oracle -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="30"> <!-- Elder -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="31"> <!-- DE Fighter -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="32"> <!-- Palus Knight -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="33"> <!-- Shillien Knight -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="34"> <!-- Bladedancer -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="35"> <!-- Assassin -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="36"> <!-- Abyss Walker -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="1.15" />
+    </class>
+	<class id="37"> <!-- Phantom Ranger -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="38"> <!-- DE Mage -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="39"> <!-- DE Wizard -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="40"> <!-- Spell Howler -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="41"> <!-- Phantom Summoner -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="42"> <!-- Shillien Oracle -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="43"> <!-- Shillien Elder -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="44"> <!-- Orc Fighter -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="45"> <!-- Raider -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="46"> <!-- Destroyer -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1.15" />
+		<stat name="cAtk" fValue="1" pValue="0.75" />
+    </class>
+	<class id="47"> <!-- Monk -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="48"> <!-- Tyrant -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="49"> <!-- Orc Mage -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="50"> <!-- Shaman -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="51"> <!-- Overlord -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="52"> <!-- Warcryer -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="53"> <!-- Dwarf Fighter -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="54"> <!-- Scavenger -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="55"> <!-- Bounty Hunter -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="56"> <!-- Artisan -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="57"> <!-- Warsmith -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="88"> <!-- Duelist -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="runSpd" fValue="1" pValue="1.05" />
+    </class>
+    <class id="89"> <!-- Dreadnought -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1.15" />
+		<stat name="cAtk" fValue="1" pValue="0.80" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.15" />
+		<stat name="mDef" fValue="1" pValue="1.50" />
+		<stat name="pDef" fValue="1" pValue="0.95" />
+		<stat name="runSpd" fValue="1" pValue="1.10" />
+		<stat name="maxCp" fValue="1" pValue="1.10" />
+    </class>
+	<class id="90"> <!-- Phoenix Knight  catk from tigris 0.75 rcit 0.85 ptak 0.85-->
+	    <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="pDef" fValue="1" pValue="0.85" />
+		<stat name="cAtk" fValue="1" pValue="0.90" />
+    </class>
+	<class id="91"> <!-- Hell Knight -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="0.90" />
+		<stat name="pDef" fValue="1" pValue="1.10" />
+		<stat name="mDef" fValue="1" pValue="1.30" />
+		<stat name="pAtkSpd" fValue="1" pValue="1" />
+		<stat name="runSpd" fValue="1" pValue="1" />
+    </class>
+	<class id="92"> <!-- Sagittarius -->
+        <stat name="maxHp" fValue="5" pValue="1.2" />
+		<stat name="pAtk" fValue="3" pValue="1.10" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.20" />
+		<stat name="cAtk" fValue="1" pValue="1.05" />
+		<stat name="mDef" fValue="1" pValue="1.20" />
+		<stat name="pDef" fValue="1" pValue="1.10" />
+		<stat name="maxCp" fValue="1" pValue="1.30" />
+    </class>		
+	<class id="93"> <!-- Adventurer -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="1.15" />
+		<stat name="mDef" fValue="1" pValue="1.20" />
+		<stat name="cAtk" fValue="1" pValue="1.10" />
+    </class>
+	<class id="94"> <!-- Archmage -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="mCritDamage" fValue="1" pValue="0.65" />
+		<stat name="mCritRate" fValue="1" pValue="0.90" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="mAtkSpd" fValue="1" pValue="1.05" />
+		<stat name="pDef" fValue="1" pValue="1" />
+		<stat name="mAtk" fValue="1" pValue="0.90" />
+		<stat name="runSpd" fValue="1" pValue="0.95" />
+		<stat name="mAtk" fValue="1" pValue="0.90" />
+    </class>
+	<class id="95"> <!-- Soultaker -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="mCritDamage" fValue="1" pValue="0.65" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="pDef" fValue="1" pValue="1" />
+	    <stat name="mAtk" fValue="1" pValue="0.90" />
+		<stat name="mCritRate" fValue="1" pValue="0.95" />
+    </class>
+	<class id="96"> <!-- Arcana Lord -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="pDef" fValue="1" pValue="0.80" />
+		<stat name="mDef" fValue="1" pValue="0.80" />
+    </class>
+	<class id="97"> <!-- Cardinal -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="mCritDamage" fValue="1" pValue="0.85" />
+		<stat name="mAtk" fValue="1" pValue="0.95" />
+    </class>
+	    <class id="98"> <!-- Hierophant -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1.40" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.30" />
+		<stat name="mAtk" fValue="1" pValue="0.85" />
+		<stat name="pDef" fValue="1" pValue="1.15" />
+		<stat name="cAtk" fValue="1" pValue="1.10" />
+		<stat name="rCrit" fValue="1" pValue="1.40" />
+		<stat name="mDef" fValue="1" pValue="1.30" />
+		<stat name="runSpd" fValue="1" pValue="1.10" />
+    </class>
+	<class id="99"> <!-- Eva Templar -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="0.80" />
+		<stat name="pDef" fValue="1" pValue="1.05" />
+		<stat name="mDef" fValue="1" pValue="1" />
+		<stat name="pAtkSpd" fValue="1" pValue="0.95" />
+    </class>
+	<class id="100"> <!-- Sword Muse -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1.10" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.05" />
+		<stat name="runSpd" fValue="1" pValue="1.10" />
+		<stat name="rCrit" fValue="1" pValue="1.05" />
+		<stat name="cAtk" fValue="1" pValue="1" />
+		<stat name="mDef" fValue="1" pValue="1.25" />
+		<stat name="pDef" fValue="1" pValue="0.95" />
+		<stat name="maxCp" fValue="1" pValue="1.10" />
+    </class>
+	<class id="101"> <!-- Wind Rider -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="1.10" />
+		<stat name="pDef" fValue="1" pValue="1" />
+		<stat name="mDef" fValue="1" pValue="1.25" />
+    </class>
+	<class id="102"> <!-- Moonlight Sentinel -->
+        <stat name="maxHp" fValue="5" pValue="1.2" />
+		<stat name="pAtk" fValue="3" pValue="1.15" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.20" />
+		<stat name="cAtk" fValue="1" pValue="1.05" />
+		<stat name="pDef" fValue="1" pValue="1.20" />
+		<stat name="mDef" fValue="1" pValue="1.25" />
+		<stat name="runSpd" fValue="1" pValue="1.10" />
+		<stat name="maxCp" fValue="1" pValue="1.30" />
+    </class>
+	<class id="103"> <!-- Mystic Muse -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="mCritDamage" fValue="1" pValue="0.65" />
+		<stat name="pDef" fValue="1" pValue="1" />
+		<stat name="mCritRate" fValue="1" pValue="0.90" />
+		<stat name="runSpd" fValue="1" pValue="0.95" />
+		<stat name="mAtk" fValue="1" pValue="0.95" />
+		<stat name="pDef" fValue="1" pValue="1" />
+		<stat name="mAtk" fValue="1" pValue="0.90" />
+    </class>
+	<class id="104"> <!-- Elemental Master -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" /> 
+		<stat name="mAtk" fValue="1" pValue="0.70" />
+		<stat name="pDef" fValue="1" pValue="0.90" />
+		<stat name="mDef" fValue="1" pValue="0.90" />
+    </class>
+	<class id="105"> <!-- Eva Saint -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="mCritDamage" fValue="1" pValue="0.85" />
+		<stat name="mAtk" fValue="1" pValue="0.95" />
+    </class>
+	<class id="106"> <!-- Shillien Templar -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="0.98" />
+		<stat name="cAtk" fValue="1" pValue="0.95" />
+    </class>
+	<class id="107"> <!-- Spectral Dancer -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1.20" />
+        <stat name="pAtkSpd" fValue="1" pValue="1.25" />
+		<stat name="runSpd" fValue="1" pValue="1.20" />
+		<stat name="rCrit" fValue="1" pValue="1.35" />
+		<stat name="cAtk" fValue="1" pValue="1.05" />
+		<stat name="mDef" fValue="1" pValue="1.50" />
+		<stat name="pDef" fValue="1" pValue="1.20" />
+		<stat name="maxCp" fValue="1" pValue="1.35" />
+    </class>
+	<class id="108"> <!-- Ghost Hunter -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="1.15" />
+		<stat name="mDef" fValue="1" pValue="1.25" />
+		<stat name="pDef" fValue="1" pValue="1" />
+    </class>
+	<class id="109"> <!-- Ghost Sentinel -->
+        <stat name="maxHp" fValue="5" pValue="1.2" />
+		<stat name="pAtk" fValue="3" pValue="1.25" />
+		<stat name="cAtk" fValue="1" pValue="1.15" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.15" />
+		<stat name="runSpd" fValue="1" pValue="1.10" />
+		<stat name="pDef" fValue="1" pValue="1.15" />
+		<stat name="mDef" fValue="1" pValue="1.20" />
+		<stat name="maxCp" fValue="1" pValue="1.30" />
+    </class>
+	<class id="110"> <!-- Storm Screamer -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="mCritDamage" fValue="1" pValue="0.65" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="mAtk" fValue="1" pValue="0.90" />
+		<stat name="mCritRate" fValue="1" pValue="0.80" />
+		<stat name="pDef" fValue="1" pValue="1" />
+		<stat name="mAtk" fValue="1" pValue="0.90" />
+    </class>
+	<class id="111"> <!-- Spectral Master -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="mCritDamage" fValue="1" pValue="0.40" />
+		<stat name="pDef" fValue="1" pValue="0.80" />
+		<stat name="mDef" fValue="1" pValue="0.80" />
+		<stat name="cAtk" fValue="1" pValue="1.10" />
+    </class>
+	<class id="112"> <!-- Shillen Saint -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="mCritDamage" fValue="1" pValue="0.85" />
+		<stat name="mAtk" fValue="1" pValue="0.95" />
+    </class>
+	<class id="113"> <!-- Titan -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="1" />
+    </class>
+	<class id="114"> <!-- Grand Khauatari -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="cAtk" fValue="3" pValue="0.90" />
+    </class>
+	<class id="115"> <!-- Dominator -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="mAtkSpd" fValue="1" pValue="0.95" />
+		<stat name="pDef" fValue="1" pValue="0.95" />
+        <stat name="mCritRate" fValue="1" pValue="0.95" />
+		<stat name="mCritDamage" fValue="1" pValue="0.90" />
+        <stat name="mAtk" fValue="1" pValue="0.85" />
+    </class>
+	<class id="116"> <!-- Doomcryer -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="mAtk" fValue="1" pValue="1.50" />
+		<stat name="pDef" fValue="1" pValue="1.40" />
+		<stat name="mDef" fValue="1" pValue="1.30" />
+		<stat name="mAtkSpd" fValue="1" pValue="1.20" />
+		<stat name="runSpd" fValue="1" pValue="1.10" />
+		<stat name="mCritRate" fValue="1" pValue="1" />
+		<stat name="mCritDamage" fValue="1" pValue="1" />
+    </class>
+	<class id="117"> <!-- Fortune Seeker -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1.05" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.10" />
+		<stat name="runSpd" fValue="1" pValue="1.10" />
+		<stat name="rCrit" fValue="1" pValue="1.35" />
+		<stat name="pDef" fValue="1" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="1.15" />
+		<stat name="mDef" fValue="1" pValue="1.25" />
+    </class>
+	<class id="118"> <!-- Maestro -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1.05" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.40" />
+		<stat name="pDef" fValue="1" pValue="1.20" />
+		<stat name="mDef" fValue="1" pValue="1.40" />
+		<stat name="runSpd" fValue="1" pValue="1.05" />
+    </class>
+	<class id="123"> <!-- maleSoldier -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="124"> <!-- femaleSoldier -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="125"> <!-- trooper -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="126"> <!-- warder -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="127"> <!-- berserker -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="128"> <!-- maleSoulbreaker -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="129"> <!-- femaleSoulbreaker -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="130"> <!-- arbalester -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="131"> <!-- doombringer -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+		<stat name="cAtk" fValue="1" pValue="0.90" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.10" />
+    </class>
+	<class id="132"> <!-- maleSoulhound -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1.20" />
+		<stat name="pDef" fValue="1" pValue="0.90" />
+		<stat name="mCritDamage" fValue="1" pValue="0.66" />
+		<stat name="mAtk" fValue="1" pValue="0.90" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.12" />
+		<stat name="cAtk" fValue="1" pValue="1.10" />
+    </class>
+	<class id="133"> <!-- femaleSoulhound -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1.20" />
+		<stat name="pDef" fValue="1" pValue="0.90" />
+		<stat name="mCritDamage" fValue="1" pValue="0.66" />
+		<stat name="mAtk" fValue="1" pValue="0.90" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.12" />
+		<stat name="cAtk" fValue="1" pValue="1.10" />
+    </class>
+	<class id="134"> <!-- trickster -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1.10" />
+		<stat name="cAtk" fValue="1" pValue="1.10" />
+		<stat name="mDef" fValue="1" pValue="1" />
+		<stat name="pDef" fValue="1" pValue="1" />
+		<stat name="pAtkSpd" fValue="1" pValue="1.05" />
+    </class>
+	<class id="135"> <!-- inspector -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="3" pValue="1" />
+    </class>
+	<class id="136"> <!-- judicator -->
+        <stat name="maxHp" fValue="5" pValue="1" />
+		<stat name="pAtk" fValue="1" pValue="1" />
+    </class>
+</list>

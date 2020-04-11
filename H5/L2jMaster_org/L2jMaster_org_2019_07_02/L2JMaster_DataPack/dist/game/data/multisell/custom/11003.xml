@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Barakiel's Axe - Health -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8794" count="1"/>
+	</item>
+	<!-- Barakiel's Axe - Haste -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8795" count="1"/>
+	</item>
+	<!-- Barakiel's Axe - Focus -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8796" count="1"/>
+	</item>
+	<!-- Behemoth's Tuning Fork - Focus -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8798" count="1"/>
+	</item>
+	<!-- Behemoth's Tuning Fork - Health -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8797" count="1"/>
+	</item>
+	<!-- Behemoth's Tuning Fork - Anger -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8799" count="1"/>
+	</item>
+	<!-- Cabrio's Hand - Conversion -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8815" count="1"/>
+	</item>
+	<!-- Cabrio's Hand - Mana Up -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8816" count="1"/>
+	</item>
+	<!-- Cabrio's Hand - Magic Silence -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8817" count="1"/>
+	</item>
+	<!-- Daimon Crystal - Mana Up -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8818" count="1"/>
+	</item>
+	<!-- Daimon Crystal - Acumen -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8819" count="1"/>
+	</item>
+	<!-- Daimon Crystal - Magic Mental Shield -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8820" count="1"/>
+	</item>
+	<!-- Soul Bow - Cheap Shot -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5611" count="1"/>
+	</item>
+	<!-- Soul Bow - Critical Poison -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5613" count="1"/>
+	</item>
+	<!-- Soul Bow - Quick Recovery -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5612" count="1"/>
+	</item>
+	<!-- Shyeed's Bow - Cheap Shot -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8806" count="1"/>
+	</item>
+	<!-- Shyeed's Bow - Focus -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8807" count="1"/>
+	</item>
+	<!-- Shyeed's Bow - Quick Recovery -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8808" count="1"/>
+	</item>
+	<!-- Soul Separator - Guidance -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5617" count="1"/>
+	</item>
+	<!-- Soul Separator - Critical Damage -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5618" count="1"/>
+	</item>
+	<!-- Soul Separator - Rsk Haste -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5619" count="1"/>
+	</item>
+	<!-- Naga Storm - Focus  -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8800" count="1"/>
+	</item>
+	<!-- Naga Storm - Critical Damage -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8801" count="1"/>
+	</item>
+	<!-- Naga Storm - Back Blow -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8802" count="1"/>
+	</item>
+	<!-- Damascus*Tallum Blade -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="8938" count="1"/>
+	</item>
+	<!-- Damascus*Tallum Blade - Landslide -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="12888" count="1"/>
+	</item>
+	<!-- Dragon Grinder - Rsk. Evasion  -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5623" count="1"/>
+	</item>
+	<!-- Dragon Grinder - Guidance  -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5624" count="1"/>
+	</item>
+	<!-- Dragon Grinder - Health  -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5625" count="1"/>
+	</item>
+	<!-- Sobekk's Hurricane - Rsk. Haste  -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8809" count="1"/>
+	</item>
+	<!-- Sobekk's Hurricane  - Haste  -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8810" count="1"/>
+	</item>
+	<!-- Sobekk's Hurricane - Critical Drain  -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8811" count="1"/>
+	</item>
+	<!-- Tallum Glaive - Guidance -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5632" count="1"/>
+	</item>
+	<!-- Tallum Glaive - Health -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5633" count="1"/>
+	</item>
+	<!-- Tallum Glaive - Wide Blow -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="5634" count="1"/>
+	</item>
+	<!-- Tiphon's Spear - Critical Stun -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8803" count="1"/>
+	</item>
+	<!-- Tiphon's Spear - Towering Blow -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8804" count="1"/>
+	</item>
+	<!-- Tiphon's Spear - Wild Blow -->
+	<item>
+		<ingredient id="57" count="150000000"/>
+		<production id="8805" count="1"/>
+	</item>
+	<!-- Sword of Miracles - Magic Power  -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="5641" count="1"/>
+	</item>
+	<!-- Sword of Miracles - Magic Silence  -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="5642" count="1"/>
+	</item>
+	<!-- Sword of Miracles - Acumen  -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="5643" count="1"/>
+	</item>
+	<!-- Dark Legion's Edge - Critical Damage   -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="5647" count="1"/>
+	</item>
+	<!-- Dark Legion's Edge - Health   -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="5648" count="1"/>
+	</item>
+	<!-- Dark Legion's Edge - Rsk Focus   -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="5649" count="1"/>
+	</item>
+	<!-- Sword of Ipos - Focus   -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="8791" count="1"/>
+	</item>
+	<!-- Sword of Ipos - Haste   -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="8792" count="1"/>
+	</item>
+	<!-- Sword of Ipos - Health   -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="8793" count="1"/>
+	</item>
+	<!-- Themis' Tongue - Mana Up -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="8812" count="1"/>
+	</item>
+	<!-- Themis' Tongue - Magic Focus -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="8814" count="1"/>
+	</item>
+	<!-- Themis' Tongue - Magic Mental Shield  -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="8813" count="1"/>
+	</item>
+</list>

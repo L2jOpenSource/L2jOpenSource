@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Custom Shop -->
+
+<list>
+
+  <!-- [book of giant] -->
+  <item id="1">
+    <ingredient id="57" count="2000000000"/>
+    <ingredient id="5575" count="100000000"/>
+    <production id="6622" count="1"/>
+  </item>
+  
+  <!-- [Gold Bar] -->
+  <item id="2">
+    <ingredient id="57" count="500000000"/>
+    <production id="3470" count="1"/>
+  </item>
+
+  <!-- [Adena] -->
+  <item id="3">
+    <ingredient id="3470" count="1"/>
+    <production id="57" count="500000000"/>
+  </item>
+
+  <!-- [Greater CP Potion]
+  <item id="1">
+    <ingredient id="4037" count="2000"/>
+    <production id="5592" count="150"/>
+  </item>
+ -->
+  <!-- [Tattoo Of Absolute A]
+  <item id="4">
+    <ingredient id="57" count="10000000"/>
+    <production id="491" count="1"/>
+  </item>
+ -->
+  <!-- [Tattoo of Soul D]
+  <item id="5">
+    <ingredient id="57" count="10000000"/>
+    <production id="492" count="1"/>
+  </item>
+ -->
+  <!-- [Tattoo Of Avadon B]
+  <item id="6">
+    <ingredient id="57" count="10000000"/>
+    <production id="493" count="1"/>
+  </item>
+ -->
+  <!-- [Tattoo Of Doom B]
+  <item id="7">
+    <ingredient id="57" count="10000000"/>
+    <production id="494" count="1"/>
+  </item>
+ -->
+  <!-- [Tattoo Of Divine B]
+  <item id="8">
+    <ingredient id="57" count="10000000"/>
+    <production id="496" count="1"/>
+  </item>
+ -->
+  <!-- [Nightmarish Tattoo A]
+  <item id="9">
+    <ingredient id="57" count="10000000"/>
+    <production id="2410" count="1"/>
+  </item>
+ -->  
+  
+  
+  <!--Earth Egg: A-Grade -->
+  <item id="4">
+    <ingredient id="57" count="500000000"/>
+    <production id="8166" count="15"/>
+  </item>
+
+  <!-- Destruction Tombstone -->
+  <item id="5">
+    <ingredient id="57" count="500000000"/>
+    <production id="8176" count="15"/>
+  </item>
+
+  <!-- Dragon Heart: A-Grade -->
+  <item id="6">
+    <ingredient id="57" count="500000000"/>
+    <production id="8163" count="15"/>
+  </item>
+  
+  <!-- Nonliving Nucleus: A-Grade -->
+  <item id="7">
+    <ingredient id="57" count="500000000"/>
+    <production id="8169" count="15"/>
+  </item>
+  
+  <!-- Memento Mori: A-Grade -->
+  <item id="8">
+    <ingredient id="57" count="500000000"/>
+    <production id="8160" count="15"/>
+  </item>
+  
+  <!-- Angelic Essence: A-Grade -->
+  <item id="9">
+    <ingredient id="57" count="500000000"/>
+    <production id="8172" count="15"/>
+  </item>
+  
+  <!-- Cradle of Creation -->
+  <item id="10">
+    <ingredient id="57" count="500000000"/>
+    <production id="8175" count="15"/>
+  </item>
+
+  <!-- Quest item Proof of blood -->
+  <item id="11">
+    <ingredient id="57" count="500000000"/>
+    <production id="1419" count="1"/>
+  </item>
+
+
+  <!-- Quest item Proof of Alliance -->
+  <item id="12">
+    <ingredient id="57" count="2000000000"/>
+    <production id="3874" count="1"/>
+  </item> 
+  
+  <!-- Quest item Proof of Aspiration -->
+  <item id="13">
+    <ingredient id="57" count="2000000000"/>
+    <production id="3870" count="1"/>
+  </item>
+  
+  <!-- Blooded Fabric -->
+  <item id="14">
+    <ingredient id="5575" count="50000000"/>
+    <production id="4295" count="1"/>
+  </item>
+
+  <!-- Portal Stone -->
+  <item id="15">
+    <ingredient id="5575" count="50000000"/>
+    <production id="3865" count="1"/>
+  </item> 
+  
+  <!-- Floating Stone -->
+  <item id="16">
+    <ingredient id="5575" count="50000000"/>
+    <production id="7267" count="1"/>
+  </item>
+
+  <!-- Top ls 70 -->
+  <item id="17">
+    <ingredient id="5575" count="3000000"/>
+    <production id="8761" count="1"/>
+  </item> 
+  
+  <!-- High ls 70 -->
+  <item id="18">
+    <ingredient id="5575" count="3000000"/>
+    <production id="8751" count="1"/>
+  </item>
+
+  <!-- Top ls 76 -->
+  <item id="19">
+    <ingredient id="5575" count="5000000"/>
+    <production id="8762" count="1"/>
+  </item> 
+  
+  <!-- High ls 76 -->
+  <item id="20">
+    <ingredient id="5575" count="5000000"/>
+    <production id="8752" count="1"/>
+  </item>
+
+  <!-- Stryder -->
+  <item id="21">
+    <ingredient id="57" count="100000000"/>
+    <ingredient id="5575" count="5000000"/>
+    <ingredient id="4422" count="1"/>
+  </item>
+  
+</list>

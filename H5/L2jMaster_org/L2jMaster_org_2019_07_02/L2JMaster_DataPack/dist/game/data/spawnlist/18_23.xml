@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio04_npc1823_001 -->
+	<spawn zone="gludio_npc1823_00101">
+		<npc id="30412" x="-41452" y="167329" z="-3560" heading="12288" respawnDelay="60" /> <!-- Wind Sylph -->
+	</spawn>
+	<!-- gludio04_npc1823_001 -->
+	<spawn zone="gludio_npc1823_00101">
+		<npc id="30410" x="-45040" y="179909" z="-3680" heading="16312" respawnDelay="60" /> <!-- Wasteland Lizardman -->
+	</spawn>
+	<!-- gludio34_1823_01 -->
+	<spawn zone="gludio34_1823_01m1">
+		<npc id="20038" count="4" respawnDelay="21" /> <!-- Venomous Spider -->
+		<npc id="20043" count="3" respawnDelay="21" /> <!-- Arachnid Tracker -->
+	</spawn>
+	<!-- gludio34_1823_02 -->
+	<spawn zone="gludio34_1823_02m1">
+		<npc id="20043" count="3" respawnDelay="21" /> <!-- Arachnid Tracker -->
+		<npc id="20050" count="2" respawnDelay="21" /> <!-- Arachnid Predator -->
+	</spawn>
+	<!-- gludio34_1823_03 -->
+	<spawn zone="gludio34_1823_03m1">
+		<npc id="20043" count="4" respawnDelay="21" /> <!-- Arachnid Tracker -->
+		<npc id="20050" count="4" respawnDelay="21" /> <!-- Arachnid Predator -->
+	</spawn>
+	<!-- gludio34_1823_04 -->
+	<spawn zone="gludio34_1823_04m1">
+		<npc id="20038" count="4" respawnDelay="21" /> <!-- Venomous Spider -->
+		<npc id="20043" count="3" respawnDelay="21" /> <!-- Arachnid Tracker -->
+		<npc id="20050" count="4" respawnDelay="21" /> <!-- Arachnid Predator -->
+	</spawn>
+	<!-- gludio36_1823_01 -->
+	<spawn zone="gludio36_1823_01m1">
+		<npc id="21011" count="2" respawnDelay="25" /> <!-- Ol Mahum Van Grunt -->
+		<npc id="21012" count="2" respawnDelay="25" /> <!-- Magical Eye -->
+	</spawn>
+	<!-- gludio36_1823_02 -->
+	<spawn zone="gludio36_1823_02m1">
+		<npc id="21011" count="3" respawnDelay="25" /> <!-- Ol Mahum Van Grunt -->
+		<npc id="21012" count="3" respawnDelay="25" /> <!-- Magical Eye -->
+	</spawn>
+	<!-- gludio36_1823_03 -->
+	<spawn zone="gludio36_1823_03m1">
+		<npc id="21011" count="1" respawnDelay="25" /> <!-- Ol Mahum Van Grunt -->
+		<npc id="21012" count="2" respawnDelay="25" /> <!-- Magical Eye -->
+	</spawn>
+	<!-- gludio36_1823_04 -->
+	<spawn zone="gludio36_1823_04m1">
+		<npc id="21012" count="3" respawnDelay="25" /> <!-- Magical Eye -->
+		<npc id="21013" count="2" respawnDelay="25" /> <!-- Ol Mahum Van Archer -->
+		<npc id="21014" count="3" respawnDelay="25" /> <!-- Lesser Warlike Tyrant -->
+	</spawn>
+	<!-- gludio36_1823_05 -->
+	<spawn zone="gludio36_1823_05m1">
+		<npc id="21012" count="2" respawnDelay="25" /> <!-- Magical Eye -->
+		<npc id="21014" count="2" respawnDelay="25" /> <!-- Lesser Warlike Tyrant -->
+	</spawn>
+	<!-- gludio36_1823_06 -->
+	<spawn zone="gludio36_1823_06m1">
+		<npc id="21012" count="2" respawnDelay="25" /> <!-- Magical Eye -->
+		<npc id="21013" count="2" respawnDelay="25" /> <!-- Ol Mahum Van Archer -->
+		<npc id="21014" count="3" respawnDelay="25" /> <!-- Lesser Warlike Tyrant -->
+	</spawn>
+	<!-- gludio36_1823_07 -->
+	<spawn zone="gludio36_1823_07m1">
+		<npc id="21012" count="3" respawnDelay="25" /> <!-- Magical Eye -->
+		<npc id="21013" count="2" respawnDelay="25" /> <!-- Ol Mahum Van Archer -->
+		<npc id="21014" count="3" respawnDelay="25" /> <!-- Lesser Warlike Tyrant -->
+	</spawn>
+	<!-- gludio36_1823_08 -->
+	<spawn zone="gludio36_1823_08m1">
+		<npc id="21013" count="2" respawnDelay="25" /> <!-- Ol Mahum Van Archer -->
+		<npc id="21014" count="3" respawnDelay="25" /> <!-- Lesser Warlike Tyrant -->
+		<npc id="21015" count="3" respawnDelay="25" /> <!-- Ol Mahum Van Leader -->
+	</spawn>
+	<!-- gludio36_1823_09 -->
+	<spawn zone="gludio36_1823_09m1">
+		<npc id="21013" count="2" respawnDelay="25" /> <!-- Ol Mahum Van Archer -->
+		<npc id="21014" count="2" respawnDelay="25" /> <!-- Lesser Warlike Tyrant -->
+		<npc id="21015" count="3" respawnDelay="25" /> <!-- Ol Mahum Van Leader -->
+	</spawn>
+	<!-- gludio36_1823_10 -->
+	<spawn zone="gludio36_1823_10m1">
+		<npc id="21015" count="3" respawnDelay="25" /> <!-- Ol Mahum Van Leader -->
+	</spawn>
+	<!-- gludio36_1823_11s -->
+	<spawn zone="gludio36_1823_11sm1">
+		<npc id="21014" count="1" respawnDelay="25" /> <!-- Lesser Warlike Tyrant -->
+		<npc id="21015" count="3" respawnDelay="25" /> <!-- Ol Mahum Van Leader -->
+	</spawn>
+	<!-- gludio37_1823_01 -->
+	<spawn zone="gludio37_1823_01m1">
+		<npc id="21011" count="6" respawnDelay="25" /> <!-- Ol Mahum Van Grunt -->
+		<npc id="21012" count="5" respawnDelay="25" /> <!-- Magical Eye -->
+		<npc id="21013" count="2" respawnDelay="25" /> <!-- Ol Mahum Van Archer -->
+	</spawn>
+	<!-- gludio37_1823_02 -->
+	<spawn zone="gludio37_1823_02m1">
+		<npc id="21011" count="6" respawnDelay="25" /> <!-- Ol Mahum Van Grunt -->
+		<npc id="21012" count="4" respawnDelay="25" /> <!-- Magical Eye -->
+	</spawn>
+	<!-- gludio04_1823_01 -->
+	<spawn zone="gludio04_1823_01m1">
+		<npc id="20067" count="4" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20068" count="1" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+	</spawn>
+	<!-- gludio04_1823_02 -->
+	<spawn zone="gludio04_1823_02m1">
+		<npc id="20067" count="3" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20068" count="1" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1823_03 -->
+	<spawn zone="gludio04_1823_03m1">
+		<npc id="20067" count="2" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20070" count="1" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1823_04 -->
+	<spawn zone="gludio04_1823_04m1">
+		<npc id="20068" count="1" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+		<npc id="20070" count="1" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1823_05 -->
+	<spawn zone="gludio04_1823_05m1">
+		<npc id="20068" count="2" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+		<npc id="20070" count="3" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1823_06 -->
+	<spawn zone="gludio04_1823_06m1">
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+	</spawn>
+	<!-- gludio04_1823_07 -->
+	<spawn zone="gludio04_1823_07m1">
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1823_08 -->
+	<spawn zone="gludio04_1823_08m1">
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20074" count="2" respawnDelay="27" /> <!-- Androscorpio -->
+		<npc id="20077" count="2" respawnDelay="27" /> <!-- Androscorpio Hunter -->
+	</spawn>
+	<!-- gludio04_1823_09 -->
+	<spawn zone="gludio04_1823_09m1">
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20074" count="2" respawnDelay="27" /> <!-- Androscorpio -->
+		<npc id="20077" count="1" respawnDelay="27" /> <!-- Androscorpio Hunter -->
+	</spawn>
+	<!-- gludio04_1823_10 -->
+	<spawn zone="gludio04_1823_10m1">
+		<npc id="20074" count="2" respawnDelay="27" /> <!-- Androscorpio -->
+		<npc id="20077" count="2" respawnDelay="27" /> <!-- Androscorpio Hunter -->
+	</spawn>
+	<!-- gludio04_1823_11 -->
+	<spawn zone="gludio04_1823_11m1">
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20074" count="2" respawnDelay="27" /> <!-- Androscorpio -->
+	</spawn>
+	<!-- gludio04_1823_12 -->
+	<spawn zone="gludio04_1823_12m1">
+		<npc id="20083" count="3" respawnDelay="27" /> <!-- Granite Golem -->
+		<npc id="20085" count="2" respawnDelay="27" /> <!-- Puncher -->
+	</spawn>
+	<!-- gludio04_1823_13 -->
+	<spawn zone="gludio04_1823_13m1">
+		<npc id="20067" count="3" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1823_14 -->
+	<spawn zone="gludio04_1823_14m1">
+		<npc id="20068" count="2" respawnDelay="27" /> <!-- Monster Eye Destroyer -->
+		<npc id="20072" count="3" respawnDelay="27" /> <!-- Basilisk -->
+	</spawn>
+	<!-- gludio04_1823_15 -->
+	<spawn zone="gludio04_1823_15m1">
+		<npc id="20067" count="3" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+	</spawn>
+	<!-- gludio04_1823_16 -->
+	<spawn zone="gludio04_1823_16m1">
+		<npc id="20067" count="2" respawnDelay="27" /> <!-- Monster Eye Watcher -->
+		<npc id="20070" count="1" respawnDelay="27" /> <!-- Lesser Basilisk -->
+	</spawn>
+	<!-- gludio04_1823_17 -->
+	<spawn zone="gludio04_1823_17m1">
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+		<npc id="20074" count="2" respawnDelay="27" /> <!-- Androscorpio -->
+	</spawn>
+	<!-- gludio04_1823_18 -->
+	<spawn zone="gludio04_1823_18m1">
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20077" count="2" respawnDelay="27" /> <!-- Androscorpio Hunter -->
+	</spawn>
+	<!-- gludio04_1823_19 -->
+	<spawn zone="gludio04_1823_19m1">
+		<npc id="20070" count="2" respawnDelay="27" /> <!-- Lesser Basilisk -->
+		<npc id="20074" count="2" respawnDelay="27" /> <!-- Androscorpio -->
+	</spawn>
+	<!-- gludio04_1823_20 -->
+	<spawn zone="gludio04_1823_20m1">
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20074" count="3" respawnDelay="27" /> <!-- Androscorpio -->
+	</spawn>
+	<!-- gludio04_1823_21 -->
+	<spawn zone="gludio04_1823_21m1">
+		<npc id="20072" count="2" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20074" count="3" respawnDelay="27" /> <!-- Androscorpio -->
+	</spawn>
+	<!-- gludio04_1823_22 -->
+	<spawn zone="gludio04_1823_22m1">
+		<npc id="20072" count="3" respawnDelay="27" /> <!-- Basilisk -->
+		<npc id="20074" count="2" respawnDelay="27" /> <!-- Androscorpio -->
+		<npc id="20077" count="2" respawnDelay="27" /> <!-- Androscorpio Hunter -->
+	</spawn>
+	<!-- gludio04_1823_23 -->
+	<spawn zone="gludio04_1823_23m1">
+		<npc id="20083" count="2" respawnDelay="27" /> <!-- Granite Golem -->
+		<npc id="20085" count="1" respawnDelay="27" /> <!-- Puncher -->
+		<npc id="20087" count="1" respawnDelay="27" /> <!-- Ant Soldier -->
+	</spawn>
+	<!-- gludio04_1823_24 -->
+	<spawn zone="gludio04_1823_24m1">
+		<npc id="20077" count="3" respawnDelay="27" /> <!-- Androscorpio Hunter -->
+		<npc id="20079" count="1" respawnDelay="27" /> <!-- Ant -->
+		<npc id="20083" count="2" respawnDelay="27" /> <!-- Granite Golem -->
+	</spawn>
+	<!-- gludio04_1823_25 -->
+	<spawn zone="gludio04_1823_25m1">
+		<npc id="20077" count="4" respawnDelay="27" /> <!-- Androscorpio Hunter -->
+		<npc id="20080" count="1" respawnDelay="27" /> <!-- Ant Captain -->
+		<npc id="20083" count="3" respawnDelay="27" /> <!-- Granite Golem -->
+	</spawn>
+	<!-- gludio04_1823_26 -->
+	<spawn zone="gludio04_1823_26m1">
+		<npc id="20192" count="3" respawnDelay="27" /> <!-- Tyrant -->
+		<npc id="20193" count="2" respawnDelay="27" /> <!-- Tyrant Kingpin -->
+	</spawn>
+	<!-- gludio16_1823_02 -->
+	<spawn zone="gludio16_1823_02m1">
+		<npc id="20613" count="4" respawnDelay="80" /> <!-- Lafi Lizardman -->
+		<npc id="20614" count="2" respawnDelay="80" /> <!-- Lafi Lizardman Scout -->
+	</spawn>
+	<!-- gludio16_1823_03 -->
+	<spawn zone="gludio16_1823_03m1">
+		<npc id="20613" count="3" respawnDelay="80" /> <!-- Lafi Lizardman -->
+		<npc id="20614" count="2" respawnDelay="80" /> <!-- Lafi Lizardman Scout -->
+	</spawn>
+	<!-- gludio16_1823_04 -->
+	<spawn zone="gludio16_1823_04m1">
+		<npc id="20614" count="3" respawnDelay="80" /> <!-- Lafi Lizardman Scout -->
+		<npc id="20615" count="2" respawnDelay="80" /> <!-- Ritmal Swordsman -->
+	</spawn>
+	<!-- gludio16_1823_06 -->
+	<spawn zone="gludio16_1823_06m1">
+		<npc id="20614" count="3" respawnDelay="80" /> <!-- Lafi Lizardman Scout -->
+		<npc id="20615" count="2" respawnDelay="80" /> <!-- Ritmal Swordsman -->
+	</spawn>
+	<!-- gludio16_1823_08 -->
+	<spawn zone="gludio16_1823_08m1">
+		<npc id="20615" count="1" respawnDelay="68" /> <!-- Ritmal Swordsman -->
+		<npc id="20615" count="2" respawnDelay="80" /> <!-- Ritmal Swordsman -->
+		<npc id="20616" count="2" respawnDelay="68" /> <!-- Lakin Undine -->
+		<npc id="20616" count="2" respawnDelay="80" /> <!-- Lakin Undine -->
+	</spawn>
+	<!-- gludio16_1823_09 -->
+	<spawn zone="gludio16_1823_09m1">
+		<npc id="20615" count="3" respawnDelay="80" /> <!-- Ritmal Swordsman -->
+		<npc id="20616" count="2" respawnDelay="80" /> <!-- Lakin Undine -->
+	</spawn>
+	<!-- gludio16_1823_10 -->
+	<spawn zone="gludio16_1823_10m1">
+		<npc id="20616" count="3" respawnDelay="80" /> <!-- Lakin Undine -->
+		<npc id="20617" count="2" respawnDelay="80" /> <!-- Sentinel Of Water -->
+	</spawn>
+	<!-- gludio16_1823_11 -->
+	<spawn zone="gludio16_1823_11m1">
+		<npc id="20615" count="1" respawnDelay="68" /> <!-- Ritmal Swordsman -->
+		<npc id="20615" count="2" respawnDelay="80" /> <!-- Ritmal Swordsman -->
+		<npc id="20616" count="2" respawnDelay="68" /> <!-- Lakin Undine -->
+		<npc id="20616" count="2" respawnDelay="80" /> <!-- Lakin Undine -->
+	</spawn>
+	<!-- gludio16_1823_12 -->
+	<spawn zone="gludio16_1823_12m1">
+		<npc id="20617" count="3" respawnDelay="80" /> <!-- Sentinel Of Water -->
+		<npc id="20618" count="2" respawnDelay="80" /> <!-- Kanil Succubus -->
+	</spawn>
+	<!-- gludio16_1823_13 -->
+	<spawn zone="gludio16_1823_13m1">
+		<npc id="20618" count="2" respawnDelay="80" /> <!-- Kanil Succubus -->
+		<npc id="20619" count="1" respawnDelay="80" /> <!-- Rowin Undine -->
+	</spawn>
+	<!-- gludio16_1823_15 -->
+	<spawn zone="gludio16_1823_15m1">
+		<npc id="20618" count="1" respawnDelay="80" /> <!-- Kanil Succubus -->
+		<npc id="20619" count="2" respawnDelay="80" /> <!-- Rowin Undine -->
+	</spawn>
+	<!-- gludio16_1823_17 -->
+	<spawn zone="gludio16_1823_17m1">
+		<npc id="20617" count="2" respawnDelay="80" /> <!-- Sentinel Of Water -->
+		<npc id="20617" count="1" respawnDelay="68" /> <!-- Sentinel Of Water -->
+		<npc id="20618" count="1" respawnDelay="80" /> <!-- Kanil Succubus -->
+		<npc id="20618" count="2" respawnDelay="68" /> <!-- Kanil Succubus -->
+	</spawn>
+	<!-- gludio16_1823_18 -->
+	<spawn zone="gludio16_1823_18m1">
+		<npc id="20618" count="1" respawnDelay="68" /> <!-- Kanil Succubus -->
+		<npc id="20618" count="2" respawnDelay="80" /> <!-- Kanil Succubus -->
+		<npc id="20619" count="2" respawnDelay="68" /> <!-- Rowin Undine -->
+		<npc id="20619" count="1" respawnDelay="80" /> <!-- Rowin Undine -->
+	</spawn>
+	<!-- gludio16_1823_19 -->
+	<spawn zone="gludio16_1823_19m1">
+		<npc id="20618" count="2" respawnDelay="80" /> <!-- Kanil Succubus -->
+		<npc id="20619" count="2" respawnDelay="80" /> <!-- Rowin Undine -->
+	</spawn>
+	<!-- gludio16_1823_21 -->
+	<spawn zone="gludio16_1823_21m1">
+		<npc id="20609" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Lakin Salamander -->
+		<npc id="20610" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Sentinel Of Water -->
+	</spawn>
+	<!-- gludio16_1823_22 -->
+	<spawn zone="gludio16_1823_22m1">
+		<npc id="20610" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Sentinel Of Water -->
+		<npc id="20611" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Dre Vanul Warrior -->
+		<npc id="20611" count="2" respawnDelay="68" respawnRandom="25" /> <!-- Dre Vanul Warrior -->
+		<npc id="20612" count="1" respawnDelay="80" respawnRandom="25" /> <!-- Salamander Rowin -->
+		<npc id="20612" count="2" respawnDelay="68" respawnRandom="25" /> <!-- Salamander Rowin -->
+	</spawn>
+	<!-- gludio16_1823_23 -->
+	<spawn zone="gludio16_1823_23m1">
+		<npc id="20611" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Dre Vanul Warrior -->
+		<npc id="20612" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Salamander Rowin -->
+	</spawn>
+	<!-- gludio16_1823_24 -->
+	<spawn zone="gludio16_1823_24m1">
+		<npc id="20611" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Dre Vanul Warrior -->
+		<npc id="20612" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Salamander Rowin -->
+	</spawn>
+	<!-- gludio16_1823_26 -->
+	<spawn zone="gludio16_1823_26m1">
+		<npc id="20610" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Sentinel Of Water -->
+		<npc id="20611" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Dre Vanul Warrior -->
+	</spawn>
+	<!-- gludio16_1823_28 -->
+	<spawn zone="gludio16_1823_28m1">
+		<npc id="20611" count="3" respawnDelay="80" respawnRandom="25" /> <!-- Dre Vanul Warrior -->
+		<npc id="20612" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Salamander Rowin -->
+	</spawn>
+	<!-- gludio16_1823_29 -->
+	<spawn zone="gludio16_1823_29m1">
+		<npc id="20609" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Lakin Salamander -->
+		<npc id="20610" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Sentinel Of Water -->
+		<npc id="20611" count="1" respawnDelay="80" respawnRandom="25" /> <!-- Dre Vanul Warrior -->
+	</spawn>
+	<!-- gludio16_1823_30 -->
+	<spawn zone="gludio16_1823_30m1">
+		<npc id="20608" count="1" respawnDelay="68" respawnRandom="25" /> <!-- Patin Archer -->
+		<npc id="20609" count="2" respawnDelay="68" respawnRandom="25" /> <!-- Lakin Salamander -->
+		<npc id="20608" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Patin Archer -->
+		<npc id="20609" count="1" respawnDelay="80" respawnRandom="25" /> <!-- Lakin Salamander -->
+	</spawn>
+	<!-- gludio16_1823_31 -->
+	<spawn zone="gludio16_1823_31m1">
+		<npc id="20608" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Patin Archer -->
+		<npc id="20609" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Lakin Salamander -->
+		<npc id="20610" count="1" respawnDelay="80" respawnRandom="25" /> <!-- Sentinel Of Water -->
+		<npc id="20610" count="2" respawnDelay="68" respawnRandom="25" /> <!-- Sentinel Of Water -->
+	</spawn>
+	<!-- gludio16_1823_32 -->
+	<spawn zone="gludio16_1823_32m1">
+		<npc id="20609" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Lakin Salamander -->
+		<npc id="20610" count="1" respawnDelay="80" respawnRandom="25" /> <!-- Sentinel Of Water -->
+		<npc id="20608" count="2" respawnDelay="68" respawnRandom="25" /> <!-- Patin Archer -->
+	</spawn>
+	<!-- gludio16_1823_34 -->
+	<spawn zone="gludio16_1823_34m1">
+		<npc id="20606" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Kuran Kobold -->
+		<npc id="20607" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Kuran Kobold Warrior -->
+	</spawn>
+	<!-- gludio16_1823_35 -->
+	<spawn zone="gludio16_1823_35m1">
+		<npc id="20606" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Kuran Kobold -->
+		<npc id="20607" count="1" respawnDelay="80" respawnRandom="25" /> <!-- Kuran Kobold Warrior -->
+	</spawn>
+	<!-- gludio16_1823_36 -->
+	<spawn zone="gludio16_1823_36m1">
+		<npc id="20606" count="2" respawnDelay="80" respawnRandom="25" /> <!-- Kuran Kobold -->
+		<npc id="20607" count="1" respawnDelay="80" respawnRandom="25" /> <!-- Kuran Kobold Warrior -->
+	</spawn>
+	<!-- gludio16_1823_p13 -->
+	<spawn zone="gludio16_1823_p13m1">
+		<npc id="20747" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Roxide -->
+	</spawn>
+	<!-- gludio16_1823_p15 -->
+	<spawn zone="gludio16_1823_p15m1">
+		<npc id="20747" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Roxide -->
+	</spawn>
+	<!-- gludio16_1823_p18 -->
+	<spawn zone="gludio16_1823_p18m1">
+		<npc id="20747" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Roxide -->
+	</spawn>
+	<!-- gludio16_1823_p19 -->
+	<spawn zone="gludio16_1823_p19m1">
+		<npc id="20747" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Roxide -->
+	</spawn>
+	<!-- gludio16_1823_p21 -->
+	<spawn zone="gludio16_1823_p21m1">
+		<npc id="20749" count="2" respawnDelay="120" respawnRandom="30" /> <!-- Death Fire -->
+	</spawn>
+	<!-- gludio16_1823_p23 -->
+	<spawn zone="gludio16_1823_p23m1">
+		<npc id="20749" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Death Fire -->
+	</spawn>
+	<!-- gludio16_1823_p24 -->
+	<spawn zone="gludio16_1823_p24m1">
+		<npc id="20749" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Death Fire -->
+	</spawn>
+	<!-- gludio16_1823_p28 -->
+	<spawn zone="gludio16_1823_p28m1">
+		<npc id="20749" count="1" respawnDelay="120" respawnRandom="30" /> <!-- Death Fire -->
+	</spawn>
+	<!-- gludio01_qm1823_01 -->
+	<spawn zone="gludio01_qm1823_01m1">
+		<npc id="27116" x="-61264" y="182384" z="-4821" heading="0" respawnDelay="60" /> <!-- Lava Salamander -->
+		<npc id="27116" x="-61312" y="182848" z="-4821" heading="0" respawnDelay="60" /> <!-- Lava Salamander -->
+		<npc id="27116" x="-60784" y="182832" z="-4821" heading="0" respawnDelay="60" /> <!-- Lava Salamander -->
+		<npc id="27116" x="-60816" y="182384" z="-4821" heading="0" respawnDelay="60" /> <!-- Lava Salamander -->
+	</spawn>
+	<!-- gludio04_tb1823_09 -->
+	<spawn zone="gludio04_tb009_m1">
+		<npc id="18266" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- gludio16_tb1823_13 -->
+	<spawn zone="gludio16_tb13_m1">
+		<npc id="18267" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- gludio04_tb1823_22 -->
+	<spawn zone="gludio04_tb022_m1">
+		<npc id="18267" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- gludio16_tb1823_15 -->
+	<spawn zone="gludio16_tb15_m1">
+		<npc id="18268" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- gludio36_tb1823_04 -->
+	<spawn zone="gludio36_tb04_m1">
+		<npc id="18268" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- gludio36_tb1823_09 -->
+	<spawn zone="gludio36_tb09_m1">
+		<npc id="18269" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

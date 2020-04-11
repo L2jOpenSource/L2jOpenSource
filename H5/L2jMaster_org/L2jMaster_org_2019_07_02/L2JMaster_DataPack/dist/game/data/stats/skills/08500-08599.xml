@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="8500" levels="1" name="Pink Talisman - CON">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="magicLvl" val="55" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="CON" val="2" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8501" levels="1" name="Pink Talisman - INT">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="magicLvl" val="55" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="INT" val="2" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8502" levels="1" name="Pink Talisman - WIT">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="magicLvl" val="55" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="WIT" val="2" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8503" levels="1" name="Pink Talisman - MEN">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="magicLvl" val="55" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="MEN" val="2" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8504" levels="1" name="Pink Talisman - Stun Resist">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="magicLvl" val="55" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="DefenceTrait">
+				<param SHOCK="15" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8505" levels="1" name="Pink Talisman - Sleep Resist">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="magicLvl" val="55" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="DefenceTrait">
+				<param SLEEP="15" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8506" levels="1" name="Pink Talisman - Hold Resist">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="magicLvl" val="55" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="DefenceTrait">
+				<param HOLD="15" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8507" levels="1" name="Pink Talisman - Paralyze Resist">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="magicLvl" val="55" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="DefenceTrait">
+				<param PARALYZE="15" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8508" levels="1" name="Pink Talisman - All STAT">
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="icon.etc_talisman_event_i02" />
+		<set name="magicLvl" val="55" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="Buff">
+				<add stat="STR" val="1" />
+				<add stat="DEX" val="1" />
+				<add stat="CON" val="1" />
+				<add stat="INT" val="1" />
+				<add stat="WIT" val="1" />
+				<add stat="MEN" val="1" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8509" levels="1" name="High Angel Circlet">
+		<!-- Confirmed CT2.5 -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="200" />
+		<set name="icon" val="icon.accessory_highangel_circlet_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<cond msgId="113" addName="1">
+			<and>
+				<player canEscape="true" />
+				<not>
+					<player insideZoneId="10501, 10502, 10503, 10504, 10505, 10506, 10507, 10508" />
+				</not>
+			</and>
+		</cond>
+		<effects>
+			<effect name="Escape">
+				<param escapeType="TOWN" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8510" levels="1" name="Summon Friend">
+		<set name="affectScope" val="SINGLE" />
+		<set name="castRange" val="-2" />
+		<set name="effectPoint" val="1000" />
+		<set name="effectRange" val="-2" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="hitTime" val="10000" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="OTHERS" />
+		<cond>
+			<and>
+				<target myPartyExceptMe="true" />
+				<player callPc="true" />
+			</and>
+		</cond>
+		<cond msgId="113" addName="1">
+			<not>
+				<player insideZoneId="10501, 10502, 10503, 10504, 10505, 10506, 10507, 10508" />
+			</not>
+		</cond>
+		<effects>
+			<effect name="CallPc" />
+		</effects>
+	</skill>
+	<skill id="8511" levels="1" name="Blessing of Victory">
+		<!-- Increases Speed by 2%. -->
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="8512" levels="1" name="National Representative Warrior's Tenacity">
+		<!-- "When used, you can obtain at random one 3-, 7-, 10-, 30-day, or unlimited National Representative Warrior's accessory set. Upon skill use, 10 Proofs of Cheers are consumed, and it can be cancelled when attacked." -->
+		<table name="#extractableItems">
+			17186,1,17187,1,17188,1,50.5549;17189,1,17190,1,17191,1,29.7381;17192,1,17193,1,17194,1,16.6667;17195,1,17196,1,17197,1,3.0303;17198,1,17199,1,17200,1,0.01
+		</table>
+		<set name="capsuled_items_skill" val="#extractableItems" />
+		<set name="affectScope" val="SINGLE" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="itemConsumeCount" val="10" />
+		<set name="itemConsumeId" val="17201" /> <!-- Proof of Cheers -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="2000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<!--<cond msgId="2292">
+			<player agathionId="1549,1577" />
+		</cond>-->
+		<cond msgId="129">
+			<and>
+				<player invSize="10" />
+				<player weight="80" />
+			</and>
+		</cond>
+		<effects>
+			<effect name="RestorationRandom" />
+		</effects>
+	</skill>
+	<skill id="8513" levels="1" name="National Representative Spell of Blessing">
+		<!-- "When used, you can obtain at random a Blessed Scroll of Escape or a B~S grade Blessed Weapon/Armor Strengthening Scroll. Upon skill use, 10 Proofs of Cheers are consumed, and it can be cancelled when attacked." -->
+		<table name="#extractableItems">
+			9156,5,20.1158;17258,1,19.2014;17257,1,18.287;17256,1,16.4583;17255,1,13.7153;17264,1,10;17263,1,2.2222
+		</table>
+		<set name="capsuled_items_skill" val="#extractableItems" />
+		<set name="affectScope" val="SINGLE" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="itemConsumeCount" val="10" />
+		<set name="itemConsumeId" val="17201" /> <!-- Proof of Cheers -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="2000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<!--<cond msgId="2292">
+			<player agathionId="1549,1577" />
+		</cond>-->
+		<cond msgId="129">
+			<and>
+				<player invSize="10" />
+				<player weight="80" />
+			</and>
+		</cond>
+		<effects>
+			<effect name="RestorationRandom" />
+		</effects>
+	</skill>
+	<skill id="8514" levels="1" name="National Representative Energy of Victory">
+		<!-- "When used, you can obtain at random one Nevit's Hourglass 1~4 hours and Nevit's Voice. Upon skill use, 10 Proofs of Cheers are consumed, and it can be cancelled when attacked." -->
+		<table name="#extractableItems">
+			17206,1,17212,1,20.9127;17207,1,17212,1,20.9127;17208,1,17212,1,19.2262;17209,1,17212,1,18.5516;17210,1,17212,1,17.5397;17211,1,17212,1,2.8571
+		</table>
+		<set name="capsuled_items_skill" val="#extractableItems" />
+		<set name="affectScope" val="SINGLE" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="itemConsumeCount" val="10" />
+		<set name="itemConsumeId" val="17201" /> <!-- Proof of Cheers -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="2000" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<!--<cond msgId="2292">
+			<player agathionId="1549,1577" />
+		</cond>-->
+		<cond msgId="129">
+			<and>
+				<player invSize="10" />
+				<player weight="80" />
+			</and>
+		</cond>
+		<effects>
+			<effect name="RestorationRandom" />
+		</effects>
+	</skill>
+	<skill id="8515" levels="1" name="Release Seal on Agathion - Ball Trapping Gnosian">
+		<!-- High Five Skill -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1582" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8516" levels="1" name="Release Seal on Agathion - Ball Trapping Orodriel">
+		<!-- High Five Skill -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1577" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8517" levels="1" name="Release Seal on Agathion - Penalty Kick">
+		<!-- High Five Skill -->
+		<set name="blockedInOlympiad" val="true" />
+		<set name="hitTime" val="3000" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="1578" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8518" levels="1" name="Notifier">
+		<!-- Informs you of the re-supply time of the gift given by the Agathion. -->
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="8519" levels="1" name="Notifier">
+		<!-- Informs you of the re-supply time of the gift given by the Agathion. -->
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="8520" levels="1" name="Notifier">
+		<!-- Informs you of the re-supply time of the gift given by the Agathion. -->
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="8521" levels="1" name="Release Seal on Agathion - Antharas">
+		<!-- High Five Skill -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16077" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8522" levels="1" name="Release Seal on Agathion - Nevit's Messenger Kanna">
+		<!-- High Five Skill -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16078" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8523" levels="1" name="Release Seal on Agathion - Guardian of the Dawn Kallesin">
+		<!-- High Five Skill -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="A1" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<set name="targetType" val="SELF" />
+		<effects>
+			<effect name="SummonAgathion">
+				<param npcId="16079" />
+			</effect>
+		</effects>
+	</skill>
+	<skill id="8524" levels="1" name="Hero's Holy Attack">
+		<!-- Divine attck is increased by 250. -->
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="8525" levels="1" name="Hero's Holy Attack">
+		<!-- Increases holy attack by 250. -->
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+	<skill id="8526" levels="1" name="Shiny Bracelet">
+		<!-- 3 Talisman can be equipped. -->
+		<set name="operateType" val="P" />
+		<set name="targetType" val="NONE" />
+	</skill>
+</list>

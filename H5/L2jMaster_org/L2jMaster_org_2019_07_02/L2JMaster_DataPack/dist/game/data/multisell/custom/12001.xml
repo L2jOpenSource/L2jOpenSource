@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Necklace -->
+	<item>
+		<ingredient id="57" count="260000"/>
+		<production id="913" count="1"/>
+	</item>
+	<!-- Earring -->
+	<item>
+		<ingredient id="57" count="200000"/>
+		<production id="850" count="1"/>
+	</item>
+	<!-- Ring -->
+	<item>
+		<ingredient id="57" count="150000"/>
+		<production id="881" count="1"/>
+	</item>
+</list>

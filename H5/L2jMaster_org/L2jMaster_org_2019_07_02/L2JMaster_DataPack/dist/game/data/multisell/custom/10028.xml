@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37618</npc> <!-- Vote Shop	-->
+	</npcs>
+	
+	<!-- Elegia Recipes -->
+	
+	<!-- Recipe - Sealed Elegia Helmet (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18001" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Breastplate (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18002" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Gaiters (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18003" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Gauntlet (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18004" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Boots (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18005" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Leather Helmet (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18006" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Leather Armor (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18007" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Leather Leggins (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18008" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Leather Gloves (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18009" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Leather Boots (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18010" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Circlet (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18011" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Tunic (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18012" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Stockings (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18013" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Gloves (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18014" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Shoes (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18015" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Sigil (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18016" count="1"/>
+	</item>
+	<!-- Recipe - Sealed Elegia Shield (60%) -->
+	<item>
+		<ingredient id="23003" count="50"/>
+		<production id="18017" count="1"/>
+	</item>
+</list>

@@ -1,0 +1,1 @@
+ALTER TABLE `characters` ADD `game_points` BIGINT UNSIGNED DEFAULT 0;

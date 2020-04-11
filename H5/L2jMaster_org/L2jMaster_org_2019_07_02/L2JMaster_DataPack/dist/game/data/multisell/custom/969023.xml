@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37619</npc> <!-- Forgotten Shop -->
+	</npcs>
+	
+	<!-- Spectral Master -->
+	
+	<!-- Protection of Alignment -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10551" count="1" />
+	</item>
+	<!-- Protection of Elemental -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10550" count="1" />
+	</item>
+	<!-- Protection of Rune -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10549" count="1" />
+	</item>
+	<!-- Servitor Barrier -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10576" count="1" />
+	</item>
+	<!-- Excessive Loyalty -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10577" count="1" />
+	</item>
+	<!-- Mutual Response -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="10578" count="1" />
+	</item>
+	<!-- Spirit of the Phantom -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14206" count="1" />
+	</item>
+	<!-- Magician's Will -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="14219" count="1" />
+	</item>
+</list> 

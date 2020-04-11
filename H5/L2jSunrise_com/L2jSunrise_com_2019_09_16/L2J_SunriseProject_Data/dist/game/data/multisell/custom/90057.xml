@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="16174" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="15609" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="15606" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="15612" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="15615" count="1" />
+	</item>
+
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="15618" count="1" />
+	</item>
+	<!-- Moirai Shield -->
+	<item>
+		<ingredient id="40002" count="60" />
+		<production id="15621" count="1" />
+	</item>
+
+
+</list>

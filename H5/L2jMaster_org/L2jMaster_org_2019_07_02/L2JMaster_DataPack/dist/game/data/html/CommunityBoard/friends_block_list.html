@@ -1,0 +1,54 @@
+<html><body><br>
+	<table width=610>
+		<tr>
+			<td width=15>&nbsp;</td>
+			<td width=595 height=30><a action="bypass _bbshome">HOME</a>&nbsp;>&nbsp;Manage Friends</td>
+		</tr>
+	</table><center>
+	<img src="L2UI.squareblank" width="1" height="10">
+	<table border=0 cellspacing=0 cellpadding=0 width=755 bgcolor=A7A19A>
+		<tr>
+			<td WIDTH=5></td>
+			<td height=10 WIDTH=750></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td height=20>
+				<a action="bypass _friendlist">[Friends List]</a>&nbsp;&nbsp;<a action="bypass _block">[Block List]</a>
+			</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td height=10></td>
+		</tr>
+	</table><br>
+	<center>Block List</center>
+	<img src="L2UI.squaregray" width="755" height="1"><br>
+	<table width=755>
+		<tr>
+			<td>%blocklist%</td>
+		</tr>
+	</table><br>
+	<img src="L2UI.squaregray" width="755" height="2"><br>
+	<table width=755 height=45 border=0 cellspacing=0 cellpadding=0>
+		<tr>
+			<td align=center>
+				<table border=0>
+					<tr>
+						<td fixWIDTH=110 align=right>Character Name</td>
+						<td fixWIDTH=130><edit var="block" width=130 height=15 length="64"></td>
+						<td><button value = "Add" action="bypass _block;CBblock; $block" back="l2ui_ct1.button.button_df_small_down" width=70 height=25 fore="l2ui_ct1.button.button_df_small" ></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td width=755 align=right>
+				<img src="L2UI.squaregray" width="755" height="1">
+				<img src="L2UI.squareblank" width="755" height="4">
+				<button value="Delete All" action="bypass _block;delconfirm" back="l2ui_ct1.button.button_df_small_down" width=70 height=25 fore="l2ui_ct1.button.button_df_small">
+			</td>
+		</tr>
+	</table>
+	%deleteMSG%
+</body></html>

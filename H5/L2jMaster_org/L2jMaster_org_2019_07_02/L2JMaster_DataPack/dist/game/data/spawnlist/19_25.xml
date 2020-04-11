@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio53_npc1925_1 -->
+	<spawn zone="glduio53_npc1925_1m1">
+		<npc id="32307" x="-5952" y="249344" z="-3117" heading="0" respawnDelay="60" /> <!-- Dolmen -->
+	</spawn>
+</list>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37618</npc> <!-- Vote Shop -->
+	</npcs>
+	
+	<!-- Mithril Shirt - Mithril Shirt - HP -->
+	<item>
+		<ingredient id="23003" count="100" />
+		<production id="14961" count="1" />
+	</item>
+	<!-- Mithril Shirt - Mithril Shirt - MP -->
+	<item>
+		<ingredient id="23003" count="100" />
+		<production id="14957" count="1" />
+	</item>
+	<!-- Mithril Shirt - Mithril Shirt - CP -->
+	<item>
+		<ingredient id="23003" count="100" />
+		<production id="14953" count="1" />
+	</item>
+	<!-- Striped Mithril Shirt - Striped Mithril Shirt - HP -->
+	<item>
+		<ingredient id="23003" count="50" />
+		<production id="10512" count="1" />
+	</item>
+	<!-- Striped Mithril Shirt - Striped Mithril Shirt - MP -->
+	<item>
+		<ingredient id="23003" count="50" />
+		<production id="10513" count="1" />
+	</item>
+	<!-- Striped Mithril Shirt - Striped Mithril Shirt - CP -->
+	<item>
+		<ingredient id="23003" count="50" />
+		<production id="10514" count="1" />
+	</item>
+	<!-- Giant's Codex - Mastery -->
+	<item>
+		<ingredient id="23003" count="10" />
+		<production id="9627" count="1" />
+	</item>
+	<!-- Top-Grade Life Stone - Level 84 -->
+	<item>
+		<ingredient id="23003" count="200" />
+		<production id="14169" count="1" />
+	</item>
+	<!-- Top-Grade Life Stone - Level 76 -->
+	<item>
+		<ingredient id="23003" count="200" />
+		<production id="8762" count="1" />
+	</item>
+	<!-- Accessory Type Life Stone - Level 84 -->
+	<item>
+		<ingredient id="23003" count="200" />
+		<production id="14008" count="1" />
+	</item>
+</list>

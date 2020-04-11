@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event name="HallowedYou" active="27 10 2016-01 11 2016" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/eventConfig.xsd">
+	<spawnlist>
+		<add npc="13161" x="44199" y="-48432" z="-796" heading="27931" /> <!-- Rune -->
+		<add npc="13161" x="147786" y="25938" z="-2012" heading="46171" /> <!-- Aden -->
+		<add npc="13161" x="147383" y="-55956" z="-2780" heading="0" /> <!-- Goddard -->
+	</spawnlist>
+	<messages>
+		<add type="onEnd" text="Hallowed You: Event end!" />
+		<add type="onEnter" text="Hallowed You: Event started!" />
+	</messages>
+</event>

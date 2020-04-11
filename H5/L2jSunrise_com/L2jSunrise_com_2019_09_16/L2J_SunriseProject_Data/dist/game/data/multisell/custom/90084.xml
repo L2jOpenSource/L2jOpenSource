@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Quest -->
+
+
+<list maintainEnchantment="false"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Hellfire Oil -->
+	<item>
+		<ingredient id="40002" count="2000" />
+		<production id="6033" count="1" />
+	</item>
+
+	<!-- Lunargent -->
+	<item>
+		<ingredient id="40002" count="2000" />
+		<production id="6029" count="1" />
+	</item>
+
+	<!-- Baium -->
+	<item>
+		<ingredient id="40002" count="2000" />
+		<production id="4295" count="1" />
+	</item>
+
+	<!-- Antharas -->
+	<item>
+		<ingredient id="40002" count="2000" />
+		<production id="3865" count="1" />
+	</item>
+
+	<!-- Valakas -->
+	<item>
+		<ingredient id="40002" count="2000" />
+		<production id="7267" count="1" />
+	</item>
+
+	<!-- Frintezza -->
+	<item>
+		<ingredient id="40002" count="6000" />
+		<production id="7256" count="1" />
+		<production id="7257" count="1" />
+		<production id="7258" count="1" />
+		<production id="7259" count="1" />
+		<production id="7262" count="1" />
+		<production id="8073" count="1" />
+	</item>
+
+
+
+</list>

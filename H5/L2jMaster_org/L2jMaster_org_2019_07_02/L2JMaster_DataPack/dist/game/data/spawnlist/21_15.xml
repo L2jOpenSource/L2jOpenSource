@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- rune07_azit2115_21 -->
+	<spawn zone="rune07_azit2115_21">
+		<npc id="16019" count="2" respawnDelay="1800" /> <!-- Tiny Baby Buffalo -->
+		<npc id="16023" count="2" respawnDelay="1800" /> <!-- Tiny Baby Kookaburra -->
+		<npc id="16021" count="1" respawnDelay="1800" /> <!-- Tiny Baby Cougar -->
+	</spawn>
+	<!-- rune07_azit2115_22 -->
+	<spawn zone="rune07_azit2115_22">
+		<npc id="16019" count="2" respawnDelay="1800" /> <!-- Tiny Baby Buffalo -->
+		<npc id="16023" count="2" respawnDelay="1800" /> <!-- Tiny Baby Kookaburra -->
+		<npc id="16021" count="1" respawnDelay="1800" /> <!-- Tiny Baby Cougar -->
+	</spawn>
+	<!-- rune07_azit2115_23 -->
+	<spawn zone="rune07_azit2115_23">
+		<npc id="16019" count="2" respawnDelay="1800" /> <!-- Tiny Baby Buffalo -->
+		<npc id="16023" count="2" respawnDelay="1800" /> <!-- Tiny Baby Kookaburra -->
+		<npc id="16021" count="1" respawnDelay="1800" /> <!-- Tiny Baby Cougar -->
+	</spawn>
+	<!-- rune07_azit2115_24 -->
+	<spawn zone="rune07_azit2115_24">
+		<npc id="16019" count="2" respawnDelay="1800" /> <!-- Tiny Baby Buffalo -->
+		<npc id="16023" count="2" respawnDelay="1800" /> <!-- Tiny Baby Kookaburra -->
+		<npc id="16021" count="1" respawnDelay="1800" /> <!-- Tiny Baby Cougar -->
+	</spawn>
+	<!-- rune07_azit2115_25 -->
+	<spawn zone="rune07_azit2115_25">
+		<npc id="16019" count="2" respawnDelay="1800" /> <!-- Tiny Baby Buffalo -->
+		<npc id="16023" count="2" respawnDelay="1800" /> <!-- Tiny Baby Kookaburra -->
+		<npc id="16021" count="1" respawnDelay="1800" /> <!-- Tiny Baby Cougar -->
+	</spawn>
+	<!-- rune07_azit2115_11 -->
+	<spawn zone="rune07_azit2115_11m1">
+		<npc id="35627" x="53508" y="-93776" z="-1588" heading="36000" respawnDelay="60" /> <!-- Messenger -->
+	</spawn>
+	<!-- rune06_npc2115_01 -->
+	<spawn zone="rune06_npc2115_01m1">
+		<npc id="31366" x="53663" y="-83971" z="-2720" heading="24000" respawnDelay="60" /> <!-- Feed Seller -->
+	</spawn>
+	<!-- rune06_npc2115_02 -->
+	<spawn zone="rune06_npc2115_02m1">
+		<npc id="31366" x="47952" y="-78256" z="-3472" heading="5000" respawnDelay="60" /> <!-- Feed Seller -->
+	</spawn>
+	<!-- rune06_npc2115_03 -->
+	<spawn zone="rune06_npc2115_03m1">
+		<npc id="31366" x="49344" y="-87648" z="-2707" heading="9000" respawnDelay="60" /> <!-- Feed Seller -->
+	</spawn>
+	<!-- rune06_npc2115_04 -->
+	<spawn zone="rune06_npc2115_04m1">
+		<npc id="31366" x="55472" y="-88720" z="-2117" heading="21000" respawnDelay="60" /> <!-- Feed Seller -->
+	</spawn>
+	<!-- rune06_npc2115_05 -->
+	<spawn zone="rune06_npc2115_05m1">
+		<npc id="32768" x="53774" y="-81907" z="-2752" heading="-26064" respawnDelay="60" /> <!-- Kelleyia -->
+	</spawn>
+	<!-- rune06_npc2115_06 -->
+	<spawn zone="rune06_npc2115_06m1">
+		<npc id="31537" x="53751" y="-83888" z="-2720" heading="-24000" respawnDelay="60" /> <!-- Tunatun -->
+	</spawn>
+	<!-- rune06_npc2115_07 -->
+	<spawn zone="rune06_npc2115_07m1">
+		<npc id="31366" x="56824" y="-76243" z="-3576" heading="-24416" respawnDelay="60" /> <!-- Feed Seller -->
+	</spawn>
+	<!-- rune06_npc2115_08 -->
+	<spawn zone="rune06_npc2115_08m1">
+		<npc id="31366" x="53814" y="-81977" z="-2744" heading="-26064" respawnDelay="60" /> <!-- Feed Seller -->
+	</spawn>
+	<!-- rune07_npc2115_01 -->
+	<spawn zone="rune07_npc2115_01m1">
+		<npc id="35625" x="55184" y="-93040" z="-1360" heading="35000" respawnDelay="60" /> <!-- Outer Doorman -->
+		<npc id="35626" x="55400" y="-93008" z="-1360" heading="3000" respawnDelay="60" /> <!-- Outer Doorman -->
+	</spawn>
+	<!-- rune07_npc2115_02 -->
+	<spawn zone="rune07_npc2115_02m1">
+		<npc id="35623" x="59884" y="-94204" z="-1338" heading="27000" respawnDelay="60" /> <!-- Inner Doorman -->
+		<npc id="35624" x="59920" y="-94336" z="-1349" heading="60000" respawnDelay="60" /> <!-- Inner Doorman -->
+	</spawn>
+	<!-- rune07_npc2115_04 -->
+	<spawn zone="rune07_npc2115_04m1">
+		<npc id="35628" x="60880" y="-94320" z="-1349" heading="27000" respawnDelay="60" /> <!-- Quigby -->
+	</spawn>
+	<!-- luckpy_luckpy_80_2115_01 -->
+	<spawn zone="luckpy_80_2115_jackpot001m1">
+		<npc id="2501" count="6" respawnDelay="14400" respawnRandom="13200" randRate="51" /> <!-- Lucky Pig -->
+	</spawn>
+	<!-- rune06_2115_01 -->
+	<spawn zone="rune06_2115_01m1">
+		<npc id="18873" count="2" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="2" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_02 -->
+	<spawn zone="rune06_2115_02m1">
+		<npc id="18873" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+	</spawn>
+	<!-- rune06_2115_03 -->
+	<spawn zone="rune06_2115_03m1">
+		<npc id="18873" count="2" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="2" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_04 -->
+	<spawn zone="rune06_2115_04m1">
+		<npc id="18873" count="2" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_05 -->
+	<spawn zone="rune06_2115_05m1">
+		<npc id="18873" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="2" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_06 -->
+	<spawn zone="rune06_2115_06m1">
+		<npc id="18873" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="2" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_07 -->
+	<spawn zone="rune06_2115_07m1">
+		<npc id="18873" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="2" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_08 -->
+	<spawn zone="rune06_2115_08m1">
+		<npc id="18873" count="2" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="2" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_09 -->
+	<spawn zone="rune06_2115_09m1">
+		<npc id="18880" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_10 -->
+	<spawn zone="rune06_2115_10m1">
+		<npc id="18906" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18873" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_11 -->
+	<spawn zone="rune06_2115_11m1">
+		<npc id="18906" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18873" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="5" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_12 -->
+	<spawn zone="rune06_2115_12m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18873" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_13 -->
+	<spawn zone="rune06_2115_13m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18873" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_14 -->
+	<spawn zone="rune06_2115_14m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18873" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_15 -->
+	<spawn zone="rune06_2115_15m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18873" count="5" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_16 -->
+	<spawn zone="rune06_2115_16m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18873" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18880" count="5" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+	</spawn>
+	<!-- rune06_2115_17 -->
+	<spawn zone="rune06_2115_17m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18873" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18887" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+	</spawn>
+	<!-- rune06_2115_18 -->
+	<spawn zone="rune06_2115_18m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18880" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+		<npc id="18894" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_19 -->
+	<spawn zone="rune06_2115_19m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18873" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18887" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+	</spawn>
+	<!-- rune06_2115_20 -->
+	<spawn zone="rune06_2115_20m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18880" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+		<npc id="18894" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_21 -->
+	<spawn zone="rune06_2115_21m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18873" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Kookaburra -->
+		<npc id="18887" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+	</spawn>
+	<!-- rune06_2115_22 -->
+	<spawn zone="rune06_2115_22m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18880" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Cougar -->
+		<npc id="18887" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_23 -->
+	<spawn zone="rune06_2115_23m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_24 -->
+	<spawn zone="rune06_2115_24m1">
+		<npc id="18906" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_25 -->
+	<spawn zone="rune06_2115_25m1">
+		<npc id="18906" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="6" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="6" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_26 -->
+	<spawn zone="rune06_2115_26m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="5" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_27 -->
+	<spawn zone="rune06_2115_27m1">
+		<npc id="18906" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_28 -->
+	<spawn zone="rune06_2115_28m1">
+		<npc id="18906" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="2" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="6" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="6" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_29 -->
+	<spawn zone="rune06_2115_29m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="6" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="6" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_30 -->
+	<spawn zone="rune06_2115_30m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_31 -->
+	<spawn zone="rune06_2115_31m1">
+		<npc id="18887" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+	</spawn>
+	<!-- rune06_2115_32 -->
+	<spawn zone="rune06_2115_32m1">
+		<npc id="18894" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_33 -->
+	<spawn zone="rune06_2115_33m1">
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="5" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="5" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_34 -->
+	<spawn zone="rune06_2115_34m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18887" count="6" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="6" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_35 -->
+	<spawn zone="rune06_2115_35m1">
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+	</spawn>
+	<!-- rune06_2115_36 -->
+	<spawn zone="rune06_2115_36m1">
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_37 -->
+	<spawn zone="rune06_2115_37m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18887" count="5" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="6" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_38 -->
+	<spawn zone="rune06_2115_38m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18894" count="5" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_39 -->
+	<spawn zone="rune06_2115_39m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="3" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="5" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_40 -->
+	<spawn zone="rune06_2115_40m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="5" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="4" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_2115_41 -->
+	<spawn zone="rune06_2115_41m1">
+		<npc id="18906" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Farm Bandit -->
+		<npc id="18907" count="1" respawnDelay="45" respawnRandom="5" /> <!-- Beast Devourer -->
+		<npc id="18887" count="6" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Buffalo -->
+		<npc id="18894" count="6" respawnDelay="40" respawnRandom="5" /> <!-- Baby Alpine Grendel -->
+	</spawn>
+	<!-- rune06_tb2115_01 -->
+	<spawn zone="rune06_tb2115_01m1">
+		<npc id="18286" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- ssq2_door_2115_01 -->
+	<spawn zone="ssq2_door_2115_01m1">
+		<npc id="32862" x="43368" y="-87912" z="-2842" heading="32768" respawnDelay="60" /> <!-- Gruff Looking Man -->
+	</spawn>
+</list>

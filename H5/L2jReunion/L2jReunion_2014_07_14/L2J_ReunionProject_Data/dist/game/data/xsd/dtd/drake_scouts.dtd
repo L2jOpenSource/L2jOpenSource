@@ -1,0 +1,14 @@
+<!ELEMENT list (drakeScout)* >
+<!ELEMENT drakeScout (pathRoute)* >
+<!ELEMENT pathRoute EMPTY >
+
+<!ATTLIST drakeScout
+	id CDATA #REQUIRED
+>
+
+<!ATTLIST pathRoute
+	position CDATA #REQUIRED
+	locX CDATA #REQUIRED
+	locY CDATA #REQUIRED
+	locZ CDATA #REQUIRED
+>

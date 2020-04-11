@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- new_queen_ant_guard_room -->
+	<zone name="new_queen_ant_guard_room" type="NpcSpawnTerritory" shape="NPoly" minZ="-5866" maxZ="-5666">
+		<node X="-20873" Y="179313" />
+		<node X="-21102" Y="179511" />
+		<node X="-21154" Y="179816" />
+		<node X="-21502" Y="180054" />
+		<node X="-21828" Y="179930" />
+		<node X="-22015" Y="179449" />
+		<node X="-22187" Y="179239" />
+		<node X="-22069" Y="178967" />
+		<node X="-21852" Y="179031" />
+		<node X="-21766" Y="178964" />
+		<node X="-21710" Y="178743" />
+		<node X="-21509" Y="178713" />
+		<node X="-21293" Y="178832" />
+		<node X="-21381" Y="179118" />
+		<node X="-21247" Y="179137" />
+	</zone>
+	<!-- queen_ant_guard_room -->
+	<zone name="queen_ant_guard_room" type="NpcSpawnTerritory" shape="NPoly" minZ="-5947" maxZ="-5547">
+		<node X="-21490" Y="178613" />
+		<node X="-20762" Y="179129" />
+		<node X="-20310" Y="182673" />
+		<node X="-20570" Y="183381" />
+		<node X="-21594" Y="183945" />
+		<node X="-22770" Y="183129" />
+		<node X="-22890" Y="182205" />
+		<node X="-22258" Y="178961" />
+	</zone>
+</list>

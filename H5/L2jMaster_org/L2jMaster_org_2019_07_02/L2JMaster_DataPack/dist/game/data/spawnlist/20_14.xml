@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- lyonn05_npc2014_001 -->
+	<spawn zone="lyonn_npc2014_00101">
+		<npc id="30649" x="21420" y="-107787" z="-2926" heading="30000" respawnDelay="60" /> <!-- Ancestor Martankus -->
+	</spawn>
+	<!-- lyonn05_npc2014_002 -->
+	<spawn zone="lyonn_npc2014_00201">
+		<npc id="30672" x="19092" y="-117187" z="-3136" heading="32768" respawnDelay="60" /> <!-- Dubabah -->
+	</spawn>
+	<!-- lyonn05_npc2014_003 -->
+	<spawn zone="lyonn_npc2014_00301">
+		<npc id="30675" x="19412" y="-118142" z="-3136" heading="0" respawnDelay="60" /> <!-- Corpse Of Kamur -->
+	</spawn>
+	<!-- schuttgart18_npc2014_01 -->
+	<spawn zone="schuttgart18_npc2014_01m1">
+		<npc id="32056" x="26828" y="-125028" z="-704" heading="-42000" respawnDelay="60" /> <!-- Aren -->
+	</spawn>
+	<!-- lyonn08_2014_01 -->
+	<spawn zone="lyonn08_2014_01m1">
+		<npc id="20474" count="4" respawnDelay="21" /> <!-- Kasha Spider -->
+		<npc id="20479" count="5" respawnDelay="21" /> <!-- Kasha Bear -->
+		<npc id="20476" count="4" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+	</spawn>
+	<!-- lyonn08_2014_02 -->
+	<spawn zone="lyonn08_2014_02m1">
+		<npc id="20364" count="5" respawnDelay="21" /> <!-- Maraku Werewolf Chieftain -->
+		<npc id="20474" count="5" respawnDelay="21" /> <!-- Kasha Spider -->
+		<npc id="20479" count="5" respawnDelay="21" /> <!-- Kasha Bear -->
+	</spawn>
+	<!-- lyonn08_2014_03 -->
+	<spawn zone="lyonn08_2014_03m1">
+		<npc id="20479" count="5" respawnDelay="21" /> <!-- Kasha Bear -->
+		<npc id="20476" count="6" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+		<npc id="20478" count="5" respawnDelay="21" /> <!-- Kasha Blade Spider -->
+	</spawn>
+	<!-- lyonn08_2014_04 -->
+	<spawn zone="lyonn08_2014_04m1">
+		<npc id="20428" count="4" respawnDelay="21" /> <!-- Evil Eye Patroller -->
+		<npc id="20364" count="5" respawnDelay="21" /> <!-- Maraku Werewolf Chieftain -->
+		<npc id="20474" count="4" respawnDelay="21" /> <!-- Kasha Spider -->
+	</spawn>
+	<!-- lyonn08_2014_05 -->
+	<spawn zone="lyonn08_2014_05m1">
+		<npc id="20364" count="5" respawnDelay="21" /> <!-- Maraku Werewolf Chieftain -->
+		<npc id="20474" count="6" respawnDelay="21" /> <!-- Kasha Spider -->
+		<npc id="20479" count="6" respawnDelay="21" /> <!-- Kasha Bear -->
+	</spawn>
+	<!-- lyonn08_2014_06 -->
+	<spawn zone="lyonn08_2014_06m1">
+		<npc id="20479" count="4" respawnDelay="21" /> <!-- Kasha Bear -->
+		<npc id="20476" count="4" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+		<npc id="20478" count="4" respawnDelay="21" /> <!-- Kasha Blade Spider -->
+	</spawn>
+	<!-- lyonn08_2014_07 -->
+	<spawn zone="lyonn08_2014_07m1">
+		<npc id="20428" count="4" respawnDelay="21" /> <!-- Evil Eye Patroller -->
+		<npc id="20364" count="4" respawnDelay="21" /> <!-- Maraku Werewolf Chieftain -->
+		<npc id="20474" count="4" respawnDelay="21" /> <!-- Kasha Spider -->
+	</spawn>
+	<!-- lyonn08_2014_08 -->
+	<spawn zone="lyonn08_2014_08m1">
+		<npc id="20479" count="3" respawnDelay="21" /> <!-- Kasha Bear -->
+		<npc id="20476" count="2" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+		<npc id="20478" count="2" respawnDelay="21" /> <!-- Kasha Blade Spider -->
+	</spawn>
+	<!-- lyonn08_2014_10 -->
+	<spawn zone="lyonn08_2014_10m1">
+		<npc id="20479" count="6" respawnDelay="21" /> <!-- Kasha Bear -->
+		<npc id="20476" count="6" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+		<npc id="20478" count="6" respawnDelay="21" /> <!-- Kasha Blade Spider -->
+	</spawn>
+	<!-- lyonn08_2014_11 -->
+	<spawn zone="lyonn08_2014_11m1">
+		<npc id="20479" count="3" respawnDelay="21" /> <!-- Kasha Bear -->
+		<npc id="20476" count="3" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+		<npc id="20478" count="3" respawnDelay="21" /> <!-- Kasha Blade Spider -->
+	</spawn>
+	<!-- lyonn08_2014_22 -->
+	<spawn zone="lyonn08_2014_22m1">
+		<npc id="20478" count="3" respawnDelay="21" /> <!-- Kasha Blade Spider -->
+	</spawn>
+	<!-- lyonn08_2014_23 -->
+	<spawn zone="lyonn08_2014_23m1">
+		<npc id="20478" count="3" respawnDelay="21" /> <!-- Kasha Blade Spider -->
+	</spawn>
+	<!-- lyonn08_2014_27 -->
+	<spawn zone="lyonn08_2014_27m1">
+		<npc id="20479" count="3" respawnDelay="21" /> <!-- Kasha Bear -->
+		<npc id="20472" count="4" respawnDelay="21" /> <!-- Kasha Fang Spider -->
+		<npc id="20478" count="2" respawnDelay="21" /> <!-- Kasha Blade Spider -->
+	</spawn>
+	<!-- lyonn09_2014_13 -->
+	<spawn zone="lyonn09_2014_13m1">
+		<npc id="21257" count="4" respawnDelay="15" /> <!-- Evil Eye Seer -->
+		<npc id="21117" count="5" respawnDelay="15" /> <!-- Kasha Imp -->
+		<npc id="21118" count="4" respawnDelay="15" /> <!-- Baar Dre Vanul -->
+	</spawn>
+	<!-- oren_t20_14_018 -->
+	<spawn zone="oren_t20_14_018m1">
+		<npc id="21121" count="4" respawnDelay="15" /> <!-- Kasha Dire Wolf -->
+		<npc id="21122" count="5" respawnDelay="15" /> <!-- Kasha Bugbear -->
+		<npc id="21123" count="4" respawnDelay="15" /> <!-- Baar Dre Vanul Destroyer -->
+	</spawn>
+	<!-- lyonn09_2014_19 -->
+	<spawn zone="lyonn09_2014_19m1">
+		<npc id="21121" count="4" respawnDelay="15" /> <!-- Kasha Dire Wolf -->
+		<npc id="21122" count="4" respawnDelay="15" /> <!-- Kasha Bugbear -->
+		<npc id="21123" count="3" respawnDelay="15" /> <!-- Baar Dre Vanul Destroyer -->
+	</spawn>
+	<!-- lyonn09_2014_20 -->
+	<spawn zone="lyonn09_2014_20m1">
+		<npc id="21121" count="3" respawnDelay="15" /> <!-- Kasha Dire Wolf -->
+		<npc id="21122" count="2" respawnDelay="15" /> <!-- Kasha Bugbear -->
+		<npc id="21123" count="2" respawnDelay="15" /> <!-- Baar Dre Vanul Destroyer -->
+	</spawn>
+	<!-- lyonn09_2014_21 -->
+	<spawn zone="lyonn09_2014_21m1">
+		<npc id="21121" count="3" respawnDelay="15" /> <!-- Kasha Dire Wolf -->
+		<npc id="21122" count="3" respawnDelay="15" /> <!-- Kasha Bugbear -->
+		<npc id="21123" count="3" respawnDelay="15" /> <!-- Baar Dre Vanul Destroyer -->
+	</spawn>
+	<!-- lyonn09_2014_24 -->
+	<spawn zone="lyonn09_2014_24m1">
+		<npc id="21119" count="2" respawnDelay="15" /> <!-- Hobgoblin -->
+	</spawn>
+	<!-- lyonn09_2014_25 -->
+	<spawn zone="lyonn09_2014_25m1">
+		<npc id="21122" count="2" respawnDelay="15" /> <!-- Kasha Bugbear -->
+	</spawn>
+	<!-- lyonn09_2014_26 -->
+	<spawn zone="lyonn09_2014_26m1">
+		<npc id="21122" count="2" respawnDelay="15" /> <!-- Kasha Bugbear -->
+	</spawn>
+	<!-- lyonn05_2014_01 -->
+	<spawn zone="lyonn05_2014_01m1">
+		<npc id="20415" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Scarlet Salamander -->
+		<npc id="20416" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Scarlet Salamander Elder -->
+	</spawn>
+	<!-- lyonn05_2014_02 -->
+	<spawn zone="lyonn05_2014_02m1">
+		<npc id="20415" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Scarlet Salamander -->
+		<npc id="20416" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Scarlet Salamander Elder -->
+	</spawn>
+	<!-- lyonn05_2014_03 -->
+	<spawn zone="lyonn05_2014_03m1">
+		<npc id="20415" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Scarlet Salamander -->
+		<npc id="20416" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Scarlet Salamander Elder -->
+	</spawn>
+	<!-- lyonn05_2014_04 -->
+	<spawn zone="lyonn05_2014_04m1">
+		<npc id="20415" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Scarlet Salamander -->
+		<npc id="20416" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Scarlet Salamander Elder -->
+	</spawn>
+	<!-- lyonn05_2014_05 -->
+	<spawn zone="lyonn05_2014_05m1">
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+		<npc id="20429" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Lookout -->
+		<npc id="20489" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Quicksilver Beast -->
+	</spawn>
+	<!-- lyonn05_2014_06 -->
+	<spawn zone="lyonn05_2014_06m1">
+		<npc id="20489" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Quicksilver Beast -->
+		<npc id="20487" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman -->
+		<npc id="20488" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman Hunter -->
+	</spawn>
+	<!-- lyonn05_2014_07 -->
+	<spawn zone="lyonn05_2014_07m1">
+		<npc id="20489" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Quicksilver Beast -->
+		<npc id="20487" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman -->
+		<npc id="20488" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman Hunter -->
+	</spawn>
+	<!-- lyonn05_2014_08 -->
+	<spawn zone="lyonn05_2014_08m1">
+		<npc id="20489" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Quicksilver Beast -->
+		<npc id="20487" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman -->
+		<npc id="20488" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman Hunter -->
+	</spawn>
+	<!-- lyonn05_2014_09 -->
+	<spawn zone="lyonn05_2014_09m1">
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+		<npc id="20429" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Lookout -->
+		<npc id="20489" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Quicksilver Beast -->
+	</spawn>
+	<!-- lyonn05_2014_10 -->
+	<spawn zone="lyonn05_2014_10m1">
+		<npc id="20488" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman Hunter -->
+	</spawn>
+	<!-- lyonn05_2014_11 -->
+	<spawn zone="lyonn05_2014_11m1">
+		<npc id="20542" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Skeleton Longbowman -->
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_12 -->
+	<spawn zone="lyonn05_2014_12m1">
+		<npc id="20542" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Skeleton Longbowman -->
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_13 -->
+	<spawn zone="lyonn05_2014_13m1">
+		<npc id="20542" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Skeleton Longbowman -->
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_14 -->
+	<spawn zone="lyonn05_2014_14m1">
+		<npc id="20543" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Ghost -->
+		<npc id="20329" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Ghost Guardian -->
+	</spawn>
+	<!-- lyonn05_2014_16 -->
+	<spawn zone="lyonn05_2014_16m1">
+		<npc id="20543" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Ghost -->
+		<npc id="20329" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Ghost Guardian -->
+	</spawn>
+	<!-- lyonn05_2014_59 -->
+	<spawn zone="lyonn05_2014_59m1">
+		<npc id="20543" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Ghost -->
+		<npc id="20329" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Ghost Guardian -->
+	</spawn>
+	<!-- lyonn05_2014_17 -->
+	<spawn zone="lyonn05_2014_17m1">
+		<npc id="20375" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Varangka's Escort -->
+		<npc id="20374" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Varangka's Guard -->
+	</spawn>
+	<!-- lyonn05_2014_18 -->
+	<spawn zone="lyonn05_2014_18m1">
+		<npc id="20375" count="2" respawnDelay="68" respawnRandom="20" /> <!-- Varangka's Escort -->
+		<npc id="20374" count="2" respawnDelay="68" respawnRandom="20" /> <!-- Varangka's Guard -->
+	</spawn>
+	<!-- lyonn05_2014_19 -->
+	<spawn zone="lyonn05_2014_19m1">
+		<npc id="20542" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Skeleton Longbowman -->
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_20 -->
+	<spawn zone="lyonn05_2014_20m1">
+		<npc id="20542" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Skeleton Longbowman -->
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_21 -->
+	<spawn zone="lyonn05_2014_21m1">
+		<npc id="20542" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Skeleton Longbowman -->
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_22 -->
+	<spawn zone="lyonn05_2014_22m1">
+		<npc id="20542" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Skeleton Longbowman -->
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_23 -->
+	<spawn zone="lyonn05_2014_23m1">
+		<npc id="20542" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Skeleton Longbowman -->
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_24 -->
+	<spawn zone="lyonn05_2014_24m1">
+		<npc id="20542" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Skeleton Longbowman -->
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_25 -->
+	<spawn zone="lyonn05_2014_25m1">
+		<npc id="20542" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Skeleton Longbowman -->
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_26 -->
+	<spawn zone="lyonn05_2014_26m1">
+		<npc id="20542" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Skeleton Longbowman -->
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_27 -->
+	<spawn zone="lyonn05_2014_27m1">
+		<npc id="20488" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman Hunter -->
+	</spawn>
+	<!-- lyonn05_2014_28 -->
+	<spawn zone="lyonn05_2014_28m1">
+		<npc id="20491" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Crypt Horror -->
+		<npc id="20487" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman -->
+		<npc id="20488" count="2" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman Hunter -->
+	</spawn>
+	<!-- lyonn05_2014_29 -->
+	<spawn zone="lyonn05_2014_29m1">
+		<npc id="20491" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Crypt Horror -->
+		<npc id="20487" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman -->
+		<npc id="20488" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman Hunter -->
+	</spawn>
+	<!-- lyonn05_2014_30 -->
+	<spawn zone="lyonn05_2014_30m1">
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+		<npc id="20429" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Lookout -->
+		<npc id="20491" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Crypt Horror -->
+	</spawn>
+	<!-- lyonn05_2014_31 -->
+	<spawn zone="lyonn05_2014_31m1">
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+		<npc id="20429" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Lookout -->
+		<npc id="20491" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Crypt Horror -->
+	</spawn>
+	<!-- lyonn05_2014_32 -->
+	<spawn zone="lyonn05_2014_32m1">
+		<npc id="20491" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Crypt Horror -->
+	</spawn>
+	<!-- lyonn05_2014_33 -->
+	<spawn zone="lyonn05_2014_33m1">
+		<npc id="20491" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Crypt Horror -->
+	</spawn>
+	<!-- lyonn05_2014_34 -->
+	<spawn zone="lyonn05_2014_34m1">
+		<npc id="20427" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Watcher -->
+		<npc id="20340" count="2" respawnDelay="68" respawnRandom="20" /> <!-- Slave Skeleton -->
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+	</spawn>
+	<!-- lyonn05_2014_35 -->
+	<spawn zone="lyonn05_2014_35m1">
+		<npc id="20427" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Watcher -->
+		<npc id="20340" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Slave Skeleton -->
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+	</spawn>
+	<!-- lyonn05_2014_36 -->
+	<spawn zone="lyonn05_2014_36m1">
+		<npc id="20427" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Watcher -->
+		<npc id="20340" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Slave Skeleton -->
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+	</spawn>
+	<!-- lyonn05_2014_37 -->
+	<spawn zone="lyonn05_2014_37m1">
+		<npc id="20427" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Watcher -->
+		<npc id="20340" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Slave Skeleton -->
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+	</spawn>
+	<!-- lyonn05_2014_38 -->
+	<spawn zone="lyonn05_2014_38m1">
+		<npc id="20427" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Watcher -->
+		<npc id="20340" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Slave Skeleton -->
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+	</spawn>
+	<!-- lyonn05_2014_39 -->
+	<spawn zone="lyonn05_2014_39m1">
+		<npc id="20427" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Watcher -->
+		<npc id="20340" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Slave Skeleton -->
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+	</spawn>
+	<!-- lyonn05_2014_40 -->
+	<spawn zone="lyonn05_2014_40m1">
+		<npc id="20340" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Slave Skeleton -->
+	</spawn>
+	<!-- lyonn05_2014_41 -->
+	<spawn zone="lyonn05_2014_41m1">
+		<npc id="20340" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Slave Skeleton -->
+	</spawn>
+	<!-- lyonn05_2014_42 -->
+	<spawn zone="lyonn05_2014_421">
+		<npc id="20429" count="2" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Lookout -->
+	</spawn>
+	<!-- lyonn05_2014_43 -->
+	<spawn zone="lyonn05_2014_43m1">
+		<npc id="20429" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Lookout -->
+	</spawn>
+	<!-- lyonn05_2014_44 -->
+	<spawn zone="lyonn05_2014_44m1">
+		<npc id="20429" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Lookout -->
+		<npc id="20489" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Quicksilver Beast -->
+	</spawn>
+	<!-- lyonn05_2014_45 -->
+	<spawn zone="lyonn05_2014_45m1">
+		<npc id="20429" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Lookout -->
+	</spawn>
+	<!-- lyonn05_2014_46 -->
+	<spawn zone="lyonn05_2014_46m1">
+		<npc id="20429" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Lookout -->
+	</spawn>
+	<!-- lyonn05_2014_47 -->
+	<spawn zone="lyonn05_2014_47m1">
+		<npc id="20429" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Lookout -->
+	</spawn>
+	<!-- lyonn05_2014_48 -->
+	<spawn zone="lyonn05_2014_48m1">
+		<npc id="20489" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Quicksilver Beast -->
+		<npc id="20487" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman -->
+	</spawn>
+	<!-- lyonn05_2014_49 -->
+	<spawn zone="lyonn05_2014_49m1">
+		<npc id="20487" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Karuka Ratman -->
+	</spawn>
+	<!-- lyonn05_2014_50 -->
+	<spawn zone="lyonn05_2014_50m1">
+		<npc id="20427" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Watcher -->
+		<npc id="20340" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Slave Skeleton -->
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+	</spawn>
+	<!-- lyonn05_2014_51 -->
+	<spawn zone="lyonn05_2014_51m1">
+		<npc id="20427" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Watcher -->
+		<npc id="20340" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Slave Skeleton -->
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+	</spawn>
+	<!-- lyonn05_2014_52 -->
+	<spawn zone="lyonn05_2014_52m1">
+		<npc id="20427" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Evil Eye Watcher -->
+		<npc id="20340" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Slave Skeleton -->
+		<npc id="20368" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Grave Keeper -->
+	</spawn>
+	<!-- lyonn05_2014_53 -->
+	<spawn zone="lyonn05_2014_53m1">
+		<npc id="20491" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Crypt Horror -->
+		<npc id="20415" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Scarlet Salamander -->
+		<npc id="20416" count="2" respawnDelay="68" respawnRandom="20" /> <!-- Scarlet Salamander Elder -->
+	</spawn>
+	<!-- lyonn05_2014_54 -->
+	<spawn zone="lyonn05_2014_54m1">
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_55 -->
+	<spawn zone="lyonn05_2014_55m1">
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_56 -->
+	<spawn zone="lyonn05_2014_56m1">
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+	</spawn>
+	<!-- lyonn05_2014_57 -->
+	<spawn zone="lyonn05_2014_57m1">
+		<npc id="20341" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+		<npc id="20543" count="2" respawnDelay="68" respawnRandom="20" /> <!-- Ghost -->
+		<npc id="20329" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Ghost Guardian -->
+	</spawn>
+	<!-- lyonn05_2014_58 -->
+	<spawn zone="lyonn05_2014_58m1">
+		<npc id="20341" count="2" respawnDelay="68" respawnRandom="20" /> <!-- Undead Slave -->
+		<npc id="20543" count="1" respawnDelay="68" respawnRandom="20" /> <!-- Ghost -->
+		<npc id="20329" count="2" respawnDelay="68" respawnRandom="20" /> <!-- Ghost Guardian -->
+	</spawn>
+	<!-- lyonn01_qm2014_01 -->
+	<spawn zone="lyonn01_qm2014_01m1">
+		<AIData>
+			<disableRandomAnimation>false</disableRandomAnimation>
+			<disableRandomWalk>true</disableRandomWalk>
+		</AIData>
+		<npc id="27041" x="16576" y="-118592" z="-768" heading="0" respawnDelay="300" /> <!-- Varangka's Messenger -->
+	</spawn>
+	<!-- lyonn01_qm2014_02 -->
+	<spawn zone="lyonn01_qm2014_02m1">
+		<npc id="20778" count="2" respawnDelay="180" /> <!-- Ragna Orc Overlord -->
+		<npc id="20779" count="2" respawnDelay="180" /> <!-- Ragna Orc Priest -->
+	</spawn>
+	<!-- lyonn01_qm2014_03 -->
+	<spawn zone="lyonn01_qm2014_03m1">
+		<npc id="20778" count="4" respawnDelay="180" /> <!-- Ragna Orc Overlord -->
+		<npc id="20779" count="4" respawnDelay="180" /> <!-- Ragna Orc Priest -->
+	</spawn>
+	<!-- lyonn01_qm2014_04 -->
+	<spawn zone="lyonn01_qm2014_04m1">
+		<npc id="27133" count="1" respawnDelay="180" /> <!-- Evil Eye Lord -->
+	</spawn>
+</list>	

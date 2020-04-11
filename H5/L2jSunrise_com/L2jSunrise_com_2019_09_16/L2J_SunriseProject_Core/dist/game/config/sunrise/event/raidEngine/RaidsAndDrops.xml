@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./xsd/RaidsAndDrops.xsd">
+	<spawnChanceGroup type="WEAK" groupChance="80">
+		<raid id="29030" maxDrops="5" />
+		<raid id="25542" maxDrops="5" />
+		<raid id="25544" maxDrops="5" />
+		<raid id="25286" maxDrops="5" />
+		<dropLists>
+			<item id="57" min="100000000" max="300000000" chance="100" maxOccurs="2" minOccurs="1" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="100" maxOccurs="0" minOccurs="1" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="100" maxOccurs="0" minOccurs="1" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="3" maxOccurs="1" minOccurs="0" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="3" maxOccurs="1" minOccurs="0" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="3" maxOccurs="1" minOccurs="0" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="3" maxOccurs="1" minOccurs="0" /> <!-- Adena -->
+		</dropLists>
+	</spawnChanceGroup>
+	<spawnChanceGroup type="STRONG" groupChance="10">
+		<raid id="25179" maxDrops="7" />
+		<raid id="25655" maxDrops="8" />
+		<raid id="25697" maxDrops="7" />
+		<raid id="25603" maxDrops="7" />
+		<dropLists>
+			<item id="57" min="100000000" max="500000000" chance="100" maxOccurs="1" minOccurs="1" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="100" maxOccurs="0" minOccurs="2" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="100" maxOccurs="0" minOccurs="2" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="10" maxOccurs="1" minOccurs="0" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="10" maxOccurs="1" minOccurs="0" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="10" maxOccurs="1" minOccurs="0" /> <!-- Adena -->
+			<item id="57" min="1" max="1" chance="10" maxOccurs="1" minOccurs="0" /> <!-- Adena -->
+		</dropLists>
+	</spawnChanceGroup>
+</list>

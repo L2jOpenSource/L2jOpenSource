@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "../../xsd/dtd/drake_mages.dtd">
+<list>
+  	<drakeMage id="1">
+    		<pathRoute position="0" locX="145208" locY="114456" locZ="-3725" />
+    		<pathRoute position="1" locX="145211" locY="113650" locZ="-3725" />
+    		<pathRoute position="2" locX="145856" locY="112883" locZ="-3725" />
+    		<pathRoute position="3" locX="147096" locY="112840" locZ="-3725" />
+    		<pathRoute position="4" locX="148216" locY="112664" locZ="-3725" />
+    		<pathRoute position="5" locX="148648" locY="112904" locZ="-3725" />
+    		<pathRoute position="6" locX="148968" locY="113992" locZ="-3725" />
+    		<pathRoute position="7" locX="149048" locY="114648" locZ="-3725" />
+    		<pathRoute position="8" locX="148856" locY="115224" locZ="-3720" />
+    		<pathRoute position="9" locX="148264" locY="115784" locZ="-3725" />
+    		<pathRoute position="10" locX="146624" locY="116194" locZ="-3713" />
+    		<pathRoute position="11" locX="145880" locY="115608" locZ="-3725" />
+    		<pathRoute position="12" locX="145336" locY="115192" locZ="-3720" />
+  	</drakeMage>
+  	<drakeMage id="2">
+    		<pathRoute position="0" locX="148648" locY="112904" locZ="-3725" />
+    		<pathRoute position="1" locX="148968" locY="113992" locZ="-3725" />
+    		<pathRoute position="2" locX="149048" locY="114648" locZ="-3725" />
+    		<pathRoute position="3" locX="148856" locY="115224" locZ="-3720" />
+    		<pathRoute position="4" locX="148264" locY="115784" locZ="-3725" />
+    		<pathRoute position="5" locX="146624" locY="116194" locZ="-3713" />
+    		<pathRoute position="6" locX="145880" locY="115608" locZ="-3725" />
+    		<pathRoute position="7" locX="145336" locY="115192" locZ="-3720" />
+    		<pathRoute position="8" locX="145208" locY="114456" locZ="-3725" />
+    		<pathRoute position="9" locX="145211" locY="113650" locZ="-3725" />
+    		<pathRoute position="10" locX="145856" locY="112883" locZ="-3725" />
+    		<pathRoute position="11" locX="147096" locY="112840" locZ="-3725" />
+    		<pathRoute position="12" locX="148216" locY="112664" locZ="-3725" />
+  	</drakeMage>
+  	<drakeMage id="3">
+    		<pathRoute position="0" locX="148264" locY="115784" locZ="-3725" />
+    		<pathRoute position="1" locX="146624" locY="116194" locZ="-3713" />
+    		<pathRoute position="2" locX="145880" locY="115608" locZ="-3725" />
+    		<pathRoute position="3" locX="145336" locY="115192" locZ="-3720" />
+    		<pathRoute position="4" locX="145208" locY="114456" locZ="-3725" />
+    		<pathRoute position="5" locX="145211" locY="113650" locZ="-3725" />
+    		<pathRoute position="6" locX="145856" locY="112883" locZ="-3725" />
+    		<pathRoute position="7" locX="147096" locY="112840" locZ="-3725" />
+    		<pathRoute position="8" locX="148216" locY="112664" locZ="-3725" />
+    		<pathRoute position="9" locX="148648" locY="112904" locZ="-3725" />
+    		<pathRoute position="10" locX="148968" locY="113992" locZ="-3725" />
+    		<pathRoute position="11" locX="149048" locY="114648" locZ="-3725" />
+    		<pathRoute position="12" locX="148856" locY="115224" locZ="-3720" />
+  	</drakeMage>
+  	<drakeMage id="4">
+    		<pathRoute position="0" locX="145896" locY="112728" locZ="-3725" />
+    		<pathRoute position="1" locX="147043" locY="112530" locZ="-3725" />
+    		<pathRoute position="2" locX="148664" locY="112760" locZ="-3725" />
+    		<pathRoute position="3" locX="149112" locY="113944" locZ="-3725" />
+    		<pathRoute position="4" locX="149176" locY="114680" locZ="-3725" />
+    		<pathRoute position="5" locX="149000" locY="115320" locZ="-3725" />
+    		<pathRoute position="6" locX="148318" locY="115902" locZ="-3725" />
+    		<pathRoute position="7" locX="146632" locY="116280" locZ="-3725" />
+    		<pathRoute position="8" locX="145752" locY="115768" locZ="-3725" />
+    		<pathRoute position="9" locX="145240" locY="115272" locZ="-3725" />
+    		<pathRoute position="10" locX="145112" locY="114472" locZ="-3725" />
+    		<pathRoute position="11" locX="145160" locY="113624" locZ="-3725" />
+  	</drakeMage>
+  	<drakeMage id="5">
+    		<pathRoute position="0" locX="149176" locY="114680" locZ="-3725" />
+    		<pathRoute position="1" locX="149000" locY="115320" locZ="-3725" />
+    		<pathRoute position="2" locX="148318" locY="115902" locZ="-3725" />
+    		<pathRoute position="3" locX="146632" locY="116280" locZ="-3725" />
+    		<pathRoute position="4" locX="145752" locY="115768" locZ="-3725" />
+    		<pathRoute position="5" locX="145240" locY="115272" locZ="-3725" />
+    		<pathRoute position="6" locX="145112" locY="114472" locZ="-3725" />
+    		<pathRoute position="7" locX="145160" locY="113624" locZ="-3725" />
+    		<pathRoute position="8" locX="145896" locY="112728" locZ="-3725" />
+    		<pathRoute position="9" locX="147043" locY="112530" locZ="-3725" />
+    		<pathRoute position="10" locX="148664" locY="112760" locZ="-3725" />
+    		<pathRoute position="11" locX="149112" locY="113944" locZ="-3725" />
+  	</drakeMage>
+  	<drakeMage id="6">
+    		<pathRoute position="0" locX="145752" locY="115768" locZ="-3725" />
+    		<pathRoute position="1" locX="145240" locY="115272" locZ="-3725" />
+    		<pathRoute position="2" locX="145112" locY="114472" locZ="-3725" />
+    		<pathRoute position="3" locX="145160" locY="113624" locZ="-3725" />
+    		<pathRoute position="4" locX="145896" locY="112728" locZ="-3725" />
+    		<pathRoute position="5" locX="147043" locY="112530" locZ="-3725" />
+    		<pathRoute position="6" locX="148664" locY="112760" locZ="-3725" />
+    		<pathRoute position="7" locX="149112" locY="113944" locZ="-3725" />
+    		<pathRoute position="8" locX="149176" locY="114680" locZ="-3725" />
+    		<pathRoute position="9" locX="149000" locY="115320" locZ="-3725" />
+    		<pathRoute position="10" locX="148318" locY="115902" locZ="-3725" />
+    		<pathRoute position="11" locX="146632" locY="116280" locZ="-3725" />
+  	</drakeMage>
+  	<drakeMage id="7">
+    		<pathRoute position="0" locX="145096" locY="113576" locZ="-3725" />
+    		<pathRoute position="1" locX="145880" locY="112584" locZ="-3725" />
+    		<pathRoute position="2" locX="147064" locY="112370" locZ="-3725" />
+    		<pathRoute position="3" locX="148456" locY="112184" locZ="-3725" />
+    		<pathRoute position="4" locX="148792" locY="112552" locZ="-3725" />
+    		<pathRoute position="5" locX="149256" locY="113944" locZ="-3725" />
+    		<pathRoute position="6" locX="149288" locY="114712" locZ="-3725" />
+    		<pathRoute position="7" locX="149144" locY="115416" locZ="-3725" />
+    		<pathRoute position="8" locX="148344" locY="116056" locZ="-3725" />
+    		<pathRoute position="9" locX="146600" locY="116392" locZ="-3725" />
+    		<pathRoute position="10" locX="145656" locY="115912" locZ="-3725" />
+    		<pathRoute position="11" locX="145080" locY="115352" locZ="-3725" />
+    		<pathRoute position="12" locX="144978" locY="114474" locZ="-3725" />
+  	</drakeMage>
+  	<drakeMage id="8">
+    		<pathRoute position="0" locX="149256" locY="113944" locZ="-3725" />
+    		<pathRoute position="1" locX="149288" locY="114712" locZ="-3725" />
+    		<pathRoute position="2" locX="149144" locY="115416" locZ="-3725" />
+    		<pathRoute position="3" locX="148344" locY="116056" locZ="-3725" />
+    		<pathRoute position="4" locX="146600" locY="116392" locZ="-3725" />
+    		<pathRoute position="5" locX="145656" locY="115912" locZ="-3725" />
+    		<pathRoute position="6" locX="145080" locY="115352" locZ="-3725" />
+    		<pathRoute position="7" locX="144978" locY="114474" locZ="-3725" />
+    		<pathRoute position="8" locX="145096" locY="113576" locZ="-3725" />
+    		<pathRoute position="9" locX="145880" locY="112584" locZ="-3725" />
+    		<pathRoute position="10" locX="147064" locY="112370" locZ="-3725" />
+    		<pathRoute position="11" locX="148456" locY="112184" locZ="-3725" />
+    		<pathRoute position="12" locX="148792" locY="112552" locZ="-3725" />
+  	</drakeMage>
+  	<drakeMage id="9">
+    		<pathRoute position="0" locX="146600" locY="116392" locZ="-3725" />
+    		<pathRoute position="1" locX="145656" locY="115912" locZ="-3725" />
+    		<pathRoute position="2" locX="145080" locY="115352" locZ="-3725" />
+    		<pathRoute position="3" locX="144978" locY="114474" locZ="-3725" />
+    		<pathRoute position="4" locX="145096" locY="113576" locZ="-3725" />
+    		<pathRoute position="5" locX="145880" locY="112584" locZ="-3725" />
+    		<pathRoute position="6" locX="147064" locY="112370" locZ="-3725" />
+    		<pathRoute position="7" locX="148456" locY="112184" locZ="-3725" />
+    		<pathRoute position="8" locX="148792" locY="112552" locZ="-3725" />
+    		<pathRoute position="9" locX="149256" locY="113944" locZ="-3725" />
+    		<pathRoute position="10" locX="149288" locY="114712" locZ="-3725" />
+    		<pathRoute position="11" locX="149144" locY="115416" locZ="-3725" />
+    		<pathRoute position="12" locX="148344" locY="116056" locZ="-3725" />
+  	</drakeMage>
+  	<drakeMage id="10">
+    		<pathRoute position="0" locX="144856" locY="115336" locZ="-3725" />
+    		<pathRoute position="1" locX="144840" locY="114376" locZ="-3721" />
+    		<pathRoute position="2" locX="145000" locY="113608" locZ="-3725" />
+    		<pathRoute position="3" locX="145880" locY="112440" locZ="-3725" />
+    		<pathRoute position="4" locX="147064" locY="112152" locZ="-3725" />
+		<pathRoute position="5" locX="148600" locY="111816" locZ="-3714" />
+    		<pathRoute position="6" locX="148984" locY="112312" locZ="-3725" />
+    		<pathRoute position="7" locX="149416" locY="113912" locZ="-3720" />
+    		<pathRoute position="8" locX="149432" locY="114744" locZ="-3725" />
+    		<pathRoute position="9" locX="149259" locY="115599" locZ="-3707" />
+    		<pathRoute position="10" locX="148360" locY="116200" locZ="-3725" />
+    		<pathRoute position="11" locX="146536" locY="116510" locZ="-3725" />
+    		<pathRoute position="12" locX="145504" locY="116025" locZ="-3713" />
+  	</drakeMage>
+  	<drakeMage id="11">
+    		<pathRoute position="0" locX="147064" locY="112152" locZ="-3725" />
+		<pathRoute position="1" locX="148600" locY="111816" locZ="-3714" />
+    		<pathRoute position="2" locX="148984" locY="112312" locZ="-3725" />
+    		<pathRoute position="3" locX="149416" locY="113912" locZ="-3720" />
+    		<pathRoute position="4" locX="149432" locY="114744" locZ="-3725" />
+    		<pathRoute position="5" locX="149259" locY="115599" locZ="-3707" />
+    		<pathRoute position="6" locX="148360" locY="116200" locZ="-3725" />
+    		<pathRoute position="7" locX="146536" locY="116510" locZ="-3725" />
+    		<pathRoute position="8" locX="145504" locY="116025" locZ="-3713" />
+    		<pathRoute position="9" locX="144856" locY="115336" locZ="-3725" />
+    		<pathRoute position="10" locX="144840" locY="114376" locZ="-3721" />
+    		<pathRoute position="11" locX="145000" locY="113608" locZ="-3725" />
+    		<pathRoute position="12" locX="145880" locY="112440" locZ="-3725" />
+  	</drakeMage>
+  	<drakeMage id="12">
+    		<pathRoute position="0" locX="149259" locY="115599" locZ="-3707" />
+    		<pathRoute position="1" locX="148360" locY="116200" locZ="-3725" />
+    		<pathRoute position="2" locX="146536" locY="116510" locZ="-3725" />
+    		<pathRoute position="3" locX="145504" locY="116025" locZ="-3713" />
+    		<pathRoute position="4" locX="144856" locY="115336" locZ="-3725" />
+    		<pathRoute position="5" locX="144840" locY="114376" locZ="-3721" />
+    		<pathRoute position="6" locX="145000" locY="113608" locZ="-3725" />
+    		<pathRoute position="7" locX="145880" locY="112440" locZ="-3725" />
+    		<pathRoute position="8" locX="147064" locY="112152" locZ="-3725" />
+		<pathRoute position="9" locX="148600" locY="111816" locZ="-3714" />
+    		<pathRoute position="10" locX="148984" locY="112312" locZ="-3725" />
+    		<pathRoute position="11" locX="149416" locY="113912" locZ="-3720" />
+    		<pathRoute position="12" locX="149432" locY="114744" locZ="-3725" />
+  	</drakeMage>
+</list>

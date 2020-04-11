@@ -1,0 +1,1 @@
+UPDATE npc SET type='L2Npc' WHERE type='L2CastleMagician';

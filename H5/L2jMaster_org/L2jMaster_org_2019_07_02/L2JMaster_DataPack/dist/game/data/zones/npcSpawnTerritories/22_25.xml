@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- innadrill05_2225_01 -->
+	<zone name="innadrill05_01w" type="NpcSpawnTerritory" shape="NPoly" minZ="-4935" maxZ="-4635">
+		<node X="84380" Y="240871" />
+		<node X="85722" Y="240974" />
+		<node X="85953" Y="241747" />
+		<node X="84404" Y="241487" />
+	</zone>
+	<!-- innadrill05_2225_02 -->
+	<zone name="innadrill05_02w" type="NpcSpawnTerritory" shape="NPoly" minZ="-7211" maxZ="-6861">
+		<node X="84400" Y="240861" />
+		<node X="86026" Y="240886" />
+		<node X="86005" Y="241790" />
+		<node X="84420" Y="242161" />
+	</zone>
+	<!-- innadrill05_2225_03 -->
+	<zone name="innadrill05_03" type="NpcSpawnTerritory" shape="NPoly" minZ="-7202" maxZ="-7042">
+		<node X="82602" Y="244023" />
+		<node X="82887" Y="244025" />
+		<node X="82888" Y="244915" />
+		<node X="82602" Y="244907" />
+	</zone>
+	<!-- innadrill05_2225_04 -->
+	<zone name="innadrill05_04" type="NpcSpawnTerritory" shape="NPoly" minZ="-7532" maxZ="-7182">
+		<node X="83882" Y="244643" />
+		<node X="84885" Y="244646" />
+		<node X="84887" Y="244917" />
+		<node X="83882" Y="244922" />
+	</zone>
+	<!-- innadrill05_2225_05 -->
+	<zone name="innadrill05_05" type="NpcSpawnTerritory" shape="NPoly" minZ="-7711" maxZ="-7491">
+		<node X="86172" Y="244152" />
+		<node X="86492" Y="244139" />
+		<node X="86489" Y="244936" />
+		<node X="86172" Y="244940" />
+	</zone>
+	<!-- innadrill05_2225_06 -->
+	<zone name="innadrill05_06" type="NpcSpawnTerritory" shape="NPoly" minZ="-8100" maxZ="-7750">
+		<node X="83878" Y="244162" />
+		<node X="84882" Y="244165" />
+		<node X="84884" Y="244437" />
+		<node X="83878" Y="244441" />
+	</zone>
+	<!-- innadrill05_2225_07 -->
+	<zone name="innadrill05_07" type="NpcSpawnTerritory" shape="NPoly" minZ="-8875" maxZ="-8625">
+		<node X="84771" Y="245748" />
+		<node X="84989" Y="245256" />
+		<node X="88203" Y="247709" />
+		<node X="87856" Y="248019" />
+	</zone>
+	<!-- innadrill05_2225_08 -->
+	<zone name="innadrill05_08" type="NpcSpawnTerritory" shape="NPoly" minZ="-8875" maxZ="-8625">
+		<node X="88064" Y="248239" />
+		<node X="88394" Y="248113" />
+		<node X="89617" Y="251757" />
+		<node X="89241" Y="251848" />
+	</zone>
+	<!-- innadrill05_2225_09 -->
+	<zone name="innadrill05_09" type="NpcSpawnTerritory" shape="NPoly" minZ="-8875" maxZ="-8625">
+		<node X="89262" Y="252153" />
+		<node X="89663" Y="252260" />
+		<node X="88350" Y="255996" />
+		<node X="88046" Y="255776" />
+	</zone>
+	<!-- innadrill05_2225_10 -->
+	<zone name="innadrill05_10" type="NpcSpawnTerritory" shape="NPoly" minZ="-8875" maxZ="-8625">
+		<node X="87865" Y="256022" />
+		<node X="88152" Y="256312" />
+		<node X="84926" Y="258775" />
+		<node X="84681" Y="258405" />
+	</zone>
+	<!-- innadrill05_2225_11 -->
+	<zone name="innadrill05_11" type="NpcSpawnTerritory" shape="NPoly" minZ="-9366" maxZ="-8966">
+		<node X="83469" Y="258300" />
+		<node X="83484" Y="258862" />
+		<node X="81423" Y="258849" />
+		<node X="81413" Y="258314" />
+	</zone>
+	<!-- innadrill05_2225_12 -->
+	<zone name="innadrill05_12" type="NpcSpawnTerritory" shape="NPoly" minZ="-8875" maxZ="-8625">
+		<node X="80386" Y="258093" />
+		<node X="80132" Y="258683" />
+		<node X="76887" Y="256373" />
+		<node X="77403" Y="255970" />
+	</zone>
+	<!-- innadrill05_2225_13 -->
+	<zone name="innadrill05_13" type="NpcSpawnTerritory" shape="NPoly" minZ="-8875" maxZ="-8625">
+		<node X="77271" Y="255884" />
+		<node X="76696" Y="256071" />
+		<node X="75402" Y="252284" />
+		<node X="76050" Y="252020" />
+	</zone>
+	<!-- innadrill05_2225_14 -->
+	<zone name="innadrill05_14" type="NpcSpawnTerritory" shape="NPoly" minZ="-8875" maxZ="-8625">
+		<node X="76056" Y="251940" />
+		<node X="75390" Y="251813" />
+		<node X="76580" Y="248020" />
+		<node X="77236" Y="248289" />
+	</zone>
+	<!-- innadrill05_2225_15 -->
+	<zone name="innadrill05_15" type="NpcSpawnTerritory" shape="NPoly" minZ="-8875" maxZ="-8625">
+		<node X="77285" Y="248174" />
+		<node X="76874" Y="247660" />
+		<node X="80046" Y="245267" />
+		<node X="80399" Y="245947" />
+	</zone>
+	<!-- innadrill05_2225_16 -->
+	<zone name="innadrill05_16" type="NpcSpawnTerritory" shape="NPoly" minZ="-9366" maxZ="-9066">
+		<node X="83344" Y="245135" />
+		<node X="83345" Y="245675" />
+		<node X="81710" Y="245688" />
+		<node X="81708" Y="245130" />
+		<node X="80898" Y="246443" />
+		<node X="80849" Y="246180" />
+		<node X="84441" Y="246134" />
+		<node X="84433" Y="246423" />
+	</zone>
+	<!-- innadrill05_2225_18 -->
+	<zone name="innadrill05_18" type="NpcSpawnTerritory" shape="NPoly" minZ="-9378" maxZ="-9128">
+		<node X="84560" Y="246455" />
+		<node X="84585" Y="246245" />
+		<node X="87521" Y="248341" />
+		<node X="87244" Y="248459" />
+	</zone>
+	<!-- innadrill05_2225_19 -->
+	<zone name="innadrill05_19" type="NpcSpawnTerritory" shape="NPoly" minZ="-9378" maxZ="-9178">
+		<node X="87531" Y="248553" />
+		<node X="87683" Y="248460" />
+		<node X="88805" Y="252029" />
+		<node X="88596" Y="252038" />
+	</zone>
+	<!-- innadrill05_2225_20 -->
+	<zone name="innadrill05_20" type="NpcSpawnTerritory" shape="NPoly" minZ="-9378" maxZ="-9178">
+		<node X="88557" Y="252138" />
+		<node X="88783" Y="252098" />
+		<node X="87646" Y="255460" />
+		<node X="87465" Y="255415" />
+	</zone>
+	<!-- innadrill05_2225_21 -->
+	<zone name="innadrill05_21" type="NpcSpawnTerritory" shape="NPoly" minZ="-9378" maxZ="-9178">
+		<node X="87407" Y="255537" />
+		<node X="87641" Y="255654" />
+		<node X="84634" Y="257815" />
+		<node X="84527" Y="257622" />
+	</zone>
+	<!-- innadrill05_2225_22 -->
+	<zone name="innadrill05_22" type="NpcSpawnTerritory" shape="NPoly" minZ="-9378" maxZ="-9178">
+		<node X="84413" Y="257556" />
+		<node X="84543" Y="257896" />
+		<node X="80849" Y="257839" />
+		<node X="81239" Y="257537" />
+	</zone>
+	<!-- innadrill05_2225_23-->
+	<zone name="innadrill05_23" type="NpcSpawnTerritory" shape="NPoly" minZ="-9378" maxZ="-9178">
+		<node X="80840" Y="257419" />
+		<node X="80754" Y="257847" />
+		<node X="77648" Y="255602" />
+		<node X="77943" Y="255366" />
+	</zone>
+	<!-- innadrill05_2225_24 -->
+	<zone name="innadrill05_24" type="NpcSpawnTerritory" shape="NPoly" minZ="-9378" maxZ="-9178">
+		<node X="77977" Y="255184" />
+		<node X="77673" Y="255392" />
+		<node X="76611" Y="252199" />
+		<node X="77031" Y="252230" />
+	</zone>
+	<!-- innadrill05_2225_25 -->
+	<zone name="innadrill05_25" type="NpcSpawnTerritory" shape="NPoly" minZ="-9378" maxZ="-9178">
+		<node X="76858" Y="252081" />
+		<node X="76510" Y="252037" />
+		<node X="77737" Y="248354" />
+		<node X="77999" Y="248526" />
+	</zone>
+	<!-- innadrill05_2225_26 -->
+	<zone name="innadrill05_26" type="NpcSpawnTerritory" shape="NPoly" minZ="-9378" maxZ="-9178">
+		<node X="78047" Y="248457" />
+		<node X="77889" Y="248359" />
+		<node X="80717" Y="246223" />
+		<node X="80833" Y="246479" />
+	</zone>
+	<!-- innadrill05_2225_27 -->
+	<zone name="innadrill05_27" type="NpcSpawnTerritory" shape="NPoly" minZ="-9891" maxZ="-9691">
+		<node X="78804" Y="249049" />
+		<node X="78443" Y="248745" />
+		<node X="81061" Y="246862" />
+		<node X="81177" Y="247332" />
+	</zone>
+	<!-- innadrill05_2225_28 -->
+	<zone name="innadrill05_28" type="NpcSpawnTerritory" shape="NPoly" minZ="-9891" maxZ="-9691">
+		<node X="81281" Y="247301" />
+		<node X="81162" Y="246883" />
+		<node X="84384" Y="246890" />
+		<node X="84259" Y="247299" />
+	</zone>
+	<!-- innadrill05_2225_29 -->
+	<zone name="innadrill05_29" type="NpcSpawnTerritory" shape="NPoly" minZ="-9891" maxZ="-9691">
+		<node X="84345" Y="247390" />
+		<node X="84484" Y="246909" />
+		<node X="87112" Y="248801" />
+		<node X="86667" Y="249086" />
+	</zone>
+	<!-- innadrill05_2225_30 -->
+	<zone name="innadrill05_30" type="NpcSpawnTerritory" shape="NPoly" minZ="-9891" maxZ="-9691">
+		<node X="86710" Y="249188" />
+		<node X="87091" Y="248898" />
+		<node X="88115" Y="251936" />
+		<node X="87652" Y="251953" />
+	</zone>
+	<!-- innadrill05_2225_31 -->
+	<zone name="innadrill05_31" type="NpcSpawnTerritory" shape="NPoly" minZ="-9891" maxZ="-9691">
+		<node X="87662" Y="252027" />
+		<node X="88137" Y="252040" />
+		<node X="87144" Y="255183" />
+		<node X="86721" Y="254716" />
+	</zone>
+	<!-- innadrill05_2225_32 -->
+	<zone name="innadrill05_32" type="NpcSpawnTerritory" shape="NPoly" minZ="-9891" maxZ="-9691">
+		<node X="86633" Y="254906" />
+		<node X="87016" Y="255188" />
+		<node X="84421" Y="257126" />
+		<node X="84299" Y="256666" />
+	</zone>
+	<!-- innadrill05_2225_33 -->
+	<zone name="innadrill05_33" type="NpcSpawnTerritory" shape="NPoly" minZ="-9891" maxZ="-9691">
+		<node X="84204" Y="256679" />
+		<node X="84336" Y="257167" />
+		<node X="80946" Y="257102" />
+		<node X="81086" Y="256646" />
+	</zone>
+	<!-- innadrill05_2225_34 -->
+	<zone name="innadrill05_34" type="NpcSpawnTerritory" shape="NPoly" minZ="-9891" maxZ="-9691">
+		<node X="81028" Y="256474" />
+		<node X="80871" Y="256937" />
+		<node X="78571" Y="255278" />
+		<node X="79016" Y="255033" />
+	</zone>
+	<!-- innadrill05_2225_35 -->
+	<zone name="innadrill05_35" type="NpcSpawnTerritory" shape="NPoly" minZ="-9891" maxZ="-9691">
+		<node X="78792" Y="255012" />
+		<node X="78424" Y="255217" />
+		<node X="77334" Y="252065" />
+		<node X="77840" Y="252132" />
+	</zone>
+	<!-- innadrill05_2225_36 -->
+	<zone name="innadrill05_36" type="NpcSpawnTerritory" shape="NPoly" minZ="-9891" maxZ="-9691">
+		<node X="77766" Y="252056" />
+		<node X="77413" Y="252018" />
+		<node X="78401" Y="248809" />
+		<node X="78793" Y="249130" />
+	</zone>
+	<!-- innadrill05_2225_37 -->
+	<zone name="innadrill05_37" type="NpcSpawnTerritory" shape="NPoly" minZ="-10407" maxZ="-10207">
+		<node X="78742" Y="251988" />
+		<node X="78272" Y="251997" />
+		<node X="79150" Y="249330" />
+		<node X="79554" Y="249602" />
+	</zone>
+	<!-- innadrill05_2225_38 -->
+	<zone name="innadrill05_38" type="NpcSpawnTerritory" shape="NPoly" minZ="-10407" maxZ="-10207">
+		<node X="79620" Y="249589" />
+		<node X="79296" Y="249351" />
+		<node X="81344" Y="247828" />
+		<node X="81514" Y="248215" />
+	</zone>
+	<!-- innadrill05_2225_39 -->
+	<zone name="innadrill05_39" type="NpcSpawnTerritory" shape="NPoly" minZ="-10407" maxZ="-10207">
+		<node X="81629" Y="248208" />
+		<node X="81441" Y="247736" />
+		<node X="84097" Y="247731" />
+		<node X="83950" Y="248206" />
+	</zone>
+	<!-- innadrill05_2225_40 -->
+	<zone name="innadrill05_40" type="NpcSpawnTerritory" shape="NPoly" minZ="-10407" maxZ="-10207">
+		<node X="84014" Y="248250" />
+		<node X="84145" Y="247839" />
+		<node X="86303" Y="249390" />
+		<node X="85983" Y="249627" />
+	</zone>
+	<!-- innadrill05_2225_41 -->
+	<zone name="innadrill05_41" type="NpcSpawnTerritory" shape="NPoly" minZ="-10407" maxZ="-10207">
+		<node X="86009" Y="249732" />
+		<node X="86374" Y="249445" />
+		<node X="87255" Y="251990" />
+		<node X="86748" Y="251997" />
+	</zone>
+	<!-- innadrill05_2225_42 -->
+	<zone name="innadrill05_42" type="NpcSpawnTerritory" shape="NPoly" minZ="-10407" maxZ="-10207">
+		<node X="86705" Y="252082" />
+		<node X="87121" Y="252100" />
+		<node X="86332" Y="254604" />
+		<node X="85992" Y="254327" />
+	</zone>
+	<!-- innadrill05_2225_43 -->
+	<zone name="innadrill05_43" type="NpcSpawnTerritory" shape="NPoly" minZ="-10407" maxZ="-10207">
+		<node X="85914" Y="254374" />
+		<node X="86270" Y="254680" />
+		<node X="84127" Y="256239" />
+		<node X="83983" Y="255795" />
+	</zone>
+	<!-- innadrill05_2225_44 -->
+	<zone name="innadrill05_44" type="NpcSpawnTerritory" shape="NPoly" minZ="-10407" maxZ="-10207">
+		<node X="83864" Y="255776" />
+		<node X="84031" Y="256194" />
+		<node X="81420" Y="256204" />
+		<node X="81521" Y="255799" />
+	</zone>
+	<!-- innadrill05_2225_45 -->
+	<zone name="innadrill05_45" type="NpcSpawnTerritory" shape="NPoly" minZ="-10407" maxZ="-10207">
+		<node X="81459" Y="255733" />
+		<node X="81314" Y="256191" />
+		<node X="79227" Y="254686" />
+		<node X="79568" Y="254386" />
+	</zone>
+	<!-- innadrill05_2225_46 -->
+	<zone name="innadrill05_46" type="NpcSpawnTerritory" shape="NPoly" minZ="-10407" maxZ="-10207">
+		<node X="79509" Y="254326" />
+		<node X="79197" Y="254565" />
+		<node X="78372" Y="252120" />
+		<node X="78771" Y="252102" />
+	</zone>
+	<!-- innadrill05_2225_47 -->
+	<zone name="innadrill05_47" type="NpcSpawnTerritory" shape="NPoly" minZ="-10945" maxZ="-10745">
+		<node X="80543" Y="254602" />
+		<node X="79870" Y="254096" />
+		<node X="79493" Y="253059" />
+		<node X="80739" Y="252483" />
+		<node X="81302" Y="253474" />
+	</zone>
+	<!-- innadrill05_2225_48 -->
+	<zone name="innadrill05_48" type="NpcSpawnTerritory" shape="NPoly" minZ="-10945" maxZ="-10745">
+		<node X="81416" Y="252103" />
+		<node X="79462" Y="252992" />
+		<node X="79167" Y="251992" />
+		<node X="79460" Y="251186" />
+	</zone>
+	<!-- innadrill05_2225_49 -->
+	<zone name="innadrill05_49" type="NpcSpawnTerritory" shape="NPoly" minZ="-10945" maxZ="-10745">
+		<node X="80868" Y="251185" />
+		<node X="79571" Y="250665" />
+		<node X="79895" Y="249868" />
+		<node X="80653" Y="249287" />
+		<node X="81838" Y="250320" />
+	</zone>
+	<!-- innadrill05_2225_50 -->
+	<zone name="innadrill05_50" type="NpcSpawnTerritory" shape="NPoly" minZ="-10945" maxZ="-10745">
+		<node X="82011" Y="250375" />
+		<node X="80728" Y="249237" />
+		<node X="81672" Y="248607" />
+		<node X="82559" Y="248588" />
+		<node X="82584" Y="250302" />
+	</zone>
+	<!-- innadrill05_2225_51 -->
+	<zone name="innadrill05_51" type="NpcSpawnTerritory" shape="NPoly" minZ="-10945" maxZ="-10745">
+		<node X="83760" Y="250849" />
+		<node X="83061" Y="251201" />
+		<node X="83085" Y="248570" />
+		<node X="83870" Y="248596" />
+		<node X="84780" Y="249239" />
+	</zone>
+	<!-- innadrill05_2225_52 -->
+	<zone name="innadrill05_52" type="NpcSpawnTerritory" shape="NPoly" minZ="-10945" maxZ="-10745">
+		<node X="85941" Y="250730" />
+		<node X="84236" Y="251458" />
+		<node X="83857" Y="250836" />
+		<node X="84851" Y="249269" />
+		<node X="85647" Y="249915" />
+	</zone>
+	<!-- innadrill05_2225_53 -->
+	<zone name="innadrill05_53" type="NpcSpawnTerritory" shape="NPoly" minZ="-10945" maxZ="-10745">
+		<node X="86311" Y="252001" />
+		<node X="85923" Y="253402" />
+		<node X="83728" Y="252226" />
+		<node X="84326" Y="251747" />
+		<node X="86122" Y="251235" />
+	</zone>
+	<!-- innadrill05_2225_54 -->
+	<zone name="innadrill05_54" type="NpcSpawnTerritory" shape="NPoly" minZ="-10945" maxZ="-10745">
+		<node X="85645" Y="254136" />
+		<node X="84953" Y="254648" />
+		<node X="83857" Y="253380" />
+		<node X="84293" Y="252601" />
+		<node X="85894" Y="253456" />
+	</zone>
+	<!-- innadrill05_2225_55 -->
+	<zone name="innadrill05_55" type="NpcSpawnTerritory" shape="NPoly" minZ="-10945" maxZ="-10745">
+		<node X="83846" Y="255388" />
+		<node X="83115" Y="255407" />
+		<node X="83009" Y="253893" />
+		<node X="83248" Y="253161" />
+		<node X="84559" Y="254963" />
+	</zone>
+	<!-- innadrill05_2225_56 -->
+	<zone name="innadrill05_56" type="NpcSpawnTerritory" shape="NPoly" minZ="-10945" maxZ="-10745">
+		<node X="81657" Y="255394" />
+		<node X="80906" Y="254924" />
+		<node X="81536" Y="253867" />
+		<node X="82958" Y="253878" />
+		<node X="83058" Y="255403" />
+	</zone>
+	<!-- innadrill05_tb2225_11 -->
+	<zone name="innadrill05_tb11_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9366" maxZ="-8966">
+		<node X="83469" Y="258300" />
+		<node X="83484" Y="258862" />
+		<node X="81423" Y="258849" />
+		<node X="81413" Y="258314" />
+		<node X="83344" Y="245135" />
+		<node X="83345" Y="245675" />
+		<node X="81710" Y="245688" />
+		<node X="81708" Y="245130" />
+		<node X="80898" Y="246443" />
+		<node X="80849" Y="246180" />
+		<node X="84441" Y="246134" />
+		<node X="84433" Y="246423" />
+		<node X="87531" Y="248553" />
+		<node X="87683" Y="248460" />
+		<node X="88805" Y="252029" />
+		<node X="88596" Y="252038" />
+		<node X="87407" Y="255537" />
+		<node X="87641" Y="255654" />
+		<node X="84634" Y="257815" />
+		<node X="84527" Y="257622" />
+	</zone>
+	<!-- innadrill05_tb2225_37 -->
+	<zone name="innadrill05_tb37_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-10407" maxZ="-10207">
+		<node X="78742" Y="251988" />
+		<node X="78272" Y="251997" />
+		<node X="79150" Y="249330" />
+		<node X="79554" Y="249602" />
+		<node X="79620" Y="249589" />
+		<node X="79296" Y="249351" />
+		<node X="81344" Y="247828" />
+		<node X="81514" Y="248215" />
+		<node X="81629" Y="248208" />
+		<node X="81441" Y="247736" />
+		<node X="84097" Y="247731" />
+		<node X="83950" Y="248206" />
+		<node X="84014" Y="248250" />
+		<node X="84145" Y="247839" />
+		<node X="86303" Y="249390" />
+		<node X="85983" Y="249627" />
+		<node X="86009" Y="249732" />
+		<node X="86374" Y="249445" />
+		<node X="87255" Y="251990" />
+		<node X="86748" Y="251997" />
+	</zone>
+	<!-- innadrill05_tb2225_47 -->
+	<zone name="innadrill05_tb47_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-10945" maxZ="-10745">
+		<node X="80543" Y="254602" />
+		<node X="79870" Y="254096" />
+		<node X="79493" Y="253059" />
+		<node X="80739" Y="252483" />
+		<node X="81302" Y="253474" />
+		<node X="81416" Y="252103" />
+		<node X="79462" Y="252992" />
+		<node X="79167" Y="251992" />
+		<node X="79460" Y="251186" />
+		<node X="80868" Y="251185" />
+		<node X="79571" Y="250665" />
+		<node X="79895" Y="249868" />
+		<node X="80653" Y="249287" />
+		<node X="81838" Y="250320" />
+		<node X="82011" Y="250375" />
+		<node X="80728" Y="249237" />
+		<node X="81672" Y="248607" />
+		<node X="82559" Y="248588" />
+		<node X="82584" Y="250302" />
+		<node X="85941" Y="250730" />
+		<node X="84236" Y="251458" />
+		<node X="83857" Y="250836" />
+		<node X="84851" Y="249269" />
+		<node X="85647" Y="249915" />
+		<node X="83846" Y="255388" />
+		<node X="83115" Y="255407" />
+		<node X="83009" Y="253893" />
+		<node X="83248" Y="253161" />
+		<node X="84559" Y="254963" />
+	</zone>
+</list>

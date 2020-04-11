@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list>
+	<achievement id="1" name="Champion" description="Gain level 80" reward="6393,5" minLevel="80"/>
+	<achievement id="2" name="Hero" description="Gain hero status" reward="6393,10" mustBeHero="true"/>
+	<achievement id="3" name="Noble" description="Gain noblesse status" reward="6393,10" mustBeNoble="true"/>
+	<achievement id="4" name="Zaishen" description="Gain a 16 weapon" reward="6393,15" minWeaponEnchant="16" />
+	<achievement id="5" name="Norn" description="Gain 4,000 PvPs" reward="6393,15" minPvPCount="4000"/>
+	<achievement id="6" name="Commander" description="Be a clan leader of a level 8 clan" reward="6393,10" mustBeClanLeader="true" minClanLevel="8"/>
+	<achievement id="7" name="Darkbringer" description="Gain 1,500 PKs" reward="6393,15" minPkCount="1500"/>
+	<achievement id="8" name="Bravery" description="Have 3 subclasses" reward="6393,5" minSubclassCount="3"/>
+	<achievement id="9" name="Dealer" description="Bring 200 Sprignant fruits" reward="6393,15" itemAmmount="8787,200"/>
+	<achievement id="10" name="Gamer" description="Be online for 100 days" reward="6393,10" minOnlineTime="100"/>
+	<achievement id="11" name="Conqueror" description="Be clan leader of a clan level 8 that owns a castle" reward="6393,10" lordOfCastle="true" minClanLevel="8" mustBeClanLeader="true"/>
+	<achievement id="12" name="Codex" description="Have a 15 skill" reward="6393,15" minSkillEnchant="15"/>
+	<achievement id="13" name="Famous" description="Be clean leader of a level 8 clan with 100,000 clan reputation points" reward="6393,15" minClanLevel="8" crpAmmount="100000" mustBeClanLeader="true"/>
+	<achievement id="14" name="Myth" description="Have hero status for 15 periods" reward="6393,15" minHeroCount="15"/>
+	<achievement id="15" name="Wisdom" description="Kill Hallate, Kernon and Golkonda within 24hours" reward="6393,5" raidToKill="25220" raidToKill1="25054" raidToKill2="25126"/>
+	<achievement id="16" name="Slayer" description="Kill Baium and be level 80" reward="6393,5" raidToKill="29020" minLevel="80" />
+	<achievement id="17" name="Joker" description="Kill Antharas and be level 80" reward="6393,5" raidToKill="29019" minLevel="80" />
+	<achievement id="18" name="Legend" description="Kill Valakas and be level 80" reward="6393,10" raidToKill="29028" minLevel="80" />
+	<achievement id="19" name="Lightbringer" description="Claim 1,200 Raid points and be lvl 78" reward="6393,10" minRaidPoints="1200" minLevel="78" />
+	<achievement id="20" name="Dominator" description="get 1,500 event kills" reward="6393,15" eventKills="1500" />
+	<achievement id="21" name="Winner" description="get 250 event wins" reward="6393,15" eventWins="250" />
+	<achievement id="22" name="Eventor" description="play in 250 events" reward="6393,10" events="250" />
+	<achievement id="23" name="Vanquisher" description="Complete all personal achievements" reward="6393,40" CompleteAchievements="8" />
+	<achievement id="24" name="Tycoon" description="Complete all achievements" reward="6393,60" CompleteAchievements="10" />
+</list>

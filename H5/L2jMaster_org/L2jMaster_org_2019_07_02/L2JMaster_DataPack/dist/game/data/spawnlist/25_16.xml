@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- godard26_npc2516_00 -->
+	<spawn zone="godard14_npc2516_0001">
+		<npc id="31920" x="164304" y="-47600" z="-3507" heading="-25104" respawnDelay="60" /> <!-- Elmoreden's Ghost Chamberlain -->
+	</spawn>
+	<!-- godard26_npc2516_01 -->
+	<spawn zone="godard26_npc2516_0101">
+		<npc id="31548" x="171072" y="-35408" z="-3343" heading="0" respawnDelay="60" /> <!-- Mysterious Ancient Tablet -->
+	</spawn>
+	<!-- godard26_npc2516_02 -->
+	<spawn zone="godard26_npc2516_0201">
+		<npc id="31549" x="181280" y="-39824" z="-3128" heading="0" respawnDelay="60" /> <!-- Mysterious Ancient Tablet -->
+	</spawn>
+	<!-- godard26_npc2516_03 -->
+	<spawn zone="godard26_npc2516_0301">
+		<npc id="31550" x="173696" y="-46960" z="-3392" heading="0" respawnDelay="60" /> <!-- Mysterious Ancient Tablet -->
+	</spawn>
+	<!-- godard26_npc2516_04 -->
+	<spawn zone="godard26_npc2516_0401">
+		<npc id="31551" x="167888" y="-61376" z="-3866" heading="0" respawnDelay="60" /> <!-- Mysterious Ancient Tablet -->
+	</spawn>
+	<!-- godard26_npc2516_05 -->
+	<spawn zone="godard26_npc2516_0501">
+		<npc id="31552" x="184464" y="-59456" z="-3043" heading="0" respawnDelay="60" /> <!-- Mysterious Ancient Tablet -->
+	</spawn>
+	<!-- godard26_npc2516_06 -->
+	<spawn zone="godard26_npc2516_0601">
+		<npc id="31541" x="186304" y="-43744" z="-3193" heading="57000" respawnDelay="60" /> <!-- Daimon's Altar -->
+	</spawn>
+	<!-- godard26_npc2516_07 -->
+	<spawn zone="godard26_npc2516_0701">
+		<npc id="31616" x="164474" y="-48918" z="-3576" heading="33000" respawnDelay="60" /> <!-- Hermit -->
+	</spawn>
+	<!-- godard26_npc2516_08 -->
+	<spawn zone="godard26_npc2516_0801">
+		<npc id="31683" x="183584" y="-53552" z="-1903" heading="25000" respawnDelay="60" /> <!-- Eye of Argos -->
+	</spawn>
+	<!-- godard26_npc2516_09 -->
+	<spawn zone="godard26_npc2516_0901">
+		<npc id="31650" x="191056" y="-40576" z="-3024" heading="49000" respawnDelay="60" /> <!-- Tablet of Vision -->
+	</spawn>
+	<!-- godard26_npc2516_10 -->
+	<spawn zone="godard26_npc2516_1001">
+		<npc id="31655" x="168528" y="-61488" z="-3872" heading="16000" respawnDelay="60" /> <!-- Tablet of Vision -->
+	</spawn>
+	<!-- godard26_npc2516_wp1 -->
+	<spawn zone="argos_daemon_roaming01">
+		<npc id="31705" x="191280" y="-49552" z="-2976" heading="0" respawnDelay="60" /> <!-- Daimon the White-Eyed -->
+	</spawn>
+	<!-- godard26_2516_01 -->
+	<spawn zone="godard26_2516_0101">
+		<npc id="21294" count="3" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope -->
+		<npc id="21295" count="2" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope Slave -->
+	</spawn>
+	<!-- godard26_2516_22 -->
+	<spawn zone="godard26_2516_2201">
+		<npc id="21294" count="2" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope -->
+		<npc id="21295" count="1" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope Slave -->
+	</spawn>
+	<!-- godard26_2516_02 -->
+	<spawn zone="godard26_2516_0201">
+		<npc id="21294" count="4" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope -->
+		<npc id="21295" count="2" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope Slave -->
+	</spawn>
+	<!-- godard26_2516_04 -->
+	<spawn zone="godard26_2516_0401">
+		<npc id="21294" count="3" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope -->
+		<npc id="21295" count="2" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope Slave -->
+	</spawn>
+	<!-- godard26_2516_05 -->
+	<spawn zone="godard26_2516_0501">
+		<npc id="21295" count="1" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope Slave -->
+		<npc id="21296" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Canyon Bandersnatch -->
+	</spawn>
+	<!-- godard26_2516_06 -->
+	<spawn zone="godard26_2516_0601">
+		<npc id="21295" count="1" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope Slave -->
+		<npc id="21296" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Canyon Bandersnatch -->
+	</spawn>
+	<!-- godard26_2516_07 -->
+	<spawn zone="godard26_2516_0701">
+		<npc id="21295" count="2" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope Slave -->
+		<npc id="21296" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Canyon Bandersnatch -->
+	</spawn>
+	<!-- godard26_2516_23 -->
+	<spawn zone="godard26_2516_2301">
+		<npc id="21295" count="1" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope Slave -->
+	</spawn>
+	<!-- godard26_2516_19 -->
+	<spawn zone="godard26_2516_1901">
+		<npc id="21295" count="2" respawnDelay="55" respawnRandom="15" /> <!-- Canyon Antelope Slave -->
+		<npc id="21296" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Canyon Bandersnatch -->
+	</spawn>
+	<!-- godard26_2516_08 -->
+	<spawn zone="godard26_2516_0801">
+		<npc id="21296" count="3" respawnDelay="100" respawnRandom="20" /> <!-- Canyon Bandersnatch -->
+		<npc id="21297" count="5" respawnDelay="65" respawnRandom="15" /> <!-- Canyon Bandersnatch Slave -->
+	</spawn>
+	<!-- godard26_2516_24 -->
+	<spawn zone="godard26_2516_2401">
+		<npc id="21296" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Canyon Bandersnatch -->
+	</spawn>
+	<!-- godard26_2516_09 -->
+	<spawn zone="godard26_2516_0901">
+		<npc id="21296" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Canyon Bandersnatch -->
+		<npc id="21297" count="2" respawnDelay="65" respawnRandom="15" /> <!-- Canyon Bandersnatch Slave -->
+	</spawn>
+	<!-- godard26_2516_10 -->
+	<spawn zone="godard26_2516_1001">
+		<npc id="21296" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Canyon Bandersnatch -->
+		<npc id="21297" count="3" respawnDelay="65" respawnRandom="15" /> <!-- Canyon Bandersnatch Slave -->
+	</spawn>
+	<!-- godard26_2516_11 -->
+	<spawn zone="godard26_2516_1101">
+		<npc id="21296" count="2" respawnDelay="100" respawnRandom="20" /> <!-- Canyon Bandersnatch -->
+		<npc id="21297" count="3" respawnDelay="65" respawnRandom="15" /> <!-- Canyon Bandersnatch Slave -->
+	</spawn>
+	<!-- godard26_2516_12 -->
+	<spawn zone="godard26_2516_1201">
+		<npc id="21296" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Canyon Bandersnatch -->
+		<npc id="21297" count="3" respawnDelay="65" respawnRandom="15" /> <!-- Canyon Bandersnatch Slave -->
+	</spawn>
+	<!-- godard26_2516_18 -->
+	<spawn zone="godard26_2516_1801">
+		<npc id="21298" count="6" respawnDelay="60" respawnRandom="20" /> <!-- Eye of Restrainer -->
+		<npc id="21299" count="4" respawnDelay="60" respawnRandom="20" /> <!-- Buffalo Slave -->
+		<npc id="21300" count="3" respawnDelay="75" respawnRandom="15" /> <!-- Eye of Guide -->
+	</spawn>
+	<!-- godard26_2516_25 -->
+	<spawn zone="godard26_2516_2501">
+		<npc id="21298" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Eye of Restrainer -->
+		<npc id="21299" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Buffalo Slave -->
+	</spawn>
+	<!-- godard26_2516_26 -->
+	<spawn zone="godard26_2516_2601">
+		<npc id="21299" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Buffalo Slave -->
+		<npc id="21300" count="1" respawnDelay="75" respawnRandom="15" /> <!-- Eye of Guide -->
+	</spawn>
+	<!-- godard26_2516_27 -->
+	<spawn zone="godard26_2516_2701">
+		<npc id="21300" count="1" respawnDelay="75" respawnRandom="15" /> <!-- Eye of Guide -->
+	</spawn>
+	<!-- godard26_2516_28 -->
+	<spawn zone="godard26_2516_2801">
+		<npc id="21300" count="2" respawnDelay="75" respawnRandom="15" /> <!-- Eye of Guide -->
+		<npc id="21301" count="3" respawnDelay="100" respawnRandom="20" /> <!-- Gaze of Nightmare -->
+		<npc id="21302" count="1" respawnDelay="60" respawnRandom="20" /> <!-- Eye of Watchman -->
+	</spawn>
+	<!-- godard26_2516_29 -->
+	<spawn zone="godard26_2516_2901">
+		<npc id="21301" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Gaze of Nightmare -->
+		<npc id="21302" count="2" respawnDelay="60" respawnRandom="15" /> <!-- Eye of Watchman -->
+	</spawn>
+	<!-- godard26_2516_30 -->
+	<spawn zone="godard26_2516_3001">
+		<npc id="21301" count="2" respawnDelay="100" respawnRandom="20" /> <!-- Gaze of Nightmare -->
+		<npc id="21302" count="2" respawnDelay="60" respawnRandom="15" /> <!-- Eye of Watchman -->
+	</spawn>
+	<!-- godard26_2516_20 -->
+	<spawn zone="godard26_2516_2001">
+		<npc id="21303" count="5" respawnDelay="60" respawnRandom="15" /> <!-- Homunculus -->
+		<npc id="21304" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Grendel Slave -->
+	</spawn>
+	<!-- godard26_2516_21 -->
+	<spawn zone="godard26_2516_2101">
+		<npc id="21304" count="4" respawnDelay="100" respawnRandom="20" /> <!-- Grendel Slave -->
+		<npc id="21305" count="4" respawnDelay="75" respawnRandom="15" /> <!-- Eye of Pilgrim -->
+	</spawn>
+	<!-- godard26_2516_13 -->
+	<spawn zone="godard26_2516_1301">
+		<npc id="21299" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Buffalo Slave -->
+		<npc id="21302" count="2" respawnDelay="70" respawnRandom="20" /> <!-- Eye of Watchman -->
+		<npc id="21312" count="1" respawnDelay="340" respawnRandom="60" /> <!-- Eye of Ruler -->
+	</spawn>
+	<!-- godard26_2516_17 -->
+	<spawn zone="godard26_2516_1701">
+		<npc id="21301" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Gaze of Nightmare -->
+		<npc id="21302" count="1" respawnDelay="70" respawnRandom="15" /> <!-- Eye of Watchman -->
+	</spawn>
+	<!-- godard26_2516_31 -->
+	<spawn zone="godard26_2516_3101">
+		<npc id="21299" count="2" respawnDelay="60" respawnRandom="20" /> <!-- Buffalo Slave -->
+	</spawn>
+	<!-- godard26_2516_32 -->
+	<spawn zone="godard26_2516_3201">
+		<npc id="21298" count="2" respawnDelay="60" respawnRandom="15" /> <!-- Eye of Restrainer -->
+		<npc id="21300" count="4" respawnDelay="90" respawnRandom="15" /> <!-- Eye of Guide -->
+		<npc id="21301" count="2" respawnDelay="100" respawnRandom="20" /> <!-- Gaze of Nightmare -->
+	</spawn>
+	<!-- godard26_2516_33 -->
+	<spawn zone="godard26_2516_3301">
+		<npc id="21301" count="2" respawnDelay="100" respawnRandom="20" /> <!-- Gaze of Nightmare -->
+		<npc id="21302" count="3" respawnDelay="70" respawnRandom="20" /> <!-- Eye of Watchman -->
+		<npc id="21312" count="2" respawnDelay="340" respawnRandom="60" /> <!-- Eye of Ruler -->
+	</spawn>
+	<!-- godard26_2516_34 -->
+	<spawn zone="godard26_2516_3401">
+		<npc id="21303" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Homunculus -->
+	</spawn>
+	<!-- godard26_2516_35 -->
+	<spawn zone="godard26_2516_3501">
+		<npc id="21302" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Eye of Watchman -->
+		<npc id="21303" count="3" respawnDelay="70" respawnRandom="20" /> <!-- Homunculus -->
+	</spawn>
+	<!-- godard26_2516_36 -->
+	<spawn zone="godard26_2516_3601">
+		<npc id="21303" count="1" respawnDelay="70" respawnRandom="20" /> <!-- Homunculus -->
+		<npc id="21304" count="3" respawnDelay="100" respawnRandom="20" /> <!-- Grendel Slave -->
+		<npc id="21312" count="1" respawnDelay="340" respawnRandom="60" /> <!-- Eye of Ruler -->
+	</spawn>
+	<!-- godard26_2516_37 -->
+	<spawn zone="godard26_2516_3701">
+		<npc id="21305" count="4" respawnDelay="90" respawnRandom="15" /> <!-- Eye of Pilgrim -->
+		<npc id="21312" count="1" respawnDelay="340" respawnRandom="60" /> <!-- Eye of Ruler -->
+	</spawn>
+	<!-- godard26_2516_38 -->
+	<spawn zone="godard26_2516_3801">
+		<npc id="21304" count="1" respawnDelay="100" respawnRandom="20" /> <!-- Grendel Slave -->
+		<npc id="21305" count="1" respawnDelay="90" respawnRandom="15" /> <!-- Eye of Pilgrim -->
+	</spawn>
+	<!-- godard26_2516_16 -->
+	<spawn zone="godard26_2516_1601">
+		<npc id="21306" count="6" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Protection -->
+		<npc id="21307" count="3" respawnDelay="100" respawnRandom="30" /> <!-- Elder Homunculus -->
+	</spawn>
+	<!-- godard26_2516_15 -->
+	<spawn zone="godard26_2516_1501">
+		<npc id="21306" count="3" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Protection -->
+		<npc id="21307" count="2" respawnDelay="100" respawnRandom="30" /> <!-- Elder Homunculus -->
+	</spawn>
+	<!-- godard26_2516_14 -->
+	<spawn zone="godard26_2516_1401">
+		<npc id="21306" count="4" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Protection -->
+		<npc id="21307" count="5" respawnDelay="100" respawnRandom="30" /> <!-- Elder Homunculus -->
+		<npc id="21308" count="5" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21309" count="6" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+	</spawn>
+	<!-- godard26_2516_39 -->
+	<spawn zone="godard26_2516_3901">
+		<npc id="21307" count="4" respawnDelay="100" respawnRandom="30" /> <!-- Elder Homunculus -->
+		<npc id="21308" count="7" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21309" count="9" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+	</spawn>
+	<!-- godard26_2516_40 -->
+	<spawn zone="godard26_2516_4001">
+		<npc id="21307" count="2" respawnDelay="100" respawnRandom="30" /> <!-- Elder Homunculus -->
+		<npc id="21308" count="1" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21309" count="1" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21310" count="3" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+		<npc id="21311" count="2" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+	</spawn>
+	<!-- godard26_2516_41 -->
+	<spawn zone="godard26_2516_4101">
+		<npc id="21308" count="1" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21310" count="1" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+		<npc id="21311" count="1" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+	</spawn>
+	<!-- godard26_2516_42 -->
+	<spawn zone="godard26_2516_4201">
+		<npc id="21308" count="1" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21309" count="1" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+	</spawn>
+	<!-- godard26_2516_43 -->
+	<spawn zone="godard26_2516_4301">
+		<npc id="21308" count="6" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21309" count="7" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21310" count="7" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+		<npc id="21311" count="7" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+	</spawn>
+	<!-- godard26_2516_44 -->
+	<spawn zone="godard26_2516_4401">
+		<npc id="21308" count="9" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21309" count="9" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21310" count="9" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+		<npc id="21311" count="9" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+	</spawn>
+	<!-- godard26_2516_45 -->
+	<spawn zone="godard26_2516_4501">
+		<npc id="21308" count="9" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21309" count="8" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21310" count="8" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+		<npc id="21311" count="8" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+	</spawn>
+	<!-- godard26_2516_46 -->
+	<spawn zone="godard26_2516_4601">
+		<npc id="21308" count="2" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21309" count="2" respawnDelay="130" respawnRandom="45" /> <!-- Disciples of Punishment -->
+		<npc id="21310" count="4" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+		<npc id="21311" count="4" respawnDelay="100" respawnRandom="30" /> <!-- Disciples of Authority -->
+	</spawn>
+	<!-- godard27_2516_01 -->
+	<spawn zone="godard27_2516_0101">
+		<npc id="21646" count="2" respawnDelay="45" /> <!-- Grave Scarab -->
+		<npc id="21648" count="2" respawnDelay="45" /> <!-- Grave Ant -->
+		<npc id="21650" count="2" respawnDelay="45" /> <!-- Shrine Knight -->
+	</spawn>
+	<!-- godard27_2516_02 -->
+	<spawn zone="godard27_2516_0201">
+		<npc id="21646" count="2" respawnDelay="45" /> <!-- Grave Scarab -->
+		<npc id="21647" count="4" respawnDelay="45" /> <!-- Scavenger Scarab -->
+		<npc id="21648" count="1" respawnDelay="45" /> <!-- Grave Ant -->
+		<npc id="21649" count="2" respawnDelay="45" /> <!-- Scavenger Ant -->
+	</spawn>
+	<!-- godard27_2516_03 -->
+	<spawn zone="godard27_2516_0301">
+		<npc id="21648" count="1" respawnDelay="45" /> <!-- Grave Ant -->
+		<npc id="21649" count="1" respawnDelay="45" /> <!-- Scavenger Ant -->
+		<npc id="21650" count="1" respawnDelay="45" /> <!-- Shrine Knight -->
+		<npc id="21651" count="1" respawnDelay="45" /> <!-- Shrine Guard -->
+	</spawn>
+	<!-- godard27_2516_04 -->
+	<spawn zone="godard27_2516_0401">
+		<npc id="21648" count="1" respawnDelay="45" /> <!-- Grave Ant -->
+		<npc id="21649" count="2" respawnDelay="45" /> <!-- Scavenger Ant -->
+		<npc id="21650" count="3" respawnDelay="45" /> <!-- Shrine Knight -->
+		<npc id="21651" count="3" respawnDelay="45" /> <!-- Shrine Guard -->
+	</spawn>
+	<!-- godard27_2516_05 -->
+	<spawn zone="godard27_2516_0501">
+		<npc id="21646" count="1" respawnDelay="45" /> <!-- Grave Scarab -->
+		<npc id="21648" count="1" respawnDelay="45" /> <!-- Grave Ant -->
+	</spawn>
+	<!-- godard27_2516_06 -->
+	<spawn zone="godard27_2516_0601">
+		<npc id="21647" count="1" respawnDelay="45" /> <!-- Scavenger Scarab -->
+		<npc id="21648" count="1" respawnDelay="45" /> <!-- Grave Ant -->
+	</spawn>
+	<!-- godard27_2516_07 -->
+	<spawn zone="godard27_2516_0701">
+		<npc id="21646" count="1" respawnDelay="45" /> <!-- Grave Scarab -->
+		<npc id="21647" count="1" respawnDelay="45" /> <!-- Scavenger Scarab -->
+	</spawn>
+	<!-- godard27_2516_08 -->
+	<spawn zone="godard27_2516_0801">
+		<npc id="21647" count="1" respawnDelay="45" /> <!-- Scavenger Scarab -->
+		<npc id="21648" count="1" respawnDelay="45" /> <!-- Grave Ant -->
+	</spawn>
+	<!-- godard27_2516_09 -->
+	<spawn zone="godard27_2516_0901">
+		<npc id="21647" count="1" respawnDelay="45" /> <!-- Scavenger Scarab -->
+		<npc id="21651" count="1" respawnDelay="45" /> <!-- Shrine Guard -->
+	</spawn>
+	<!-- godard27_2516_10 -->
+	<spawn zone="godard27_2516_1001">
+		<npc id="21650" count="1" respawnDelay="45" /> <!-- Shrine Knight -->
+		<npc id="21651" count="1" respawnDelay="45" /> <!-- Shrine Guard -->
+	</spawn>
+	<!-- godard27_2516_11 -->
+	<spawn zone="godard27_2516_1101">
+		<npc id="21648" count="1" respawnDelay="45" /> <!-- Grave Ant -->
+		<npc id="21650" count="1" respawnDelay="45" /> <!-- Shrine Knight -->
+	</spawn>
+</list>

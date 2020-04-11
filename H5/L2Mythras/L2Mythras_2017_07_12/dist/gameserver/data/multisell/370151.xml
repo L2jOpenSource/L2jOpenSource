@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+	
+		<!-- Special Accesories-->
+	<item>
+		<ingredient id="6673" count="100"/> 
+		<production id="15448" count="1"/> 
+	</item>
+	
+	<item>
+		<ingredient id="6673" count="100"/> 
+		<production id="15449" count="1"/> 
+	</item>
+	
+	<item>
+		<ingredient id="6673" count="100"/> 
+		<production id="15450" count="1"/> 
+	</item>
+	
+	<item>
+		<ingredient id="6673" count="100"/> 
+		<production id="15451" count="1"/> 
+	</item>
+	
+	<item>
+		<ingredient id="6673" count="100"/> 
+		<production id="15452" count="1"/> 
+	</item>
+	
+	<item>
+		<ingredient id="6673" count="100"/> 
+		<production id="15453" count="1"/> 
+	</item>
+	<item>
+		<!--Festival Adenas -->
+		<ingredient count="3" id="6673" />
+		
+		<!-- Giant's Codex -->
+		<production count="5" id="6622" />
+	</item>
+	<item>
+		<!--Festival Adenas -->
+		<ingredient count="1" id="6673" />
+		
+		<!-- Giant's Codex - Oblivion -->
+		<production count="1" id="9625" />
+	</item>
+	<item>
+		<!--Festival Adenas -->
+		<ingredient count="3" id="6673" />
+		
+		<!-- Giant's Codex - Discipline -->
+		<production count="1" id="9626" />
+	</item>
+	<item>
+		<!--Festival Adenas -->
+		<ingredient count="20" id="6673" />
+		
+		<!-- Giant's Codex - Mastery -->
+		<production count="5" id="9627" />
+	</item>
+	<item>
+		<!--Festival Adenas -->
+		<ingredient count="100" id="6673" />
+		
+		<!-- Mithril Belt -->
+		<production count="1" id="13897" />
+	</item>
+	<item>
+		<!--Festival Adena -->
+		<ingredient count="50" id="6673" />
+		<!-- Light Purple-Maned Horse Mount Bracelet -->
+		<production count="1" id="20029" />
+	</item>
+	<item>
+		<!--Festival Adena -->
+		<ingredient count="100" id="6673" />
+		<!-- Tawny-Maned Lion Mount Bracelet -->
+		<production count="1" id="20536" />
+	</item>
+	
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="75" id="6673" />
+
+		<!-- Red Soul Crystal - Stage 15 -->
+		<production count="1" id="10480" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="75" id="6673" />
+
+		<!-- Green Soul Crystal - Stage 15 -->
+		<production count="1" id="10482" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="75" id="6673" />
+
+		<!-- Blue Soul Crystal - Stage 15 -->
+		<production count="1" id="10481" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="100" id="6673" />
+
+		<!-- Red Soul Crystal - Stage 16 -->
+		<production count="1" id="13071" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="100" id="6673" />
+
+		<!-- Green Soul Crystal - Stage 16 -->
+		<production count="1" id="13072" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="100" id="6673" />
+
+		<!-- Blue Soul Crystal - Stage 16 -->
+		<production count="1" id="13073" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13071" />
+		<ingredient count="125" id="6673" />
+
+		<!-- Red Soul Crystal - Stage 17 -->
+		<production count="1" id="15541" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13072" />
+		<ingredient count="125" id="6673" />
+
+		<!-- Green Soul Crystal - Stage 17 -->
+		<production count="1" id="15542" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13073" />
+		<ingredient count="125" id="6673" />
+
+		<!-- Blue Soul Crystal - Stage 17 -->
+		<production count="1" id="15543" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13071" />
+		<ingredient count="150" id="6673" />
+
+
+		<!-- Red Soul Crystal - Stage 18 -->
+		<production count="1" id="15826" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13072" />
+		<ingredient count="150" id="6673" />
+
+		<!-- Green Soul Crystal - Stage 18 -->
+		<production count="1" id="15827" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13073" />
+		<ingredient count="150" id="6673" />
+
+		<!-- Blue Soul Crystal - Stage 18 -->
+		<production count="1" id="15828" />
+	</item>
+	<item>
+		<!-- FA -->
+		<ingredient count="50" id="6673" />
+
+		<!-- Dynastic Essence I -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="75" id="6673" />
+
+		<!-- Dynastic Essence II -->
+		<production count="1" id="10413" />
+	</item>
+	<item>
+		<ingredient count="150" id="6673"/> 
+		<production count="1" id="10210"/> 
+	</item>
+	
+	<item>
+		<ingredient count="150" id="6673"/> 
+		<production count="1" id="14937"/> 
+	</item>
+	<item>
+		<ingredient count="150" id="6673"/> 
+		<production count="1" id="14929"/> 
+	</item>
+	<item>
+		<ingredient count="250" id="6673"/> 
+		<production count="1" id="14957"/> 
+	</item>
+	<item>
+		<ingredient count="250" id="6673"/> 
+		<production count="1" id="14953"/> 
+	</item>
+	<item>
+		<ingredient count="250" id="6673"/> 
+		<production count="1" id="14961" /> 
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="6673" />
+
+		<!-- Noble Stone -->
+		<production count="15" id="14052" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="25" id="6673" />
+
+		<!-- BEAS -->
+		<production count="1" id="6578" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="50" id="6673" />
+
+		<!-- BEWS -->
+		<production count="1" id="6577" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="10" id="6673" />
+
+		<!-- BEAA -->
+		<production count="1" id="6570" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="25" id="6673" />
+
+		<!-- BEWA -->
+		<production count="1" id="6569" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="5" id="6673" />
+
+		<!-- BEAB -->
+		<production count="1" id="6572" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="15" id="6673" />
+
+		<!-- BEWB -->
+		<production count="1" id="6571" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="3" id="6673" />
+
+		<!-- BEAC -->
+		<production count="1" id="6574" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="10" id="6673" />
+
+		<!-- BEWC -->
+		<production count="1" id="6573" />
+	</item>
+	<item>
+			<!-- Festival Coin -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Shirt -->
+		<production count="1" id="10512" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Shirt -->
+		<production count="1" id="10513" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Shirt -->
+		<production count="1" id="10514" />
+	</item>
+	
+	
+	
+	<!-- GOD Cloaks -->
+	
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="250" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="50005" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="250" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="50006" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="250" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="50007" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="250" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="50008" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="250" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="50009" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="250" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="50010" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="250" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="50011" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="250" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="50012" />
+	</item>
+	
+	
+	
+	
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="2" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12369" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="5" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12364" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="5" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12370" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12365" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="15" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12371" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Bckp Stones -->
+		<production count="1" id="12366" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="3" id="6673" />
+
+		<!-- LIFE Stones -->
+		<production count="5" id="9575" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="5" id="6673" />
+
+		<!-- LIFE Stones -->
+		<production count="5" id="9576" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Accessory LS -->
+		<production count="1" id="12821" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="30" id="6673" />
+
+		<!-- Belt -->
+		<production count="1" id="13953" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="25" id="6673" />
+
+		<!-- QI -->
+		<production count="1" id="7267" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="25" id="6673" />
+
+		<!-- QI -->
+		<production count="1" id="8073" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="25" id="6673" />
+
+		<!-- QI -->
+		<production count="1" id="4295" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="25" id="6673" />
+
+		<!-- QI -->
+		<production count="1" id="3865" />
+	</item>
+
+		<item>
+		<!-- Festival Coin -->
+		<ingredient count="25" id="6673" />
+
+		<!-- neo cry  -->
+		<production count="1" id="14679" />
+	</item>
+	
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="50" id="6673" />
+
+		<!-- neo cry  -->
+		<production count="1" id="14680" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="100" id="6673" />
+
+		<!-- neo cry  -->
+		<production count="1" id="14681" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="150" id="6673" />
+
+		<!-- neo cry  -->
+		<production count="1" id="21579" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="10" id="6673" />
+
+		<!-- Blood Oath -->
+		<production count="1" id="9910" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="300" id="6673" />
+
+		<!-- Blood alliance  -->
+		<production count="1" id="9911" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="100" id="6673" />
+
+		<!-- Cloak -->
+		<production count="1" id="21583" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="100" id="6673" />
+
+		<!-- Cloak -->
+		<production count="1" id="21587" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="100" id="6673" />
+
+		<!-- Cloak -->
+		<production count="1" id="21588" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="150" id="6673" />
+
+		<!-- Cloak -->
+		<production count="1" id="21716" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="200" id="6673" />
+
+		<!-- Cloak -->
+		<production count="1" id="21718" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="250" id="6673" />
+
+		<!-- Cloak -->
+		<production count="1" id="21717" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="6673" count="10"/>
+		<!-- BSOE  Dion -->
+		<production id="13732" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="6673" count="10"/>
+		<!-- BSOE  Giran -->
+		<production id="13733" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="6673" count="10"/>
+		<!-- BSOE  Oren -->
+		<production id="13734" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="6673" count="10"/>
+		<!-- BSOE  Aden -->
+		<production id="13735" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="6673" count="10"/>
+		<!-- BSOE  Innadril -->
+		<production id="13736" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="6673" count="10"/>
+		<!-- BSOE  Goddard -->
+		<production id="13737" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="6673" count="10"/>
+		<!-- BSOE  Rune -->
+		<production id="13738" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="6673" count="10"/>
+		<!-- BSOE  Schutthard -->
+		<production id="13739" count="1"/>
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient id="6673" count="10"/>
+		<!-- BSOE  Gludio -->
+		<production id="13731" count="1"/>
+	</item>	
+</list>

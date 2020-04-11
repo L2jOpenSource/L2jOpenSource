@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- schuttgart11_npc2313_01 -->
+	<spawn zone="schuttgart11_npc2313_01m1">
+		<npc id="32054" x="122192" y="-140528" z="-1542" heading="45056" respawnDelay="60" /> <!-- Ghost of a Railroad Engineer -->
+	</spawn>
+	<!-- schuttgart11_npc2313_02 -->
+	<spawn zone="schuttgart11_npc2313_02m1">
+		<npc id="32055" x="113808" y="-155616" z="-1533" heading="24576" respawnDelay="60" /> <!-- Ghost of an Ancient Railroad Engineer -->
+	</spawn>
+	<!-- schuttgart11_npc2313_04 -->
+	<spawn zone="schuttgart11_npc2313_04m1">
+		<npc id="32052" x="113520" y="-153744" z="-1533" heading="16384" respawnDelay="60" /> <!-- Obi -->
+	</spawn>
+	<!-- schuttgart11_npc2313_05 -->
+	<spawn zone="schuttgart11_npc2313_05m1">
+		<npc id="32053" x="113504" y="-155264" z="-1533" heading="49152" respawnDelay="60" periodOfDay="day" /> <!-- Abey -->
+	</spawn>
+	<!-- schuttgart11_npc2313_06 -->
+	<spawn zone="schuttgart11_npc2313_06m1">
+		<npc id="32076" x="113232" y="-154960" z="-1533" heading="57344" respawnDelay="60" /> <!-- Box -->
+	</spawn>
+	<!-- schuttgart11_2313_01 -->
+	<spawn zone="schuttgart11_2313_01m1">
+		<npc id="22017" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Sweeper -->
+		<npc id="22018" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Hound -->
+	</spawn>
+	<!-- schuttgart11_2313_02 -->
+	<spawn zone="schuttgart11_2313_02m1">
+		<npc id="22017" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Sweeper -->
+		<npc id="22018" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Hound -->
+	</spawn>
+	<!-- schuttgart11_2313_03 -->
+	<spawn zone="schuttgart11_2313_03m1">
+		<npc id="22017" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Sweeper -->
+		<npc id="22018" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Hound -->
+	</spawn>
+	<!-- schuttgart11_2313_04 -->
+	<spawn zone="schuttgart11_2313_04m1">
+		<npc id="22017" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Sweeper -->
+		<npc id="22018" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Hound -->
+	</spawn>
+	<!-- schuttgart11_2313_05 -->
+	<spawn zone="schuttgart11_2313_05m1">
+		<npc id="22017" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Sweeper -->
+		<npc id="22018" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Hound -->
+	</spawn>
+	<!-- schuttgart11_2313_06 -->
+	<spawn zone="schuttgart11_2313_06m1">
+		<npc id="22017" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Sweeper -->
+		<npc id="22018" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Hound -->
+		<npc id="22019" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Watchman -->
+	</spawn>
+	<!-- schuttgart11_2313_07 -->
+	<spawn zone="schuttgart11_2313_07m1">
+		<npc id="22017" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Sweeper -->
+		<npc id="22018" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Hound -->
+		<npc id="22019" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Watchman -->
+	</spawn>
+	<!-- schuttgart11_2313_08 -->
+	<spawn zone="schuttgart11_2313_08m1">
+		<npc id="22017" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Sweeper -->
+		<npc id="22018" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Hound -->
+		<npc id="22019" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Watchman -->
+	</spawn>
+	<!-- schuttgart11_2313_09 -->
+	<spawn zone="schuttgart11_2313_09m1">
+		<npc id="22018" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Hound -->
+		<npc id="22019" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Watchman -->
+		<npc id="22020" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Snow Lynx -->
+	</spawn>
+	<!-- schuttgart11_2313_10 -->
+	<spawn zone="schuttgart11_2313_10m1">
+		<npc id="22019" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Watchman -->
+		<npc id="22020" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Snow Lynx -->
+		<npc id="22021" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+	</spawn>
+	<!-- schuttgart11_2313_11 -->
+	<spawn zone="schuttgart11_2313_11m1">
+		<npc id="22019" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Watchman -->
+		<npc id="22020" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Snow Lynx -->
+		<npc id="22021" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+	</spawn>
+	<!-- schuttgart11_2313_12 -->
+	<spawn zone="schuttgart11_2313_12m1">
+		<npc id="22019" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Watchman -->
+		<npc id="22020" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Snow Lynx -->
+		<npc id="22021" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+	</spawn>
+	<!-- schuttgart11_2313_13 -->
+	<spawn zone="schuttgart11_2313_13m1">
+		<npc id="22021" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+		<npc id="22022" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Assassin -->
+	</spawn>
+	<!-- schuttgart11_2313_14 -->
+	<spawn zone="schuttgart11_2313_14m1">
+		<npc id="22021" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+		<npc id="22022" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Assassin -->
+	</spawn>
+	<!-- schuttgart11_2313_15 -->
+	<spawn zone="schuttgart11_2313_15m1">
+		<npc id="22019" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Watchman -->
+		<npc id="22020" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Snow Lynx -->
+		<npc id="22021" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+	</spawn>
+	<!-- schuttgart11_2313_16 -->
+	<spawn zone="schuttgart11_2313_16m1">
+		<npc id="22020" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Snow Lynx -->
+		<npc id="22021" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+		<npc id="22022" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Assassin -->
+	</spawn>
+	<!-- schuttgart11_2313_17 -->
+	<spawn zone="schuttgart11_2313_17m1">
+		<npc id="22020" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Snow Lynx -->
+		<npc id="22021" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+		<npc id="22022" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Assassin -->
+	</spawn>
+	<!-- schuttgart11_2313_18 -->
+	<spawn zone="schuttgart11_2313_18m1">
+		<npc id="22023" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Warrior -->
+		<npc id="22024" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Inspector -->
+	</spawn>
+	<!-- schuttgart11_2313_22 -->
+	<spawn zone="schuttgart11_2313_22m1">
+		<npc id="22024" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Inspector -->
+		<npc id="22025" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Frozen Wasteland Werewolf -->
+		<npc id="22026" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Captain -->
+	</spawn>
+	<!-- schuttgart11_2313_23 -->
+	<spawn zone="schuttgart11_2313_23m1">
+		<npc id="22023" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Warrior -->
+		<npc id="22024" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Inspector -->
+		<npc id="22025" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Frozen Wasteland Werewolf -->
+	</spawn>
+	<!-- schuttgart11_2313_24 -->
+	<spawn zone="schuttgart11_2313_24m1">
+		<npc id="22023" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Warrior -->
+		<npc id="22024" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Inspector -->
+	</spawn>
+	<!-- schuttgart11_2313_25 -->
+	<spawn zone="schuttgart11_2313_25m1">
+		<npc id="22020" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Snow Lynx -->
+		<npc id="22021" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+		<npc id="22022" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Assassin -->
+	</spawn>
+	<!-- schuttgart11_2313_26 -->
+	<spawn zone="schuttgart11_2313_26m1">
+		<npc id="22020" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Snow Lynx -->
+		<npc id="22021" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+		<npc id="22022" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Assassin -->
+	</spawn>
+	<!-- schuttgart11_2313_27 -->
+	<spawn zone="schuttgart11_2313_27m1">
+		<npc id="22022" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Assassin -->
+		<npc id="22023" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Warrior -->
+		<npc id="22024" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Inspector -->
+	</spawn>
+	<!-- schuttgart11_2313_28 -->
+	<spawn zone="schuttgart11_2313_28m1">
+		<npc id="22022" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Assassin -->
+		<npc id="22023" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Warrior -->
+		<npc id="22024" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Inspector -->
+	</spawn>
+	<!-- schuttgart11_2313_29 -->
+	<spawn zone="schuttgart11_2313_29m1">
+		<npc id="22023" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Warrior -->
+		<npc id="22024" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Inspector -->
+		<npc id="22025" count="1" respawnDelay="50" respawnRandom="10" /> <!-- Frozen Wasteland Werewolf -->
+	</spawn>
+	<!-- schuttgart11_2313_30 -->
+	<spawn zone="schuttgart11_2313_30m1">
+		<npc id="22023" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Warrior -->
+		<npc id="22024" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Inspector -->
+		<npc id="22026" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Captain -->
+	</spawn>
+	<!-- schuttgart11_2313_31 -->
+	<spawn zone="schuttgart11_2313_31m1">
+		<npc id="22025" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Frozen Wasteland Werewolf -->
+		<npc id="22028" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Vagabond of the Ruins -->
+	</spawn>
+	<!-- schuttgart11_2313_32 -->
+	<spawn zone="schuttgart11_2313_32m1">
+		<npc id="22025" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Frozen Wasteland Werewolf -->
+		<npc id="22028" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Vagabond of the Ruins -->
+	</spawn>
+	<!-- schuttgart11_2313_33 -->
+	<spawn zone="schuttgart11_2313_33m1">
+		<npc id="22020" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Snow Lynx -->
+		<npc id="22021" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+		<npc id="22022" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Assassin -->
+	</spawn>
+	<!-- schuttgart11_2313_34 -->
+	<spawn zone="schuttgart11_2313_34m1">
+		<npc id="22020" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Snow Lynx -->
+		<npc id="22021" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Undertaker -->
+		<npc id="22022" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Assassin -->
+	</spawn>
+	<!-- schuttgart11_2313_35 -->
+	<spawn zone="schuttgart11_2313_35m1">
+		<npc id="22024" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Inspector -->
+		<npc id="22026" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Bandit Captain -->
+	</spawn>
+	<!-- schuttgart11_2313_36 -->
+	<spawn zone="schuttgart11_2313_36m1">
+		<npc id="22025" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Frozen Wasteland Werewolf -->
+		<npc id="22028" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Vagabond of the Ruins -->
+	</spawn>
+	<!-- schuttgart11_2313_37 -->
+	<spawn zone="schuttgart11_2313_37m1">
+		<npc id="22025" count="3" respawnDelay="50" respawnRandom="10" /> <!-- Frozen Wasteland Werewolf -->
+		<npc id="22028" count="2" respawnDelay="50" respawnRandom="10" /> <!-- Vagabond of the Ruins -->
+	</spawn>
+	<!-- schuttgart11_tb2313_01 -->
+	<spawn zone="schuttgart11_tb2313_01m1">
+		<npc id="18268" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- schuttgart11_tb2313_06 -->
+	<spawn zone="schuttgart11_tb2313_06m1">
+		<npc id="18269" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- schuttgart11_tb2313_18 -->
+	<spawn zone="schuttgart11_tb2313_18m1">
+		<npc id="18270" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

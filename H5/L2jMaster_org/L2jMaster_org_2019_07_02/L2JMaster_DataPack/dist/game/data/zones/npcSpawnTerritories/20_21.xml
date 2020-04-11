@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- dion05_npc2021_01 -->
+	<zone name="dion05_npc2021_0101" type="NpcSpawnTerritory" shape="NPoly" minZ="-3503" maxZ="-3303">
+		<node X="17196" Y="114076" />
+		<node X="17396" Y="114076" />
+		<node X="17396" Y="114276" />
+		<node X="17196" Y="114276" />
+	</zone>
+	<!-- dion05_npc2021_02 -->
+	<zone name="dion05_npc2021_0201" type="NpcSpawnTerritory" shape="NPoly" minZ="-11708" maxZ="-11508">
+		<node X="17473" Y="113908" />
+		<node X="17987" Y="113913" />
+		<node X="17987" Y="114030" />
+		<node X="17476" Y="114042" />
+	</zone>
+	<!-- dion05_npc2021_04 -->
+	<zone name="dion05_npc2021_0401" type="NpcSpawnTerritory" shape="NPoly" minZ="-9162" maxZ="-8962">
+		<node X="17628" Y="108140" />
+		<node X="17828" Y="108140" />
+		<node X="17828" Y="108340" />
+		<node X="17628" Y="108340" />
+	</zone>
+	<!-- dion05_npc2021_05 -->
+	<zone name="dion05_npc2021_0501" type="NpcSpawnTerritory" shape="NPoly" minZ="-9146" maxZ="-8946">
+		<node X="17628" Y="119628" />
+		<node X="17828" Y="119628" />
+		<node X="17828" Y="119828" />
+		<node X="17628" Y="119828" />
+	</zone>
+	<!-- dion05_npc2021_06 -->
+	<zone name="dion05_npc2021_0601" type="NpcSpawnTerritory" shape="NPoly" minZ="-12127" maxZ="-11877">
+		<node X="15254" Y="119676" />
+		<node X="15487" Y="119678" />
+		<node X="15489" Y="119877" />
+		<node X="15254" Y="119876" />
+	</zone>
+	<!-- dion04_npc2021_01 -->
+	<zone name="dion04_npc2021_0101" type="NpcSpawnTerritory" shape="NPoly" minZ="-3809" maxZ="-3609">
+		<node X="22966" Y="118844" />
+		<node X="23166" Y="118844" />
+		<node X="23166" Y="119044" />
+		<node X="22966" Y="119044" />
+	</zone>
+	<!-- dion04_npc2021_02 -->
+	<zone name="dion04_npc2021_0201" type="NpcSpawnTerritory" shape="NPoly" minZ="-3685" maxZ="-3485">
+		<node X="16359" Y="113402" />
+		<node X="16559" Y="113402" />
+		<node X="16559" Y="113602" />
+		<node X="16359" Y="113602" />
+	</zone>
+	<!-- dion04_npc2021_04 -->
+	<zone name="dion04_npc2021_0401" type="NpcSpawnTerritory" shape="NPoly" minZ="-3779" maxZ="-3579">
+		<node X="10484" Y="117922" />
+		<node X="10684" Y="117922" />
+		<node X="10684" Y="118122" />
+		<node X="10484" Y="118122" />
+	</zone>
+	<!-- dion05_npc2021_07 -->
+	<zone name="dion05_npc2021_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9120" maxZ="-8920">
+		<node X="16300" Y="113388" />
+		<node X="16500" Y="113388" />
+		<node X="16500" Y="113588" />
+		<node X="16300" Y="113588" />
+	</zone>
+	<!-- dion04_2021_01 -->
+	<zone name="dion04_2021_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="9868" Y="104802" />
+		<node X="15668" Y="101684" />
+		<node X="17258" Y="105870" />
+		<node X="12527" Y="107380" />
+	</zone>
+	<!-- dion04_2021_02 -->
+	<zone name="dion04_2021_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="5649" Y="108487" />
+		<node X="9825" Y="104907" />
+		<node X="12410" Y="107417" />
+		<node X="9242" Y="113454" />
+		<node X="4747" Y="113401" />
+	</zone>
+	<!-- dion04_2021_03 -->
+	<zone name="dion04_2021_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="4753" Y="113545" />
+		<node X="9222" Y="113571" />
+		<node X="12330" Y="120913" />
+		<node X="10051" Y="123286" />
+		<node X="5076" Y="119035" />
+	</zone>      
+	<!-- dion04_2021_04 -->
+	<zone name="dion04_2021_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="10218" Y="123373" />
+		<node X="12571" Y="120869" />
+		<node X="18009" Y="121973" />
+		<node X="18018" Y="126581" />
+		<node X="12722" Y="126534" />
+	</zone>
+	<!-- dion04_2021_05 -->
+	<zone name="dion04_2021_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="18106" Y="126591" />
+		<node X="18148" Y="121963" />
+		<node X="24549" Y="120179" />
+		<node X="24076" Y="123052" />
+	</zone>
+	<!-- dion04_2021_06 -->
+	<zone name="dion04_2021_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="27441" Y="120344" />
+		<node X="24536" Y="120568" />
+		<node X="26351" Y="112226" />
+		<node X="30789" Y="113867" />
+	</zone>
+	<!-- dion04_2021_07 -->
+	<zone name="dion04_2021_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="30747" Y="113707" />
+		<node X="26385" Y="112125" />
+		<node X="25907" Y="107829" />
+		<node X="28587" Y="105722" />
+	</zone>
+	<!-- dion04_2021_08 -->
+	<zone name="dion04_2021_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="27956" Y="106003" />
+		<node X="25665" Y="107760" />
+		<node X="22265" Y="104874" />
+		<node X="22630" Y="100825" />
+	</zone>
+	<!-- dion04_2021_09 -->
+	<zone name="dion04_2021_09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="22375" Y="101192" />
+		<node X="22131" Y="104854" />
+		<node X="17449" Y="105773" />
+		<node X="15885" Y="101594" />
+	</zone>
+	<!-- dion04_2021_10 -->
+	<zone name="dion04_2021_10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="17300" Y="106034" />
+		<node X="18020" Y="109017" />
+		<node X="9459" Y="113372" />
+		<node X="12518" Y="107510" />
+	</zone>
+	<!-- dion04_2021_11 -->
+	<zone name="dion04_2021_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="12531" Y="111947" />
+		<node X="13878" Y="117665" />
+		<node X="12429" Y="120853" />
+		<node X="9364" Y="113513" />
+	</zone>
+	<!-- dion04_2021_12 -->
+	<zone name="dion04_2021_12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="13985" Y="117660" />
+		<node X="21481" Y="120882" />
+		<node X="18086" Y="121855" />
+		<node X="12596" Y="120710" />
+	</zone>
+	<!-- dion04_2021_13 -->
+	<zone name="dion04_2021_13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="22565" Y="113505" />
+		<node X="25545" Y="115492" />
+		<node X="21069" Y="120568" />
+		<node X="18411" Y="119435" />
+	</zone>
+	<!-- dion04_2021_14 -->
+	<zone name="dion04_2021_14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="25748" Y="107864" />
+		<node X="26253" Y="112203" />
+		<node X="25122" Y="114902" />
+		<node X="22598" Y="113291" />
+		<node X="22622" Y="110180" />
+	</zone>
+	<!-- dion04_2021_15 -->
+	<zone name="dion04_2021_15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="22137" Y="105062" />
+		<node X="25559" Y="107832" />
+		<node X="22589" Y="110078" />
+		<node X="18126" Y="108935" />
+		<node X="17480" Y="106067" />
+	</zone>
+	<!-- dion04_2021_16 -->
+	<zone name="dion04_2021_16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="18137" Y="109054" />
+		<node X="22583" Y="110168" />
+		<node X="22541" Y="113269" />
+		<node X="18978" Y="111334" />
+	</zone>
+	<!-- dion04_2021_17 -->
+	<zone name="dion04_2021_17m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="14940" Y="110676" />
+		<node X="18097" Y="109107" />
+		<node X="19441" Y="112923" />
+		<node X="16973" Y="112903" />
+	</zone>
+	<!-- dion04_2021_18 -->
+	<zone name="dion04_2021_18m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="12625" Y="111910" />
+		<node X="14909" Y="110738" />
+		<node X="15864" Y="113460" />
+		<node X="13034" Y="113634" />
+	</zone>
+	<!-- dion04_2021_19 -->
+	<zone name="dion04_2021_19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="13376" Y="115047" />
+		<node X="15363" Y="115113" />
+		<node X="15203" Y="118033" />
+		<node X="13999" Y="117572" />
+	</zone>
+	<!-- dion04_2021_20 -->
+	<zone name="dion04_2021_20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="18832" Y="116293" />
+		<node X="19473" Y="117771" />
+		<node X="18282" Y="119361" />
+		<node X="15243" Y="118089" />
+		<node X="16178" Y="116547" />
+	</zone>
+	<!-- dion04_2021_21 -->
+	<zone name="dion04_2021_21m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="20572" Y="112349" />
+		<node X="22531" Y="113378" />
+		<node X="20708" Y="115963" />
+		<node X="19738" Y="115177" />
+		<node X="19760" Y="113268" />
+	</zone>
+	<!-- dion04_2021_22s -->
+	<zone name="dion04_2021_22sm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="5831" Y="114948" />
+		<node X="8701" Y="114974" />
+		<node X="9127" Y="118060" />
+		<node X="6670" Y="119263" />
+	</zone>
+	<!-- dion04_2021_23s -->
+	<zone name="dion04_2021_23sm1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3831" maxZ="-3231">
+		<node X="8209" Y="106709" />
+		<node X="10636" Y="107268" />
+		<node X="10555" Y="110159" />
+		<node X="7618" Y="112259" />
+	</zone>
+	<!-- dion18_2021_01 -->
+	<zone name="dion18_2021_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12128" maxZ="-11928">
+		<node X="13843" Y="116579" />
+		<node X="15156" Y="116580" />
+		<node X="15180" Y="117980" />
+		<node X="13856" Y="117997" />
+	</zone>
+	<!-- dion18_2021_02 
+	<zone name="dion18_2021_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12139" maxZ="-11839">
+		<node X="14510" Y="118458" />
+		<node X="15402" Y="118449" />
+		<node X="15401" Y="119438" />
+		<node X="14513" Y="119438" />
+	</zone> -->
+	<!-- dion18_2021_03 -->
+	<zone name="dion18_2021_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12121" maxZ="-11891">
+		<node X="13393" Y="120257" />
+		<node X="15415" Y="120265" />
+		<node X="15414" Y="120822" />
+		<node X="13398" Y="120825" />
+	</zone>
+	<!-- dion18_2021_04 -->
+	<zone name="dion18_2021_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12133" maxZ="-11903">
+		<node X="12419" Y="117313" />
+		<node X="12944" Y="117307" />
+		<node X="12987" Y="119942" />
+		<node X="12414" Y="119929" />
+	</zone>
+	<!-- dion18_2021_05 -->
+	<zone name="dion18_2021_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12134" maxZ="-11904">
+		<node X="11030" Y="119065" />
+		<node X="12027" Y="119068" />
+		<node X="12020" Y="120808" />
+		<node X="11033" Y="120807" />
+	</zone>
+	<!-- dion18_2021_06 -->
+	<zone name="dion18_2021_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12134" maxZ="-11904">
+		<node X="11025" Y="116445" />
+		<node X="12020" Y="116447" />
+		<node X="12029" Y="118182" />
+		<node X="11057" Y="118189" />
+	</zone>
+	<!-- dion18_2021_07 -->
+	<zone name="dion18_2021_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12131" maxZ="-11901">
+		<node X="13872" Y="110333" />
+		<node X="15128" Y="110330" />
+		<node X="15143" Y="111820" />
+		<node X="13854" Y="111821" />
+	</zone>
+	<!-- dion18_2021_08 -->
+	<zone name="dion18_2021_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12130" maxZ="-11900">
+		<node X="13021" Y="107948" />
+		<node X="13034" Y="111161" />
+		<node X="12805" Y="111167" />
+		<node X="12806" Y="109955" />
+		<node X="11772" Y="109915" />
+		<node X="11776" Y="109356" />
+		<node X="12774" Y="109332" />
+		<node X="12804" Y="107948" />
+		<node X="14360" Y="109355" />
+		<node X="14365" Y="109965" />
+		<node X="13401" Y="109948" />
+		<node X="13381" Y="111182" />
+		<node X="13061" Y="111175" />
+		<node X="13053" Y="107944" />
+		<node X="13405" Y="107947" />
+		<node X="13418" Y="109353" />
+	</zone>
+	<!-- dion18_2021_12 -->
+	<zone name="dion18_2021_12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12121" maxZ="-11891">
+		<node X="13730" Y="107457" />
+		<node X="14875" Y="107452" />
+		<node X="14903" Y="108963" />
+		<node X="13734" Y="108966" />
+	</zone>
+	<!-- dion18_2021_13 -->
+	<zone name="dion18_2021_13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12121" maxZ="-11891">
+		<node X="11248" Y="110563" />
+		<node X="12243" Y="110556" />
+		<node X="12243" Y="111637" />
+		<node X="11245" Y="111640" />
+	</zone>
+	<!-- dion18_2021_14 -->
+	<zone name="dion18_2021_14m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12128" maxZ="-11898">
+		<node X="11062" Y="107478" />
+		<node X="12431" Y="107474" />
+		<node X="12414" Y="108947" />
+		<node X="11035" Y="108960" />
+	</zone>
+	<!-- dion18_2021_15 -->
+	<zone name="dion18_2021_15m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12131" maxZ="-11901">
+		<node X="20259" Y="110309" />
+		<node X="21571" Y="110268" />
+		<node X="21572" Y="111691" />
+		<node X="20293" Y="111699" />
+	</zone>
+	<!-- dion18_2021_16 -->
+	<zone name="dion18_2021_16m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12121" maxZ="-11891">
+		<node X="20077" Y="107473" />
+		<node X="21638" Y="107472" />
+		<node X="21645" Y="109264" />
+		<node X="20068" Y="109271" />
+	</zone>
+	<!-- dion18_2021_17 -->
+	<zone name="dion18_2021_17m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12133" maxZ="-11903">
+		<node X="22084" Y="108308" />
+		<node X="22567" Y="108313" />
+		<node X="22549" Y="110939" />
+		<node X="22099" Y="110936" />
+	</zone>
+	<!-- dion18_2021_18 -->
+	<zone name="dion18_2021_18m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12129" maxZ="-11899">
+		<node X="23076" Y="107462" />
+		<node X="24410" Y="107456" />
+		<node X="24406" Y="109199" />
+		<node X="23058" Y="109192" />
+	</zone>
+	<!-- dion18_2021_19 -->
+	<zone name="dion18_2021_19m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12130" maxZ="-11900">
+		<node X="23071" Y="110088" />
+		<node X="24415" Y="110085" />
+		<node X="24415" Y="111839" />
+		<node X="23036" Y="111829" />
+	</zone>
+	<!-- dion18_2021_20 -->
+	<zone name="dion18_2021_20m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12131" maxZ="-11901">
+		<node X="20286" Y="116601" />
+		<node X="21567" Y="116603" />
+		<node X="21573" Y="118040" />
+		<node X="20282" Y="118041" />
+	</zone>
+	<!-- dion18_2021_21 -->
+	<zone name="dion18_2021_21m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12133" maxZ="-11903">
+		<node X="22184" Y="117231" />
+		<node X="22651" Y="117244" />
+		<node X="22660" Y="119913" />
+		<node X="22205" Y="119911" />
+	</zone>
+	<!-- dion18_2021_22 -->
+	<zone name="dion18_2021_22m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12130" maxZ="-11900">
+		<node X="23112" Y="116437" />
+		<node X="24426" Y="116425" />
+		<node X="24419" Y="118256" />
+		<node X="23106" Y="118264" />
+	</zone>
+	<!-- dion18_2021_23 -->
+	<zone name="dion18_2021_23m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12130" maxZ="-11900">
+		<node X="23095" Y="119126" />
+		<node X="24427" Y="119138" />
+		<node X="24433" Y="120846" />
+		<node X="23103" Y="120851" />
+	</zone>
+	<!-- dion18_2021_24 -->
+	<zone name="dion18_2021_24m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12131" maxZ="-11901">
+		<node X="20016" Y="119026" />
+		<node X="21216" Y="119017" />
+		<node X="21209" Y="120853" />
+		<node X="20024" Y="120856" />
+	</zone>
+	<!-- dion19_2021_01 -->
+	<zone name="dion19_2021_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8698">
+		<node X="14801" Y="108703" />
+		<node X="15470" Y="108698" />
+		<node X="15474" Y="110167" />
+		<node X="14808" Y="110163" />
+	</zone>
+	<!-- dion19_2021_02 -->
+	<zone name="dion19_2021_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8798">
+		<node X="11957" Y="108859" />
+		<node X="13677" Y="108854" />
+		<node X="13676" Y="111079" />
+		<node X="11967" Y="111088" />
+	</zone>
+	<!-- dion19_2021_03 -->
+	<zone name="dion19_2021_03m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8798">
+		<node X="13551" Y="113402" />
+		<node X="13832" Y="113400" />
+		<node X="13813" Y="116190" />
+		<node X="13554" Y="116196" />
+	</zone>
+	<!-- dion19_2021_04 -->
+	<zone name="dion19_2021_04m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8798">
+		<node X="11655" Y="112066" />
+		<node X="11937" Y="112064" />
+		<node X="11900" Y="114819" />
+		<node X="11658" Y="114833" />
+	</zone>
+	<!-- dion19_2021_05 -->
+	<zone name="dion19_2021_05m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8798">
+		<node X="11719" Y="117182" />
+		<node X="13438" Y="117176" />
+		<node X="13437" Y="119402" />
+		<node X="11728" Y="119411" />
+	</zone>
+	<!-- dion19_2021_06 -->
+	<zone name="dion19_2021_06m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8698">
+		<node X="14795" Y="118316" />
+		<node X="15463" Y="118311" />
+		<node X="15467" Y="119780" />
+		<node X="14802" Y="119775" />
+	</zone>
+	<!-- dion19_2021_07 -->
+	<zone name="dion19_2021_07m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8698">
+		<node X="19984" Y="118324" />
+		<node X="20652" Y="118319" />
+		<node X="20656" Y="119788" />
+		<node X="19990" Y="119784" />
+	</zone>
+	<!-- dion19_2021_08 -->
+	<zone name="dion19_2021_08m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8698">
+		<node X="21478" Y="117002" />
+		<node X="22196" Y="117002" />
+		<node X="22206" Y="118566" />
+		<node X="21483" Y="118585" />
+	</zone>
+	<!-- dion19_2021_09 -->
+	<zone name="dion19_2021_09m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8798">
+		<node X="23658" Y="117450" />
+		<node X="23924" Y="117448" />
+		<node X="23917" Y="119696" />
+		<node X="23657" Y="119701" />
+	</zone>
+	<!-- dion19_2021_10 -->
+	<zone name="dion19_2021_10m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8698">
+		<node X="21471" Y="113312" />
+		<node X="23891" Y="113309" />
+		<node X="23891" Y="115003" />
+		<node X="21458" Y="114976" />
+	</zone>
+	<!-- dion19_2021_11 -->
+	<zone name="dion19_2021_11m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8698">
+		<node X="23154" Y="109677" />
+		<node X="23872" Y="109678" />
+		<node X="23882" Y="111241" />
+		<node X="23159" Y="111261" />
+	</zone>
+	<!-- dion19_2021_12 -->
+	<zone name="dion19_2021_12m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8798">
+		<node X="21428" Y="109109" />
+		<node X="21694" Y="109107" />
+		<node X="21694" Y="111205" />
+		<node X="21420" Y="111203" />
+	</zone>
+	<!-- dion19_2021_13 -->
+	<zone name="dion19_2021_13m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9098" maxZ="-8698">
+		<node X="19974" Y="108473" />
+		<node X="20642" Y="108468" />
+		<node X="20646" Y="109937" />
+		<node X="19981" Y="109933" />
+	</zone>
+	<!-- dion04_qm2021_00 -->
+	<zone name="dion04_qm2021_00m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3688" maxZ="-3488">
+		<node X="8672" Y="126752" />
+		<node X="9428" Y="126848" />
+		<node X="9500" Y="127228" />
+		<node X="9036" Y="127428" />
+		<node X="8360" Y="127016" />
+	</zone>
+	<!-- dion04_qm2021_01 -->
+	<zone name="dion04_qm2021_01m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3809" maxZ="-3609">
+		<node X="22966" Y="118844" />
+		<node X="23166" Y="118844" />
+		<node X="23166" Y="119044" />
+		<node X="22966" Y="119044" />
+	</zone>
+	<!-- dion04_qm2021_02 -->
+	<zone name="dion04_qm2021_02m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3695" maxZ="-3495">
+		<node X="17832" Y="86087" />
+		<node X="18032" Y="86087" />
+		<node X="18032" Y="86287" />
+		<node X="17832" Y="86287" />
+	</zone>
+	<!-- dg_20_21_03f_004 -->
+	<zone name="dg_20_21_03f_004" type="NpcSpawnTerritory" shape="NPoly" minZ="-6620" maxZ="-6420">
+		<node X="16298" Y="112483" />
+		<node X="19157" Y="112499" />
+		<node X="19157" Y="113277" />
+		<node X="16298" Y="113262" />
+	</zone>
+	<!-- dg_20_21_03f_tele -->
+	<zone name="dg_20_21_03f_tele" type="NpcSpawnTerritory" shape="NPoly" minZ="-6631" maxZ="-6431">
+		<node X="17612" Y="115340" />
+		<node X="17812" Y="115340" />
+		<node X="17812" Y="115540" />
+		<node X="17612" Y="115540" />
+	</zone>
+	<!-- dg_20_21_03f_004_02 -->
+	<zone name="dg_20_21_03f_004_02" type="NpcSpawnTerritory" shape="NPoly" minZ="-6620" maxZ="-6420">
+		<node X="16298" Y="112483" />
+		<node X="19157" Y="112499" />
+		<node X="19157" Y="113277" />
+		<node X="16298" Y="113262" />
+	</zone>
+	<!-- dion18_tb2021_08 -->
+	<zone name="dion18_tb08_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12121" maxZ="-11891">
+		<node X="13649" Y="109350" />
+		<node X="15077" Y="109339" />
+		<node X="15081" Y="109944" />
+		<node X="13646" Y="109939" />
+		<node X="11609" Y="109344" />
+		<node X="12871" Y="109345" />
+		<node X="12873" Y="109925" />
+		<node X="11608" Y="109926" />
+		<node X="12840" Y="110168" />
+		<node X="13360" Y="110168" />
+		<node X="13356" Y="111522" />
+		<node X="12824" Y="111524" />
+		<node X="12835" Y="107668" />
+		<node X="13346" Y="107668" />
+		<node X="13349" Y="109090" />
+		<node X="12817" Y="109084" />
+	</zone>
+	<!-- dion19_tb2021_01 -->
+	<zone name="dion19_tb01_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-9082" maxZ="-8882">
+		<node X="14797" Y="108785" />
+		<node X="15423" Y="108787" />
+		<node X="15420" Y="110128" />
+		<node X="14795" Y="110123" />
+		<node X="11953" Y="108548" />
+		<node X="13681" Y="108543" />
+		<node X="13682" Y="111412" />
+		<node X="11957" Y="111416" />
+		<node X="11758" Y="116701" />
+		<node X="13425" Y="116712" />
+		<node X="13420" Y="119731" />
+		<node X="11721" Y="119733" />
+	</zone>
+	<!-- dion18_tb2021_12 -->
+	<zone name="dion18_tb12_m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-12121" maxZ="-11891">
+		<node X="13833" Y="107699" />
+		<node X="14772" Y="107705" />
+		<node X="14776" Y="108747" />
+		<node X="13844" Y="108742" />
+	</zone>
+</list>

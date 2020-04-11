@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- gludio53_npc1925_1 -->
+	<zone name="glduio53_npc1925_1m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3839" maxZ="-3639">
+		<node X="-6052" Y="249276" />
+		<node X="-5852" Y="249276" />
+		<node X="-5852" Y="249476" />
+		<node X="-6052" Y="249476" />
+	</zone>
+</list>

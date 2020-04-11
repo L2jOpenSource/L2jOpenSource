@@ -1,0 +1,101 @@
+[25.08.17 05:26:07:342]  INFO gameserver.GameServer: =================================================
+[25.08.17 05:26:07:344]  INFO gameserver.GameServer: Copyright: ............... FandC.ro
+[25.08.17 05:26:07:345]  INFO gameserver.GameServer: Edition: ................. Lucia Edition
+[25.08.17 05:26:07:345]  INFO gameserver.GameServer: Chronicle: ............... High Five Part 5
+[25.08.17 05:26:07:345]  INFO gameserver.GameServer: =================================================
+[25.08.17 05:26:07:557]  INFO gameserver.Config: Loaded 6 trade words.
+[25.08.17 05:26:07:625]  INFO gameserver.Config: Abuse: Loaded 15 abuse words.
+[25.08.17 05:26:07:746]  INFO gameserver.Config: Loaded 216 Configs!
+[25.08.17 05:26:07:769]  INFO gameserver.GameServer: Server is Loading on IP 127.0.0.1
+[25.08.17 05:26:08:099]  INFO gameserver.GameServer: -----------------------------------------=[ Loading Protection Configuration ]
+[25.08.17 05:26:08:107]  INFO idfactory.IdFactory: IdFactory: Clear characters online status.
+[25.08.17 05:26:08:394]  INFO idfactory.IdFactory: IdFactory: Cleaned 0 elements from database in 0sec.
+[25.08.17 05:26:08:403]  INFO idfactory.IdFactory: IdFactory: Extracted total 0 used id's.
+[25.08.17 05:26:08:404]  INFO idfactory.BitSetIDFactory: IdFactory: 102912 id's available.
+[25.08.17 05:26:08:665]  INFO gameserver.GameServer: ===============[Loading Scripts]==================
+[25.08.17 05:26:08:666]  INFO scripts.Scripts: Scripts: Loading...
+[25.08.17 05:26:08:667]  INFO scripts.Scripts: Loading Server Scripts
+[25.08.17 05:26:09:301]  INFO scripts.Scripts: Scripts: Loaded 1287 classes.
+[25.08.17 05:26:09:319]  INFO vote.VoteMain: Loaded: Vote System - Individual Reward.
+[25.08.17 05:26:09:352]  INFO tables.FakePlayersTable: FakePlayersTable: Loaded 32002 Fake Players.
+[25.08.17 05:26:09:363]  INFO utils.Strings: Loaded 418 translit entries.
+[25.08.17 05:26:09:366]  INFO gameserver.GameTimeController: GameTimeController: initialized. Current time is 14:36 in the day.
+[25.08.17 05:26:09:371]  INFO gameserver.GameServer: ------------------------------------------------------------=[ Lineage World ]
+[25.08.17 05:26:09:371]  INFO model.World: L2World: Creating regions: [256][272][32].
+[25.08.17 05:26:09:371]  INFO gameserver.GameServer: ==============================================================================
+[25.08.17 05:26:09:373]  INFO htm.HtmCache: HtmCache: disabled.
+[25.08.17 05:26:09:384]  INFO data.StringHolder: StringHolder: load strings: 876 for lang: RUSSIAN
+[25.08.17 05:26:09:385]  INFO data.StringHolder: StringHolder: load strings: 1066 for lang: ENGLISH
+[25.08.17 05:27:39:271]  INFO gameserver.GameServer: =================================================
+[25.08.17 05:27:39:274]  INFO gameserver.GameServer: Copyright: ............... FandC.ro
+[25.08.17 05:27:39:274]  INFO gameserver.GameServer: Edition: ................. Lucia Edition
+[25.08.17 05:27:39:274]  INFO gameserver.GameServer: Chronicle: ............... High Five Part 5
+[25.08.17 05:27:39:274]  INFO gameserver.GameServer: =================================================
+[25.08.17 05:27:39:329]  INFO gameserver.Config: Loaded 6 trade words.
+[25.08.17 05:27:39:338]  INFO gameserver.Config: Abuse: Loaded 15 abuse words.
+[25.08.17 05:27:39:401]  INFO gameserver.Config: Loaded 216 Configs!
+[25.08.17 05:27:39:409]  INFO gameserver.GameServer: Server is Loading on IP 127.0.0.1
+[25.08.17 05:27:39:734]  INFO gameserver.GameServer: -----------------------------------------=[ Loading Protection Configuration ]
+[25.08.17 05:27:39:740]  INFO idfactory.IdFactory: IdFactory: Clear characters online status.
+[25.08.17 05:27:39:819]  INFO idfactory.IdFactory: IdFactory: Cleaned 0 elements from database in 0sec.
+[25.08.17 05:27:39:828]  INFO idfactory.IdFactory: IdFactory: Extracted total 0 used id's.
+[25.08.17 05:27:39:828]  INFO idfactory.BitSetIDFactory: IdFactory: 102912 id's available.
+[25.08.17 05:27:40:057]  INFO gameserver.GameServer: ===============[Loading Scripts]==================
+[25.08.17 05:27:40:059]  INFO scripts.Scripts: Scripts: Loading...
+[25.08.17 05:27:40:059]  INFO scripts.Scripts: Loading Server Scripts
+[25.08.17 05:27:40:688]  INFO scripts.Scripts: Scripts: Loaded 1287 classes.
+[25.08.17 05:27:40:703]  INFO vote.VoteMain: Loaded: Vote System - Individual Reward.
+[25.08.17 05:27:40:721]  INFO tables.FakePlayersTable: FakePlayersTable: Loaded 32002 Fake Players.
+[25.08.17 05:27:40:734]  INFO utils.Strings: Loaded 418 translit entries.
+[25.08.17 05:27:40:737]  INFO gameserver.GameTimeController: GameTimeController: initialized. Current time is 14:46 in the day.
+[25.08.17 05:27:40:747]  INFO gameserver.GameServer: ------------------------------------------------------------=[ Lineage World ]
+[25.08.17 05:27:40:747]  INFO model.World: L2World: Creating regions: [256][272][32].
+[25.08.17 05:27:40:747]  INFO gameserver.GameServer: ==============================================================================
+[25.08.17 05:27:40:750]  INFO htm.HtmCache: HtmCache: disabled.
+[25.08.17 05:27:40:763]  INFO data.StringHolder: StringHolder: load strings: 876 for lang: RUSSIAN
+[25.08.17 05:27:40:764]  INFO data.StringHolder: StringHolder: load strings: 1066 for lang: ENGLISH
+[21.06.18 22:35:06:058]  INFO gameserver.GameServer: ============================================================================================
+[21.06.18 22:35:06:073]  INFO gameserver.GameServer: Copyright: ............... FandC.ro
+[21.06.18 22:35:06:074]  INFO gameserver.GameServer: Owner: ................... Ichsan Rinaldi Sjofka
+[21.06.18 22:35:06:074]  INFO gameserver.GameServer: Edition: ................. Top Premium
+[21.06.18 22:35:06:074]  INFO gameserver.GameServer: Chronicle: ............... High Five Part 5
+[21.06.18 22:35:06:074]  INFO gameserver.GameServer: Licensed by: ................... Ichsan Rinaldi Sjofka
+[21.06.18 22:35:06:074]  INFO gameserver.GameServer: Licensed Admin: ................... Ichsan Rinaldi Sjofka
+[21.06.18 22:35:06:074]  INFO gameserver.GameServer: Contact Person: ................... +62 8116112333
+[21.06.18 22:35:06:074]  INFO gameserver.GameServer: Information: ................... Reserved Licensed Owner Auto Grant Admin Privilages
+[21.06.18 22:35:06:074]  INFO gameserver.GameServer: ============================================================================================
+[21.06.18 22:35:06:358]  INFO gameserver.Config: Loaded 6 trade words.
+[21.06.18 22:35:06:464]  INFO gameserver.Config: Abuse: Loaded 15 abuse words.
+[21.06.18 22:35:06:788]  INFO gameserver.Config: Loaded 216 Configs!
+[21.06.18 22:35:06:798]  INFO gameserver.GameServer: Licensed IP 127.0.0.1
+[21.06.18 22:35:06:798]  INFO gameserver.GameServer: Licensed IP Please Contact Ichsan Rinaldi Sjofka
+[21.06.18 22:35:36:729]  INFO gameserver.GameServer: ============================================================================================
+[21.06.18 22:35:36:732]  INFO gameserver.GameServer: Copyright: ............... FandC.ro
+[21.06.18 22:35:36:732]  INFO gameserver.GameServer: Owner: ................... Ichsan Rinaldi Sjofka
+[21.06.18 22:35:36:732]  INFO gameserver.GameServer: Edition: ................. Top Premium
+[21.06.18 22:35:36:732]  INFO gameserver.GameServer: Chronicle: ............... High Five Part 5
+[21.06.18 22:35:36:732]  INFO gameserver.GameServer: Licensed by: ................... Ichsan Rinaldi Sjofka
+[21.06.18 22:35:36:732]  INFO gameserver.GameServer: Licensed Admin: ................... Ichsan Rinaldi Sjofka
+[21.06.18 22:35:36:732]  INFO gameserver.GameServer: Contact Person: ................... +62 8116112333
+[21.06.18 22:35:36:732]  INFO gameserver.GameServer: Information: ................... Reserved Licensed Owner Auto Grant Admin Privilages
+[21.06.18 22:35:36:732]  INFO gameserver.GameServer: ============================================================================================
+[21.06.18 22:35:36:801]  INFO gameserver.Config: Loaded 6 trade words.
+[21.06.18 22:35:36:809]  INFO gameserver.Config: Abuse: Loaded 15 abuse words.
+[21.06.18 22:35:36:875]  INFO gameserver.Config: Loaded 216 Configs!
+[21.06.18 22:35:36:885]  INFO gameserver.GameServer: Licensed IP 127.0.0.1
+[21.06.18 22:35:36:885]  INFO gameserver.GameServer: Licensed IP Please Contact Ichsan Rinaldi Sjofka
+[21.06.18 22:35:56:029]  INFO gameserver.GameServer: ============================================================================================
+[21.06.18 22:35:56:031]  INFO gameserver.GameServer: Copyright: ............... FandC.ro
+[21.06.18 22:35:56:031]  INFO gameserver.GameServer: Owner: ................... Ichsan Rinaldi Sjofka
+[21.06.18 22:35:56:031]  INFO gameserver.GameServer: Edition: ................. Top Premium
+[21.06.18 22:35:56:031]  INFO gameserver.GameServer: Chronicle: ............... High Five Part 5
+[21.06.18 22:35:56:031]  INFO gameserver.GameServer: Licensed by: ................... Ichsan Rinaldi Sjofka
+[21.06.18 22:35:56:031]  INFO gameserver.GameServer: Licensed Admin: ................... Ichsan Rinaldi Sjofka
+[21.06.18 22:35:56:031]  INFO gameserver.GameServer: Contact Person: ................... +62 8116112333
+[21.06.18 22:35:56:031]  INFO gameserver.GameServer: Information: ................... Reserved Licensed Owner Auto Grant Admin Privilages
+[21.06.18 22:35:56:031]  INFO gameserver.GameServer: ============================================================================================
+[21.06.18 22:35:56:089]  INFO gameserver.Config: Loaded 6 trade words.
+[21.06.18 22:35:56:098]  INFO gameserver.Config: Abuse: Loaded 15 abuse words.
+[21.06.18 22:35:56:162]  INFO gameserver.Config: Loaded 216 Configs!
+[21.06.18 22:35:56:174]  INFO gameserver.GameServer: Licensed IP 127.0.0.1
+[21.06.18 22:35:56:174]  INFO gameserver.GameServer: Licensed IP Please Contact Ichsan Rinaldi Sjofka

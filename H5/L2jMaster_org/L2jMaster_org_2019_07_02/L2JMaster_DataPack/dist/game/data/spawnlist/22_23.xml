@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- luckpy_80_2223_01 -->
+	<spawn zone="luckpy_80_2223_jackpot001m1">
+		<npc id="2501" count="6" respawnDelay="14400" respawnRandom="13200" randRate="51" /> <!-- Lucky Pig -->
+	</spawn>
+	<!-- innadril03_2223_hdz01 -->
+	<spawn zone="innadril03_2223_hdz01m1">
+		<npc id="22656" count="9" respawnDelay="32" respawnRandom="8" /> <!-- Suppressor -->
+		<npc id="22656" count="9" respawnDelay="32" respawnRandom="8" /> <!-- Suppressor -->
+		<npc id="18805" count="3" respawnDelay="15" /> <!-- Waste Landfill Machine -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_hdz02 -->
+	<spawn zone="innadril03_2223_hdz02m1">
+		<npc id="22656" count="3" respawnDelay="32" respawnRandom="8" /> <!-- Suppressor -->
+		<npc id="18805" count="3" respawnDelay="15" /> <!-- Waste Landfill Machine -->
+		<npc id="18936" count="6" respawnDelay="60" /> <!--  -->
+		<npc id="22657" count="3" respawnDelay="32" respawnRandom="8" /> <!-- Executioner -->
+	</spawn>
+	<!-- innadril03_2223_hdz03 -->
+	<spawn zone="innadril03_2223_hdz03m1">
+		<npc id="22656" count="3" respawnDelay="32" respawnRandom="8" /> <!-- Suppressor -->
+		<npc id="18805" count="3" respawnDelay="15" /> <!-- Waste Landfill Machine -->
+		<npc id="18936" count="6" respawnDelay="60" /> <!--  -->
+		<npc id="22657" count="3" respawnDelay="32" respawnRandom="8" /> <!-- Executioner -->
+	</spawn>
+	<!-- innadril03_2223_hdz04 -->
+	<spawn zone="innadril03_2223_hdz04m1">
+		<npc id="22656" count="7" respawnDelay="32" respawnRandom="8" /> <!-- Suppressor -->
+		<npc id="18805" count="3" respawnDelay="15" /> <!-- Waste Landfill Machine -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+		<npc id="22657" count="7" respawnDelay="32" respawnRandom="8" /> <!-- Executioner -->
+	</spawn>
+	<!-- innadril03_2223_hdz05 -->
+	<spawn zone="innadril03_2223_hdz05m1">
+		<npc id="22656" count="7" respawnDelay="32" respawnRandom="8" /> <!-- Suppressor -->
+		<npc id="18805" count="3" respawnDelay="15" /> <!-- Waste Landfill Machine -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+		<npc id="22657" count="7" respawnDelay="32" respawnRandom="8" /> <!-- Executioner -->
+	</spawn>
+	<!-- innadril03_2223_hdz06 -->
+	<spawn zone="innadril03_2223_hdz06m1">
+		<npc id="22656" count="7" respawnDelay="32" respawnRandom="8" /> <!-- Suppressor -->
+		<npc id="22657" count="7" respawnDelay="32" respawnRandom="8" /> <!-- Executioner -->
+		<npc id="18805" count="3" respawnDelay="15" /> <!-- Waste Landfill Machine -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_bdr01 -->
+	<spawn zone="innadril03_2223_bdr01m1">
+		<npc id="22656" count="5" respawnDelay="32" respawnRandom="8" /> <!-- Suppressor -->
+		<npc id="22657" count="5" respawnDelay="32" respawnRandom="8" /> <!-- Executioner -->
+		<npc id="18805" count="3" respawnDelay="15" /> <!-- Waste Landfill Machine -->
+		<npc id="22650" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="20" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_bdr02 -->
+	<spawn zone="innadril03_2223_bdr02m1">
+		<npc id="22656" count="3" respawnDelay="32" respawnRandom="8" /> <!-- Suppressor -->
+		<npc id="22657" count="3" respawnDelay="32" respawnRandom="8" /> <!-- Executioner -->
+		<npc id="18805" count="3" respawnDelay="15" /> <!-- Waste Landfill Machine -->
+		<npc id="22650" count="3" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="3" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="12" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_06 -->
+	<spawn zone="innadril03_2223_06m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_15 -->
+	<spawn zone="innadril03_2223_15m1">
+		<npc id="22650" count="7" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_16 -->
+	<spawn zone="innadril03_2223_16m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_03 -->
+	<spawn zone="innadril03_2223_03m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_05 -->
+	<spawn zone="innadril03_2223_05m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_17 -->
+	<spawn zone="innadril03_2223_17m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_24 -->
+	<spawn zone="innadril03_2223_24m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_23 -->
+	<spawn zone="innadril03_2223_23m1">
+		<npc id="22650" count="11" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="11" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="22" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_18 -->
+	<spawn zone="innadril03_2223_18m1">
+		<npc id="22650" count="11" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="11" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="22" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_25 -->
+	<spawn zone="innadril03_2223_25m1">
+		<npc id="22650" count="7" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_26 -->
+	<spawn zone="innadril03_2223_26m1">
+		<npc id="22650" count="7" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_27 -->
+	<spawn zone="innadril03_2223_27m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_19 -->
+	<spawn zone="innadril03_2223_19m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_20 -->
+	<spawn zone="innadril03_2223_20m1">
+		<npc id="22650" count="7" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="7" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="14" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_21 -->
+	<spawn zone="innadril03_2223_21m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_22 -->
+	<spawn zone="innadril03_2223_22m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_28 -->
+	<spawn zone="innadril03_2223_28m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_29 -->
+	<spawn zone="innadril03_2223_29m1">
+		<npc id="22650" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Fanatic -->
+		<npc id="22651" count="9" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Ascetic -->
+		<npc id="18936" count="18" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_31s -->
+	<spawn zone="innadril03_2223_31sm1">
+		<npc id="22652" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_32s -->
+	<spawn zone="innadril03_2223_32sm1">
+		<npc id="22652" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_33s -->
+	<spawn zone="innadril03_2223_33sm1">
+		<npc id="22652" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_34s -->
+	<spawn zone="innadril03_2223_34sm1">
+		<npc id="22652" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_35s -->
+	<spawn zone="innadril03_2223_35sm1">
+		<npc id="22652" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_2223_36s -->
+	<spawn zone="innadril03_2223_36sm1">
+		<npc id="22652" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Savior -->
+		<npc id="22653" count="5" respawnDelay="40"  respawnRandom="10"/> <!-- Mucrokian Preacher -->
+		<npc id="18936" count="10" respawnDelay="60" /> <!--  -->
+	</spawn>
+	<!-- innadril03_npc2223_01 -->
+	<spawn zone="innadril03_npc2223_01m1">
+		<npc id="32641" x="86792" y="162422" z="-3584" heading="7560" respawnDelay="60" /> <!-- Dr. Helvetica -->
+		<npc id="32646" x="86641" y="162261" z="-3600" heading="8072" respawnDelay="60" /> <!-- Katensa -->
+		<npc id="32642" x="86816" y="162256" z="-3584" heading="49152" respawnDelay="60" /> <!-- Broken Golem Control Device -->
+	</spawn>
+	<!-- Delu Lizardman Shaman -->
+	<spawn zone="dion01_qm2223_01m1">
+		<npc id="20781" count="3" respawnDelay="180" /> <!-- Delu Lizardman Shaman -->
+	</spawn>
+	<!-- giran01_qm2223_01 -->
+	<spawn zone="giran01_qm2223_01m1">
+		<npc id="27097" count="3" respawnDelay="180" /> <!-- Singing Flower of Darkness -->
+	</spawn>
+</list>

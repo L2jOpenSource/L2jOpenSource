@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37618</npc> <!-- Vote Shop -->
+	</npcs>
+
+	<!-- Soul Crystals -->
+
+	<!-- Red Soul Crystal - Stage 12 -->
+	<item>
+		<ingredient id="23003" count="100"/>
+		<production id="5580" count="1"/>
+	</item>
+	<!-- Blue Soul Crystal - Stage 12 -->
+	<item>
+		<ingredient id="23003" count="100"/>
+		<production id="5582" count="1"/>
+	</item>
+	<!-- Green Soul Crystal - Stage 12 -->
+	<item>
+		<ingredient id="23003" count="100"/>
+		<production id="5581" count="1"/>
+	</item>
+	<!-- Red Soul Crystal - Stage 13 -->
+	<item>
+		<ingredient id="23003" count="200"/>
+		<production id="5908" count="1"/>
+	</item>
+	<!-- Blue Soul Crystal - Stage 13 -->
+	<item>
+		<ingredient id="23003" count="200"/>
+		<production id="5914" count="1"/>
+	</item>
+	<!-- Green Soul Crystal - Stage 13 -->
+	<item>
+		<ingredient id="23003" count="200"/>
+		<production id="5911" count="1"/>
+	</item>
+	<!-- Red Soul Crystal - Stage 14 -->
+	<item>
+		<ingredient id="23003" count="400"/>
+		<production id="9570" count="1"/>
+	</item>
+	<!-- Blue Soul Crystal - Stage 14 -->
+	<item>
+		<ingredient id="23003" count="400"/>
+		<production id="9571" count="1"/>
+	</item>
+	<!-- Green Soul Crystal - Stage 14 -->
+	<item>
+		<ingredient id="23003" count="400"/>
+		<production id="9572" count="1"/>
+	</item>
+	<!-- Red Soul Crystal - Stage 15 -->
+	<item>
+		<ingredient id="23003" count="500"/>
+		<production id="10480" count="1"/>
+	</item>
+	<!-- Blue Soul Crystal - Stage 15 -->
+	<item>
+		<ingredient id="23003" count="500"/>
+		<production id="10481" count="1"/>
+	</item>
+	<!-- Green Soul Crystal - Stage 15 -->
+	<item>
+		<ingredient id="23003" count="500"/>
+		<production id="10482" count="1"/>
+	</item> 
+	<!-- Red Soul Crystal - Stage 16 -->
+	<item>
+		<ingredient id="23003" count="200" />
+		<production id="13071" count="1"/>
+	</item>
+	<!-- Blue Soul Crystal - Stage 16 -->
+	<item>
+		<ingredient id="23003" count="200" />
+		<production id="13072" count="1"/>
+	</item>
+	<!-- Green Soul Crystal - Stage 16 -->
+	<item>
+		<ingredient id="23003" count="200" />
+		<production id="13073" count="1"/>
+	</item>
+	<!-- Red Soul Crystal - Stage 17 -->
+	<item>
+		<ingredient id="23003" count="300" />
+		<production id="15541" count="1"/>
+	</item>
+	<!-- Blue Soul Crystal - Stage 17 -->
+	<item>
+		<ingredient id="23003" count="300" />
+		<production id="15542" count="1"/>
+	</item>
+	<!-- Green Soul Crystal - Stage 17 -->
+	<item>
+		<ingredient id="23003" count="300" />
+		<production id="15543" count="1"/>
+	</item>
+	<!-- Red Soul Crystal - Stage 18 -->
+	<item>
+		<ingredient id="23003" count="500" />
+		<production id="15826" count="1"/>
+	</item>
+	<!-- Blue Soul Crystal - Stage 18 -->
+	<item>
+		<ingredient id="23003" count="500" />
+		<production id="15827" count="1"/>
+	</item>
+	<!-- Green Soul Crystal - Stage 18 -->
+	<item>
+		<ingredient id="23003" count="500" />
+		<production id="15828" count="1"/>
+	</item>
+</list>

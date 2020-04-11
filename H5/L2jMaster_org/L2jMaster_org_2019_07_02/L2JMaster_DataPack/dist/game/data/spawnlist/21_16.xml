@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- rune02_npc2116_301 -->
+	<spawn zone="rune02_npc2116_301m1">
+		<npc id="35567" x="39308" y="-48304" z="899" heading="33000" respawnDelay="60" /> <!-- Emil -->
+		<npc id="35566" x="39440" y="-48304" z="896" heading="0" respawnDelay="60" /> <!-- Ronald -->
+	</spawn>
+	<!-- rune02_npc2116_302 -->
+	<spawn zone="rune02_npc2116_302m1">
+		<npc id="35569" x="37668" y="-50396" z="899" heading="16500" respawnDelay="60" /> <!-- Daniel -->
+		<npc id="35568" x="37668" y="-50592" z="896" heading="49000" respawnDelay="60" /> <!-- Wayne -->
+	</spawn>
+	<!-- rune02_npc2116_303 -->
+	<spawn zone="rune02_npc2116_303m1">
+		<npc id="35571" x="38496" y="-50112" z="899" heading="22000" respawnDelay="60" /> <!-- Dale -->
+		<npc id="35570" x="38604" y="-50324" z="896" heading="54000" respawnDelay="60" /> <!-- Patty -->
+	</spawn>
+	<!-- rune02_npc2116_304 -->
+	<spawn zone="rune02_npc2116_304m1">
+		<npc id="35573" x="39072" y="-49528" z="899" heading="27000" respawnDelay="60" /> <!-- Shawn -->
+		<npc id="35572" x="39276" y="-49644" z="896" heading="60000" respawnDelay="60" /> <!-- Jimmy -->
+	</spawn>
+	<!-- rune02_npc2116_305 -->
+	<spawn zone="rune02_npc2116_305m1">
+		<npc id="35575" x="39152" y="-47056" z="899" heading="37500" respawnDelay="60" /> <!-- Ryan -->
+		<npc id="35574" x="39340" y="-46944" z="896" heading="5000" respawnDelay="60" /> <!-- Michael -->
+	</spawn>
+	<!-- rune02_npc2116_306 -->
+	<spawn zone="rune02_npc2116_306m1">
+		<npc id="35577" x="38624" y="-46416" z="899" heading="43000" respawnDelay="60" /> <!-- Harry -->
+		<npc id="35576" x="38704" y="-46224" z="896" heading="11000" respawnDelay="60" /> <!-- Jack -->
+	</spawn>
+	<!-- rune02_npc2116_307 -->
+	<spawn zone="rune02_npc2116_307m1">
+		<npc id="35579" x="37808" y="-46080" z="899" heading="48000" respawnDelay="60" /> <!-- Egon -->
+		<npc id="35578" x="37792" y="-45872" z="896" heading="16500" respawnDelay="60" /> <!-- Karuto -->
+	</spawn>
+	<!-- rune02_npc2116_308 -->
+	<spawn zone="rune02_npc2116_308m1">
+		<npc id="30767" x="42984" y="-47792" z="-800" heading="1000" respawnDelay="60" /> <!-- Auctioneer -->
+	</spawn>
+	<!-- rune02_npc2116_309 -->
+	<spawn zone="rune02_npc2116_309m1">
+		<npc id="35512" x="38256" y="-48432" z="899" heading="0" respawnDelay="60" /> <!-- Manor Manager -->
+	</spawn>
+	<!-- rune02_npc2116_01 -->
+	<spawn zone="rune02_npc2116_01m1">
+		<npc id="31300" x="44692" y="-47312" z="-800" heading="0" respawnDelay="60" /> <!-- Drumond -->
+		<npc id="31301" x="44700" y="-47396" z="-800" heading="0" respawnDelay="60" /> <!-- Nils -->
+		<npc id="31302" x="44704" y="-47472" z="-800" heading="0" respawnDelay="60" /> <!-- Vladimir -->
+		<npc id="31303" x="44620" y="-47620" z="-800" heading="50000" respawnDelay="60" /> <!-- Alisha -->
+	</spawn>
+	<!-- rune02_npc2116_02 -->
+	<spawn zone="rune02_npc2116_02m1">
+		<npc id="31304" x="45472" y="-47424" z="-796" heading="49000" respawnDelay="60" /> <!-- Astrid -->
+		<npc id="31305" x="45184" y="-47444" z="-796" heading="49000" respawnDelay="60" /> <!-- Candice -->
+		<npc id="31307" x="45120" y="-47452" z="-796" heading="49000" respawnDelay="60" /> <!-- Weber -->
+		<npc id="31308" x="44976" y="-47440" z="-800" heading="17000" respawnDelay="60" /> <!-- Achim -->
+	</spawn>
+	<!-- rune02_npc2116_03 -->
+	<spawn zone="rune02_npc2116_03m1">
+		<npc id="31309" x="43456" y="-49520" z="-800" heading="0" respawnDelay="60" /> <!-- Woods -->
+		<npc id="31266" x="43456" y="-49520" z="-800" heading="0" respawnDelay="60" /> <!-- Kaiser -->
+		<npc id="36478" x="43462" y="-49573" z="-792" heading="0" respawnDelay="60" /> <!-- Mickey -->
+	</spawn>
+	<!-- rune02_npc2116_04 -->
+	<spawn zone="rune02_npc2116_04m1">
+		<npc id="31311" x="43556" y="-48592" z="-800" heading="0" respawnDelay="60" /> <!-- Hugin -->
+		<npc id="31312" x="43348" y="-48444" z="-800" heading="16500" respawnDelay="60" /> <!-- Durin -->
+		<npc id="31313" x="43308" y="-48444" z="-800" heading="16500" respawnDelay="60" /> <!-- Lunin -->
+		<npc id="31314" x="43560" y="-48912" z="-800" heading="1000" respawnDelay="60" /> <!-- Donal -->
+		<npc id="31315" x="43556" y="-48640" z="-800" heading="0" respawnDelay="60" /> <!-- Daisy -->
+		<npc id="31594" x="43556" y="-48864" z="-800" heading="1000" respawnDelay="60" /> <!-- Mond -->
+	</spawn>
+	<!-- rune02_npc2116_05 -->
+	<spawn zone="rune02_npc2116_05m1">
+		<npc id="31316" x="45072" y="-48784" z="-800" heading="49000" respawnDelay="60" /> <!-- Vincenz -->
+	</spawn>
+	<!-- rune02_npc2116_06 -->
+	<spawn zone="rune02_npc2116_06m1">
+		<npc id="31317" x="45136" y="-48624" z="-800" heading="49000" respawnDelay="60" /> <!-- Lombert -->
+		<npc id="31592" x="45184" y="-48624" z="-800" heading="49000" respawnDelay="60" /> <!-- Telson -->
+		<npc id="31593" x="45184" y="-48624" z="-800" heading="49000" respawnDelay="60" /> <!-- Dorothy -->
+	</spawn>
+	<!-- rune02_npc2116_07 -->
+	<spawn zone="rune02_npc2116_07m1">
+		<npc id="31319" x="45620" y="-48460" z="-800" heading="22000" respawnDelay="60" /> <!-- Hans -->
+		<npc id="32024" x="45728" y="-48400" z="-800" heading="16500" respawnDelay="60" /> <!-- Mulia -->
+	</spawn>
+	<!-- rune02_npc2116_08 -->
+	<spawn zone="rune02_npc2116_08m1">
+		<npc id="31320" x="43824" y="-47664" z="-800" heading="50000" respawnDelay="60" /> <!-- Ilyana -->
+	</spawn>
+	<!-- rune02_npc2116_09 -->
+	<spawn zone="rune02_npc2116_09m1">
+		<npc id="31340" x="42596" y="-47988" z="-800" heading="0" respawnDelay="60" /> <!-- Mathias -->
+		<npc id="31341" x="42596" y="-48484" z="-800" heading="0" respawnDelay="60" /> <!-- Richtor -->
+		<npc id="32484" x="42665" y="-47924" z="-800" heading="-10940" respawnDelay="60" /> <!-- Pathfinder Worker -->
+	</spawn>
+	<!-- rune02_npc2116_10 -->
+	<spawn zone="rune02_npc2116_10m1">
+		<npc id="31342" x="40640" y="-52620" z="-800" heading="-40000" respawnDelay="60" /> <!-- Dimitri -->
+		<npc id="31343" x="40848" y="-52880" z="-912" heading="-36000" respawnDelay="60" /> <!-- Bellard -->
+	</spawn>
+	<!-- rune02_npc2116_11 -->
+	<spawn zone="rune02_npc2116_11m1">
+		<npc id="31344" x="46384" y="-51408" z="-811" heading="57000" respawnDelay="60" /> <!-- Schmidt -->
+	</spawn>
+	<!-- rune02_npc2116_12 -->
+	<spawn zone="rune02_npc2116_12m1">
+		<npc id="31345" x="46832" y="-50912" z="-811" heading="57000" respawnDelay="60" /> <!-- Ian -->
+	</spawn>
+	<!-- rune02_npc2116_13 -->
+	<spawn zone="rune02_npc2116_13m1">
+		<npc id="31346" x="42544" y="-46688" z="-800" heading="16000" respawnDelay="60" /> <!-- Sirius -->
+	</spawn>
+	<!-- rune02_npc2116_14 -->
+	<spawn zone="rune02_npc2116_14m1">
+		<npc id="31347" x="39776" y="-39872" z="-3607" heading="7500" respawnDelay="60" /> <!-- Burke -->
+	</spawn>
+	<!-- rune02_npc2116_15 -->
+	<spawn zone="rune02_npc2116_15m1">
+		<npc id="31351" x="37762" y="-37946" z="-3668" heading="49000" respawnDelay="60" /> <!-- Volker -->
+	</spawn>
+	<!-- rune02_npc2116_16 -->
+	<spawn zone="rune02_npc2116_16m1">
+		<npc id="31578" x="44216" y="-48880" z="-800" heading="33000" respawnDelay="60" /> <!-- Hilgendorf -->
+	</spawn>
+	<!-- rune02_npc2116_17 -->
+	<spawn zone="rune02_npc2116_17m1">
+		<npc id="31321" x="38368" y="-46912" z="-1131" heading="33000" respawnDelay="60" /> <!-- Siegmund -->
+		<npc id="31324" x="38368" y="-47096" z="-1143" heading="33000" respawnDelay="60" /> <!-- Andromeda -->
+		<npc id="31326" x="38368" y="-46728" z="-1143" heading="33000" respawnDelay="60" /> <!-- Lambac -->
+	</spawn>
+	<!-- rune02_npc2116_18 -->
+	<spawn zone="rune02_npc2116_18m1">
+		<npc id="31322" x="38060" y="-46920" z="-1143" heading="49000" respawnDelay="60" /> <!-- Erian -->
+		<npc id="31691" x="38020" y="-46912" z="-1143" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+	</spawn>
+	<!-- rune02_npc2116_19 -->
+	<spawn zone="rune02_npc2116_19m1">
+		<npc id="31325" x="36832" y="-46916" z="-1143" heading="49000" respawnDelay="60" /> <!-- Themis -->
+		<npc id="31691" x="36792" y="-46912" z="-1143" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+	</spawn>
+	<!-- rune02_npc2116_20 -->
+	<spawn zone="rune02_npc2116_20m1">
+		<npc id="31327" x="37648" y="-46920" z="-1143" heading="49000" respawnDelay="60" /> <!-- Tazki -->
+		<npc id="31691" x="37616" y="-46912" z="-1143" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+	</spawn>
+	<!-- rune02_npc2116_21 -->
+	<spawn zone="rune02_npc2116_21m1">
+		<npc id="31323" x="37240" y="-46916" z="-1143" heading="49000" respawnDelay="60" /> <!-- Beryl -->
+		<npc id="31691" x="37200" y="-46912" z="-1143" heading="0" respawnDelay="60" /> <!-- Training Dummy -->
+	</spawn>
+	<!-- rune02_npc2116_22 -->
+	<spawn zone="rune02_npc2116_22m1">
+		<npc id="31328" x="36476" y="-49032" z="-1104" heading="55000" respawnDelay="60" /> <!-- Innocentin -->
+		<npc id="31329" x="36528" y="-49024" z="-1104" heading="44000" respawnDelay="60" /> <!-- Eliyah -->
+		<npc id="31330" x="36448" y="-49072" z="-1104" heading="0" respawnDelay="60" /> <!-- Wagner -->
+	</spawn>
+	<!-- rune02_npc2116_23 -->
+	<spawn zone="rune02_npc2116_23m1">
+		<npc id="31331" x="36256" y="-49536" z="-1104" heading="0" respawnDelay="60" /> <!-- Valdis -->
+	</spawn>
+	<!-- rune02_npc2116_24 -->
+	<spawn zone="rune02_npc2116_24m1">
+		<npc id="31332" x="36336" y="-49904" z="-1104" heading="10000" respawnDelay="60" /> <!-- Amelia -->
+	</spawn>
+	<!-- rune02_npc2116_25 -->
+	<spawn zone="rune02_npc2116_25m1">
+		<npc id="31333" x="36548" y="-50064" z="-1104" heading="47000" respawnDelay="60" /> <!-- Rumiel -->
+	</spawn>
+	<!-- rune02_npc2116_26 -->
+	<spawn zone="rune02_npc2116_26m1">
+		<npc id="31334" x="38464" y="-49920" z="-1105" heading="57000" respawnDelay="60" /> <!-- Tifaren -->
+	</spawn>
+	<!-- rune02_npc2116_27 -->
+	<spawn zone="rune02_npc2116_27m1">
+		<npc id="31335" x="38512" y="-49552" z="-1105" heading="33000" respawnDelay="60" /> <!-- Kayan -->
+	</spawn>
+	<!-- rune02_npc2116_28 -->
+	<spawn zone="rune02_npc2116_28m1">
+		<npc id="31336" x="38432" y="-49184" z="-1105" heading="40000" respawnDelay="60" /> <!-- Rahorakti -->
+	</spawn>
+	<!-- rune02_npc2116_29 -->
+	<spawn zone="rune02_npc2116_29m1">
+		<npc id="31337" x="38220" y="-49012" z="-1105" heading="48000" respawnDelay="60" /> <!-- Mekara -->
+	</spawn>
+	<!-- rune02_npc2116_30 -->
+	<spawn zone="rune02_npc2116_30m1">
+		<npc id="31338" x="37008" y="-49200" z="-1127" heading="49000" respawnDelay="60" /> <!-- Anton -->
+	</spawn>
+	<!-- rune02_npc2116_31 -->
+	<spawn zone="rune02_npc2116_31m1">
+		<npc id="31339" x="37728" y="-49216" z="-1127" heading="49000" respawnDelay="60" /> <!-- Hakran -->
+	</spawn>
+	<!-- rune02_npc2116_32 -->
+	<spawn zone="rune02_npc2116_32m1">
+		<npc id="31348" x="35480" y="-48224" z="899" heading="0" respawnDelay="60" /> <!-- Agripel -->
+		<npc id="31349" x="35408" y="-48368" z="899" heading="0" respawnDelay="60" /> <!-- Benedict -->
+		<npc id="31350" x="35416" y="-48076" z="899" heading="0" respawnDelay="60" /> <!-- Dominic -->
+	</spawn>
+	<!-- rune02_npc2116_33 -->
+	<spawn zone="rune02_npc2116_33m1">
+		<npc id="31674" x="41104" y="-52152" z="-832" heading="57000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_34 -->
+	<spawn zone="rune02_npc2116_34m1">
+		<npc id="31673" x="41568" y="-52624" z="-821" heading="25000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_35 -->
+	<spawn zone="rune02_npc2116_35m1">
+		<npc id="31673" x="43584" y="-52240" z="-811" heading="57000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_36 -->
+	<spawn zone="rune02_npc2116_36m1">
+		<npc id="31673" x="44736" y="-51904" z="-811" heading="58000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_37 -->
+	<spawn zone="rune02_npc2116_37m1">
+		<npc id="31673" x="45456" y="-51424" z="-811" heading="49000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_38 -->
+	<spawn zone="rune02_npc2116_38m1">
+		<npc id="31673" x="46672" y="-49888" z="-811" heading="8000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_39 -->
+	<spawn zone="rune02_npc2116_39m1">
+		<npc id="31673" x="46752" y="-48496" z="-811" heading="0" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+ 	<!-- rune02_npc2116_40 -->
+	<spawn zone="rune02_npc2116_40m1">
+		<npc id="31673" x="46272" y="-47632" z="-811" heading="5000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_41 -->
+	<spawn zone="rune02_npc2116_41m1">
+		<npc id="31673" x="45268" y="-46820" z="-811" heading="13000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_42 -->
+	<spawn zone="rune02_npc2116_42m1">
+		<npc id="31673" x="43584" y="-46528" z="-800" heading="25000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_43 -->
+	<spawn zone="rune02_npc2116_43m1">
+		<npc id="31674" x="40832" y="-47920" z="-775" heading="0" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_44 -->
+	<spawn zone="rune02_npc2116_44m1">
+		<npc id="31674" x="40832" y="-48560" z="-775" heading="0" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_45 -->
+	<spawn zone="rune02_npc2116_45m1">
+		<npc id="31674" x="39984" y="-39408" z="-3607" heading="33000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_46 -->
+	<spawn zone="rune02_npc2116_46m1">
+		<npc id="31674" x="37468" y="-47712" z="-1127" heading="49000" respawnDelay="60" /> <!-- Patrol -->
+		<npc id="31674" x="37240" y="-47712" z="-1127" heading="49000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_47 -->
+	<spawn zone="rune02_npc2116_47m1">
+		<npc id="31674" x="37248" y="-48752" z="-1127" heading="16000" respawnDelay="60" /> <!-- Patrol -->
+		<npc id="31674" x="37456" y="-48752" z="-1127" heading="16000" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_48 -->
+	<spawn zone="rune02_npc2116_48m1">
+		<npc id="31674" x="36416" y="-48032" z="-1151" heading="0" respawnDelay="60" /> <!-- Patrol -->
+		<npc id="31674" x="36412" y="-48448" z="-1151" heading="0" respawnDelay="60" /> <!-- Patrol -->
+	</spawn>
+	<!-- rune02_npc2116_49 -->
+	<spawn zone="rune02_npc2116_49m1">
+		<npc id="31695" x="44528" y="-48420" z="-800" heading="17000" respawnDelay="60" /> <!-- Priest of Dusk -->
+	</spawn>
+	<!-- rune02_npc2116_50 -->
+	<spawn zone="rune02_npc2116_50m1">
+		<npc id="31694" x="45664" y="-50368" z="-800" heading="29000" respawnDelay="60" /> <!-- Priest of Dawn -->
+	</spawn>
+	<!-- rune02_npc2116_51 -->
+	<spawn zone="rune02_npc2116_51m1">
+		<npc id="31696" x="37600" y="-37952" z="-3643" heading="49000" respawnDelay="60" /> <!-- Platis -->
+	</spawn>
+	<!-- rune02_npc2116_52 -->
+	<spawn zone="rune02_npc2116_52m1">
+		<npc id="31698" x="38208" y="-48048" z="899" heading="0" respawnDelay="60" /> <!-- Arisha -->
+	</spawn>
+	<!-- rune02_npc2116_53 -->
+	<spawn zone="rune02_npc2116_53m1">
+		<npc id="31699" x="38384" y="-48064" z="-1151" heading="49000" respawnDelay="60" /> <!-- Stanislava -->
+	</spawn>
+	<!-- rune02_npc2116_54 -->
+	<spawn zone="rune02_npc2116_54m1">
+		<npc id="31092" x="42918" y="-41412" z="-2184" heading="20000" respawnDelay="60" /> <!-- Black Marketeer of Mammon -->
+	</spawn>
+	<!-- rune02_npc2116_55 -->
+	<spawn zone="rune02_npc2116_55m1">
+		<npc id="31742" x="32960" y="-48224" z="1780" heading="33000" respawnDelay="60" /> <!-- Virgil -->
+		<npc id="31743" x="32988" y="-48268" z="1780" heading="33000" respawnDelay="60" /> <!-- Kassandra -->
+		<npc id="31744" x="32984" y="-48180" z="1780" heading="33000" respawnDelay="60" /> <!-- Ogmar -->
+	</spawn>
+	<!-- rune02_npc2116_56 -->
+	<spawn zone="rune02_npc2116_56m1">
+		<npc id="31688" x="36048" y="-48208" z="-1095" heading="0" respawnDelay="60" /> <!-- Grand Olympiad Manager -->
+		<npc id="31690" x="36048" y="-48268" z="-1095" heading="0" respawnDelay="60" /> <!-- Monument of Heroes -->
+	</spawn>
+	<!-- rune02_npc2116_57 -->
+	<spawn zone="rune02_npc2116_57m1">
+		<npc id="31832" x="42928" y="-41616" z="-2192" heading="37500" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- rune02_npc2116_58 -->
+	<spawn zone="rune02_npc2116_58m1">
+		<npc id="31833" x="42912" y="-47648" z="-800" heading="500" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- rune02_npc2116_59 -->
+	<spawn zone="rune02_npc2116_59m1">
+		<npc id="31834" x="40528" y="-52308" z="-836" heading="0" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- rune02_npc2116_60 -->
+	<spawn zone="rune02_npc2116_60m1">
+		<npc id="31835" x="45552" y="-49888" z="-800" heading="34000" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- rune02_npc2116_61 -->
+	<spawn zone="rune02_npc2116_61m1">
+		<npc id="31836" x="37552" y="-47440" z="-1127" heading="16500" respawnDelay="60" /> <!-- Adventure Guildsman -->
+	</spawn>
+	<!-- rune02_npc2116_62 -->
+	<spawn zone="rune02_npc2116_62m1">
+		<npc id="32009" x="35996" y="-48756" z="899" heading="16500" respawnDelay="60" /> <!-- Devorin -->
+	</spawn>
+	<!-- rune02_npc2116_63 -->
+	<spawn zone="rune02_npc2116_63m1">
+		<npc id="32010" x="36432" y="-51296" z="720" heading="0" respawnDelay="60" /> <!-- Flauron -->
+	</spawn>
+	<!-- rune02_npc2116_64 -->
+	<spawn zone="rune02_npc2116_64m1">
+		<npc id="32039" x="34876" y="-49761" z="-760" heading="0" respawnDelay="60" /> <!-- Triol's Mirror -->
+	</spawn>
+	<!-- rune01_npc2116_01 -->
+	<spawn zone="rune09_npc2116_0101">
+		<npc id="31527" x="34767" y="-54606" z="-2048" heading="0" respawnDelay="60" /> <!-- Well -->
+		<npc id="31529" x="34885" y="-54472" z="-2050" heading="26240" respawnDelay="60" /> <!-- Ghost of Adventurer -->
+	</spawn>
+	<!-- rune01_npc2116_02 -->
+	<spawn zone="rune09_npc2116_0201">
+		<npc id="31522" x="51878" y="-54796" z="-3167" heading="22912" respawnDelay="60" /> <!-- Mysterious Wizard -->
+		<npc id="31523" x="51475" y="-54596" z="-3155" heading="11040" respawnDelay="60" /> <!-- Tombstone -->
+	</spawn>
+	<!-- rune01_npc2116_03 -->
+	<spawn zone="rune09_npc2116_0301">
+		<npc id="31526" x="51995" y="-51265" z="-3104" heading="2064" respawnDelay="60" /> <!-- Broken Bookshelf -->
+	</spawn>
+	<!-- rune01_npc2116_04 -->
+	<spawn zone="rune09_npc2116_0401">
+		<npc id="31534" x="49952" y="-46960" z="-3396" heading="-3704" respawnDelay="60" /> <!-- Broken Bookshelf -->
+	</spawn>
+	<!-- rune01_npc2116_05 -->
+	<spawn zone="rune09_npc2116_0501">
+		<npc id="31533" x="47059" y="-35982" z="-1635" heading="-22192" respawnDelay="60" /> <!-- Broken Bookshelf -->
+		<npc id="31532" x="47108" y="-36189" z="-1624" heading="-22192" respawnDelay="60" /> <!-- Lidia's Maid -->
+	</spawn>
+	<!-- rune01_npc2116_06 -->
+	<spawn zone="rune09_npc2116_0601">
+		<npc id="31531" x="60162" y="-35900" z="-672" heading="19944" respawnDelay="60" /> <!-- Tombstone -->
+	</spawn>
+	<!-- rune01_npc2116_07 -->
+	<spawn zone="rune09_npc2116_0701">
+		<npc id="31535" x="59753" y="-47648" z="-2728" heading="-27032" respawnDelay="60" /> <!-- Broken Bookshelf -->
+	</spawn>
+	<!-- rune01_npc2116_08 -->
+	<spawn zone="rune09_npc2116_0801">
+		<npc id="31530" x="56393" y="-47191" z="-2993" heading="-10800" respawnDelay="60" /> <!-- Box -->
+	</spawn>
+	<!-- rune01_npc2116_21 -->
+	<spawn zone="rune09_npc2116_2101">
+		<npc id="31387" x="58782" y="-42652" z="-3004" heading="0" respawnDelay="60" periodOfDay="day" /> <!-- Kurstin -->
+	</spawn>
+	<!-- rune01_npc2116_22 -->
+	<spawn zone="rune09_npc2116_2201">
+		<npc id="31386" x="59612" y="-42775" z="-2996" heading="13152" respawnDelay="60" periodOfDay="day" /> <!-- Violet -->
+	</spawn>
+	<!-- rune01_npc2116_23 -->
+	<spawn zone="rune09_npc2116_2301">
+		<npc id="31388" x="59618" y="-41675" z="-3003" heading="-20280" respawnDelay="60" periodOfDay="day" /> <!-- Mina -->
+	</spawn>
+	<!-- rune01_npc2116_24 -->
+	<spawn zone="rune09_npc2116_2401">
+		<npc id="31389" x="60162" y="-42069" z="-3003" heading="-29168" respawnDelay="60" periodOfDay="day" /> <!-- Dorian -->
+	</spawn>
+	<!-- rune09_npc2116_101 -->
+	<spawn zone="rune09_npc2116_101m1">
+		<npc id="31656" x="47376" y="-56880" z="-2340" heading="58000" respawnDelay="60" /> <!-- Tablet of Vision -->
+	</spawn>
+	<!-- rune09_npc2116_102 -->
+	<spawn zone="rune09_npc2116_102m1">
+		<npc id="31657" x="46016" y="-36368" z="-1659" heading="0" respawnDelay="60" /> <!-- Tablet of Vision -->
+	</spawn>
+	<!-- rune02_npc2116_102 -->
+	<spawn zone="rune02_npc2116_102m1">
+		<npc id="32327" x="43556" y="-47608" z="-792" heading="36864" respawnDelay="60" /> <!-- Adventurers' Guide -->
+	</spawn>
+	<!-- rune02_npc2116_105 -->
+	<spawn zone="rune02_npc2116_105m1">
+		<npc id="32322" x="44113" y="-47596" z="-784" heading="-10228" respawnDelay="60" /> <!-- Item Broker -->
+	</spawn>
+	<!-- rune02_npc2116_106 -->
+	<spawn zone="rune02_npc2116_106m1">
+		<npc id="32326" x="44480" y="-49536" z="-784" heading="-23524" respawnDelay="60" /> <!-- Yang -->
+	</spawn>
+	<!-- rune02_npc2116_km1 -->
+	<spawn zone="rune02_npc2116_km1m1">
+		<npc id="32229" x="43021" y="-51704" z="-784" heading="20480" respawnDelay="60" /> <!-- Hagel -->
+		<npc id="32231" x="42983" y="-51691" z="-784" heading="16384" respawnDelay="60" /> <!-- Luben -->
+		<npc id="32230" x="43071" y="-51683" z="-784" heading="20480" respawnDelay="60" /> <!-- Ceci -->
+		<npc id="32232" x="43090" y="-51647" z="-784" heading="24576" respawnDelay="60" /> <!-- Minuet -->
+	</spawn>
+	<!-- rune02_npc2116_103 -->
+	<spawn zone="rune02_npc2116_103m1">
+		<npc id="36480" x="36058" y="-48333" z="-1096" heading="0" respawnDelay="60" /> <!-- Scipio -->
+	</spawn>
+	<!-- rune02_npc2116_9876 -->
+	<spawn zone="rune02_npc2116_9876m1">
+		<npc id="32632" x="43648" y="-47742" z="-792" heading="50423" respawnDelay="60" /> <!-- Gracian Survivor -->
+	</spawn>
+	<!-- rune02_npc2116_premium01 -->
+	<spawn zone="rune02_npc2116_premium01m1">
+		<npc id="32478" x="43568" y="-48976" z="-800" heading="1000" respawnDelay="60" /> <!-- Dimensional Merchant -->
+	</spawn>
+	<!-- rune09_2116_jackpot001 -->
+	<spawn zone="rune09_2116_jackpot001m1">
+		<npc id="18665" count="6" respawnDelay="14400" respawnRandom="13200" randRate="42" /> <!-- Lucky Pig -->
+	</spawn>
+	<!-- ssq_npc2116_01 -->
+	<spawn zone="ssq_npc2116_01m1">
+		<npc id="32596" x="37069" y="-49877" z="-1128" heading="16384" respawnDelay="60" /> <!-- Sophia -->
+	</spawn>
+	<!-- rune02_npc2216_65 -->
+	<spawn zone="rune02_npc2216_65m1">
+		<npc id="32612" x="44267" y="-49213" z="-799" heading="33999" respawnDelay="60" /> <!-- Olf Adams -->
+	</spawn>
+	<!-- rune02_npc2116_tk01 -->
+	<spawn zone="rune02_npc2116_tk01m1">
+		<npc id="30990" x="43664" y="-47664" z="-800" heading="50000" respawnDelay="60" /> <!-- Lotery Ticket Seller -->
+	</spawn>
+	<!-- broadcast_tower_rune -->
+	<spawn zone="broadcast_tower_rune">
+		<npc id="31031" x="43259" y="-50167" z="-792" heading="16384" respawnDelay="5" /> <!-- Broadcast Tower -->
+	</spawn>
+	<!-- Prophet -->
+	<spawn zone="prophet_rune">
+		<npc id="4312" x="43319" y="-47412" z="-792" heading="7788" respawnDelay="60" /> <!-- Prophet -->
+	</spawn>
+	<!-- rune09_2116_01 -->
+	<spawn zone="rune09_2116_01_day">
+		<npc id="21549" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Corrupted Guard -->
+		<npc id="21553" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Trampled Man -->
+		<npc id="21558" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Snatcher -->
+		<npc id="21559" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Bone Maker -->
+	</spawn>
+	<!-- rune09_2116_02 -->
+	<spawn zone="rune09_2116_02_day">
+		<npc id="21549" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Corrupted Guard -->
+		<npc id="21554" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Trampled Man -->
+		<npc id="21557" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Snatcher -->
+		<npc id="21558" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Bone Snatcher -->
+		<npc id="21559" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Maker -->
+	</spawn>
+	<!-- rune09_2116_03 -->
+	<spawn zone="rune09_2116_03_day">
+		<npc id="21549" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Corrupted Guard -->
+		<npc id="21554" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Trampled Man -->
+		<npc id="21557" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Bone Snatcher -->
+		<npc id="21558" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Bone Snatcher -->
+		<npc id="21559" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Bone Maker -->
+	</spawn>
+	<!-- rune09_2116_04 -->
+	<spawn zone="rune09_2116_04_day">
+		<npc id="21549" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Corrupted Guard -->
+		<npc id="21553" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Trampled Man -->
+		<npc id="21558" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Bone Snatcher -->
+		<npc id="21559" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Bone Maker -->
+	</spawn>
+	<!-- rune09_2116_05 -->
+	<spawn zone="rune09_2116_05_day">
+		<npc id="21547" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Corrupted Knight -->
+		<npc id="21548" count="5" respawnDelay="30" periodOfDay="day" /> <!-- Resurrected Knight -->
+		<npc id="21550" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Corrupted Guard -->
+		<npc id="21554" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Trampled Man -->
+	</spawn>
+	<!-- rune09_2116_06 -->
+	<spawn zone="rune09_2116_06_day">
+		<npc id="21547" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Corrupted Knight -->
+		<npc id="21548" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Resurrected Knight -->
+		<npc id="21550" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Corrupted Guard -->
+		<npc id="21554" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Trampled Man -->
+	</spawn>
+	<!-- rune09_2116_07 -->
+	<spawn zone="rune09_2116_07_day">
+		<npc id="18119" count="20" respawnDelay="60" periodOfDay="day" /> <!-- Corpse of Deadman -->
+		<npc id="21563" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Collector -->
+		<npc id="21561" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Sacrificed Man -->
+		<npc id="21565" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Animator -->
+		<npc id="21596" count="3" respawnDelay="90" periodOfDay="day" /> <!-- Requiem Lord -->
+		<npc id="21570" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Ghost of Betrayer -->
+	</spawn>
+	<!-- rune09_2116_08 -->
+	<spawn zone="rune09_2116_08_day">
+		<npc id="18119" count="20" respawnDelay="60" periodOfDay="day" /> <!-- Corpse of Deadman -->
+		<npc id="21561" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Sacrificed Man -->
+		<npc id="21596" count="3" respawnDelay="90" periodOfDay="day" /> <!-- Requiem Lord -->
+		<npc id="21567" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Slayer -->
+		<npc id="21570" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Ghost of Betrayer -->
+	</spawn>
+	<!-- rune09_2116_09 -->
+	<spawn zone="rune09_2116_09_day">
+		<npc id="18119" count="15" respawnDelay="60" periodOfDay="day" /> <!-- Corpse of Deadman -->
+		<npc id="21558" count="6" respawnDelay="30" periodOfDay="day" /> <!-- Bone Snatcher -->
+		<npc id="21559" count="6" respawnDelay="30" periodOfDay="day" /> <!-- Bone Maker -->
+		<npc id="21563" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Collector -->
+		<npc id="21561" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Sacrificed Man -->
+	</spawn>
+	<!-- rune09_2116_10 -->
+	<spawn zone="rune09_2116_10_day">
+		<npc id="21561" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Sacrificed Man -->
+		<npc id="21567" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Slayer -->
+		<npc id="21565" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Animator -->
+	</spawn>
+	<!-- rune09_2116_11 -->
+	<spawn zone="rune09_2116_11_day">
+		<npc id="21563" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Collector -->
+		<npc id="21567" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Slayer -->
+		<npc id="21565" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Animator -->
+	</spawn>
+	<!-- rune09_2116_12 -->
+	<spawn zone="rune09_2116_12_day">
+		<npc id="18119" count="6" respawnDelay="60" periodOfDay="day" /> <!-- Corpse of Deadman -->
+		<npc id="21557" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Snatcher -->
+		<npc id="21563" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Collector -->
+		<npc id="21565" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Animator -->
+		<npc id="21596" count="2" respawnDelay="90" periodOfDay="day" /> <!-- Requiem Lord -->
+	</spawn>
+	<!-- rune09_2116_13 -->
+	<spawn zone="rune09_2116_13_day">
+		<npc id="18119" count="9" respawnDelay="60" periodOfDay="day" /> <!-- Corpse of Deadman -->
+		<npc id="21557" count="5" respawnDelay="30" periodOfDay="day" /> <!-- Bone Snatcher -->
+		<npc id="21563" count="5" respawnDelay="30" periodOfDay="day" /> <!-- Bone Collector -->
+		<npc id="21565" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Animator -->
+		<npc id="21596" count="3" respawnDelay="90" periodOfDay="day" /> <!-- Requiem Lord -->
+	</spawn>
+	<!-- rune09_2116_14 -->
+	<spawn zone="rune09_2116_14_day">
+		<npc id="18119" count="18" respawnDelay="60" periodOfDay="day" /> <!-- Corpse of Deadman -->
+		<npc id="21570" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Ghost of Betrayer -->
+		<npc id="21572" count="8" respawnDelay="30" periodOfDay="day" /> <!-- Bone Sweeper -->
+		<npc id="21574" count="6" respawnDelay="30" periodOfDay="day" /> <!-- Bone Grinder -->
+		<npc id="21575" count="6" respawnDelay="30" periodOfDay="day" /> <!-- Bone Grinder -->
+		<npc id="21580" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Caster -->
+		<npc id="21599" count="4" respawnDelay="90" periodOfDay="day" /> <!-- Requiem Priest -->
+	</spawn>
+	<!-- rune09_2116_15 -->
+	<spawn zone="rune09_2116_15_day">
+		<npc id="21570" count="6" respawnDelay="30" periodOfDay="day" /> <!-- Ghost of Betrayer -->
+		<npc id="21575" count="6" respawnDelay="30" periodOfDay="day" /> <!-- Bone Grinder -->
+		<npc id="21578" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Behemoth Zombie -->
+		<npc id="21580" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Caster -->
+		<npc id="21581" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Puppeteer -->
+	</spawn>
+	<!-- rune09_2116_16 -->
+	<spawn zone="rune09_2116_16_day">
+		<npc id="18119" count="13" respawnDelay="30" periodOfDay="day" /> <!-- Corpse of Deadman -->
+		<npc id="21580" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Caster -->
+		<npc id="21599" count="4" respawnDelay="90" periodOfDay="day" /> <!-- Requiem Priest -->
+		<npc id="21581" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Puppeteer -->
+		<npc id="21584" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Scavenger -->
+		<npc id="21587" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Warrior -->
+		<npc id="21590" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Magister -->
+		<npc id="21593" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Warlord -->
+	</spawn>
+	<!-- rune09_2116_17 -->
+	<spawn zone="rune09_2116_17_day">
+		<npc id="18119" count="12" respawnDelay="30" periodOfDay="day" /> <!-- Corpse of Deadman -->
+		<npc id="21567" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Slayer -->
+		<npc id="21572" count="5" respawnDelay="30" periodOfDay="day" /> <!-- Bone Sweeper -->
+		<npc id="21574" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Grinder -->
+	</spawn>
+	<!-- rune09_2116_18 -->
+	<spawn zone="rune09_2116_18_day">
+		<npc id="21575" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Grinder -->
+		<npc id="21578" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Behemoth Zombie -->
+		<npc id="21580" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Caster -->
+		<npc id="21583" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Scavenger -->
+	</spawn>
+	<!-- rune09_2116_19 -->
+	<spawn zone="rune09_2116_19_day">
+		<npc id="21575" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Grinder -->
+		<npc id="21578" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Behemoth Zombie -->
+		<npc id="21583" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Scavenger -->
+		<npc id="21584" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Scavenger -->
+		<npc id="21587" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Warrior -->
+	</spawn>
+	<!-- rune09_2116_20 -->
+	<spawn zone="rune09_2116_20_day">
+		<npc id="21570" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Ghost of Betrayer -->
+		<npc id="21572" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Sweeper -->
+		<npc id="21574" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Grinder -->
+		<npc id="21580" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Caster -->
+	</spawn>
+	<!-- rune09_2116_21 -->
+	<spawn zone="rune09_2116_21_day">
+		<npc id="21570" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Ghost of Betrayer -->
+		<npc id="21574" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Bone Grinder -->
+		<npc id="21581" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Puppeteer -->
+	</spawn>
+	<!-- rune09_2116_22 -->
+	<spawn zone="rune09_2116_22_day">
+		<npc id="21578" count="4" respawnDelay="30" periodOfDay="day" /> <!-- Behemoth Zombie -->
+		<npc id="21583" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Bone Scavenger -->
+		<npc id="21584" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Scavenger -->
+		<npc id="21587" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Warrior -->
+	</spawn>
+	<!-- rune09_2116_23 -->
+	<spawn zone="rune09_2116_23_day">
+		<npc id="21599" count="1" respawnDelay="90" periodOfDay="day" /> <!-- Requiem Priest -->
+		<npc id="21583" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Bone Scavenger -->
+		<npc id="21581" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Puppeteer -->
+		<npc id="21587" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Warrior -->
+		<npc id="21593" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Warlord -->
+	</spawn>
+	<!-- rune09_2116_24 -->
+	<spawn zone="rune09_2116_24_day">
+		<npc id="21581" count="3" respawnDelay="30" periodOfDay="day" /> <!-- Bone Puppeteer -->
+		<npc id="21599" count="2" respawnDelay="90" periodOfDay="day" /> <!-- Requiem Priest -->
+		<npc id="21584" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Bone Scavenger -->
+		<npc id="21587" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Warrior -->
+		<npc id="21590" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Magister -->
+		<npc id="21593" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Warlord -->
+	</spawn>
+	<!-- rune09_2116_25 -->
+	<spawn zone="rune09_2116_25_day">
+		<npc id="21583" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Bone Scavenger -->
+		<npc id="21584" count="1" respawnDelay="30" periodOfDay="day" /> <!-- Bone Scavenger -->
+		<npc id="21587" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Warrior -->
+		<npc id="21590" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Magister -->
+		<npc id="21593" count="2" respawnDelay="30" periodOfDay="day" /> <!-- Vampire Warlord -->
+	</spawn>
+	<!-- rune09_2116_01 -->
+	<spawn zone="rune09_2116_01_night">
+		<npc id="21549" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Guard -->
+		<npc id="21550" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Guard -->
+		<npc id="21555" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Slaughter Executioner -->
+		<npc id="21556" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Slaughter Executioner -->
+		<npc id="21552" count="1" respawnDelay="30" periodOfDay="night" /> <!-- Resurrected Guard -->
+	</spawn>
+	<!-- rune09_2116_02 -->
+	<spawn zone="rune09_2116_02_night">
+		<npc id="21549" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Guard -->
+		<npc id="21550" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Guard -->
+		<npc id="21555" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Slaughter Executioner -->
+		<npc id="21556" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Slaughter Executioner -->
+		<npc id="21552" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Resurrected Guard -->
+	</spawn>
+	<!-- rune09_2116_03 -->
+	<spawn zone="rune09_2116_03_night">
+		<npc id="21549" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Guard -->
+		<npc id="21550" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Guard -->
+		<npc id="21556" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Slaughter Executioner -->
+		<npc id="21552" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Resurrected Guard -->
+	</spawn>
+	<!-- rune09_2116_04 -->
+	<spawn zone="rune09_2116_04_night">
+		<npc id="21549" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Guard -->
+		<npc id="21550" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Guard -->
+		<npc id="21556" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Slaughter Executioner -->
+		<npc id="21552" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Resurrected Guard -->
+	</spawn>
+	<!-- rune09_2116_05 -->
+	<spawn zone="rune09_2116_05_night">
+		<npc id="21547" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Knight -->
+		<npc id="21548" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Resurrected Knight -->
+		<npc id="21549" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Guard -->
+		<npc id="21555" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Slaughter Executioner -->
+	</spawn>
+	<!-- rune09_2116_06 -->
+	<spawn zone="rune09_2116_06_night">
+		<npc id="21547" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Knight -->
+		<npc id="21548" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Resurrected Knight -->
+		<npc id="21549" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Corrupted Guard -->
+		<npc id="21555" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Slaughter Executioner -->
+	</spawn>
+	<!-- rune09_2116_07 -->
+	<spawn zone="rune09_2116_07_night">
+		<npc id="18119" count="12" respawnDelay="60" periodOfDay="night" /> <!-- Corpse of Deadman -->
+		<npc id="21564" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Skull Collector -->
+		<npc id="21568" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Devil Bat -->
+		<npc id="21569" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Devil Bat -->
+		<npc id="21566" count="5" respawnDelay="90" periodOfDay="night" /> <!-- Skull Animator -->
+		<npc id="21573" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Atrox -->
+	</spawn>
+	<!-- rune09_2116_08 -->
+	<spawn zone="rune09_2116_08_night">
+		<npc id="18119" count="12" respawnDelay="60" periodOfDay="night" /> <!-- Corpse of Deadman -->
+		<npc id="21564" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Skull Collector -->
+		<npc id="21568" count="3" respawnDelay="90" periodOfDay="night" /> <!-- Devil Bat -->
+		<npc id="21569" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Devil Bat -->
+		<npc id="21566" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Skull Animator -->
+		<npc id="21573" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Atrox -->
+	</spawn>
+	<!-- rune09_2116_09 -->
+	<spawn zone="rune09_2116_09_night">
+		<npc id="18119" count="5" respawnDelay="60" periodOfDay="night" /> <!-- Corpse of Deadman -->
+		<npc id="21551" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Resurrected Guard -->
+		<npc id="21552" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Resurrected Guard -->
+		<npc id="21560" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Bone Shaper -->
+		<npc id="21562" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Guiline's Ghost -->
+		<npc id="21564" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Skull Collector -->
+	</spawn>
+	<!-- rune09_2116_10 -->
+	<spawn zone="rune09_2116_10_night">
+		<npc id="21562" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Guiline's Ghost -->
+		<npc id="21569" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Devil Bat -->
+		<npc id="21566" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Skull Animator -->
+	</spawn>
+	<!-- rune09_2116_11 -->
+	<spawn zone="rune09_2116_11_night">
+		<npc id="21562" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Guiline's Ghost -->
+		<npc id="21569" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Devil Bat -->
+		<npc id="21566" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Skull Animator -->
+	</spawn>
+	<!-- rune09_2116_12 -->
+	<spawn zone="rune09_2116_12_night">
+		<npc id="18119" count="8" respawnDelay="60" periodOfDay="night" /> <!-- Corpse of Deadman -->
+		<npc id="21551" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Resurrected Guard -->
+		<npc id="21560" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Bone Shaper -->
+		<npc id="21564" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Skull Collector -->
+		<npc id="21568" count="2" respawnDelay="90" periodOfDay="night" /> <!-- Devil Bat -->
+	</spawn>
+	<!-- rune09_2116_13 -->
+	<spawn zone="rune09_2116_13_night">
+		<npc id="18119" count="12" respawnDelay="60" periodOfDay="night" /> <!-- Corpse of Deadman -->
+		<npc id="21551" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Resurrected Guard -->
+		<npc id="21560" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Bone Shaper -->
+		<npc id="21564" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Skull Collector -->
+		<npc id="21568" count="4" respawnDelay="90" periodOfDay="night" /> <!-- Devil Bat -->
+	</spawn>
+	<!-- rune09_2116_14 -->
+	<spawn zone="rune09_2116_14_night">
+		<npc id="18119" count="15" respawnDelay="60" periodOfDay="night" /> <!-- Corpse of Deadman -->
+		<npc id="21571" count="7" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Rebellion Soldier -->
+		<npc id="21573" count="7" respawnDelay="30" periodOfDay="night" /> <!-- Atrox -->
+		<npc id="21576" count="7" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Guillotine -->
+		<npc id="21577" count="7" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Guillotine -->
+		<npc id="21579" count="7" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Rebellion Leader -->
+		<npc id="21599" count="5" respawnDelay="90" periodOfDay="night" /> <!-- Requiem Priest -->
+	</spawn>
+	<!-- rune09_2116_15 -->
+	<spawn zone="rune09_2116_15_night">
+		<npc id="21573" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Atrox -->
+		<npc id="21571" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Rebellion Soldier -->
+		<npc id="21576" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Guillotine -->
+		<npc id="21577" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Guillotine -->
+		<npc id="21579" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Rebellion Leader -->
+		<npc id="21582" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Soldier -->
+		<npc id="21599" count="4" respawnDelay="90" periodOfDay="night" /> <!-- Requiem Priest -->
+	</spawn>
+	<!-- rune09_2116_16 -->
+	<spawn zone="rune09_2116_16_night">
+		<npc id="21579" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Rebellion Leader -->
+		<npc id="21582" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Soldier -->
+		<npc id="21585" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Magician -->
+		<npc id="21586" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Adept -->
+		<npc id="21589" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Wizard -->
+		<npc id="21592" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Magister -->
+		<npc id="21595" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Warlord -->
+		<npc id="21599" count="3" respawnDelay="90" periodOfDay="night" /> <!-- Requiem Priest -->
+	</spawn>
+	<!-- rune09_2116_17 -->
+	<spawn zone="rune09_2116_17_night">
+		<npc id="18119" count="10" respawnDelay="30" periodOfDay="night" /> <!-- Corpse of Deadman -->
+		<npc id="21568" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Devil Bat -->
+		<npc id="21571" count="7" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Rebellion Soldier -->
+		<npc id="21573" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Atrox -->
+		<npc id="21577" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Guillotine -->
+	</spawn>
+	<!-- rune09_2116_18 -->
+	<spawn zone="rune09_2116_18_night">
+		<npc id="21571" count="6" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Rebellion Soldier -->
+		<npc id="21576" count="6" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Guillotine -->
+		<npc id="21582" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Soldier -->
+	</spawn>
+	<!-- rune09_2116_19 -->
+	<spawn zone="rune09_2116_19_night">
+		<npc id="21573" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Atrox -->
+		<npc id="21576" count="5" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Guillotine -->
+		<npc id="21582" count="6" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Soldier -->
+		<npc id="21587" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Warrior -->
+	</spawn>
+	<!-- rune09_2116_20 -->
+	<spawn zone="rune09_2116_20_night">
+		<npc id="21571" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Rebellion Soldier -->
+		<npc id="21577" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Guillotine -->
+		<npc id="21582" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Soldier -->
+	</spawn>
+	<!-- rune09_2116_21 -->
+	<spawn zone="rune09_2116_21_night">
+		<npc id="21573" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Atrox -->
+		<npc id="21576" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Guillotine -->
+		<npc id="21579" count="4" respawnDelay="30" periodOfDay="night" /> <!-- Ghost of Rebellion Leader -->
+	</spawn>
+	<!-- rune09_2116_22 -->
+	<spawn zone="rune09_2116_22_night">
+		<npc id="21582" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Soldier -->
+		<npc id="21586" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Adept -->
+		<npc id="21591" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Magister -->
+		<npc id="21594" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Warlord -->
+	</spawn>
+	<!-- rune09_2116_23 -->
+	<spawn zone="rune09_2116_23_night">
+		<npc id="21585" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Magician -->
+		<npc id="21586" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Adept -->
+		<npc id="21588" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Wizard -->
+		<npc id="21589" count="1" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Wizard -->
+		<npc id="21594" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Warlord -->
+	</spawn>
+	<!-- rune09_2116_24 -->
+	<spawn zone="rune09_2116_24_night">
+		<npc id="21585" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Magician -->
+		<npc id="21586" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Adept -->
+		<npc id="21588" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Wizard -->
+		<npc id="21589" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Wizard -->
+		<npc id="21594" count="3" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Warlord -->
+	</spawn>
+	<!-- rune09_2116_25 -->
+	<spawn zone="rune09_2116_25_night">
+		<npc id="21585" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Magician -->
+		<npc id="21586" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Adept -->
+		<npc id="21588" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Wizard -->
+		<npc id="21591" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Magister -->
+		<npc id="21594" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Warlord -->
+	</spawn>
+	<!-- rune09_2116_26 -->
+	<spawn zone="rune09_2116_26_night">
+		<npc id="21585" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Magician -->
+		<npc id="21586" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Adept -->
+		<npc id="21588" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Wizard -->
+		<npc id="21592" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Magister -->
+		<npc id="21595" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Warlord -->
+		<npc id="21589" count="2" respawnDelay="30" periodOfDay="night" /> <!-- Vampire Wizard -->
+	</spawn>
+	<!-- rune14_2116_01 -->
+	<spawn zone="rune14_2116_01m1">
+		<npc id="18343" x="35348" y="-49857" z="-760" heading="16384" respawnDelay="15" /> <!-- Doorman Zombie -->
+		<npc id="18343" x="35349" y="-49662" z="-760" heading="49152" respawnDelay="15" /> <!-- Doorman Zombie -->
+		<npc id="18343" x="35713" y="-50050" z="-760" heading="32768" respawnDelay="15" /> <!-- Doorman Zombie -->
+		<npc id="18343" x="35517" y="-50049" z="-760" heading="0" respawnDelay="15" /> <!-- Doorman Zombie -->
+	</spawn>
+	<!-- rune14_2116_02 -->
+	<spawn zone="rune14_2116_01m2">
+		<npc id="18343" x="35033" y="-49669" z="-760" heading="49152" respawnDelay="15" /> <!-- Doorman Zombie -->
+		<npc id="18343" x="35035" y="-49850" z="-760" heading="16384" respawnDelay="15" /> <!-- Doorman Zombie -->
+	</spawn>
+	<!-- rune09_tb2116_16 -->
+	<spawn zone="rune09_tb16_m1">
+		<npc id="18279" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- rune09_tb2116_18 -->
+	<spawn zone="rune09_tb18_m1">
+		<npc id="18280" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- rune09_tb2116_20 -->
+	<spawn zone="rune09_tb20_m1">
+		<npc id="18281" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- rune09_tb2116_22 -->
+	<spawn zone="rune09_tb22_m1">
+		<npc id="18282" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- rune09_tb2116_23 -->
+	<spawn zone="rune09_tb23_m1">
+		<npc id="18279" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- rune09_tb2116_24 -->
+	<spawn zone="rune09_tb24_m1">
+		<npc id="18280" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- rune09_tb2116_25 -->
+	<spawn zone="rune09_tb25_m1">
+		<npc id="18281" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- rune09_tb2116_26 -->
+	<spawn zone="rune09_tb26_m1">
+		<npc id="18282" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- rune02_qm2116_01 -->
+	<spawn zone="rune02_qm2116_01m1">
+		<npc id="27381" count="15" respawnDelay="30" /> <!-- Reckless Sprite of Air -->
+	</spawn>
+</list>

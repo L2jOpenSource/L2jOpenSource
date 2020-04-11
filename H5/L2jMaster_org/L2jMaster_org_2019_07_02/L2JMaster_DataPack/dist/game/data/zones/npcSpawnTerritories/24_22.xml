@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/zones.xsd">
+	<!-- innadril19_2422_001 -->
+	<zone name="innadril19_2422_001m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3195" maxZ="-2895">
+		<node X="139810" Y="150278" />
+		<node X="140124" Y="150272" />
+		<node X="140101" Y="150559" />
+		<node X="139813" Y="150580" />
+	</zone>
+	<!-- innadril18_2422_001 -->
+	<zone name="innadril18_2422_001m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3320" maxZ="-2620">
+		<node X="153628" Y="146630" />
+		<node X="153964" Y="146899" />
+		<node X="154072" Y="147180" />
+		<node X="151974" Y="147212" />
+		<node X="152621" Y="146252" />
+	</zone>
+	<!-- innadril18_2422_002 -->
+	<zone name="innadril18_2422_002m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3281" maxZ="-2681">
+		<node X="151437" Y="147934" />
+		<node X="151663" Y="147729" />
+		<node X="151658" Y="147514" />
+		<node X="151797" Y="147400" />
+		<node X="151837" Y="147217" />
+		<node X="153092" Y="147241" />
+		<node X="152924" Y="148306" />
+	</zone>
+	<!-- innadril18_2422_003 -->
+	<zone name="innadril18_2422_003m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3303" maxZ="-2703">
+		<node X="154174" Y="148105" />
+		<node X="154159" Y="148319" />
+		<node X="153904" Y="148364" />
+		<node X="152929" Y="148309" />
+		<node X="153098" Y="147244" />
+		<node X="153931" Y="147218" />
+		<node X="154130" Y="147802" />
+	</zone>
+	<!-- innadril18_2422_004 -->
+	<zone name="innadril18_2422_004m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3317" maxZ="-2717">
+		<node X="151715" Y="148835" />
+		<node X="151634" Y="148402" />
+		<node X="151417" Y="148273" />
+		<node X="151391" Y="148109" />
+		<node X="151448" Y="147938" />
+		<node X="152920" Y="148312" />
+		<node X="151551" Y="149456" />
+	</zone>
+	<!-- innadril18_2422_005 -->
+	<zone name="innadril18_2422_005m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3427" maxZ="-2727">
+		<node X="152925" Y="148314" />
+		<node X="153196" Y="149554" />
+		<node X="151667" Y="149786" />
+		<node X="151497" Y="149597" />
+		<node X="151541" Y="149471" />
+	</zone>
+	<!-- innadril18_2422_006 -->
+	<zone name="innadril18_2422_006m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3401" maxZ="-2801">
+		<node X="154307" Y="148882" />
+		<node X="154194" Y="149158" />
+		<node X="154534" Y="149199" />
+		<node X="153197" Y="149541" />
+		<node X="152927" Y="148313" />
+		<node X="154469" Y="148366" />
+		<node X="154304" Y="148531" />
+	</zone>
+	<!-- innadril18_2422_007 -->
+	<zone name="innadril18_2422_007m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3481" maxZ="-2781">
+		<node X="153202" Y="149558" />
+		<node X="153108" Y="150498" />
+		<node X="151610" Y="150685" />
+		<node X="151455" Y="150412" />
+		<node X="151667" Y="149792" />
+	</zone>
+	<!-- innadril18_2422_008 -->
+	<zone name="innadril18_2422_008m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3499" maxZ="-2899">
+		<node X="154536" Y="149204" />
+		<node X="154439" Y="149312" />
+		<node X="154596" Y="149854" />
+		<node X="153113" Y="150502" />
+		<node X="153211" Y="149543" />
+	</zone>
+	<!-- innadril18_2422_009 -->
+	<zone name="innadril18_2422_009m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3630" maxZ="-3030">
+		<node X="152944" Y="151227" />
+		<node X="152550" Y="151646" />
+		<node X="151905" Y="151463" />
+		<node X="151675" Y="151075" />
+		<node X="151606" Y="150698" />
+		<node X="153106" Y="150510" />
+		<node X="153322" Y="151473" />
+	</zone>
+	<!-- innadril18_2422_010 -->
+	<zone name="innadril18_2422_010m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3717" maxZ="-2817">
+		<node X="154225" Y="150397" />
+		<node X="154365" Y="151121" />
+		<node X="153839" Y="151597" />
+		<node X="153295" Y="151438" />
+		<node X="153115" Y="150509" />
+		<node X="154554" Y="149836" />
+	</zone>
+	<!-- innadril18_2422_011 -->
+	<zone name="innadril18_2422_011m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3961" maxZ="-3061">
+		<node X="156363" Y="149768" />
+		<node X="155231" Y="149587" />
+		<node X="155218" Y="149073" />
+		<node X="155233" Y="148737" />
+		<node X="156413" Y="148564" />
+	</zone>
+	<!-- innadril18_2422_012 -->
+	<zone name="innadril18_2422_012m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3732" maxZ="-2832">
+		<node X="156979" Y="148943" />
+		<node X="157280" Y="149927" />
+		<node X="156368" Y="149781" />
+		<node X="156399" Y="148627" />
+	</zone>
+	<!-- innadril18_2422_013 -->
+	<zone name="innadril18_2422_013m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3827" maxZ="-3027">
+		<node X="157596" Y="150852" />
+		<node X="155109" Y="150818" />
+		<node X="155362" Y="150170" />
+		<node X="155226" Y="149595" />
+		<node X="157275" Y="149935" />
+	</zone>
+	<!-- innadril18_2422_014 -->
+	<zone name="innadril18_2422_014m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3861" maxZ="-3061">
+		<node X="155087" Y="150825" />
+		<node X="155895" Y="150839" />
+		<node X="155651" Y="152569" />
+		<node X="154356" Y="152307" />
+		<node X="153850" Y="151663" />
+		<node X="154691" Y="150852" />
+	</zone>
+	<!-- innadril18_2422_015 -->
+	<zone name="innadril18_2422_015m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3805" maxZ="-3005">
+		<node X="155900" Y="150839" />
+		<node X="157622" Y="150859" />
+		<node X="158290" Y="151589" />
+		<node X="155662" Y="152593" />
+	</zone>
+	<!-- innadril18_2422_016 -->
+	<zone name="innadril18_2422_016m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3751" maxZ="-2851">
+		<node X="157575" Y="151869" />
+		<node X="157592" Y="153485" />
+		<node X="156682" Y="153353" />
+		<node X="156546" Y="153157" />
+		<node X="155678" Y="152598" />
+	</zone>
+	<!-- innadril18_2422_017 -->
+	<zone name="innadril18_2422_017m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3578" maxZ="-2878">
+		<node X="158887" Y="153505" />
+		<node X="158278" Y="153625" />
+		<node X="157606" Y="153513" />
+		<node X="157580" Y="151871" />
+		<node X="158372" Y="151564" />
+		<node X="158927" Y="151534" />
+	</zone>
+	<!-- innadril18_2422_018 -->
+	<zone name="innadril18_2422_018m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3624" maxZ="-2924">
+		<node X="160969" Y="151474" />
+		<node X="160783" Y="152915" />
+		<node X="158895" Y="153461" />
+		<node X="158935" Y="151537" />
+	</zone>
+	<!-- innadril18_2422_020 -->
+	<zone name="innadril18_2422_020m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3741" maxZ="-3141">
+		<node X="154337" Y="153550" />
+		<node X="154082" Y="153783" />
+		<node X="153704" Y="153929" />
+		<node X="153694" Y="154114" />
+		<node X="153414" Y="154241" />
+		<node X="153419" Y="154558" />
+		<node X="152311" Y="153666" />
+		<node X="153252" Y="153560" />
+		<node X="153305" Y="153334" />
+	</zone>
+	<!-- innadril18_2422_021 -->
+	<zone name="innadril18_2422_021m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3921" maxZ="-3221">
+		<node X="155026" Y="154794" />
+		<node X="154889" Y="154560" />
+		<node X="154963" Y="154305" />
+		<node X="154467" Y="153564" />
+		<node X="155239" Y="153622" />
+		<node X="155748" Y="154293" />
+	</zone>
+	<!-- innadril18_2422_022 -->
+	<zone name="innadril18_2422_022m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3887" maxZ="-3287">
+		<node X="153296" Y="154599" />
+		<node X="152648" Y="155384" />
+		<node X="151087" Y="154216" />
+		<node X="151436" Y="154214" />
+		<node X="152281" Y="153832" />
+	</zone>
+	<!-- innadril18_2422_023 -->
+	<zone name="innadril18_2422_023m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3743" maxZ="-3143">
+		<node X="152648" Y="155394" />
+		<node X="151965" Y="156096" />
+		<node X="151124" Y="155772" />
+		<node X="150394" Y="155012" />
+		<node X="150866" Y="154150" />
+	</zone>
+	<!-- innadril18_2422_024 -->
+	<zone name="innadril18_2422_024m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3888" maxZ="-3288">
+		<node X="153701" Y="155830" />
+		<node X="153079" Y="156327" />
+		<node X="152556" Y="156540" />
+		<node X="152024" Y="156129" />
+		<node X="153327" Y="154694" />
+		<node X="153473" Y="155255" />
+	</zone>
+	<!-- innadril18_2422_025 -->
+	<zone name="innadril18_2422_025m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3764" maxZ="-3164">
+		<node X="154954" Y="154812" />
+		<node X="154713" Y="156363" />
+		<node X="154483" Y="156022" />
+		<node X="153707" Y="155836" />
+		<node X="153912" Y="155224" />
+		<node X="154416" Y="155220" />
+	</zone>
+	<!-- innadril18_2422_026 -->
+	<zone name="innadril18_2422_026m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3838" maxZ="-3138">
+		<node X="154957" Y="154821" />
+		<node X="156327" Y="156069" />
+		<node X="154717" Y="156363" />
+	</zone>
+	<!-- innadril18_2422_027 -->
+	<zone name="innadril18_2422_027m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3803" maxZ="-3103">
+		<node X="156145" Y="154626" />
+		<node X="156599" Y="154788" />
+		<node X="156329" Y="156060" />
+		<node X="154959" Y="154822" />
+		<node X="156140" Y="154538" />
+	</zone>
+	<!-- innadril18_2422_028 -->
+	<zone name="innadril18_2422_028m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3884" maxZ="-3184">
+		<node X="158094" Y="156037" />
+		<node X="157135" Y="155908" />
+		<node X="156339" Y="156062" />
+		<node X="156591" Y="154851" />
+		<node X="157940" Y="154992" />
+	</zone>
+	<!-- innadril18_2422_029 -->
+	<zone name="innadril18_2422_029m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3866" maxZ="-3166">
+		<node X="159061" Y="155887" />
+		<node X="158590" Y="155823" />
+		<node X="158103" Y="156039" />
+		<node X="157943" Y="154969" />
+		<node X="158428" Y="154825" />
+		<node X="158575" Y="154946" />
+		<node X="159123" Y="154638" />
+	</zone>
+	<!-- innadril18_2422_030 -->
+	<zone name="innadril18_2422_030m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3877" maxZ="-3177">
+		<node X="159815" Y="155675" />
+		<node X="159423" Y="155659" />
+		<node X="159066" Y="155896" />
+		<node X="159128" Y="154666" />
+		<node X="159796" Y="154458" />
+		<node X="161130" Y="154348" />
+		<node X="160633" Y="155625" />
+		<node X="160225" Y="155369" />
+	</zone>
+	<!-- innadril18_2422_031 -->
+	<zone name="innadril18_2422_031m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3820" maxZ="-3220">
+		<node X="153202" Y="156525" />
+		<node X="153490" Y="157732" />
+		<node X="152619" Y="158237" />
+		<node X="151952" Y="157609" />
+		<node X="152330" Y="156693" />
+	</zone>
+	<!-- innadril18_2422_032 -->
+	<zone name="innadril18_2422_032m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3822" maxZ="-3122">
+		<node X="155874" Y="157644" />
+		<node X="155052" Y="157563" />
+		<node X="154761" Y="156982" />
+		<node X="154752" Y="156375" />
+		<node X="156521" Y="156348" />
+	</zone>
+	<!-- innadril18_2422_033 -->
+	<zone name="innadril18_2422_033m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3745" maxZ="-3045">
+		<node X="157799" Y="157556" />
+		<node X="157229" Y="158538" />
+		<node X="155800" Y="158076" />
+		<node X="156764" Y="156305" />
+		<node X="157471" Y="156626" />
+		<node X="158275" Y="156587" />
+		<node X="158553" Y="156897" />
+	</zone>
+	<!-- innadril18_2422_034 -->
+	<zone name="innadril18_2422_034m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3517" maxZ="-2917">
+		<node X="152568" Y="158339" />
+		<node X="150863" Y="158633" />
+		<node X="150655" Y="158877" />
+		<node X="150445" Y="158256" />
+		<node X="150849" Y="157681" />
+		<node X="151902" Y="157566" />
+	</zone>
+	<!-- innadril18_2422_035 -->
+	<zone name="innadril18_2422_035m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3380" maxZ="-2880">
+		<node X="150617" Y="158820" />
+		<node X="149872" Y="159699" />
+		<node X="149459" Y="159990" />
+		<node X="149586" Y="159419" />
+		<node X="150473" Y="158381" />
+	</zone>
+	<!-- innadril18_2422_036 -->
+	<zone name="innadril18_2422_036m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3316" maxZ="-2816">
+		<node X="149569" Y="159425" />
+		<node X="149446" Y="160014" />
+		<node X="149203" Y="160456" />
+		<node X="148568" Y="160116" />
+		<node X="149214" Y="159522" />
+	</zone>
+	<!-- innadril18_2422_037 -->
+	<zone name="innadril18_2422_037m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-3396" maxZ="-3196">
+		<node X="155085" Y="159642" />
+		<node X="156120" Y="159637" />
+		<node X="156123" Y="160669" />
+		<node X="155083" Y="160670" />
+	</zone>
+	<!-- innadril16_2422_001 -->
+	<zone name="innadril16_2422_001m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2934" maxZ="-2634">
+		<node X="146076" Y="151093" />
+		<node X="147105" Y="151091" />
+		<node X="147104" Y="152112" />
+		<node X="146075" Y="152123" />
+	</zone>
+	<!-- innadril16_2422_002 -->
+	<zone name="innadril16_2422_002m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2959" maxZ="-2659">
+		<node X="140852" Y="155795" />
+		<node X="141387" Y="155587" />
+		<node X="140886" Y="160108" />
+		<node X="140226" Y="160291" />
+		<node X="140104" Y="157914" />
+	</zone>
+	<!-- innadril16_2422_003 -->
+	<zone name="innadril16_2422_003m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2966" maxZ="-2466">
+		<node X="140674" Y="160176" />
+		<node X="143050" Y="163488" />
+		<node X="140490" Y="163659" />
+		<node X="139921" Y="160556" />
+	</zone>
+	<!-- innadril16_2422_004 -->
+	<zone name="innadril16_2422_004m1" type="NpcSpawnTerritory" shape="NPoly" minZ="-2939" maxZ="-2539">
+		<node X="137658" Y="163669" />
+		<node X="139957" Y="160843" />
+		<node X="140466" Y="163641" />
+	</zone>
+</list>

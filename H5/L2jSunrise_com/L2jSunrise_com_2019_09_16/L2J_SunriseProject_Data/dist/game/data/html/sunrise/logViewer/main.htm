@@ -1,0 +1,57 @@
+<html noscrollbar>
+<title>L2jSunrise Community Board</title>
+<body><br>
+<table width=755>
+	<tr>
+		<center><td align=center valign="top">
+			<table border=0 cellpadding=0 cellspacing=0 width=769 height=492 background="l2ui_ct1.Windows_DF_TooltipBG">
+				<tr>
+					<td valign="top" align="center">
+						<table width=760 height=468>
+							<tr>
+								<td width=760 align=center>
+									<br>
+									<table border=0 cellspacing=0 cellpadding=0 width=760 background=l2ui_ct1.Windows_DF_TooltipBG>
+										<tr><td height=15></td></tr>
+										<tr>
+											<td width="25" height=32> 
+											&nbsp; 
+											</td>
+											<td width="25" height=27> 
+												<button value="LogViewer Panel" action="bypass -h admin_logsviewer" width=120 height=18 back=L2UI_CT1.Button_DF_Down fore=L2UI_CT1.Button_DF>
+											</td>
+											<td align=center>
+												<button value="Capture Once" action="bypass -h admin_viewLog %file%" width=120 height=18 back=L2UI_CT1.Button_DF_Down fore=L2UI_CT1.Button_DF>
+											</td>
+											<td align=center height=32 >
+												<font name="hs12">Logs Viewer</font>
+											</td>
+											<td align=center>
+												<button value="Start Capture" action="bypass -h admin_startViewer %file%" width=120 height=18 back=L2UI_CT1.Button_DF_Down fore=L2UI_CT1.Button_DF>
+											</td>
+											<td align=center>
+												<button value="Stop Capture" action="bypass -h admin_stopViewer %file%" width=120 height=18 back=%stop_button_back% fore=%stop_button_fore%>
+											</td>
+										</tr>
+									</table><br>
+									<table border=0 cellspacing=0 cellpadding=0 width=760 background=l2ui_ct1.Windows_DF_TooltipBG>
+										<tr>
+											<td width=760 height=58 align=center valign=top>
+												<table border=0 width=760  >	
+													<tr><td height=9></td></tr>												
+													%logs%
+													<tr><td height=9></td></tr>
+												</table>
+											</td>
+										</tr>
+									</table></center>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td></center>
+	</tr>
+</table>
+</body></html>

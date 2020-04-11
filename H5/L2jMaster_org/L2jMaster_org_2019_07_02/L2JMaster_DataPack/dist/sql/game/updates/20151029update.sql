@@ -1,0 +1,1 @@
+UPDATE character_quests SET name='Q00503_PursuitOfClanAmbition' WHERE name='503_PursuitClanAmbition'; 

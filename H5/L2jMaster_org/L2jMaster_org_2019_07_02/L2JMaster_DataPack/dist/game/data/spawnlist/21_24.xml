@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- giran08_npc2124_02 -->
+	<spawn zone="giran01_npc2124_0201">
+		<npc id="31706" x="44208" y="206560" z="-3760" heading="26000" respawnDelay="60" /> <!-- Miki the Cat -->
+	</spawn>
+	<!-- t21_24_enter_001 -->
+	<spawn zone="t21_24_enter_001m1">
+		<npc id="32713" x="52106" y="219171" z="-3232" heading="53247" respawnDelay="60" /> <!-- Pathfinder Worker -->
+	</spawn>
+	<!-- giran08_2124_001 -->
+	<spawn zone="t21_24_00101">
+		<npc id="20832" count="9" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20833" count="3" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20836" count="4" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="6" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+	</spawn>
+	<!-- giran08_2124_002 -->
+	<spawn zone="t21_24_00201">
+		<npc id="20832" count="1" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20836" count="1" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="1" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+	</spawn>
+	<!-- giran08_2124_003 -->
+	<spawn zone="t21_24_00301">
+		<npc id="20832" count="2" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20833" count="1" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20836" count="2" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="3" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+	</spawn>
+	<!-- giran08_2124_004 -->
+	<spawn zone="t21_24_00401">
+		<npc id="20832" count="1" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20836" count="1" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="1" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+	</spawn>
+	<!-- giran08_2124_006 -->
+	<spawn zone="t21_24_00601">
+		<npc id="20832" count="1" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20833" count="1" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20836" count="2" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="2" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+	</spawn>
+	<!-- giran08_2124_007 -->
+	<spawn zone="t21_24_00701">
+		<npc id="20832" count="1" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20836" count="1" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="1" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+	</spawn>
+	<!-- giran08_2124_008 -->
+	<spawn zone="t21_24_00801">
+		<npc id="20832" count="1" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20833" count="1" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20836" count="2" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="2" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+	</spawn>
+	<!-- giran08_2124_009 -->
+	<spawn zone="t21_244_00901">
+		<npc id="20832" count="1" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20833" count="1" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20836" count="2" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="2" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+	</spawn>
+	<!-- giran08_2124_010 -->
+	<spawn zone="t21_24_01001">
+		<npc id="20832" count="1" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20836" count="1" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="1" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+	</spawn>
+	<!-- giran08_2124_011 -->
+	<spawn zone="t21_24_01101">
+		<npc id="20832" count="4" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20833" count="1" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20836" count="1" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="3" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+		<npc id="21607" count="1" respawnDelay="180" /> <!-- Zaken's Elite Archer -->
+	</spawn>
+	<!-- giran08_2124_012 -->
+	<spawn zone="t21_24_01201">
+		<npc id="20833" count="1" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20836" count="1" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21607" count="1" respawnDelay="180" /> <!-- Zaken's Elite Archer -->
+	</spawn>
+	<!-- giran08_2124_013 -->
+	<spawn zone="t21_24_01301">
+		<npc id="20832" count="5" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20833" count="4" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20836" count="4" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="4" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+		<npc id="21607" count="4" respawnDelay="180" /> <!-- Zaken's Elite Archer -->
+	</spawn>
+	<!-- giran08_2124_014 -->
+	<spawn zone="t21_24_01401">
+		<npc id="20832" count="3" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20833" count="2" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20836" count="2" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="4" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+		<npc id="21607" count="2" respawnDelay="180" /> <!-- Zaken's Elite Archer -->
+	</spawn>
+	<!-- giran08_2124_015 -->
+	<spawn zone="t21_24_01501">
+		<npc id="20832" count="6" respawnDelay="55" /> <!-- Zaken's Pikeman -->
+		<npc id="20833" count="6" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20836" count="4" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21604" count="4" respawnDelay="180" /> <!-- Zaken's Elite Pikeman -->
+		<npc id="21607" count="4" respawnDelay="180" /> <!-- Zaken's Elite Archer -->
+	</spawn>
+	<!-- giran08_2124_016 -->
+	<spawn zone="t21_24_01601">
+		<npc id="20833" count="1" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20836" count="1" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="21607" count="1" respawnDelay="180" /> <!-- Zaken's Elite Archer -->
+	</spawn>
+	<!-- giran08_2124_017 -->
+	<spawn zone="t21_24_01701">
+		<npc id="20833" count="1" respawnDelay="55" /> <!-- Zaken's Archer -->
+		<npc id="20835" count="9" respawnDelay="55" /> <!-- Zaken's Seer -->
+		<npc id="20836" count="1" respawnDelay="55" /> <!-- Pirate Zombie -->
+		<npc id="20839" count="3" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21607" count="1" respawnDelay="180" /> <!-- Zaken's Elite Archer -->
+		<npc id="21610" count="6" respawnDelay="180" /> <!-- Zaken's High Grade Watchman -->
+		<npc id="21613" count="2" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_018 -->
+	<spawn zone="t21_24_01801">
+		<npc id="20835" count="7" respawnDelay="55" /> <!-- Zaken's Seer -->
+		<npc id="20839" count="5" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21610" count="6" respawnDelay="180" /> <!-- Zaken's High Grade Watchman -->
+		<npc id="21613" count="4" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_019 -->
+	<spawn zone="t21_24_01901">
+		<npc id="20835" count="3" respawnDelay="55" /> <!-- Zaken's Seer -->
+		<npc id="20839" count="2" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21610" count="2" respawnDelay="180" /> <!-- Zaken's High Grade Watchman -->
+		<npc id="21613" count="2" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_020 -->
+	<spawn zone="t21_24_02001">
+		<npc id="20835" count="1" respawnDelay="55" /> <!-- Zaken's Seer -->
+		<npc id="21610" count="1" respawnDelay="55" /> <!-- Zaken's High Grade Watchman -->
+	</spawn>
+	<!-- giran08_2124_021 -->
+	<spawn zone="t21_24_02101">
+		<npc id="20839" count="1" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21613" count="1" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_023 -->
+	<spawn zone="t21_24_02301">
+		<npc id="20835" count="3" respawnDelay="55" /> <!-- Zaken's Seer -->
+		<npc id="20839" count="1" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21610" count="2" respawnDelay="180" /> <!-- Zaken's High Grade Watchman -->
+		<npc id="21613" count="1" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_024 -->
+	<spawn zone="t21_24_02401">
+		<npc id="20835" count="1" respawnDelay="55" /> <!-- Zaken's Seer -->
+		<npc id="21610" count="1" respawnDelay="55" /> <!-- Zaken's High Grade Watchman -->
+	</spawn>
+	<!-- giran08_2124_025 -->
+	<spawn zone="t21_24_02501">
+		<npc id="20835" count="4" respawnDelay="55" /> <!-- Zaken's Seer -->
+		<npc id="20839" count="3" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21610" count="3" respawnDelay="180" /> <!-- Zaken's High Grade Watchman -->
+		<npc id="21613" count="2" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_026 -->
+	<spawn zone="t21_24_02601">
+		<npc id="20835" count="6" respawnDelay="55" /> <!-- Zaken's Seer -->
+		<npc id="20839" count="5" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21610" count="4" respawnDelay="180" /> <!-- Zaken's High Grade Watchman -->
+		<npc id="21613" count="4" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_027 -->
+	<spawn zone="t21_24_02701">
+		<npc id="20835" count="1" respawnDelay="55" /> <!-- Zaken's Seer -->
+		<npc id="21610" count="1" respawnDelay="55" /> <!-- Zaken's High Grade Watchman -->
+	</spawn>
+	<!-- giran08_2124_028 -->
+	<spawn zone="t21_24_02801">
+		<npc id="20839" count="1" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21613" count="1" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_029 -->
+	<spawn zone="t21_24_02901">
+		<npc id="20835" count="2" respawnDelay="55" /> <!-- Zaken's Seer -->
+		<npc id="20839" count="6" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21610" count="2" respawnDelay="180" /> <!-- Zaken's High Grade Watchman -->
+		<npc id="21613" count="4" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_030 -->
+	<spawn zone="t21_24_03001">
+		<npc id="20839" count="3" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="20840" count="2" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="21613" count="2" respawnDelay="180" /> <!-- Unpleasant Shout -->
+		<npc id="21616" count="2" respawnDelay="180" /> <!-- Gigantic Flyer -->
+	</spawn>
+	<!-- giran08_2124_031 -->
+	<spawn zone="t21_24_03101">
+		<npc id="20839" count="1" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21613" count="1" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_032 -->
+	<spawn zone="t21_24_03201">
+		<npc id="20839" count="1" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="20840" count="2" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="21613" count="1" respawnDelay="180" /> <!-- Unpleasant Shout -->
+		<npc id="21616" count="2" respawnDelay="180" /> <!-- Gigantic Flyer -->
+	</spawn>
+	<!-- giran08_2124_033 -->
+	<spawn zone="t21_24_03301">
+		<npc id="20839" count="1" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21613" count="1" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_034 -->
+	<spawn zone="t21_24_03401">
+		<npc id="20839" count="1" respawnDelay="55" /> <!-- Unpleasant Humming -->
+		<npc id="21613" count="1" respawnDelay="180" /> <!-- Unpleasant Shout -->
+	</spawn>
+	<!-- giran08_2124_035 -->
+	<spawn zone="t21_24_03501">
+		<npc id="20840" count="1" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="21616" count="1" respawnDelay="180" /> <!-- Gigantic Flyer -->
+	</spawn>
+	<!-- giran08_2124_036 -->
+	<spawn zone="t21_24_03601">
+		<npc id="20840" count="4" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="4" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21616" count="2" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="2" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_037 -->
+	<spawn zone="t21_24_03701">
+		<npc id="20840" count="1" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="2" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21616" count="1" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="2" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_038 -->
+	<spawn zone="t21_24_03801">
+		<npc id="20840" count="2" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="21616" count="2" respawnDelay="180" /> <!-- Gigantic Flyer -->
+	</spawn>
+	<!-- giran08_2124_039 -->
+	<spawn zone="t21_24_03901">
+		<npc id="20840" count="3" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="1" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21616" count="2" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="1" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_040 -->
+	<spawn zone="t21_24_04001">
+		<npc id="20840" count="1" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="1" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21616" count="1" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="1" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_041 -->
+	<spawn zone="t21_24_04101">
+		<npc id="20840" count="3" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="1" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21616" count="2" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="1" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_042 -->
+	<spawn zone="t21_24_04201">
+		<npc id="20840" count="1" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="1" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21616" count="1" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="1" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_043 -->
+	<spawn zone="t21_24_04301">
+		<npc id="20840" count="1" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="1" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21616" count="1" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="1" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_044 -->
+	<spawn zone="t21_24_04401">
+		<npc id="20840" count="5" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="2" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21616" count="4" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="2" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_045 -->
+	<spawn zone="t21_24_04501">
+		<npc id="20840" count="5" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="3" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21616" count="4" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="2" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_046 -->
+	<spawn zone="t21_24_04601">
+		<npc id="20840" count="1" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="1" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21616" count="1" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="1" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_047 -->
+	<spawn zone="t21_24_04701">
+		<npc id="20840" count="2" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="2" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21616" count="2" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="2" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_048 -->
+	<spawn zone="t21_24_04801">
+		<npc id="20840" count="2" respawnDelay="55" /> <!-- Death Flyer -->
+		<npc id="20841" count="1" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="20848" count="5" respawnDelay="55" /> <!-- Light Bringer -->
+		<npc id="21616" count="2" respawnDelay="180" /> <!-- Gigantic Flyer -->
+		<npc id="21619" count="1" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_049 -->
+	<spawn zone="t21_24_04901">
+		<npc id="20848" count="1" respawnDelay="55" /> <!-- Light Bringer -->
+	</spawn>
+	<!-- giran08_2124_050 -->
+	<spawn zone="t21_24_05001">
+		<npc id="20848" count="1" respawnDelay="55" /> <!-- Light Bringer -->
+	</spawn>
+	<!-- giran08_2124_051 -->
+	<spawn zone="t21_24_05101">
+		<npc id="20841" count="3" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="20842" count="2" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="21619" count="2" respawnDelay="180" /> <!-- Pit Archer -->
+		<npc id="21622" count="2" respawnDelay="180" /> <!-- Greater Musveren -->
+	</spawn>
+	<!-- giran08_2124_052 -->
+	<spawn zone="t21_24_05201">
+		<npc id="20841" count="2" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="20842" count="3" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="21619" count="2" respawnDelay="180" /> <!-- Pit Archer -->
+		<npc id="21622" count="2" respawnDelay="180" /> <!-- Greater Musveren -->
+	</spawn>
+	<!-- giran08_2124_053 -->
+	<spawn zone="t21_24_05301">
+		<npc id="20841" count="3" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="20842" count="3" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="21619" count="2" respawnDelay="180" /> <!-- Pit Archer -->
+		<npc id="21622" count="2" respawnDelay="180" /> <!-- Greater Musveren -->
+	</spawn>
+	<!-- giran08_2124_054 -->
+	<spawn zone="t21_24_05401">
+		<npc id="20841" count="4" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21619" count="4" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_055 -->
+	<spawn zone="t21_24_05501">
+		<npc id="20841" count="1" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="21619" count="1" respawnDelay="180" /> <!-- Pit Archer -->
+	</spawn>
+	<!-- giran08_2124_056 -->
+	<spawn zone="t21_24_05601">
+		<npc id="20841" count="3" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="20842" count="7" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="21619" count="2" respawnDelay="180" /> <!-- Pit Archer -->
+		<npc id="21622" count="6" respawnDelay="180" /> <!-- Greater Musveren -->
+	</spawn>
+	<!-- giran08_2124_057 -->
+	<spawn zone="t21_24_05701">
+		<npc id="20841" count="1" respawnDelay="55" /> <!-- Fiend Archer -->
+		<npc id="20842" count="4" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="21619" count="1" respawnDelay="180" /> <!-- Pit Archer -->
+		<npc id="21622" count="4" respawnDelay="180" /> <!-- Greater Musveren -->
+	</spawn>
+	<!-- giran08_2124_058 -->
+	<spawn zone="t21_24_05801">
+		<npc id="20842" count="2" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="20843" count="1" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="21625" count="2" respawnDelay="180" /> <!-- Greater Musveren -->
+		<npc id="21625" count="1" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+	</spawn>
+	<!-- giran08_2124_059 -->
+	<spawn zone="t21_24_05901">
+		<npc id="20842" count="4" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="20843" count="2" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="21625" count="4" respawnDelay="180" /> <!-- Greater Musveren -->
+		<npc id="21625" count="2" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+	</spawn>
+	<!-- giran08_2124_060 -->
+	<spawn zone="t21_24_06001">
+		<npc id="20842" count="2" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="20843" count="1" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="21625" count="2" respawnDelay="180" /> <!-- Greater Musveren -->
+		<npc id="21625" count="1" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+	</spawn>
+	<!-- giran08_2124_061 -->
+	<spawn zone="t21_24_06101">
+		<npc id="20842" count="6" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="20843" count="5" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="21625" count="4" respawnDelay="180" /> <!-- Greater Musveren -->
+		<npc id="21625" count="4" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+	</spawn>
+	<!-- giran08_2124_062 -->
+	<spawn zone="t21_24_06201">
+		<npc id="20842" count="1" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="21625" count="1" respawnDelay="180" /> <!-- Greater Musveren -->
+	</spawn>
+	<!-- giran08_2124_063 -->
+	<spawn zone="t21_24_06301">
+		<npc id="20842" count="1" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="21625" count="1" respawnDelay="180" /> <!-- Greater Musveren -->
+	</spawn>
+	<!-- giran08_2124_064 -->
+	<spawn zone="t21_24_06401">
+		<npc id="20842" count="1" respawnDelay="55" /> <!-- Musveren -->
+		<npc id="20843" count="1" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="21625" count="1" respawnDelay="180" /> <!-- Greater Musveren -->
+		<npc id="21625" count="1" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+	</spawn>
+	<!-- giran08_2124_065 -->
+	<spawn zone="t21_24_06501">
+		<npc id="20843" count="6" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="20844" count="3" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="21625" count="4" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+		<npc id="21628" count="2" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+	</spawn>
+	<!-- giran08_2124_066 -->
+	<spawn zone="t21_24_06601">
+		<npc id="20843" count="4" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="20844" count="3" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="20986" count="1" respawnDelay="320" respawnRandom="90" /> <!-- Sairon -->
+		<npc id="21625" count="4" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+		<npc id="21628" count="2" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+	</spawn>
+	<!-- giran08_2124_067 -->
+	<spawn zone="t21_24_06701">
+		<npc id="20843" count="3" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="21625" count="3" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+	</spawn>
+	<!-- giran08_2124_068 -->
+	<spawn zone="t21_24_06801">
+		<npc id="20843" count="4" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="20844" count="3" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="20986" count="2" respawnDelay="320" respawnRandom="90" /> <!-- Sairon -->
+		<npc id="21625" count="4" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+		<npc id="21628" count="2" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+	</spawn>
+	<!-- giran08_2124_069 -->
+	<spawn zone="t21_24_06901">
+		<npc id="20843" count="5" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="20844" count="2" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="20986" count="2" respawnDelay="320" respawnRandom="90" /> <!-- Sairon -->
+		<npc id="21625" count="4" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+		<npc id="21628" count="2" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+	</spawn>
+	<!-- giran08_2124_070 -->
+	<spawn zone="t21_24_07001">
+		<npc id="20843" count="1" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="20844" count="3" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="21625" count="1" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+		<npc id="21628" count="2" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+	</spawn>
+	<!-- t121_24_071 -->
+	<spawn zone="t121_24_07101">
+		<npc id="20843" count="2" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="21625" count="2" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+	</spawn>
+	<!-- giran08_2124_072 -->
+	<spawn zone="t21_24_07201">
+		<npc id="20843" count="1" respawnDelay="55" /> <!-- Zaken's Royal Guard -->
+		<npc id="21625" count="1" respawnDelay="180" /> <!-- Zaken's Elite Guard -->
+	</spawn>
+	<!-- giran08_2124_073 -->
+	<spawn zone="t21_24_07301">
+		<npc id="20844" count="1" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="21628" count="1" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+	</spawn>
+	<!-- giran08_2124_074 -->
+	<spawn zone="t21_24_07401">
+		<npc id="20844" count="6" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="20845" count="2" respawnDelay="55" /> <!-- Pirate Zombie Captain -->
+		<npc id="20986" count="1" respawnDelay="320" respawnRandom="90" /> <!-- Sairon -->
+		<npc id="21628" count="4" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+		<npc id="21631" count="2" respawnDelay="180" /> <!-- Zombie Captain's Spiritual Body -->
+	</spawn>
+	<!-- giran08_2124_075 -->
+	<spawn zone="t21_24_07501">
+		<npc id="20844" count="1" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="21628" count="1" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+	</spawn>
+	<!-- giran08_2124_076 -->
+	<spawn zone="t21_24_07601">
+		<npc id="20844" count="1" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="21628" count="1" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+	</spawn>
+	<!-- giran08_2124_078 -->
+	<spawn zone="t21_24_07801">
+		<npc id="20844" count="9" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="20845" count="4" respawnDelay="55" /> <!-- Pirate Zombie Captain -->
+		<npc id="20986" count="3" respawnDelay="320" respawnRandom="90" /> <!-- Sairon -->
+		<npc id="21628" count="6" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+		<npc id="21631" count="4" respawnDelay="180" /> <!-- Zombie Captain's Spiritual Body -->
+	</spawn>
+	<!-- giran08_2124_079 -->
+	<spawn zone="t21_24_07901">
+		<npc id="20844" count="2" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="21628" count="2" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+	</spawn>
+	<!-- giran08_2124_080 -->
+	<spawn zone="t21_24_08001">
+		<npc id="20845" count="1" respawnDelay="55" /> <!-- Pirate Zombie Captain -->
+		<npc id="21631" count="1" respawnDelay="180" /> <!-- Zombie Captain's Spiritual Body -->
+	</spawn>
+	<!-- giran08_2124_081 -->
+	<spawn zone="t21_24_08101">
+		<npc id="20844" count="2" respawnDelay="55" /> <!-- Kaim Vanul -->
+		<npc id="20845" count="5" respawnDelay="55" /> <!-- Pirate Zombie Captain -->
+		<npc id="20986" count="1" respawnDelay="320" respawnRandom="90" /> <!-- Sairon -->
+		<npc id="21628" count="2" respawnDelay="180" /> <!-- Kaim Vanul Lad -->
+		<npc id="21631" count="4" respawnDelay="180" /> <!-- Zombie Captain's Spiritual Body -->
+	</spawn>
+	<!-- giran08_2124_082 -->
+	<spawn zone="t21_24_08201">
+		<npc id="20845" count="7" respawnDelay="55" /> <!-- Pirate Zombie Captain -->
+		<npc id="20846" count="1" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="21631" count="6" respawnDelay="180" /> <!-- Zombie Captain's Spiritual Body -->
+		<npc id="21634" count="1" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+	</spawn>
+	<!-- giran08_2124_083 -->
+	<spawn zone="t21_24_08301">
+		<npc id="20845" count="5" respawnDelay="55" /> <!-- Pirate Zombie Captain -->
+		<npc id="20846" count="1" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="21631" count="4" respawnDelay="180" /> <!-- Zombie Captain's Spiritual Body -->
+		<npc id="21634" count="1" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+	</spawn>
+	<!-- giran08_2124_084 -->
+	<spawn zone="t21_24_08401">
+		<npc id="20845" count="3" respawnDelay="55" /> <!-- Pirate Zombie Captain -->
+		<npc id="20846" count="2" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="21631" count="2" respawnDelay="180" /> <!-- Zombie Captain's Spiritual Body -->
+		<npc id="21634" count="2" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+	</spawn>
+	<!-- giran08_2124_085 -->
+	<spawn zone="t21_24_08501">
+		<npc id="20845" count="2" respawnDelay="55" /> <!-- Pirate Zombie Captain -->
+		<npc id="20846" count="2" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="21631" count="2" respawnDelay="180" /> <!-- Zombie Captain's Spiritual Body -->
+		<npc id="21634" count="2" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+	</spawn>
+	<!-- giran08_2124_086 -->
+	<spawn zone="t21_24_08601">
+		<npc id="20845" count="1" respawnDelay="55" /> <!-- Pirate Zombie Captain -->
+		<npc id="21631" count="1" respawnDelay="180" /> <!-- Zombie Captain's Spiritual Body -->
+	</spawn>
+	<!-- giran08_2124_077 -->
+	<spawn zone="t21_24_07701">
+		<npc id="20845" count="3" respawnDelay="55" /> <!-- Pirate Zombie Captain -->
+		<npc id="20846" count="5" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="21631" count="3" respawnDelay="180" /> <!-- Zombie Captain's Spiritual Body -->
+		<npc id="21634" count="4" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+	</spawn>
+	<!-- giran08_2124_087 -->
+	<spawn zone="t21_24_08701">
+		<npc id="20846" count="1" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="21634" count="1" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+	</spawn>
+	<!-- giran08_2124_088 -->
+	<spawn zone="t21_24_08801">
+		<npc id="20845" count="3" respawnDelay="55" /> <!-- Pirate Zombie Captain -->
+		<npc id="20846" count="6" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="20986" count="1" respawnDelay="320" respawnRandom="90" /> <!-- Sairon -->
+		<npc id="21631" count="3" respawnDelay="180" /> <!-- Zombie Captain's Spiritual Body -->
+		<npc id="21634" count="5" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+	</spawn>
+	<!-- giran08_2124_089 -->
+	<spawn zone="t21_24_08901">
+		<npc id="20846" count="2" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="21634" count="2" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+	</spawn>
+	<!-- giran08_2124_090 -->
+	<spawn zone="t21_24_09001">
+		<npc id="20846" count="1" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="21634" count="1" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+	</spawn>
+	<!-- giran08_2124_091 -->
+	<spawn zone="t21_24_09101">
+		<npc id="20847" count="1" respawnDelay="55" /> <!-- Veil Master -->
+		<npc id="21637" count="1" respawnDelay="180" /> <!-- Crimson Veil Master -->
+	</spawn>
+	<!-- giran08_2124_092 -->
+	<spawn zone="t21_24_09201">
+		<npc id="20846" count="5" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="20847" count="5" respawnDelay="55" /> <!-- Veil Master -->
+		<npc id="20986" count="1" respawnDelay="320" respawnRandom="90" /> <!-- Sairon -->
+		<npc id="21634" count="4" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+		<npc id="21637" count="4" respawnDelay="180" /> <!-- Crimson Veil Master -->
+	</spawn>
+	<!-- giran08_2124_093 -->
+	<spawn zone="t21_24_09301">
+		<npc id="20846" count="4" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="20847" count="3" respawnDelay="55" /> <!-- Veil Master -->
+		<npc id="21634" count="4" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+		<npc id="21637" count="2" respawnDelay="180" /> <!-- Crimson Veil Master -->
+	</spawn>
+	<!-- giran08_2124_094 -->
+	<spawn zone="t21_24_09401">
+		<npc id="20846" count="3" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="20847" count="4" respawnDelay="55" /> <!-- Veil Master -->
+		<npc id="20986" count="1" respawnDelay="320" respawnRandom="90" /> <!-- Sairon -->
+		<npc id="21634" count="2" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+		<npc id="21637" count="4" respawnDelay="180" /> <!-- Crimson Veil Master -->
+	</spawn>
+	<!-- giran08_2124_095 -->
+	<spawn zone="t21_24_09501">
+		<npc id="20846" count="1" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="20847" count="1" respawnDelay="55" /> <!-- Veil Master -->
+		<npc id="21634" count="1" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+		<npc id="21637" count="1" respawnDelay="180" /> <!-- Crimson Veil Master -->
+	</spawn>
+	<!-- giran08_2124_096 -->
+	<spawn zone="t21_24_09601">
+		<npc id="20846" count="1" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="20847" count="2" respawnDelay="55" /> <!-- Veil Master -->
+		<npc id="21634" count="1" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+		<npc id="21637" count="2" respawnDelay="180" /> <!-- Crimson Veil Master -->
+	</spawn>
+	<!-- giran08_2124_097 -->
+	<spawn zone="t21_24_09701">
+		<npc id="20846" count="1" respawnDelay="55" /> <!-- Doll Blader -->
+		<npc id="21634" count="1" respawnDelay="180" /> <!-- Crimson Doll Blader -->
+	</spawn>
+	<!-- giran08_2124_098 -->
+	<spawn zone="t21_24_09801">
+		<npc id="20847" count="10" respawnDelay="55" /> <!-- Veil Master -->
+		<npc id="20986" count="1" respawnDelay="320" respawnRandom="90" /> <!-- Sairon -->
+		<npc id="21637" count="9" respawnDelay="180" /> <!-- Crimson Veil Master -->
+	</spawn>
+	<!-- giran08_tb2124_27 -->
+	<spawn zone="giran08_tb27_m1">
+		<npc id="18273" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- giran08_tb2124_22 -->
+	<spawn zone="giran08_tb22_m1">
+		<npc id="18274" count="3" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- giran08_tb2124_23 -->
+	<spawn zone="giran08_tb23_m1">
+		<npc id="18275" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- giran08_tb2124_65 -->
+	<spawn zone="giran08_tb65_m1">
+		<npc id="18276" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

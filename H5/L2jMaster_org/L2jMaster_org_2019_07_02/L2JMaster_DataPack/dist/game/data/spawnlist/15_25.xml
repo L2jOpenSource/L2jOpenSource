@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- guldio62_npc1525_01 -->
+	<spawn zone="guldio62_npc1525_01m1">
+		<npc id="32564" x="-149484" y="253680" z="-186" heading="16384" respawnDelay="60" /> <!-- Papiku -->
+		<npc id="32565" x="-149235" y="253680" z="-186" heading="16384" respawnDelay="60" /> <!-- Felix -->
+	</spawn>
+	<!-- guldio62_npc1525_02 -->
+	<spawn zone="guldio62_npc1525_02m1">
+		<npc id="32609" x="-149360" y="252936" z="-136" heading="16384" respawnDelay="60" /> <!-- Flight Control -->
+	</spawn>
+	<!-- guldio62_npc1525_03 -->
+	<spawn zone="guldio62_npc1525_03m1">
+		<npc id="32614" x="-149649" y="255028" z="-85" heading="16384" respawnDelay="60" /> <!-- Lamcedas -->
+	</spawn>
+	<!-- guldio62_npc1525_04 -->
+	<spawn zone="guldio62_npc1525_04m1">
+		<npc id="32615" x="-149067" y="255028" z="-85" heading="16384" respawnDelay="60" /> <!-- Ishuma -->
+	</spawn>
+	<!-- guldio62_npc1525_06 -->
+	<spawn zone="guldio62_npc1525_06m1">
+		<npc id="32616" x="-148656" y="253841" z="-186" heading="24576" respawnDelay="60" /> <!-- Mine -->
+	</spawn>
+	<!-- guldio62_npc1525_07 -->
+	<spawn zone="guldio62_npc1525_07m1">
+		<npc id="32628" x="-148777" y="254544" z="-186" heading="0" respawnDelay="60" /> <!-- Wharf Patrol -->
+		<npc id="32628" x="-148804" y="254521" z="-187" heading="0" respawnDelay="60" /> <!-- Wharf Patrol -->
+	</spawn>
+	<!-- guldio62_npc1525_08 -->
+	<spawn zone="guldio62_npc1525_08m1">
+		<npc id="32629" x="-149929" y="254543" z="-187" heading="0" respawnDelay="60" /> <!-- Wharf Patrol -->
+		<npc id="32629" x="-149909" y="254506" z="-187" heading="0" respawnDelay="60" /> <!-- Wharf Patrol -->
+	</spawn>
+	<!-- guldio62_npc1525_09 -->
+	<spawn zone="guldio62_npc1525_09m1">
+		<npc id="18782" x="-148656" y="254304" z="-185" heading="16384" respawnDelay="420" /> <!-- Zealot of Shilen -->
+	</spawn>
+	<!-- guldio62_npc1525_10 -->
+	<spawn zone="guldio62_npc1525_10m1">
+		<npc id="18782" x="-150107" y="254288" z="-185" heading="16384" respawnDelay="780" /> <!-- Zealot of Shilen -->
+	</spawn>
+</list>

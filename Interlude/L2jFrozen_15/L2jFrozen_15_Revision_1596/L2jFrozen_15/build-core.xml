@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="build-core" default="clean" basedir=".">
+	<description>
+        This script will compile L2jFrozen core only.  
+    </description>
+
+	<property name="src" location="head-src" />
+	<property name="src-lib" location="lib" />
+	<property name="build-core" location="build-core" />
+
+	<path id="classpath">
+		<fileset dir="${src-lib}">
+			<include name="**/*.jar" />
+		</fileset>
+	</path>
+
+	<target name="checkVersions" description="Check Requirements.">
+		<echo>Ant version: ${ant.version}</echo> 
+		<echo>Ant Java version: ${ant.java.version}</echo> 
+		<echo>Java detail version: ${java.version}</echo>
+	</target>
+	
+	<target name="init"  depends="checkVersions" description="Create the output directories.">
+		<property name="build-core" location="build-core" />
+		<property name="build-core.bin" location="${build-core}/bin" />
+		<property name="build-core.core" location="${build-core}/l2jfrozen-core.jar" />
+		<property name="build-core.gameserver" location="${build-core}/gameserver" />
+		<property name="build-core.loginserver" location="${build-core}/loginserver" />
+		<property name="properties-file" location="${build-core}/l2jfrozen_15.info" />
+		
+		<mkdir dir="${build-core}" />
+		<mkdir dir="${build-core.bin}" />
+		<mkdir dir="${build-core.gameserver}" />
+		<mkdir dir="${build-core.loginserver}" />
+	</target>
+
+	<target name="version" depends="init" description="Create Version file">
+
+		<tstamp>
+			<format property="build.tstamp" pattern="dd-MM-yyyy hh:mm:ss aa" />
+		</tstamp>
+		
+		<exec dir="." executable="svnversion" outputproperty="l2jfrozen.revision" failifexecutionfails="false">
+			<arg line="-n ." />
+		</exec>
+		
+		<concat destfile="${properties-file}">revision=${l2jfrozen.revision}
+build-date=${build.tstamp}
+repository=svn://svn.code.sf.net/p/l2jfrozen/code/
+reports=https://l2devsadmins.net/reynaldev/index.php?board=54.0
+java-version=${java.version}
+			
+private support= https://reynaldev.pythonanywhere.com/servicios (You have to pay for the private support or private develop)
+</concat>
+			
+		<echo>L2jFrozen Gameserver Revision: ${l2jfrozen.revision}</echo>
+	</target>
+
+	<target name="compile" depends="version" description="Compile the source.">
+		<javac destdir="${build-core.bin}" includeantruntime="false" debug="on" encoding="utf-8" nowarn="off">
+			<src path="${src}" />
+			<classpath refid="classpath" />
+		</javac>
+	</target>
+
+	<target name="jar" depends="compile" description="Create the jar file">
+		<jar destfile="${build-core}/l2jfrozen-core.jar">
+			<fileset dir="${build-core.bin}" />
+		</jar>
+
+		<copy file="${build-core.core}" todir="${build-core}/loginserver/lib"/>
+		<copy file="${build-core.core}" todir="${build-core}/gameserver/lib"/>
+			
+	</target>
+
+	<target name="clean" depends="jar">
+		<delete dir="${build-core.bin}" />
+		<delete file="${build-core.core}" />
+	</target>
+
+</project>

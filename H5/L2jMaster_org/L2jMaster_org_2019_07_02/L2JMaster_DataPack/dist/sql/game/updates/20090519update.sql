@@ -1,0 +1,1 @@
+ALTER TABLE `items` MODIFY `time` decimal(13) NOT NULL DEFAULT 0;

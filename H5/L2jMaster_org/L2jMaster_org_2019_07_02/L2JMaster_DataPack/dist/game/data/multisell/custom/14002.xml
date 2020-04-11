@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Mid-Grade Life Stone: level 67 -->
+	<item>
+		<ingredient id="57" count="800000"/>
+		<production id="8740" count="1"/>
+	</item>
+	<!-- Mid-Grade Life Stone: level 70 -->
+	<item>
+		<ingredient id="57" count="900000"/>
+		<production id="8741" count="1"/>
+	</item>
+	<!-- Mid-Grade Life Stone: level 76 -->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="8742" count="1"/>
+	</item>
+	<!-- Mid-Grade Life Stone: level 80 -->
+	<item>
+		<ingredient id="57" count="2000000"/>
+		<production id="9574" count="1"/>
+	</item>
+	<!-- Mid-Grade Life Stone - level 82 -->
+	<item>
+		<ingredient id="57" count="3000000"/>
+		<production id="10484" count="1"/>
+	</item>
+	<!-- Mid-Grade Life Stone - level 84 -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="14167" count="1"/>
+	</item>
+	<!-- Mid-Grade Life Stone - level 85 -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="16161" count="1" />
+	</item>
+	<!-- Mid-Grade Life Stone - level 86 -->
+	<item>
+		<ingredient id="57" count="10000000"/>
+		<production id="16165" count="1" />
+	</item>
+	<!-- High-Grade Life Stone: level 67 -->
+	<item>
+		<ingredient id="57" count="15000000"/>
+		<production id="8750" count="1"/>
+	</item>
+	<!-- High-Grade Life Stone: level 70 -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="8751" count="1"/>
+	</item>
+	<!-- High-Grade Life Stone: level 76 -->
+	<item>
+		<ingredient id="57" count="25000000"/>
+		<production id="8752" count="1"/>
+	</item>
+	<!-- High-Grade Life Stone: level 80 -->
+	<item>
+		<ingredient id="57" count="30000000"/>
+		<production id="9575" count="1"/>
+	</item>
+	<!-- High-Grade Life Stone - level 82 -->
+	<item>
+		<ingredient id="57" count="40000000"/>
+		<production id="10485" count="1"/>
+	</item>
+	<!-- High-Grade Life Stone - level 84 -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="14168" count="1"/>
+	</item>
+	<!-- High-Grade Life Stone - level 85 -->
+	<item>
+		<ingredient id="57" count="70000000"/>
+		<production id="16162" count="1" />
+	</item>
+	<!-- High-Grade Life Stone - level 86 -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="16166" count="1" />
+	</item>
+	<!-- Top-Grade Life Stone: level 67 -->
+	<item>
+		<ingredient id="57" count="30000000"/>
+		<production id="8760" count="1"/>
+	</item>
+	<!-- Top-Grade Life Stone: level 70 -->
+	<item>
+		<ingredient id="57" count="40000000"/>
+		<production id="8761" count="1"/>
+	</item>
+	<!-- Top-Grade Life Stone: level 76 -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="8762" count="1"/>
+	</item>
+	<!-- Top-Grade Life Stone: level 80 -->
+	<item>
+		<ingredient id="3470" count="10" />
+		<production id="9576" count="1"/>
+	</item>
+	<!-- Top-Grade Life Stone - level 82 -->
+	<item>
+		<ingredient id="3470" count="15" />
+		<production id="10486" count="1"/>
+	</item>
+	<!-- Top-Grade Life Stone - level 84 -->
+	<item>
+		<ingredient id="3470" count="30" />
+		<production id="14169" count="1"/>
+	</item>
+	<!-- Top-Grade Life Stone - level 85 -->
+	<item>
+		<ingredient id="3470" count="50" />
+		<production id="16163" count="1" />
+	</item>
+	<!-- Top-Grade Life Stone - level 86 -->
+	<item>
+		<ingredient id="3470" count="100" />
+		<production id="16167" count="1" />
+	</item>
+	<!-- Accessory Life Stone: -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="12847" count="10"/>
+	</item>
+	<!-- Accessory Life Stone: -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="12848" count="10"/>
+	</item>
+	<!-- Accessory Life Stone: -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="12849" count="10"/>
+	</item>
+	<!-- Accessory Life Stone: -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="12850" count="10"/>
+	</item>
+	<!-- Accessory Life Stone: -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="12851" count="10"/>
+	</item>
+	<!-- Accessory Life Stone: -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="14008" count="10"/>
+	</item>
+	<!-- Spirit ore -->
+	<item>
+		<ingredient id="57" count="440"/>
+		<production id="3031" count="1" />
+	</item>
+	<!-- Soul ore -->
+	<item>
+		<ingredient id="57" count="275"/>
+		<production id="1785" count="1" />
+	</item>
+	<!-- Rope of magic D -->
+	<item>
+		<ingredient id="57" count="110"/>
+		<production id="5192" count="1" />
+	</item>
+	<!-- Rope of magic C -->
+	<item>
+		<ingredient id="57" count="165"/>
+		<production id="5193" count="1" />
+	</item>
+	<!-- Rope of magic B -->
+	<item>
+		<ingredient id="57" count="275"/>
+		<production id="5194" count="1" />
+	</item>	
+	<!-- Rope of magic A -->
+	<item>
+		<ingredient id="57" count="440"/>
+		<production id="5195" count="1" />
+	</item>
+	<!-- Rope of magic S -->
+	<item>
+		<ingredient id="57" count="1100"/>
+		<production id="5196" count="1" />
+	</item>
+	<!-- Gemstone D -->
+	<item>
+		<ingredient id="57" count="1100"/>
+		<production id="2130" count="1" />
+	</item>
+	<!-- Gemstone C -->
+	<item>
+		<ingredient id="57" count="3300"/>
+		<production id="2131" count="1" />
+	</item>
+	<!-- Gemstone B -->
+	<item>
+		<ingredient id="57" count="11000"/>
+		<production id="2132" count="1" />
+	</item>
+	<!-- Gemstone A -->
+	<item>
+		<ingredient id="57" count="33000"/>
+		<production id="2133" count="1" />
+	</item>
+	<!-- Gemstone S -->
+	<item>
+		<ingredient id="57" count="110000"/>
+		<production id="2134" count="1" />
+	</item>
+</list>

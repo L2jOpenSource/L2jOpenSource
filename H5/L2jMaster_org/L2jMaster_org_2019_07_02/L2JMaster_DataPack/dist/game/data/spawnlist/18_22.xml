@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio34_1822_01 -->
+	<spawn zone="gludio34_1822_01m1">
+		<npc id="20310" count="6" respawnDelay="21" /> <!-- Brown Bear -->
+	</spawn>
+	<!-- gludio35_1822_01 -->
+	<spawn zone="gludio35_1822_01m1">
+		<npc id="20059" count="8" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20548" count="4" respawnDelay="20" /> <!-- Ol Mahum Deserter -->
+	</spawn>
+	<!-- gludio35_1822_02 -->
+	<spawn zone="gludio35_1822_02m1">
+		<npc id="20055" count="3" respawnDelay="20" /> <!-- Wandering Eye -->
+		<npc id="20059" count="3" respawnDelay="20" /> <!-- Hungry Eye -->
+	</spawn>
+	<!-- gludio35_1822_03 -->
+	<spawn zone="gludio35_1822_03m1">
+		<npc id="20050" count="3" respawnDelay="20" /> <!-- Arachnid Predator -->
+		<npc id="20055" count="3" respawnDelay="20" /> <!-- Wandering Eye -->
+	</spawn>
+	<!-- gludio35_1822_04 -->
+	<spawn zone="gludio35_1822_04m1">
+		<npc id="20055" count="3" respawnDelay="20" /> <!-- Wandering Eye -->
+		<npc id="20059" count="2" respawnDelay="20" /> <!-- Hungry Eye -->
+	</spawn>
+	<!-- gludio35_1822_05s -->
+	<spawn zone="gludio35_1822_05sm1">
+		<npc id="20548" count="3" respawnDelay="20" /> <!-- Ol Mahum Deserter -->
+	</spawn>
+	<!-- gludio39_1822_01 -->
+	<spawn zone="gludio39_1822_01m1">
+		<npc id="20359" count="2" respawnDelay="20" /> <!-- Ratman Warrior -->
+		<npc id="20055" count="3" respawnDelay="20" /> <!-- Wandering Eye -->
+	</spawn>
+	<!-- gludio39_1822_02 -->
+	<spawn zone="gludio39_1822_02m1">
+		<npc id="20359" count="2" respawnDelay="20" /> <!-- Ratman Warrior -->
+		<npc id="20055" count="3" respawnDelay="20" /> <!-- Wandering Eye -->
+	</spawn>
+	<!-- gludio39_1822_03 -->
+	<spawn zone="gludio39_1822_03m1">
+		<npc id="20359" count="3" respawnDelay="20" /> <!-- Ratman Warrior -->
+		<npc id="20055" count="3" respawnDelay="20" /> <!-- Wandering Eye -->
+	</spawn>
+	<!-- gludio39_1822_04 -->
+	<spawn zone="gludio39_1822_04m1">
+		<npc id="20050" count="3" respawnDelay="20" /> <!-- Arachnid Predator -->
+		<npc id="20059" count="3" respawnDelay="20" /> <!-- Hungry Eye -->
+	</spawn>
+	<!-- gludio39_1822_05 -->
+	<spawn zone="gludio39_1822_05m1">
+		<npc id="20050" count="3" respawnDelay="20" /> <!-- Arachnid Predator -->
+		<npc id="20059" count="4" respawnDelay="20" /> <!-- Hungry Eye -->
+	</spawn>
+	<!-- gludio39_1822_06 -->
+	<spawn zone="gludio39_1822_06m1">
+		<npc id="20059" count="4" respawnDelay="20" /> <!-- Hungry Eye -->
+	</spawn>
+	<!-- gludio39_1822_07 -->
+	<spawn zone="gludio39_1822_07m1">
+		<npc id="20059" count="3" respawnDelay="20" /> <!-- Hungry Eye -->
+		<npc id="20548" count="5" respawnDelay="20" /> <!-- Ol Mahum Deserter -->
+	</spawn>
+	<!-- gludio39_1822_08 -->
+	<spawn zone="gludio39_1822_08m1">
+		<npc id="20059" count="3" respawnDelay="20" /> <!-- Hungry Eye -->
+	</spawn>
+	<!-- gludio09_1822_01 -->
+	<spawn zone="gludio09_1822_01m1">
+		<npc id="20053" count="4" respawnDelay="27" /> <!-- Ol Mahum Patrol -->
+		<AIData>
+			<fleeX>-44816</fleeX>
+			<fleeY>140912</fleeY>
+			<fleeZ>-2944</fleeZ>
+		</AIData>
+		<npc id="20437" count="2" respawnDelay="27" /> <!-- Ol Mahum Recruit -->
+		<npc id="20058" count="2" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+	</spawn>
+	<!-- gludio09_1822_02 -->
+	<spawn zone="gludio09_1822_02m1">
+		<npc id="20053" count="5" respawnDelay="27" /> <!-- Ol Mahum Patrol -->
+		<npc id="20437" count="2" respawnDelay="27" /> <!-- Ol Mahum Recruit -->
+		<npc id="20058" count="2" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+	</spawn>
+	<!-- gludio09_1822_03 -->
+	<spawn zone="gludio09_1822_03m1">
+		<npc id="20053" count="2" respawnDelay="27" /> <!-- Ol Mahum Patrol -->
+		<AIData>
+			<fleeX>-47488</fleeX>
+			<fleeY>147456</fleeY>
+			<fleeZ>-2992</fleeZ>
+		</AIData>
+		<npc id="20437" count="2" respawnDelay="27" /> <!-- Ol Mahum Recruit -->
+		<npc id="20058" count="2" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+	</spawn>
+	<!-- gludio09_1822_05 -->
+	<spawn zone="gludio09_1822_05m1">
+		<AIData>
+			<fleeX>-49168</fleeX>
+			<fleeY>142784</fleeY>
+			<fleeZ>-2448</fleeZ>
+		</AIData>
+		<npc id="20437" count="2" respawnDelay="27" /> <!-- Ol Mahum Recruit -->
+		<npc id="20058" count="1" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+	</spawn>
+	<!-- gludio09_1822_06 -->
+	<spawn zone="gludio09_1822_06m1">
+		<AIData>
+			<fleeX>-49168</fleeX>
+			<fleeY>142784</fleeY>
+			<fleeZ>-2448</fleeZ>
+		</AIData>
+		<npc id="20437" count="1" respawnDelay="27" /> <!-- Ol Mahum Recruit -->
+		<npc id="20058" count="1" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+	</spawn>
+	<!-- gludio09_1822_07 -->
+	<spawn zone="gludio09_1822_07m1">
+		<AIData>
+			<fleeX>-49168</fleeX>
+			<fleeY>142784</fleeY>
+			<fleeZ>-2448</fleeZ>
+		</AIData>
+		<npc id="20437" count="1" respawnDelay="27" /> <!-- Ol Mahum Recruit -->
+		<npc id="20058" count="1" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+	</spawn>
+	<!-- gludio09_1822_08 -->
+	<spawn zone="gludio09_1822_08m1">
+		<AIData>
+			<fleeX>-49168</fleeX>
+			<fleeY>142784</fleeY>
+			<fleeZ>-2448</fleeZ>
+		</AIData>
+		<npc id="20437" count="1" respawnDelay="27" /> <!-- Ol Mahum Recruit -->
+		<npc id="20058" count="1" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+	</spawn>
+	<!-- gludio09_1822_09 -->
+	<spawn zone="gludio09_1822_09m1">
+		<AIData>
+			<fleeX>-54384</fleeX>
+			<fleeY>146528</fleeY>
+			<fleeZ>-2876</fleeZ>
+		</AIData>
+		<npc id="20437" count="1" respawnDelay="27" /> <!-- Ol Mahum Recruit -->
+		<npc id="20058" count="1" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+	</spawn>
+	<!-- gludio09_1822_11 -->
+	<spawn zone="gludio09_1822_11m1">
+		<AIData>
+			<fleeX>-51936</fleeX>
+			<fleeY>143680</fleeY>
+			<fleeZ>-2880</fleeZ>
+		</AIData>
+		<npc id="20058" count="2" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+		<npc id="20061" count="2" respawnDelay="27" /> <!-- Ol Mahum Straggler -->
+		<npc id="20439" count="2" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_12 -->
+	<spawn zone="gludio09_1822_12m1">
+		<AIData>
+			<fleeX>-51936</fleeX>
+			<fleeY>143680</fleeY>
+			<fleeZ>-2880</fleeZ>
+		</AIData>
+		<npc id="20058" count="2" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+		<npc id="20436" count="3" respawnDelay="27" /> <!-- Ol Mahum Supplier -->
+		<npc id="20439" count="2" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_13 -->
+	<spawn zone="gludio09_1822_13m1">
+		<AIData>
+			<fleeX>-50672</fleeX>
+			<fleeY>140416</fleeY>
+			<fleeZ>-2848</fleeZ>
+		</AIData>
+		<npc id="20058" count="2" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+		<npc id="20436" count="3" respawnDelay="27" /> <!-- Ol Mahum Supplier -->
+		<npc id="20439" count="2" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_14 -->
+	<spawn zone="gludio09_1822_14m1">
+		<AIData>
+			<fleeX>-52768</fleeX>
+			<fleeY>137968</fleeY>
+			<fleeZ>-2912</fleeZ>
+		</AIData>
+		<npc id="20058" count="1" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+		<npc id="20436" count="2" respawnDelay="27" /> <!-- Ol Mahum Supplier -->
+		<npc id="20439" count="1" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_15 -->
+	<spawn zone="gludio09_1822_15m1">
+		<npc id="20063" count="1" respawnDelay="27" /> <!-- Ol Mahum Shooter -->
+		<AIData>
+			<fleeX>-52768</fleeX>
+			<fleeY>137968</fleeY>
+			<fleeZ>-2912</fleeZ>
+		</AIData>
+		<npc id="20058" count="1" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+		<npc id="20436" count="2" respawnDelay="27" /> <!-- Ol Mahum Supplier -->
+		<npc id="20439" count="2" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_16 -->
+	<spawn zone="gludio09_1822_16m1">
+		<npc id="20063" count="1" respawnDelay="27" /> <!-- Ol Mahum Shooter -->
+		<AIData>
+			<fleeX>-53664</fleeX>
+			<fleeY>141024</fleeY>
+			<fleeZ>-2848</fleeZ>
+		</AIData>
+		<npc id="20058" count="2" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+		<npc id="20061" count="2" respawnDelay="27" /> <!-- Ol Mahum Straggler -->
+		<npc id="20439" count="2" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_17 -->
+	<spawn zone="gludio09_1822_17m1">
+		<npc id="20058" count="1" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+		<npc id="20061" count="2" respawnDelay="27" /> <!-- Ol Mahum Straggler -->
+	</spawn>
+	<!-- gludio09_1822_18 -->
+	<spawn zone="gludio09_1822_18m1">
+		<npc id="20058" count="1" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+		<npc id="20436" count="2" respawnDelay="27" /> <!-- Ol Mahum Supplier -->
+		<npc id="20439" count="1" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_19 -->
+	<spawn zone="gludio09_1822_19m1">
+		<AIData>
+			<fleeX>-59296</fleeX>
+			<fleeY>139440</fleeY>
+			<fleeZ>-2464</fleeZ>
+		</AIData>
+		<npc id="20061" count="1" respawnDelay="27" /> <!-- Ol Mahum Straggler -->
+		<npc id="20439" count="1" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_20 -->
+	<spawn zone="gludio09_1822_20m1">
+		<AIData>
+			<fleeX>-59008</fleeX>
+			<fleeY>135808</fleeY>
+			<fleeZ>-2448</fleeZ>
+		</AIData>
+		<npc id="20436" count="1" respawnDelay="27" /> <!-- Ol Mahum Supplier -->
+		<npc id="20061" count="1" respawnDelay="27" /> <!-- Ol Mahum Straggler -->
+		<npc id="20439" count="2" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_21 -->
+	<spawn zone="gludio09_1822_21m1">
+		<npc id="20066" count="1" respawnDelay="27" /> <!-- Ol Mahum Captain -->
+		<AIData>
+			<fleeX>-59008</fleeX>
+			<fleeY>135808</fleeY>
+			<fleeZ>-2448</fleeZ>
+		</AIData>
+		<npc id="20439" count="2" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_22 -->
+	<spawn zone="gludio09_1822_22m1">
+		<npc id="20066" count="1" respawnDelay="27" /> <!-- Ol Mahum Captain -->
+		<AIData>
+			<fleeX>-59008</fleeX>
+			<fleeY>135808</fleeY>
+			<fleeZ>-2448</fleeZ>
+		</AIData>
+		<npc id="20439" count="1" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_23 -->
+	<spawn zone="gludio09_1822_23m1">
+		<npc id="20063" count="1" respawnDelay="27" /> <!-- Ol Mahum Shooter -->
+		<npc id="20066" count="1" respawnDelay="27" /> <!-- Ol Mahum Captain -->
+		<AIData>
+			<fleeX>-54880</fleeX>
+			<fleeY>136352</fleeY>
+			<fleeZ>-2752</fleeZ>
+		</AIData>
+		<npc id="20439" count="1" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+		<npc id="20438" count="1" respawnDelay="27" /> <!-- Ol Mahum General -->
+	</spawn>
+	<!-- gludio09_1822_24 -->
+	<spawn zone="gludio09_1822_24m1">
+		<AIData>
+			<fleeX>-54880</fleeX>
+			<fleeY>136352</fleeY>
+			<fleeZ>-2752</fleeZ>
+		</AIData>
+		<npc id="20439" count="2" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+		<npc id="20438" count="1" respawnDelay="27" /> <!-- Ol Mahum General -->
+	</spawn>
+	<!-- gludio09_1822_25 -->
+	<spawn zone="gludio09_1822_25m1">
+		<npc id="20063" count="1" respawnDelay="27" /> <!-- Ol Mahum Shooter -->
+		<AIData>
+			<fleeX>-58032</fleeX>
+			<fleeY>138000</fleeY>
+			<fleeZ>-2784</fleeZ>
+		</AIData>
+		<npc id="20439" count="2" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+		<npc id="20438" count="2" respawnDelay="27" /> <!-- Ol Mahum General -->
+	</spawn>
+	<!-- gludio09_1822_26 -->
+	<spawn zone="gludio09_1822_26m1">
+		<npc id="20063" count="1" respawnDelay="27" /> <!-- Ol Mahum Shooter -->
+		<AIData>
+			<fleeX>-56672</fleeX>
+			<fleeY>140416</fleeY>
+			<fleeZ>-2624</fleeZ>
+		</AIData>
+		<npc id="20439" count="1" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+		<npc id="20438" count="1" respawnDelay="27" /> <!-- Ol Mahum General -->
+	</spawn>
+	<!-- gludio09_1822_27 -->
+	<spawn zone="gludio09_1822_27m1">
+		<npc id="20066" count="1" respawnDelay="27" /> <!-- Ol Mahum Captain -->
+		<AIData>
+			<fleeX>-55984</fleeX>
+			<fleeY>138896</fleeY>
+			<fleeZ>-2496</fleeZ>
+		</AIData>
+		<npc id="20438" count="1" respawnDelay="27" /> <!-- Ol Mahum General -->
+	</spawn>
+	<!-- gludio09_1822_28 -->
+	<spawn zone="gludio09_1822_28m1">
+		<AIData>
+			<fleeX>-55488</fleeX>
+			<fleeY>140960</fleeY>
+			<fleeZ>-2509</fleeZ>
+		</AIData>
+		<npc id="20439" count="1" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+		<npc id="20438" count="1" respawnDelay="27" /> <!-- Ol Mahum General -->
+	</spawn>
+	<!-- gludio09_1822_29 -->
+	<spawn zone="gludio09_1822_29m1">
+		<AIData>
+			<fleeX>-55488</fleeX>
+			<fleeY>140960</fleeY>
+			<fleeZ>-2509</fleeZ>
+		</AIData>
+		<npc id="20439" count="1" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+		<npc id="20438" count="1" respawnDelay="27" /> <!-- Ol Mahum General -->
+	</spawn>
+	<!-- gludio09_1822_30 -->
+	<spawn zone="gludio09_1822_30m1">
+		<AIData>
+			<fleeX>-53664</fleeX>
+			<fleeY>141024</fleeY>
+			<fleeZ>-2848</fleeZ>
+		</AIData>
+		<npc id="20439" count="2" respawnDelay="27" /> <!-- Ol Mahum Officer -->
+	</spawn>
+	<!-- gludio09_1822_31 -->
+	<spawn zone="gludio09_1822_31m1">
+		<npc id="20058" count="2" respawnDelay="27" /> <!-- Ol Mahum Guard -->
+	</spawn>
+	<!-- gludio09_1822_33s -->
+	<spawn zone="gludio09_1822_33sm1">
+		<npc id="20066" count="1" respawnDelay="27" /> <!-- Ol Mahum Captain -->
+		<npc id="20076" count="1" respawnDelay="27" /> <!-- Ol Mahum Commander -->
+	</spawn>
+	<!-- gludio09_1822_34s -->
+	<spawn zone="gludio09_1822_34sm1">
+		<npc id="20066" count="1" respawnDelay="27" /> <!-- Ol Mahum Captain -->
+		<npc id="20076" count="1" respawnDelay="27" /> <!-- Ol Mahum Commander -->
+	</spawn>
+	<!-- gludio09_1822_35s -->
+	<spawn zone="gludio09_1822_35sm1">
+		<npc id="20066" count="1" respawnDelay="27" /> <!-- Ol Mahum Captain -->
+		<npc id="20076" count="1" respawnDelay="27" /> <!-- Ol Mahum Commander -->
+	</spawn>
+	<!-- gludio09_1822_36s -->
+	<spawn zone="gludio09_1822_36sm1">
+		<npc id="20066" count="1" respawnDelay="27" /> <!-- Ol Mahum Captain -->
+		<npc id="20076" count="1" respawnDelay="27" /> <!-- Ol Mahum Commander -->
+	</spawn>
+	<!-- gludio09_1822_37s -->
+	<spawn zone="gludio09_1822_37sm1">
+		<npc id="20066" count="1" respawnDelay="27" /> <!-- Ol Mahum Captain -->
+		<npc id="20076" count="1" respawnDelay="27" /> <!-- Ol Mahum Commander -->
+	</spawn>
+	<!-- gludio09_1822_38s -->
+	<spawn zone="gludio09_1822_38sm1">
+		<npc id="20066" count="1" respawnDelay="27" /> <!-- Ol Mahum Captain -->
+		<npc id="20076" count="1" respawnDelay="27" /> <!-- Ol Mahum Commander -->
+	</spawn>
+	<!-- gludio01_qm1822_01 -->
+	<spawn zone="gludio01_qm1822_01m1">
+		<npc id="27038" count="10" respawnDelay="180" /> <!-- Cat's Eye Bandit -->
+	</spawn>
+	<!-- gludio01_qm1822_02 -->
+	<spawn zone="gludio01_qm1822_02m1">
+		<npc id="20782" count="10" respawnDelay="45" /> <!-- Ol Mahum Novice -->
+	</spawn>
+	<!-- gludio09_tb1822_13 -->
+	<spawn zone="gludio09_tb13_m1">
+		<npc id="18265" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- gludio09_tb1822_25 -->
+	<spawn zone="gludio09_tb25_m1">
+		<npc id="18266" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

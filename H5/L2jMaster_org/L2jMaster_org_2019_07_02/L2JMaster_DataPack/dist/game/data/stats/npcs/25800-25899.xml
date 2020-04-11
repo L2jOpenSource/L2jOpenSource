@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="25800" level="25" type="L2RaidBoss" name="Mammon Collector Talos" title="Lord of Destruction">
+		<!-- Confirmed H5 -->
+		<parameters>
+			<minions name="Privates">
+				<npc id="25801" count="3" respawnTime="360" weightPoint="1" /> <!-- Talos' Cohort -->
+			</minions>
+			<param name="RaidSpawnMusic" value="Rm01_A" />
+			<skill name="RangeHold_a" id="4197" level="2" /> <!-- Hold -->
+		</parameters>
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire expRate="4065.61996889739" sp="95136" raidPoints="320" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="43316.3085364372" hpRegen="18.4385313667577" mp="259.2" mpRegen="1.5" />
+			<attack physical="74.2223188804512" magical="4.67967242276365" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="305.50599" magical="149.04" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="-13" dark="53" />
+			</attribute>
+			<speed>
+				<walk ground="41" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<skillList>
+			<skill id="4045" level="1" /> <!-- Resist Full Magic Attack -->
+			<skill id="4197" level="2" /> <!-- Hold -->
+			<skill id="4273" level="3" /> <!-- Resist Daggers/Rapier Weapon -->
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Weak Point -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="1" /> <!-- Bare Hands -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="4444" level="2" /> <!-- Higher Resist Bow/Crossbow Weapons -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="4983" level="1" /> <!-- Raid Boss - Level 25 -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" clanHelpRange="300" />
+		<dropLists>
+			<death>
+				<group chance="73.1441">
+					<item id="393" min="1" max="1" chance="17.1639" /> <!-- Mithril Banded Mail -->
+					<item id="394" min="1" max="1" chance="17.1639" /> <!-- Reinforced Leather Shirt -->
+					<item id="415" min="1" max="1" chance="27.4341" /> <!-- Mithril Banded Gaiters -->
+					<item id="416" min="1" max="1" chance="27.4341" /> <!-- Reinforced Leather Gaiters -->
+					<item id="223" min="1" max="1" chance="17.1639" /> <!-- Kukuri -->
+					<item id="238" min="1" max="1" chance="2.701" /> <!-- Dagger of Mana -->
+					<item id="239" min="1" max="1" chance="2.701" /> <!-- Mystic Knife -->
+					<item id="241" min="1" max="1" chance="2.701" /> <!-- Shilen Knife -->
+				</group>
+				<group chance="68.9993">
+					<item id="1938" min="60" max="180" chance="23.8522" /> <!-- Mithril Banded Mail Material -->
+					<item id="1939" min="28" max="84" chance="66.7799" /> <!-- Mithril Banded Gaiters Material -->
+					<item id="2028" min="27" max="81" chance="9.3679" /> <!-- Shilen Knife Edge -->
+				</group>
+				<group chance="1.2886">
+					<item id="22229" min="1" max="1" chance="100" /> <!-- Scroll: Enchant Weapon of Destruction (D-Grade) - Event -->
+				</group>
+			</death>
+		</dropLists>
+		<collision>
+			<radius normal="13" />
+			<height normal="37.5" />
+		</collision>
+	</npc>
+	<npc id="25801" level="22" type="L2Monster" name="Talos' Cohort" title="Follower of Destruction">
+		<!-- Confirmed H5 -->
+		<parameters>
+			<skill name="PhysicalSpecial_a" id="4743" level="2" /> <!-- BOSS Strike -->
+		</parameters>
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="6247.18478795455" hpRegen="17.1576881427546" mp="218.52" mpRegen="1.5" />
+			<attack physical="231.186222377034" magical="58.1778709153521" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="138.98541" magical="135.6" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="-13" dark="53" />
+			</attribute>
+			<speed>
+				<walk ground="80" />
+				<run ground="190" />
+			</speed>
+			<hitTime>350</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4045" level="1" /> <!-- Resist Full Magic Attack -->
+			<skill id="4273" level="3" /> <!-- Resist Daggers/Rapier Weapon -->
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Weak Point -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="3" /> <!-- Light Armor Type -->
+			<skill id="4415" level="1" /> <!-- Bare Hands -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="4444" level="2" /> <!-- Higher Resist Bow/Crossbow Weapons -->
+			<skill id="4743" level="2" /> <!-- BOSS Strike -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" />
+		<collision>
+			<radius normal="14" />
+			<height normal="36" />
+		</collision>
+	</npc>
+</list>

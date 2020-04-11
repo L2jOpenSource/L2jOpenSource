@@ -1,0 +1,3 @@
+Character Info: [Character: [ADM]Odin[268483909] - Account: tiko1212 - IP: xxx.xx.xxx.xxx]
+Bug Type: General
+Message:  el npc de reporte funciona correctamente!

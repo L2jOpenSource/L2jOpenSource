@@ -1,0 +1,779 @@
+Oct 21, 2016 3:23:27 PM ru.akumu.smartguard.core.manager.LicenseManager <init>
+INFO: Smart guard info. ID: 400, TOKEN: 28E23EC6E8B0B6C5E497E714E77D66AF
+[15:23:27]  INFO =================================================
+[15:23:27]  INFO Copyright: ............... L2Mythras.EU
+[15:23:27]  INFO Update: .................. 993 contact adygrierosu on skype
+[15:23:27]  INFO Chronicle: ............... High Five Part 5
+[15:23:27]  INFO =================================================
+[15:23:27]  INFO Loaded 6 trade words.
+[15:23:27]  INFO Abuse: Loaded 153 abuse words.
+Server is Loading on IP auth.l2sear.com
+[15:23:27]  INFO =======[Loading Protection Configuration]========
+[15:23:27]  INFO IdFactory: Clear characters online status.
+[15:23:33]  INFO IdFactory: Cleaned 18 elements from database in 5sec.
+[15:23:33]  INFO IdFactory: Extracted 27733 used id's from characters
+[15:23:33]  INFO IdFactory: Extracted 1582669 used id's from items
+[15:23:33]  INFO IdFactory: Extracted 583 used id's from clan_data
+[15:23:33]  INFO IdFactory: Extracted 141 used id's from ally_data
+[15:23:33]  INFO IdFactory: Extracted 429 used id's from pets
+[15:23:33]  INFO IdFactory: Extracted 20 used id's from couples
+[15:23:33]  INFO IdFactory: Extracted total 1611575 used id's.
+[15:23:33]  INFO IdFactory: 26345472 id's available.
+[15:23:33]  INFO ===============[Loading Scripts]==================
+[15:23:33]  INFO Scripts: Loading...
+[15:23:33]  INFO Loading Server Scripts
+[15:23:34]  INFO Scripts: Loaded 1269 classes.
+[15:23:34]  INFO GeoEngine: Loading Geodata...
+[15:23:34]  INFO GeoEngine: Loading: geodata/17_18.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/19_11.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/22_23.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/23_25.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/14_26.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/22_12.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/18_25.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/16_15.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/22_26.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/24_14.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/17_25.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/24_11.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/15_11.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/24_25.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/16_13.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/12_26.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/15_19.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/20_11.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/15_23.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/21_17.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/18_24.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/22_18.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/23_12.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/20_19.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/13_25.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/19_26.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/18_26.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/17_14.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/19_17.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/23_15.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/22_22.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/13_24.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/16_24.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/18_18.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/23_21.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/24_26.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/25_16.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/14_25.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/24_23.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/22_21.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/13_22.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/20_18.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/24_13.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/19_10.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/17_26.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/15_25.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/19_20.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/25_19.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/17_17.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/16_20.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/20_10.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/25_18.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/19_19.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/18_11.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/15_20.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/24_10.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/21_10.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/18_12.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/16_23.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/18_20.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/20_24.l2j
+[15:23:34]  INFO GeoEngine: Loading: geodata/24_15.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_23.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/25_21.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_18.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/19_12.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_13.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/18_16.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_20.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_16.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/18_17.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/19_24.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_23.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/22_16.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_21.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/15_10.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/24_20.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_11.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_19.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/24_12.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_26.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/11_26.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/13_23.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/24_18.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_19.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/15_24.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_25.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/24_22.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/18_21.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/15_21.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/14_23.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/22_17.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/22_10.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/25_11.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_11.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_24.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_16.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/19_18.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/26_14.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/15_18.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_13.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/22_25.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_22.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/14_21.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/26_16.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/24_19.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_20.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_21.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_11.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_22.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_17.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/22_20.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/18_19.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_21.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/25_14.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_21.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/22_14.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_19.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/26_12.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_10.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_19.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_15.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/18_23.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/24_21.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/19_16.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/18_14.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/14_24.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_26.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_13.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_16.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/22_15.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_18.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/19_25.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/26_15.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_22.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/25_20.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/18_22.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/15_26.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/25_23.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/19_22.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_25.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/19_23.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/22_13.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_22.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_23.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/18_13.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/25_22.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_13.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/19_15.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_24.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_12.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_10.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/25_15.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/24_16.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/25_12.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/25_10.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_12.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_17.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_18.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/11_24.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/22_19.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_16.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/13_26.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/18_10.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/12_24.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_11.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_15.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/15_22.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/19_14.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_14.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_22.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/26_11.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_23.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/15_12.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/11_23.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_14.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/12_23.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/22_24.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_16.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/11_25.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/19_21.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_12.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/25_17.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_25.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/24_24.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_20.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_26.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_12.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_17.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/25_24.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/12_25.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_14.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/19_13.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/13_21.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/16_10.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/21_15.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/24_17.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/17_24.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/18_15.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/23_20.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/14_22.l2j
+[15:23:35]  INFO GeoEngine: Loading: geodata/20_14.l2j
+[15:23:36]  INFO GeoEngine: Loading: geodata/22_11.l2j
+[15:23:36]  INFO GeoEngine: Loaded 203 map(s), max layers: 21
+[15:23:36]  INFO GeoEngine: - Compacted 0 of 17825792 blocks...
+[15:23:36]  INFO Loaded: Vote System - Individual Reward.
+[15:23:36]  INFO FakePlayersTable: Loaded 32002 Fake Players.
+[15:23:36]  INFO Loaded 418 translit entries.
+[15:23:36]  INFO GameTimeController: initialized. Current time is 2:21 in the night.
+[15:23:36]  INFO ------------------------------------------------------------=[ Lineage World ]
+[15:23:36]  INFO L2World: Creating regions: [256][272][32].
+[15:23:36]  INFO ==============================================================================
+[15:23:36]  INFO HtmCache: disabled.
+[15:23:36]  INFO StringHolder: load strings: 560 for lang: RUSSIAN
+[15:23:36]  INFO StringHolder: load strings: 670 for lang: ENGLISH
+[15:23:38]  INFO SkillsEngine: Loaded 66067 skill templates from XML files. Max id: 91000, max level: 259
+[15:23:39]  INFO OptionDataHolder: loaded 24975 option data(s) count.
+[15:23:39]  INFO ItemHolder: loaded 19246 item(s) count.
+[15:23:41]  INFO NpcHolder: loaded 10559 npc(s) count.
+[15:23:41]  INFO MapRegionManager: loaded 272 map region manager(s) count.
+[15:23:41]  INFO MapRegionManager: loaded 272 map region manager(s) count.
+[15:23:41]  INFO ExchangeItemHolder: loaded 602 exchange item(s) count.
+[15:23:41]  INFO StaticObjectHolder: loaded 50 static object(s) count.
+[15:23:41]  INFO DoorHolder: loaded 1155 door(s) count.
+[15:23:41]  INFO ZoneHolder: loaded 1236 zone(s) count.
+[15:23:41]  INFO SpawnHolder: loaded 30162 spawn(s) count.
+[15:23:41]  INFO InstantZoneHolder: loaded 93 instant zone(s) count.
+[15:23:42]  INFO AirshipDockHolder: loaded 4 airship dock(s) count.
+[15:23:42]  INFO SkillAcquireHolder: load 57215 normal learns for 103 classes.
+[15:23:42]  INFO SkillAcquireHolder: load 79 transfer learns for 3 classes.
+[15:23:42]  INFO SkillAcquireHolder: load 120 transformation learns for 6 races.
+[15:23:42]  INFO SkillAcquireHolder: load 662 fishing learns for 6 races.
+[15:23:42]  INFO SkillAcquireHolder: load 72 certification learns.
+[15:23:42]  INFO SkillAcquireHolder: load 3 collection learns.
+[15:23:42]  INFO SkillAcquireHolder: load 44 pledge learns.
+[15:23:42]  INFO SkillAcquireHolder: load 18 sub unit learns.
+[15:23:42]  INFO CharTemplateHolder: loaded 206 char template(s) count.
+[15:23:42]  INFO ResidenceHolder: total size: 83
+[15:23:42]  INFO ResidenceHolder:  - load 9 dominion(s).
+[15:23:42]  INFO ResidenceHolder:  - load 44 clanhall(s).
+[15:23:42]  INFO ResidenceHolder:  - load 21 fortress(s).
+[15:23:42]  INFO ResidenceHolder:  - load 9 castle(s).
+[15:23:42]  INFO RaidBossSpawnManager: Loaded 194 Statuses
+[15:23:42]  INFO SevenSigns: Currently in the Seal Validation period!
+[15:23:42]  INFO SevenSigns: The Lords of Dawn have won the Seal of Avarice.
+[15:23:42]  INFO SevenSigns: The Lords of Dawn have won the Seal of Gnosis.
+[15:23:42]  INFO SevenSigns: The Seal of Strife remains unclaimed.
+[15:23:42]  INFO SevenSigns: The Lords of Dawn were victorious last week.
+[15:23:42]  INFO SevenSigns: Next period begins in 3 days, 2 hours and 36 mins.
+Oct 21, 2016 3:23:42 PM l2f.gameserver.data.xml.parser.NpcStatsBalancerParser load
+INFO: NpcStatsBalancerParser: Loaded 1 monsterXmlStats.
+[15:23:42]  INFO EventHolder: loaded 101 event(s) count.
+[15:23:42]  INFO FightClubMapHolder: loaded 27 fight club map(s) count.
+[15:23:42]  INFO CubicHolder: loaded 145 cubic(s) count.
+[15:23:42]  INFO TradeController: Loaded 4 file(s).
+[15:23:42]  INFO TradeController: Loaded 25022 Items.
+[15:23:42]  INFO TradeController: Loaded 727 Buylists.
+[15:23:42]  INFO RecipeController: Loaded 998 Recipes.
+[15:23:43]  INFO ProductItemTable: Loaded 0 product item on sale.
+[15:23:43]  INFO HennaHolder: loaded 180 henna(s) count.
+[15:23:43]  INFO EnchantItemHolder: load 4 enchant scroll(s).
+[15:23:43]  INFO SoulCrystalHolder: loaded 54 soul crystal(s) count.
+[15:23:43]  INFO ArmorSetsHolder: loaded 199 armor sets(s) count.
+[15:23:43]  INFO PetitionGroupHolder: loaded 3 petition group(s) count.
+[15:23:43]  INFO DressArmorHolder: loaded 16 dress armor(s) count.
+[15:23:43]  INFO DressCloakHolder: loaded 15 dress cloak(s) count.
+[15:23:43]  INFO DressShieldHolder: loaded 12 dress shield(s) count.
+[15:23:43]  INFO DressWeaponHolder: loaded 402 dress weapon(s) count.
+[15:23:43]  INFO AugmentationDataHolder: loaded 1022 augmentation data(s) count.
+[15:23:43]  INFO PremiumHolder: loaded 7 premium(s) count.
+[15:23:43]  INFO FoundationHolder: loaded 279 foundation(s) count.
+[15:23:43]  INFO DonationHolder: loaded 211 donation(s) count.
+[15:23:43]  INFO -------------------------------------------------------------=[ Banned HWIDS ]
+[15:23:43]  INFO black list (Hwid) loaded size: 0
+[15:23:43]  INFO --------------------------------------------------------------=[ Clan Crests ]
+[15:23:43]  INFO CrestCache: Loaded 402 crests
+[15:23:43]  INFO ===============[Loading Images]==================
+[15:23:45]  INFO Loaded 185 Images!
+[15:23:45]  INFO ==============================================================================
+[15:23:47]  INFO ---------------------------------------------------------------=[ Fish Table ]
+[15:23:47]  INFO FishTable: Loaded 270 fishes.
+[15:23:47]  INFO FishTable: Loaded 919 fish rewards.
+[15:23:47]  INFO -------------------------------------------------------------------=[ Skills ]
+[15:23:47]  INFO SkillTreeTable: Loaded 526 enchanted skills.
+[15:23:47]  INFO --------------------------------------------------------=[ Augmentation Data ]
+[15:23:47]  INFO Initializing AugmentationData.
+[15:23:47]  INFO AugmentationData: 10 bad skill(s) were skipped.
+[15:23:47]  INFO AugmentationData: Loaded: 52 augmentation stats.
+[15:23:47]  INFO AugmentationData: Loaded: 24 accessory augmentation stats.
+[15:23:47]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 0
+[15:23:47]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 1
+[15:23:47]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 2
+[15:23:47]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 3
+[15:23:47]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 4
+[15:23:47]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 5
+[15:23:47]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 6
+[15:23:47]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 7
+[15:23:47]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 8
+[15:23:47]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 9
+[15:23:47]  INFO EnchantHPBonusTable: Loaded bonuses for 6 grades.
+[15:23:47]  INFO -----------------------------------------------------------=[ Level Up Table ]
+[15:23:47]  INFO LevelUpData: Loaded 103 Character Level Up Templates.
+[15:23:47]  INFO PetSkillsTable: Loaded 2558 skills.
+[15:23:47]  INFO ---------------------------------------------------------------=[ Auctioneer ]
+[15:23:47]  INFO Initializing ItemAuctionManager
+[15:23:47]  INFO ItemAuction: Loaded 37 item(s) and registered 8 auction(s) for instance 32320.
+[15:23:47]  INFO ItemAuction: Schedule next auction 23 on 2016.10.25 17:00:00 for instance 32320
+[15:23:47]  INFO ItemAuction: Loaded 37 item(s) and registered 8 auction(s) for instance 32321.
+[15:23:47]  INFO ItemAuction: Schedule next auction 24 on 2016.10.27 17:00:00 for instance 32321
+[15:23:47]  INFO ItemAuction: Loaded 37 item(s) and registered 8 auction(s) for instance 32322.
+[15:23:47]  INFO ItemAuction: Schedule next auction 22 on 2016.10.22 17:00:00 for instance 32322
+[15:23:47]  INFO ItemAuctionManager: Loaded 3 instance(s).
+[15:23:47]  INFO ===============[Loading RAIDBOSS]==================
+[15:23:47]  INFO AntharasManager: State of Antharas is INTERVAL.
+[15:23:47]  INFO AntharasManager: Next spawn date of Antharas is 14:02 23.10.2016.
+[15:23:47]  INFO BaiumManager: State of Baium is INTERVAL.
+[15:23:47]  INFO BaiumManager: Next spawn date: 19:04 25.10.2016
+[15:23:47]  INFO Beleth Manager: Loaded successfuly
+[15:23:47]  INFO FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[15:23:47]  INFO FourSepulchersManager: loaded 716 physical monsters spawns.
+[15:23:47]  INFO FourSepulchersManager: loaded 716 magical monsters spawns.
+[15:23:48]  INFO FourSepulchersManager: loaded 92 Church of duke monsters spawns.
+[15:23:48]  INFO FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
+[15:23:48]  INFO FourSepulchersManager: Spawned Conquerors' Sepulcher Manager
+[15:23:48]  INFO FourSepulchersManager: Spawned Emperors' Sepulcher Manager
+[15:23:48]  INFO FourSepulchersManager: Spawned Great Sages' Sepulcher Manager
+[15:23:48]  INFO FourSepulchersManager: Spawned Judges' Sepulcher Manager
+[15:23:48]  INFO FourSepulchersManager: Beginning in Attack time
+[15:23:48]  INFO SailrenManager: State of Sailren is NOTSPAWN.
+[15:23:48]  INFO SailrenManager: Next spawn date of Sailren is 00:22 18.09.2016.
+[15:23:48]  INFO ValakasManager: State of Valakas is INTERVAL.
+[15:23:48]  INFO ValakasManager: Next spawn date of Valakas is 09:40 22.10.2016.
+[15:23:48]  INFO Fri Oct 21 15:23:48 CEST 2016 Atk announce scheduled to 25.0 minute of this hour.
+[15:23:48]  INFO PetDataTable: Loaded 3870 pets.
+[15:23:48]  INFO ManorManager: Loaded 270 seeds
+[15:23:48]  INFO Dress me system: Load 45 Sword(s).
+[15:23:48]  INFO Dress me system: Load 25 Blunt(s).
+[15:23:48]  INFO Dress me system: Load 23 Dagger(s).
+[15:23:48]  INFO Dress me system: Load 22 Bow(s).
+[15:23:48]  INFO Dress me system: Load 31 Pole(s).
+[15:23:48]  INFO Dress me system: Load 1 Fist(s).
+[15:23:48]  INFO Dress me system: Load 102 Dual Sword(s).
+[15:23:48]  INFO Dress me system: Load 22 Dual Fist(s).
+[15:23:48]  INFO Dress me system: Load 27 Big Sword(s).
+[15:23:48]  INFO Dress me system: Load 4 Rod(s).
+[15:23:48]  INFO Dress me system: Load 44 Big Blunt(s).
+[15:23:48]  INFO Dress me system: Load 20 Crossbow(s).
+[15:23:48]  INFO Dress me system: Load 21 Rapier(s).
+[15:23:48]  INFO Dress me system: Load 21 Ancient Sword(s).
+[15:23:48]  INFO Dress me system: Load 9 Dual Dagger(s).
+Loading Quiz.java
+[15:23:51]  INFO Loaded Service: ScripsConfig
+[15:23:51]  INFO Loaded Service: SellPcService
+[15:23:51]  INFO CommunityBoard: Manage Career service loaded.
+[15:23:51]  INFO CommunityBoard: Auction System Service loaded.
+[15:23:51]  INFO CommunityBoard: service loaded.
+[15:23:51]  INFO CommunityBoard: Bosses loaded.
+[15:23:51]  INFO CommunityBoard: Clan Community service loaded.
+[15:23:51]  INFO CommunityBoard: Drop Calculator service loaded.
+[15:23:51]  INFO CommunityBoard: Community Events service loaded.
+[15:23:51]  INFO CommunityBoard: Npcs loaded.
+[15:23:51]  INFO CommunityBoard: Warehouse loaded.
+[15:23:51]  INFO CommunityBoard: Forge loaded.
+[15:24:02]  INFO Ranking in the commynity board has been updated.
+[15:24:02]  INFO ServicesCommunity: Services Community service loaded.
+[15:24:02]  INFO CommunityBoard: Statistic service loaded.
+[15:24:02]  INFO ===============[Spawn Manager]==================
+[15:24:02]  INFO SpawnManager: spawned 1000 npc for group: NONE
+[15:24:02]  INFO SpawnManager: spawned 2000 npc for group: NONE
+[15:24:03]  INFO SpawnManager: spawned 7000 npc for group: NONE
+[15:24:04]  INFO SpawnManager: spawned 9000 npc for group: NONE
+[15:24:04]  INFO SpawnManager: spawned 11000 npc for group: NONE
+[15:24:04]  INFO SpawnManager: spawned 13000 npc for group: NONE
+[15:24:06]  INFO SpawnManager: spawned 18000 npc for group: NONE
+[15:24:07]  INFO SpawnManager: spawned 22000 npc for group: NONE
+[15:24:08]  INFO SpawnManager: spawned 23000 npc for group: NONE
+[15:24:08]  INFO SpawnManager: spawned 24000 npc for group: NONE
+[15:24:09]  INFO SpawnManager: spawned 27000 npc for group: NONE
+[15:24:10]  INFO Naia Tower Manager: Loaded 12 rooms
+[15:24:11]  INFO SpawnManager: spawned 31000 npc for group: NONE
+[15:24:11]  INFO SpawnManager: spawned 32000 npc for group: NONE
+[15:24:13]  INFO SpawnManager: spawned 34000 npc for group: NONE
+[15:24:14]  INFO SpawnManager: spawned 36000 npc for group: NONE
+[15:24:16]  INFO SpawnManager: spawned 39234 npc; spawns: 18299; group: NONE
+[15:24:16]  INFO --------------------------------------------------------------------=[ Boats ]
+[15:24:16]  INFO BoatHolder: loaded 2 boat(s) count.
+[15:24:16]  INFO BoatHolder: Spawning: RunePrimeval_Vehicle
+[15:24:16]  INFO BoatHolder: Spawning: AdenGracia_Airship
+[15:24:16]  INFO StaticObjectHolder: spawned: 50 static object(s).
+[15:24:16]  INFO ---------------------------------------------------------=[ Dimensional Rift ]
+[15:24:16]  INFO DimensionalRiftManager: Loaded 13 room types with 112 rooms.
+[15:24:16]  INFO DimensionalRiftManager: Loaded 300 DimensionalRift spawns, 0 errors.
+[15:24:16]  INFO --------------------------------------------------------------=[ Seven Signs ]
+[15:24:16]  INFO AutoSpawnHandler: Loaded 50 handlers in total.
+[15:24:16]  INFO ===================[Loading Olympiad System]=======================
+[15:24:16]  INFO Olympiad System: Loading Olympiad System....
+[15:24:16]  INFO Olympiad System: Currently in Olympiad Period
+[15:24:16]  INFO Olympiad System: Period Ends....
+[15:24:16]  INFO Olympiad System: In 10 days, 9 hours and 35 mins.
+[15:24:16]  INFO Olympiad System: Next Weekly Change is in....
+[15:24:16]  INFO Olympiad System: In 0 days, 20 hours and 35 mins.
+[15:24:16]  INFO Olympiad System: Loaded 1515 Noblesses
+[15:24:16]  INFO Olympiad System: Competition Period Starts in 0 days, 2 hours and 36 mins.
+[15:24:16]  INFO Olympiad System: Event starts/started: Fri Oct 21 18:00:16 CEST 2016
+[15:24:16]  INFO Hero System: Loaded 27 Heroes.
+[15:24:16]  INFO Hero System: Loaded 59 all time Heroes.
+[15:24:16]  INFO ===================[Olympiad System Loaded]=======================
+[15:24:16]  INFO Initializing PetitionManager
+[15:24:16]  INFO CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[15:24:16]  INFO ======================[Loading BALANCER]==========================
+Oct 21, 2016 3:24:16 PM l2f.gameserver.data.xml.parser.ClassesStatsBalancerParser parseDocument
+INFO: ClassesStatsBalancerParser: Loaded: 355 balances for 103 classes.
+[15:24:16]  INFO ======================[Loading BALANCER]==========================
+[15:24:16]  INFO -----------------------------------------------------------=[ Admin Commands ]
+[15:24:16]  INFO AdminCommandHandler: loaded 422 admin command handler(s) count.
+[15:24:16]  INFO ---------------------------------------------------------=[ Players Commands ]
+[15:24:16]  INFO UserCommandHandler: loaded 16 user command handler(s) count.
+[15:24:16]  INFO VoicedCommandHandler: loaded 96 voiced command handler(s) count.
+[15:24:16]  INFO ======================[Loading Castels & Clan Halls]==========================
+[15:24:16]  INFO CastleSiegeEvent: Gludio Castle time - 16:00 23.10.2016
+[15:24:16]  INFO CastleSiegeEvent: Dion Castle time - 16:00 23.10.2016
+[15:24:16]  INFO CastleSiegeEvent: Giran Castle time - 20:00 23.10.2016
+[15:24:16]  INFO CastleSiegeEvent: Oren Castle time - 20:00 23.10.2016
+[15:24:16]  INFO CastleSiegeEvent: Aden Castle time - 16:00 23.10.2016
+[15:24:16]  INFO CastleSiegeEvent: Innadril Castle time - 20:00 23.10.2016
+[15:24:16]  INFO CastleSiegeEvent: Goddard Castle time - 20:00 23.10.2016
+[15:24:16]  INFO CastleSiegeEvent: Rune Castle time - 16:00 23.10.2016
+[15:24:16]  INFO CastleSiegeEvent: Schuttgart Castle time - 16:00 23.10.2016
+[15:24:16]  INFO ClanHallNpcSiegeEvent: Fortress Of Resistance time - 18:00 24.10.2016
+[15:24:16]  INFO ClanHallAuctionEvent: Moonstone Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Onyx Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Topaz Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Ruby Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Crystal Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Onyx Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Sapphire Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Moonstone Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Emerald Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: The Atramental Barracks time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: The Scarlet Barracks time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: The Viridian Barracks time - undefined
+[15:24:16]  INFO ClanHallSiegeEvent: Devastated Castle time - 18:00 22.10.2016
+[15:24:16]  INFO ClanHallTeamBattleEvent: Bandit Stronghold time - 22:00 22.10.2016
+[15:24:16]  INFO ClanHallAuctionEvent: The Golden Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: The Silver Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: The Mithril Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Silver Manor time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Gold Manor time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: The Bronze Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: The Golden Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: The Silver Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: The Mithril Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: The Bronze Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Silver Manor time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Moonstone Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Onyx Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Emerald Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Sapphire Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Mont Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Astaire Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Aria Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Yiana Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Roien Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Luna Chamber time - 15:00 17.10.2016
+[15:24:16]  INFO ClanHallAuctionEvent: Traban Chamber time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Eisen Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Heavy Metal Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Molten Ore Hall time - undefined
+[15:24:16]  INFO ClanHallAuctionEvent: Titan Hall time - undefined
+[15:24:16]  INFO ClanHallMiniGameEvent: Rainbow Springs time - 22:00 22.10.2016
+[15:24:16]  INFO ClanHallTeamBattleEvent: Wild Beast Reserve time - 21:00 22.10.2016
+[15:24:16]  INFO ClanHallSiegeEvent: Fortress of Dead time - 18:00 22.10.2016
+[15:24:16]  INFO DominionSiegeEvent: Gludio Dominion time - 20:00 22.10.2016
+[15:24:16]  INFO DominionSiegeEvent: Dion Dominion time - 20:00 22.10.2016
+[15:24:16]  INFO DominionSiegeEvent: Giran Dominion time - 20:00 22.10.2016
+[15:24:16]  INFO DominionSiegeEvent: Oren Dominion time - 20:00 22.10.2016
+[15:24:16]  INFO DominionSiegeEvent: Aden Dominion time - 20:00 22.10.2016
+[15:24:16]  INFO DominionSiegeEvent: Innadril Dominion time - 20:00 22.10.2016
+[15:24:16]  INFO DominionSiegeEvent: Goddard Dominion time - 20:00 22.10.2016
+[15:24:16]  INFO DominionSiegeEvent: Rune Dominion time - 20:00 22.10.2016
+[15:24:16]  INFO DominionSiegeEvent: Schuttgart Dominion time - 20:00 22.10.2016
+[15:24:16]  INFO FortressSiegeEvent: Shanty Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Southern Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Hive Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Valley Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Ivory Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Narsell Fortress time - 16:19 21.10.2016
+[15:24:16]  INFO FortressSiegeEvent: Bayou Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: White Sands Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Borderland Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Swamp Fortress time - 15:52 21.10.2016
+[15:24:16]  INFO FortressSiegeEvent: Archaic Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Floran Fortress time - 15:59 21.10.2016
+[15:24:16]  INFO FortressSiegeEvent: Cloud Mountain Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Tanor Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Dragonspine Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Antharas Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Western Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Hunter's Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Aaru Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Demon Fortress time - undefined
+[15:24:16]  INFO FortressSiegeEvent: Monastic Fortress time - undefined
+[15:24:16]  INFO KrateisCubeEvent: Krateis Cube 70-75 Level time - 15:30 21.10.2016
+[15:24:16]  INFO KrateisCubeEvent: Krateis Cube 76-79 Level time - 15:30 21.10.2016
+[15:24:16]  INFO KrateisCubeEvent: Krateis Cube 80-85 Level time - 15:30 21.10.2016
+[15:24:16]  INFO LastManStandingEvent: Last Hero time - 01:00 01.01.1970
+[15:24:16]  INFO TeamVSTeamEvent: Team VS Team time - 01:00 01.01.1970
+[15:24:16]  INFO LuckyCreaturesEvent: Lucky Creatures time - 01:00 01.01.1970
+[15:24:16]  INFO CaptureTheFlagEvent: Capture The Flag time - 01:00 01.01.1970
+[15:24:16]  INFO FFATreasureHuntEvent: Treasure Hunt time - 01:00 01.01.1970
+[15:24:16]  INFO KoreanStyleEvent: Korean Style time - 01:00 01.01.1970
+[15:24:16]  INFO Manor System: Initializing...
+[15:24:16]  INFO Manor System: Loaded data for Gludio castle
+[15:24:16]  INFO Manor System: Loaded data for Giran castle
+[15:24:16]  INFO Manor System: Loaded data for Oren castle
+[15:24:16]  INFO Manor System: Loaded data for Innadril castle
+[15:24:16]  INFO Manor System: Loaded data for Schuttgart castle
+[15:24:16]  INFO ==============================================================================
+[15:24:16]  INFO -------------------------------------------------------------=[ Auto Cleaner ]
+[15:24:16]  INFO IdFactory: Free ObjectID's remaining: 1877392352
+[15:24:16]  INFO ==============================================================================
+[15:24:16]  INFO Initializing CoupleManager
+[15:24:16]  INFO Loaded: 20 couples(s)
+[15:24:16]  INFO ----------------------------------------------------------------=[ Hellbound ]
+[15:24:16]  INFO HellboundManager: Loaded 335 spawn entries.
+[15:24:17]  INFO HellboundManager: Spawned 623 mobs and NPCs according to the current Hellbound stage
+[15:24:17]  INFO Hellbound Manager: Loaded
+[15:24:17]  INFO Naia Core Manager: Loaded
+[15:24:17]  INFO ==============================================================================
+[15:24:17]  INFO Seed of Destruction Manager: Loaded
+[15:24:17]  INFO Seed of Infinity Manager: Loaded. Current stage is: 1
+[15:24:17]  INFO SpawnManager: spawned 4 npc; spawns: 4; group: soi_world_mouths
+[15:24:17]  INFO SpawnManager: spawned 1 npc; spawns: 1; group: soi_world_abyssgaze2
+[15:24:17]  INFO Blood Altar Manager: Initializing...
+[15:24:17]  INFO SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[15:24:17]  INFO Preparing Drop Calculator
+[15:24:17]  INFO ----------------------------------------------------------=[ Offline Buffers ]
+[15:24:17]  INFO OfflineBuffersTable: Loading offline buffers...
+[15:24:17]  INFO Achievement System: Loaded 4 achievement categories and 36 achievements.
+[15:24:19]  INFO OfflineBuffersTable: Loaded: 83 offline buffer(s)
+[15:24:19]  INFO ==============================================================================
+[15:24:19]  INFO >>>>>>>>>> GameServer Started <<<<<<<<<
+[15:24:19]  INFO Maximum Numbers of Connected Players: 3500
+[15:24:19]  INFO ===============[Protection Database]==================
+[15:24:19]  INFO Found 7 characters to delete!
+[15:24:19]  INFO Deleted 7 ids!
+[15:24:19]  INFO ==============================================================================
+[15:24:19]  INFO AutoAnnounce: Initializing
+[15:24:19]  INFO AutoAnnounce: Load OK
+[15:24:19]  INFO AutoAnnounce: Loaded 0 announce.
+[15:24:20]  INFO SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[15:24:20]  INFO SpawnManager: spawned 653 npc; spawns: 429; group: dawn_spawn
+[15:24:20]  INFO SpawnManager: spawned 411 npc; spawns: 272; group: dawn_spawn2
+[15:24:20]  INFO Telnet server is currently disabled.
+[15:24:20]  INFO Connecting to authserver on 127.0.0.1:9014
+Oct 21, 2016 3:24:20 PM ru.akumu.smartguard.SmartGuard main
+INFO: SmartGuard has been initialized.
+[15:24:20]  INFO Registered on authserver as 4 [L2Mythras]
+[15:26:03]  INFO Restored 190 offline traders
+[15:41:16]  WARN Too many client unknown packets, connection closed : CONNECTED IP: 2.86.68.153
+[15:50:48]  INFO FourSepulchersManager: Entry time: Fri Oct 21 15:55:48 CEST 2016
+{"ok":true,"result":{"isVoted":false,"serverTime":1477058138}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477058123,"serverTime":1477058299}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477058291,"serverTime":1477058302}}
+
+[16:00:00]  INFO SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+{"ok":true,"result":{"isVoted":true,"voteTime":1477058432,"serverTime":1477058450}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477058735,"serverTime":1477058759}}
+
+[16:06:00]  INFO Equalizing FC Room, before:17 toRemove:0 after:17 to Change:0
+[16:06:00]  INFO Equalizing FC Room, Before: 17 Final:17
+{"ok":true,"result":{"isVoted":false,"serverTime":1477058924}}
+
+[16:09:03]  WARN NpcHolder: Not defined npc id : 38092, or out of range!
+java.lang.Exception
+	at l2f.gameserver.data.xml.holder.NpcHolder.getTemplate(NpcHolder.java:43)
+	at l2f.gameserver.handler.admincommands.impl.AdminSpawn.spawnMonster(AdminSpawn.java:331)
+	at l2f.gameserver.handler.admincommands.impl.AdminSpawn.useAdminCommand(AdminSpawn.java:106)
+	at l2f.gameserver.handler.admincommands.AdminCommandHandler.useAdminCommandHandler(AdminCommandHandler.java:188)
+	at l2f.gameserver.network.clientpackets.SendBypassBuildCmd.runImpl(SendBypassBuildCmd.java:32)
+	at l2f.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:49)
+	at l2f.commons.net.nio.impl.MMOExecutableQueue.run(MMOExecutableQueue.java:39)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+{"ok":true,"result":{"isVoted":true,"voteTime":1477058988,"serverTime":1477059641}}
+
+{"ok":true,"result":{"isVoted":false,"serverTime":1477059776}}
+
+[16:29:03]  INFO Ranking in the commynity board has been updated.
+{"ok":true,"result":{"isVoted":true,"voteTime":1477060058,"serverTime":1477060264}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477060594,"serverTime":1477060612}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477060732,"serverTime":1477060916}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477060976,"serverTime":1477061034}}
+
+{"ok":true,"result":{"isVoted":false,"serverTime":1477061180}}
+
+Oct 21, 2016 4:46:16 PM ru.akumu.smartguard.core.AdminMenu useAdminCommand
+INFO: Admin 'CeluloSSe' has banned HWID 5FCAA226AD33B065A1B1E2ADA34BFFF0152998CC09BCFFCE
+Oct 21, 2016 4:46:42 PM ru.akumu.smartguard.core.SmartCore checkBan
+INFO: Banned HWID '5fcaa226ad33b065a1b1e2ada34bfff0152998cc09bcffce' added account 'jerid1996' to his banlist.
+Oct 21, 2016 4:46:42 PM ru.akumu.smartguard.core.SmartCore checkBan
+INFO: Banned HWID '5fcaa226ad33b065a1b1e2ada34bfff0152998cc09bcffce' tried login to account 'jerid1996'
+Oct 21, 2016 4:48:08 PM ru.akumu.smartguard.core.SmartCore checkBan
+INFO: Banned HWID '5fcaa226ad33b065a1b1e2ada34bfff0152998cc09bcffce' tried login to account 'jerid1997'
+Oct 21, 2016 4:48:40 PM ru.akumu.smartguard.core.SmartCore checkBan
+INFO: Banned HWID '5fcaa226ad33b065a1b1e2ada34bfff0152998cc09bcffce' added account 'frank1932' to his banlist.
+Oct 21, 2016 4:48:40 PM ru.akumu.smartguard.core.SmartCore checkBan
+INFO: Banned HWID '5fcaa226ad33b065a1b1e2ada34bfff0152998cc09bcffce' tried login to account 'frank1932'
+{"ok":true,"result":{"isVoted":false,"serverTime":1477061372}}
+
+[16:50:48]  INFO FourSepulchersManager: Entry time: Fri Oct 21 16:55:48 CEST 2016
+{"ok":true,"result":{"isVoted":true,"voteTime":1477061510,"serverTime":1477061526}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477061459,"serverTime":1477061651}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477060232,"serverTime":1477061768}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477061689,"serverTime":1477061769}}
+
+{"ok":true,"result":{"isVoted":false,"serverTime":1477062302}}
+
+{"ok":true,"result":{"isVoted":false,"serverTime":1477062392}}
+
+[17:06:00]  INFO Equalizing FC Room, before:12 toRemove:0 after:12 to Change:0
+[17:06:00]  INFO Equalizing FC Room, Before: 12 Final:12
+{"ok":true,"result":{"isVoted":true,"voteTime":1477062404,"serverTime":1477062634}}
+
+{"ok":true,"result":{"isVoted":false,"serverTime":1477063394}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477063414,"serverTime":1477063477}}
+
+[17:24:17]  INFO SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[17:24:17]  INFO SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[17:24:17]  INFO SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[17:24:17]  INFO SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[17:24:17]  INFO SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[17:24:17]  INFO SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[17:24:17]  INFO SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[17:24:17]  INFO SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[17:24:17]  INFO SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[17:24:17]  INFO SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[17:24:17]  INFO SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[17:24:17]  INFO SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[17:24:17]  INFO SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
+{"ok":true,"result":{"isVoted":true,"voteTime":1477063764,"serverTime":1477063823}}
+
+[17:30:34]  INFO Ranking in the commynity board has been updated.
+{"ok":true,"result":{"isVoted":true,"voteTime":1477063749,"serverTime":1477063883}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477064720,"serverTime":1477064755}}
+
+[17:50:48]  INFO FourSepulchersManager: Entry time: Fri Oct 21 17:55:48 CEST 2016
+[17:54:17]  INFO SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[18:00:16]  INFO Olympiad System: Olympiad Game Started
+{"ok":true,"result":{"isVoted":true,"voteTime":1477065982,"serverTime":1477066002}}
+
+[18:06:00]  INFO Equalizing FC Room, before:18 toRemove:0 after:18 to Change:0
+[18:06:00]  INFO Equalizing FC Room, Before: 18 Final:18
+{"ok":true,"result":{"isVoted":true,"voteTime":1477067235,"serverTime":1477067248}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477067229,"serverTime":1477067259}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477067964,"serverTime":1477068048}}
+
+[18:46:58]  INFO Ranking in the commynity board has been updated.
+{"ok":true,"result":{"isVoted":true,"voteTime":1477068476,"serverTime":1477068519}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477068570,"serverTime":1477068578}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477059610,"serverTime":1477068627}}
+
+[18:50:48]  INFO FourSepulchersManager: Entry time: Fri Oct 21 18:55:48 CEST 2016
+{"ok":true,"result":{"isVoted":false,"serverTime":1477068790}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477067214,"serverTime":1477068937}}
+
+{"ok":true,"result":{"isVoted":false,"serverTime":1477069011}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477069106,"serverTime":1477069123}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477069093,"serverTime":1477069135}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477069158,"serverTime":1477069185}}
+
+[19:00:00]  INFO SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[19:06:00]  INFO Equalizing FC Room, before:20 toRemove:0 after:20 to Change:0
+[19:06:00]  INFO Equalizing FC Room, Before: 20 Final:20
+{"ok":true,"result":{"isVoted":true,"voteTime":1477070337,"serverTime":1477070364}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477070467,"serverTime":1477070478}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477070509,"serverTime":1477070564}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477067016,"serverTime":1477071205}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477071264,"serverTime":1477071290}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477071579,"serverTime":1477071594}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477071867,"serverTime":1477071919}}
+
+[19:50:48]  INFO FourSepulchersManager: Entry time: Fri Oct 21 19:55:48 CEST 2016
+[20:00:00]  INFO Manor System: Under maintenance mode started
+[20:00:00]  INFO SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+{"ok":true,"result":{"isVoted":true,"voteTime":1477072918,"serverTime":1477072933}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477072964,"serverTime":1477072990}}
+
+{"ok":true,"result":{"isVoted":false,"serverTime":1477073084}}
+
+[20:05:57]  INFO Ranking in the commynity board has been updated.
+[20:06:00]  INFO Manor System: Next period started
+[20:06:00]  INFO Manor System [Innadril]: Start Amount of Crop 1713 > Amount of current 1693
+[20:06:00]  INFO Manor System [Innadril]: Start Amount of Crop 1500 > Amount of current 1275
+[20:06:00]  INFO Equalizing FC Room, before:6 toRemove:0 after:6 to Change:0
+[20:06:00]  INFO Equalizing FC Room, Before: 6 Final:6
+{"ok":true,"result":{"isVoted":true,"voteTime":1477073130,"serverTime":1477073273}}
+
+{"ok":true,"result":{"isVoted":false,"serverTime":1477073277}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477073345,"serverTime":1477073394}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477073387,"serverTime":1477073404}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477073492,"serverTime":1477073533}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477073497,"serverTime":1477073552}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477073711,"serverTime":1477073732}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477073906,"serverTime":1477073988}}
+
+{"ok":true,"result":{"isVoted":false,"serverTime":1477074113}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477074075,"serverTime":1477074117}}
+
+Oct 21, 2016 8:21:14 PM ru.akumu.smartguard.core.SmartCore checkBan
+INFO: Banned HWID '5fcaa226ad33b065a1b1e2ada34bfff0152998cc09bcffce' tried login to account 'jerid1997'
+{"ok":true,"result":{"isVoted":true,"voteTime":1477073561,"serverTime":1477074216}}
+
+Oct 21, 2016 8:28:05 PM ru.akumu.smartguard.core.SmartCore checkBan
+INFO: HWID '7d203b489f1a3406d5dde783fb02ca5b82cf6c9971e0285b' tried to log-in to banned account 'jerid1997'.
+{"ok":true,"result":{"isVoted":true,"voteTime":1477075322,"serverTime":1477075372}}
+
+{"ok":true,"result":{"isVoted":true,"voteTime":1477075318,"serverTime":1477075375}}
+

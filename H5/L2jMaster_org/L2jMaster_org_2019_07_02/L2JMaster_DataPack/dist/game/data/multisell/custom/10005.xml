@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+	<!-- A-Grade Armors -->
+	
+	<!-- Draconic Leather Armor -->
+	<item>
+		<ingredient id="57" count="25000000"/>
+		<production id="6379" count="1"/>
+		<production id="6381" count="1"/>
+		<production id="6380" count="1"/>
+		<production id="6382" count="1"/>
+	</item>
+	<!-- Imperial Crusader Heavy Armor -->
+	<item>
+		<ingredient id="57" count="30000000"/>
+		<production id="6373" count="1"/>
+		<production id="6374" count="1"/>
+		<production id="6375" count="1"/>
+		<production id="6376" count="1"/>
+		<production id="6378" count="1"/>
+	</item>
+	<!-- Major Arcana Robe Armor -->
+	<item>
+		<ingredient id="57" count="30000000"/>
+		<production id="6383" count="1"/>
+		<production id="6384" count="1"/>
+		<production id="6385" count="1"/>
+		<production id="6386" count="1"/>
+	</item>
+	<!-- Imperial Crusader Shield -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="6377" count="1"/>
+	</item>
+	<!-- Arcana Sigil -->
+	<item>
+		<ingredient id="57" count="5000000"/>  
+		<production id="12811" count="1"/>
+	</item> 
+	<!-- Dynasty Breast Plate -->
+	<item>
+		<ingredient id="57" count="200000000"/>
+		<production id="9416" count="1"/>
+		<production id="9421" count="1"/>
+		<production id="9422" count="1"/>
+		<production id="9423" count="1"/>
+		<production id="9424" count="1"/>
+		
+	</item>
+	<!-- Dynasty Leather Armor -->
+	<item>
+		<ingredient id="57" count="200000000"/>
+		<production id="9425" count="1"/>
+		<production id="9428" count="1"/>
+		<production id="9429" count="1"/>
+		<production id="9430" count="1"/>
+		<production id="9431" count="1"/>
+	</item>
+	<!-- Dynasty Tunic -->
+	<item>
+		<ingredient id="57" count="200000000"/>
+		<production id="9432" count="1"/>
+		<production id="9437" count="1"/>
+		<production id="9438" count="1"/>
+		<production id="9439" count="1"/>
+		<production id="9440" count="1"/>
+	</item>
+	<!-- Dynasty Shield -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9441" count="1"/>
+	</item>
+	<!-- Dynasty Sigil -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="12812" count="1"/>
+	</item>
+</list>

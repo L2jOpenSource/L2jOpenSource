@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>37616</npc> <!-- Medal Shop -->
+	</npcs>
+
+	<!-- Atribute Stones -->
+	
+	<!-- Fire Stone -->
+	<item>
+		<ingredient id="6392" count="50"/>
+		<production id="9546" count="5"/>
+	</item>
+	<!-- Water Stone -->
+	<item>
+		<ingredient id="6392" count="50"/>
+		<production id="9547" count="5"/>
+	</item>
+	<!-- Earth Stone -->
+	<item>
+		<ingredient id="6392" count="50"/>
+		<production id="9548" count="5"/>
+	</item>
+	<!-- Wind Stone -->
+	<item>
+		<ingredient id="6392" count="50"/>
+		<production id="9549" count="5"/>
+	</item>
+	<!-- Dark Stone -->
+	<item>
+		<ingredient id="6392" count="50"/>
+		<production id="9550" count="5"/>
+	</item>
+	<!-- Divine Stone -->
+	<item>
+		<ingredient id="6392" count="50"/>
+		<production id="9551" count="5"/>
+	</item>
+</list>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnlist.xsd">
+	<!-- gludio02_npc1821_001 -->
+	<spawn zone="gludio_npc1821_00101">
+		<npc id="30411" x="-20352" y="144736" z="-3840" heading="0" respawnDelay="60" /> <!-- Flame Salamander -->
+	</spawn>
+	<!-- gludio17_npc1821_002 -->
+	<spawn zone="gludio_npc1821_00201">
+		<npc id="30413" x="-60672" y="126592" z="-2957" heading="0" respawnDelay="60" /> <!-- Water Undine -->
+	</spawn>
+	<!-- gludio03_npc1821_003 -->
+	<spawn zone="gludio_npc1821_00301">
+		<npc id="30409" x="-53760" y="110720" z="-3610" heading="0" respawnDelay="60" /> <!-- Earth Snake -->
+	</spawn>
+	<!-- gludio35_1821_01 -->
+	<spawn zone="gludio35_1821_01m1">
+		<npc id="20050" count="3" respawnDelay="20" /> <!-- Arachnid Predator -->
+		<npc id="20359" count="3" respawnDelay="20" /> <!-- Ratman Warrior -->
+	</spawn>
+	<!-- gludio35_1821_02 -->
+	<spawn zone="gludio35_1821_02m1">
+		<npc id="20050" count="3" respawnDelay="20" /> <!-- Arachnid Predator -->
+		<npc id="20359" count="3" respawnDelay="20" /> <!-- Ratman Warrior -->
+	</spawn>
+	<!-- gludio35_1821_03 -->
+	<spawn zone="gludio35_1821_03m1">
+		<npc id="20359" count="3" respawnDelay="20" /> <!-- Ratman Warrior -->
+		<npc id="20050" count="3" respawnDelay="20" /> <!-- Arachnid Predator -->
+	</spawn>
+	<!-- gludio35_1821_04 -->
+	<spawn zone="gludio35_1821_04m1">
+		<npc id="20359" count="3" respawnDelay="20" /> <!-- Ratman Warrior -->
+		<npc id="20050" count="2" respawnDelay="20" /> <!-- Arachnid Predator -->
+	</spawn>
+	<!-- gludio35_1821_05 -->
+	<spawn zone="gludio35_1821_05m1">
+		<npc id="20359" count="3" respawnDelay="20" /> <!-- Ratman Warrior -->
+		<npc id="20050" count="2" respawnDelay="20" /> <!-- Arachnid Predator -->
+	</spawn>
+	<!-- gludio03_1821_01 -->
+	<spawn zone="gludio03_1821_0101">
+		<npc id="20026" count="3" respawnDelay="30" /> <!-- Ruin Zombie -->
+		<npc id="20029" count="5" respawnDelay="30" /> <!-- Ruin Zombie Leader -->
+		<npc id="20035" count="4" respawnDelay="30" /> <!-- Skeleton Tracker -->
+	</spawn>
+	<!-- gludio03_1821_04 -->
+	<spawn zone="gludio03_1821_0401">
+		<npc id="20029" count="4" respawnDelay="30" /> <!-- Ruin Zombie Leader -->
+		<npc id="20035" count="4" respawnDelay="30" /> <!-- Skeleton Tracker -->
+		<npc id="20042" count="4" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="4" respawnDelay="30" /> <!-- Skeleton Scout -->
+	</spawn>
+	<!-- gludio03_1821_06 -->
+	<spawn zone="gludio03_1821_0601">
+		<npc id="20029" count="5" respawnDelay="30" /> <!-- Ruin Zombie Leader -->
+		<npc id="20035" count="5" respawnDelay="30" /> <!-- Skeleton Tracker -->
+		<npc id="20042" count="5" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="5" respawnDelay="30" /> <!-- Skeleton Scout -->
+	</spawn>
+	<!-- gludio03_1821_07 -->
+	<spawn zone="gludio03_1821_0701">
+		<npc id="20029" count="2" respawnDelay="30" /> <!-- Ruin Zombie Leader -->
+		<npc id="20035" count="2" respawnDelay="30" /> <!-- Skeleton Tracker -->
+		<npc id="20042" count="2" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="2" respawnDelay="30" /> <!-- Skeleton Scout -->
+		<npc id="20045" count="2" respawnDelay="30" /> <!-- Skeleton Scout -->
+		<npc id="20054" count="2" respawnDelay="30" /> <!-- Ruin Spartoi -->
+	</spawn>
+	<!-- gludio03_1821_08 -->
+	<spawn zone="gludio03_1821_0801">
+		<npc id="20035" count="4" respawnDelay="30" /> <!-- Skeleton Tracker -->
+		<npc id="20042" count="4" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="4" respawnDelay="30" /> <!-- Skeleton Scout -->
+		<npc id="20051" count="4" respawnDelay="30" /> <!-- Skeleton Bowman -->
+		<npc id="20054" count="4" respawnDelay="30" /> <!-- Ruin Spartoi -->
+	</spawn>
+	<!-- gludio03_1821_09 -->
+	<spawn zone="gludio03_1821_0901">
+		<npc id="20029" count="4" respawnDelay="30" /> <!-- Ruin Zombie Leader -->
+		<npc id="20035" count="4" respawnDelay="30" /> <!-- Skeleton Tracker -->
+		<npc id="20042" count="4" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="4" respawnDelay="30" /> <!-- Skeleton Scout -->
+		<npc id="20051" count="3" respawnDelay="30" /> <!-- Skeleton Bowman -->
+	</spawn>
+	<!-- gludio03_1821_10 -->
+	<spawn zone="gludio03_1821_1001">
+		<npc id="20035" count="5" respawnDelay="30" /> <!-- Skeleton Tracker -->
+		<npc id="20042" count="5" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="5" respawnDelay="30" /> <!-- Skeleton Scout -->
+		<npc id="20051" count="5" respawnDelay="30" /> <!-- Skeleton Bowman -->
+		<npc id="20054" count="5" respawnDelay="30" /> <!-- Ruin Spartoi -->
+	</spawn>
+	<!-- gludio03_1821_11 -->
+	<spawn zone="gludio03_1821_1101">
+		<npc id="20042" count="2" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="2" respawnDelay="30" /> <!-- Skeleton Scout -->
+		<npc id="20054" count="2" respawnDelay="30" /> <!-- Ruin Spartoi -->
+	</spawn>
+	<!-- gludio03_1821_12 -->
+	<spawn zone="gludio03_1821_1201">
+		<npc id="20029" count="2" respawnDelay="30" /> <!-- Ruin Zombie Leader -->
+		<npc id="20042" count="3" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20054" count="2" respawnDelay="30" /> <!-- Ruin Spartoi -->
+	</spawn>
+	<!-- gludio03_1821_13 -->
+	<spawn zone="gludio03_1821_1301">
+		<npc id="20042" count="5" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="4" respawnDelay="30" /> <!-- Skeleton Scout -->
+	</spawn>
+	<!-- gludio03_1821_14 -->
+	<spawn zone="gludio03_1821_1401">
+		<npc id="20026" count="3" respawnDelay="30" /> <!-- Ruin Zombie -->
+		<npc id="20029" count="3" respawnDelay="30" /> <!-- Ruin Zombie Leader -->
+		<npc id="20042" count="3" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20054" count="3" respawnDelay="30" /> <!-- Ruin Spartoi -->
+	</spawn>
+	<!-- gludio03_1821_15 -->
+	<spawn zone="gludio03_1821_1501">
+		<npc id="20026" count="2" respawnDelay="30" /> <!-- Ruin Zombie -->
+		<npc id="20029" count="2" respawnDelay="30" /> <!-- Ruin Zombie Leader -->
+		<npc id="20042" count="2" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20054" count="2" respawnDelay="30" /> <!-- Ruin Spartoi -->
+	</spawn>
+	<!-- gludio03_1821_16 -->
+	<spawn zone="gludio03_1821_1601">
+		<npc id="20035" count="3" respawnDelay="30" /> <!-- Skeleton Tracker -->
+	</spawn>
+	<!-- gludio03_1821_17 -->
+	<spawn zone="gludio03_1821_1701">
+		<npc id="20060" count="2" respawnDelay="30" /> <!-- Raging Spartoi -->
+		<npc id="20054" count="2" respawnDelay="30" /> <!-- Ruin Spartoi -->
+		<npc id="20045" count="2" respawnDelay="30" /> <!-- Skeleton Scout -->
+		<npc id="20042" count="2" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+	</spawn>
+	<!-- gludio03_1821_18 -->
+	<spawn zone="gludio03_1821_1801">
+		<npc id="20054" count="2" respawnDelay="30" /> <!-- Ruin Spartoi -->
+		<npc id="20060" count="2" respawnDelay="30" /> <!-- Raging Spartoi -->
+		<npc id="20062" count="2" respawnDelay="30" /> <!-- Tumran Bugbear -->
+		<npc id="20042" count="2" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+	</spawn>
+	<!-- gludio03_1821_19 -->
+	<spawn zone="gludio03_1821_1901">
+		<npc id="20054" count="1" respawnDelay="30" /> <!-- Ruin Spartoi -->
+		<npc id="20060" count="2" respawnDelay="30" /> <!-- Raging Spartoi -->
+		<npc id="20062" count="1" respawnDelay="30" /> <!-- Tumran Bugbear -->
+		<npc id="20042" count="2" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="1" respawnDelay="30" /> <!-- Skeleton Scout -->
+	</spawn>
+	<!-- gludio03_1821_20 -->
+	<spawn zone="gludio03_1821_2001">
+		<npc id="20060" count="2" respawnDelay="30" /> <!-- Raging Spartoi -->
+		<npc id="20054" count="2" respawnDelay="30" /> <!-- Ruin Spartoi -->
+		<npc id="20042" count="2" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="2" respawnDelay="30" /> <!-- Skeleton Scout -->
+		<npc id="20062" count="2" respawnDelay="30" /> <!-- Tumran Bugbear -->
+	</spawn>
+	<!-- gludio03_1821_21 -->
+	<spawn zone="gludio03_1821_2101">
+		<npc id="20060" count="4" respawnDelay="30" /> <!-- Raging Spartoi -->
+		<npc id="20054" count="4" respawnDelay="30" /> <!-- Ruin Spartoi -->
+		<npc id="20062" count="4" respawnDelay="30" /> <!-- Tumran Bugbear -->
+		<npc id="20064" count="4" respawnDelay="30" /> <!-- Tumran Bugbear Warrior -->
+		<npc id="20042" count="4" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="4" respawnDelay="30" /> <!-- Skeleton Scout -->
+	</spawn>
+	<!-- gludio03_1821_22 -->
+	<spawn zone="gludio03_1821_2201">
+		<npc id="20060" count="3" respawnDelay="30" /> <!-- Raging Spartoi -->
+		<npc id="20054" count="3" respawnDelay="30" /> <!-- Ruin Spartoi -->
+		<npc id="20045" count="3" respawnDelay="30" /> <!-- Skeleton Scout -->
+		<npc id="20042" count="3" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20062" count="3" respawnDelay="30" /> <!-- Tumran Bugbear -->
+		<npc id="20064" count="3" respawnDelay="30" /> <!-- Tumran Bugbear Warrior -->
+	</spawn>
+	<!-- gludio03_1821_23 -->
+	<spawn zone="gludio03_1821_2301">
+		<npc id="20054" count="3" respawnDelay="30" /> <!-- Ruin Spartoi -->
+		<npc id="20060" count="3" respawnDelay="30" /> <!-- Raging Spartoi -->
+		<npc id="20062" count="3" respawnDelay="30" /> <!-- Tumran Bugbear -->
+		<npc id="20042" count="4" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20064" count="4" respawnDelay="30" /> <!-- Tumran Bugbear Warrior -->
+		<npc id="20045" count="4" respawnDelay="30" /> <!-- Skeleton Scout -->
+	</spawn>
+	<!-- gludio03_1821_24 -->
+	<spawn zone="gludio03_1821_2401">
+		<npc id="20054" count="1" respawnDelay="30" /> <!-- Ruin Spartoi -->
+		<npc id="20060" count="2" respawnDelay="30" /> <!-- Raging Spartoi -->
+		<npc id="20042" count="1" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="2" respawnDelay="30" /> <!-- Skeleton Scout -->
+	</spawn>
+	<!-- gludio03_1821_25 -->
+	<spawn zone="gludio03_1821_2501">
+		<npc id="20060" count="3" respawnDelay="30" /> <!-- Raging Spartoi -->
+		<npc id="20054" count="2" respawnDelay="30" /> <!-- Ruin Spartoi -->
+		<npc id="20042" count="3" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="2" respawnDelay="30" /> <!-- Skeleton Scout -->
+	</spawn>
+	<!-- gludio03_1821_26 -->
+	<spawn zone="gludio03_1821_2601">
+		<npc id="20054" count="3" respawnDelay="30" /> <!-- Ruin Spartoi -->
+		<npc id="20042" count="2" respawnDelay="30" /> <!-- Skeleton Tracker Leader -->
+		<npc id="20045" count="2" respawnDelay="30" /> <!-- Skeleton Scout -->
+	</spawn>
+	<!-- gludio33_1821_01 -->
+	<spawn zone="gludio33_1821_01m1">
+		<npc id="20021" count="8" respawnDelay="25" /> <!-- Red Bear -->
+		<npc id="20012" count="5" respawnDelay="25" /> <!-- Gora Werewolf -->
+	</spawn>
+	<!-- gludio33_1821_02 -->
+	<spawn zone="gludio33_1821_02m1">
+		<npc id="20008" count="6" respawnDelay="25" /> <!-- Felim Lizardman -->
+		<npc id="20010" count="5" respawnDelay="25" /> <!-- Felim Lizardman Scout -->
+		<npc id="20008" count="8" respawnDelay="25" /> <!-- Felim Lizardman Warrior -->
+	</spawn>
+	<!-- gludio33_1821_03s -->
+	<spawn zone="gludio33_1821_03sm1">
+		<npc id="20021" count="4" respawnDelay="25" /> <!-- Red Bear -->
+	</spawn>
+	<!-- gludio01_qm1821_01 -->
+	<spawn zone="gludio01_qm1821_01m1">
+		<npc id="27030" count="3" respawnDelay="300" /> <!-- Water Seer -->
+	</spawn>
+	<!-- gludio01_qm1821_02 -->
+	<spawn zone="gludio01_qm1821_02m1">
+		<npc id="27030" count="3" respawnDelay="300" /> <!-- Water Seer -->
+	</spawn>
+	<!-- gludio01_qm1821_03 -->
+	<spawn zone="gludio01_qm1821_03m1">
+		<npc id="27095" count="3" respawnDelay="300" /> <!-- Singing Flower of Phantasm -->
+	</spawn>
+	<!-- gludio03_tb1821_08 -->
+	<spawn zone="gludio03_tb08_m1">
+		<npc id="18265" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+	<!-- gludio03_tb1821_18 -->
+	<spawn zone="gludio03_tb18_m1">
+		<npc id="18266" count="1" respawnDelay="7200" /> <!-- Treasure Chest -->
+	</spawn>
+</list>

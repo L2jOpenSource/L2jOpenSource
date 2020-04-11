@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Chamber of Delusion (Eastern Seal)" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
+	<activityTime val="40" />
+	<allowSummon val="false" />
+	<emptyDestroyTime val="1200" />
+	<spawnPoint spawnX="-114592" spawnY="-152509" spawnZ="-6723" />
+	<spawnlist>
+	<group name="general">
+		<!-- Room 1 -->
+		<spawn npcId="22708" x="-122525" y="-218890" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22708" x="-122142" y="-219218" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22708" x="-122540" y="-219172" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22709" x="-122382" y="-218759" z="-6747" heading="0" respawn="25" />
+		<!-- Room 2 -->
+		<spawn npcId="22708" x="-122433" y="-217852" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22708" x="-122168" y="-218198" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22710" x="-122340" y="-218148" z="-6747" heading="0" respawn="25" />
+		<spawn npcId="22712" x="-122574" y="-218308" z="-6747" heading="0" respawn="25" />
+		<!-- Room 3 -->
+		<spawn npcId="22708" x="-122265" y="-220799" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22708" x="-122220" y="-220891" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22708" x="-122092" y="-220092" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22709" x="-122455" y="-220360" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22709" x="-122591" y="-219743" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22710" x="-122323" y="-220197" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22711" x="-122198" y="-219917" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22712" x="-122613" y="-220820" z="-6747" heading="0" respawn="30" />
+		<!-- Room 4 -->
+		<spawn npcId="22708" x="-121211" y="-218372" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22708" x="-121449" y="-218062" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22711" x="-121642" y="-218654" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22711" x="-121171" y="-218098" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22712" x="-121383" y="-218451" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22712" x="-121267" y="-218631" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22713" x="-121577" y="-219037" z="-6747" heading="0" respawn="30" />
+		<spawn npcId="22718" x="-121554" y="-218366" z="-6747" heading="0" respawn="30" />
+	</group>
+	</spawnlist>
+</instance>

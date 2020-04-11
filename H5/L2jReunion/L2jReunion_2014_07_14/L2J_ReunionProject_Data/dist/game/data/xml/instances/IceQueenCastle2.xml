@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Ice Queen's Castle" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
+	<activityTime val="120" />
+	<allowSummon val="false" />
+	<emptyDestroyTime val="300" />
+	<spawnPoint spawnX="115717" spawnY="-125734" spawnZ="-3392" />
+	<doorlist>
+		<door doorId="23140101" />
+	</doorlist>
+</instance>
