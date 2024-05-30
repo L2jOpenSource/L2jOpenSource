@@ -2,10 +2,6 @@
 
 Project SVN : https://svn.code.sf.net/p/l2jopensource/projects/ 
 
-https://www.l2jbrasil.com/topic/138498-l2jopensource-project-interlude-and-h5-free-server-packs-svn/
-
-https://forum.ragezone.com/f323/source-l2jopensource-project-interlude-h5-1174901
-
  Content :
 
 Here you will find most of the paid and closed source projects for L2 Interlude and H5 with one little twist...
